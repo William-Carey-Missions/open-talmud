@@ -76,3 +76,32 @@ test('mobiele inventaristitel blijft onder de vaste navigatie zichtbaar', async 
   assert.ok(heading.y>=nav.y+nav.height, 'de vaste navigatie mag de titel niet bedekken');
  } finally {await page.close();}
 });
+
+test('volgend gedeelte opent 2b met eigen bron en actuele voortgang', async () => {
+ const page=await browser.newPage();
+ try {
+  await page.goto(origin+'/#lezen/bavli-berakhot/2a');
+  await page.locator('.passage').first().waitFor();
+  await page.locator('#next').click();
+  await page.waitForURL('**/#lezen/bavli-berakhot/2b');
+  assert.equal(await page.locator('.passage').count(),18);
+  assert.match(await page.locator('#passage-g18').innerText(),/oogwenk/);
+  assert.ok((await page.locator('#reader-source a').first().getAttribute('href')).includes('oldid=2852504'));
+  assert.doesNotMatch(await page.locator('#reader-status').innerText(),/Alleen Berakhot 2a/);
+  await page.goto(origin+'/#inventaris');
+  await page.locator('#inventory-bavli').waitFor();
+  assert.match(await page.locator('#inventory-summary').innerText(),/30 segmenten/);
+  assert.match(await page.locator('#inventory-next').innerText(),/Volgende passage: Berakhot 3a/);
+  assert.match(await page.locator('#inventory-bavli tbody tr').first().innerText(),/30 segmenten/);
+ } finally {await page.close();}
+});
+
+test('een trage inventaris blokkeert de leestekst niet', async () => {
+ const page=await browser.newPage();
+ try {
+  await page.route('**/data/inventory.json',()=>{});
+  await page.goto(origin+'/#lezen/bavli-berakhot/2b',{waitUntil:'domcontentloaded'});
+  await page.locator('#passage-g18').waitFor({timeout:3000});
+  assert.match(await page.locator('#passage-g18').innerText(),/oogwenk/);
+ } finally {await page.close();}
+});

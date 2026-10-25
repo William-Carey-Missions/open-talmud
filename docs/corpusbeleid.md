@@ -20,7 +20,7 @@ Vertaal rechtstreeks uit de grondtekst in kleine aaneengesloten eenheden. Behoud
 2. Bewaar Berakhot 2a als controleerbaar bronextract en vertaal de volledige amud.
 3. Koppel de segmenten in data/library.json; toon status, tekstlaag en toelichting in de bestaande lezer.
 4. Controleer brondekking, inventaristellingen, verwijzingen, zoekfunctie en mobiele weergave; commit en push de getoetste voortgang.
-5. Ga verder bij Berakhot 2b, rond Berakhot af en vervolg de Babylonische orden; behandel daarna het Jeruzalemse corpus. Leg elke volgende bronversie en segmenttelling vast voordat volledigheid wordt geclaimd.
+5. Ga verder bij Berakhot 3a (2a–2b zijn in concept beschikbaar), rond Berakhot af en vervolg de Babylonische orden; behandel daarna het Jeruzalemse corpus. Leg elke volgende bronversie en segmenttelling vast voordat volledigheid wordt geclaimd.
 
 ## Controlepunten
 

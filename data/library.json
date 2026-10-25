@@ -8,7 +8,7 @@
       "title": "Babylonische Talmoed · Berakhot",
       "corpus": "bavli",
       "tractate": "berakhot",
-      "source": "Hebreeuwse Wikisource, ברכות ב א, revisie 3006896 (20 april 2026); Wikisource-bijdragers.",
+      "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding per amud.",
       "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3006896&title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90",
       "license": "CC BY-SA 4.0 — grondtekstbewerking, Nederlandse vertaling en toelichtingen",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -215,7 +215,330 @@
                 },
                 {
                   "type": "vervolg",
-                  "text": "Deze vraag loopt door op Berakhot 2b. Het einde van 2a is geen einde van de redenering. 2b is nog niet vertaald."
+                  "text": "Deze vraag loopt door op Berakhot 2b, vanaf g1. Het einde van 2a is geen einde van de redenering; het vervolg is beschikbaar via “Volgend gedeelte”."
+                }
+              ]
+            }
+          ],
+          "source": "Hebreeuwse Wikisource, ברכות ב א, revisie 3006896 (20 april 2026); Wikisource-bijdragers.",
+          "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3006896&title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90"
+        },
+        {
+          "id": "2b",
+          "title": "2b · Het begin van de avond",
+          "scope": "Volledige hoofdtekst van amud 2b in de gekozen editie; Gemara, aansluitend op 2a. De discussie gaat verder op 3a.",
+          "status": "concept",
+          "source": "Hebreeuwse Wikisource, ברכות ב ב, revisie 2852504 (22 april 2024); Wikisource-bijdragers.",
+          "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&oldid=2852504",
+          "passages": [
+            {
+              "id": "g1",
+              "ref": "bavli:berakhot:2b:g1",
+              "locator": "Berakhot 2b · Gemara · g1",
+              "layer": "gemara",
+              "original": "דילמא ביאת אורו הוא ומאי וטהר טהר גברא",
+              "nl": "Of gaat het misschien om het verschijnen van het zonlicht, en betekent “en het is rein” dat de man rein wordt?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "vervolg",
+                  "text": "Sluit aan bij de vraag aan het einde van 2a. De weergave sluit aan bij de mogelijkheid dat de reiniging pas op de volgende dag voltooid wordt."
+                },
+                {
+                  "type": "onzeker",
+                  "text": "ביאת אורו betekent letterlijk ongeveer “het komen van zijn licht”. De vertaling als het verschijnen van het zonlicht volgt hier Rasji’s uitleg als zonsopgang. Een andere traditionele uitleg, besproken door Tosafot, betrekt dit op het begin van de zonsondergang. Deze conceptvertaling legt het verschil vast; de grondtekst zelf is ongevocaliseerd."
+                }
+              ]
+            },
+            {
+              "id": "g2",
+              "ref": "bavli:berakhot:2b:g2",
+              "locator": "Berakhot 2b · Gemara · g2",
+              "layer": "gemara",
+              "original": "אמר רבה בר רב שילא א\"כ לימא קרא ויטהר מאי וטהר טהר יומא כדאמרי אינשי איערב שמשא ואדכי יומא.",
+              "nl": "Rabba bar Rav Sjila zei: als dat zo is, laat de Schrift dan zeggen: “en hij zal rein worden”. Wat betekent dan “en het is rein”? Dat de dag voorbij is, zoals men zegt: “De zon is ondergegaan en de dag is verdwenen.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "De redenering maakt onderscheid tussen ויטהר (“en hij zal rein worden”) en וטהר (“en het/hij is rein”). De formulering ondersteunt hier de lezing waarin niet de priester maar de verstreken dag het onderwerp is. “De dag is verdwenen” vertaalt de aangehaalde spreekwijze; letterlijk gebruikt ook deze een term voor reiniging."
+                }
+              ]
+            },
+            {
+              "id": "g3",
+              "ref": "bavli:berakhot:2b:g3",
+              "locator": "Berakhot 2b · Gemara · g3",
+              "layer": "gemara",
+              "original": "במערבא הא דרבה בר רב שילא לא שמיע להו ובעו לה מיבעיא האי ובא השמש ביאת שמשו הוא ומאי וטהר טהר יומא או דילמא ביאת אורו הוא ומאי וטהר טהר גברא",
+              "nl": "In het Westen hadden zij deze uitspraak van Rabba bar Rav Sjila niet gehoord. Zij stelden de vraag: betekent “de zon gaat onder” het ondergaan van de zon, en “en het is rein” dat de dag voorbij is? Of gaat het misschien om het verschijnen van het zonlicht, en betekent “en het is rein” dat de man rein wordt?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“Het Westen” is hier het land Israël, gezien vanuit Babylonië."
+                }
+              ]
+            },
+            {
+              "id": "g4",
+              "ref": "bavli:berakhot:2b:g4",
+              "locator": "Berakhot 2b · Gemara · g4",
+              "layer": "gemara",
+              "original": "והדר פשטו לה מברייתא מדקתני בברייתא סימן לדבר צאת הכוכבים שמע מינה ביאת שמשו הוא ומאי וטהר טהר יומא.",
+              "nl": "Daarna losten zij de vraag op aan de hand van een baraita. Omdat in die baraita wordt onderwezen: “Het herkenningsteken hiervoor is het verschijnen van de sterren”, volgt daaruit dat het gaat om het ondergaan van de zon en dat “en het is rein” betekent dat de dag voorbij is.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "verwijzing",
+                  "text": "De aangehaalde baraita met het verschijnen van de sterren wordt verderop op deze zijde weergegeven, vanaf g8."
+                }
+              ]
+            },
+            {
+              "id": "g5",
+              "ref": "bavli:berakhot:2b:g5",
+              "locator": "Berakhot 2b · Gemara · g5",
+              "layer": "gemara",
+              "original": "אמר מר משעה שהכהנים נכנסין לאכול בתרומתן ורמינהו מאימתי קורין את שמע בערבין משהעני נכנס לאכול פתו במלח עד שעה שעומד ליפטר מתוך סעודתו.",
+              "nl": "De meester zei: “Vanaf het moment waarop de priesters binnengaan om van hun teroema te eten.” Daartegenover stelt men deze overlevering: “Vanaf wanneer reciteert men ’s avonds het Sjema? Vanaf het moment waarop de arme binnengaat om zijn brood met zout te eten, tot het moment waarop hij opstaat om zijn maaltijd te beëindigen.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“Daartegenover stelt men” introduceert een schijnbare tegenspraak tussen twee overleveringen. Teroema is het voor priesters bestemde heilige aandeel van de oogst."
+                }
+              ]
+            },
+            {
+              "id": "g6",
+              "ref": "bavli:berakhot:2b:g6",
+              "locator": "Berakhot 2b · Gemara · g6",
+              "layer": "gemara",
+              "original": "סיפא ודאי פליגא אמתניתין. רישא מי לימא פליגי אמתני'.",
+              "nl": "Het slot wijkt zeker af van onze Misjna. Moeten we zeggen dat ook het begin met onze Misjna in strijd is?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Het slot noemt het einde van de maaltijd als eindtijd; de Misjna op 2a noemt andere eindtijden. De vervolgvraag gaat daarom alleen over het begintijdstip."
+                }
+              ]
+            },
+            {
+              "id": "g7",
+              "ref": "bavli:berakhot:2b:g7",
+              "locator": "Berakhot 2b · Gemara · g7",
+              "layer": "gemara",
+              "original": "לא עני וכהן חד שיעורא הוא.",
+              "nl": "Nee, voor de arme en de priester geldt hetzelfde tijdstip.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g8",
+              "ref": "bavli:berakhot:2b:g8",
+              "locator": "Berakhot 2b · Gemara · g8",
+              "layer": "gemara",
+              "original": "ורמינהו מאימתי מתחילין לקרות ק\"ש בערבית משעה שבני אדם נכנסין לאכול פתן בערבי שבתות דברי ר\"מ וחכמים אומרים משעה שהכהנים זכאין לאכול בתרומתן סימן לדבר צאת הכוכבים.",
+              "nl": "Daartegenover stelt men een andere overlevering: “Vanaf wanneer begint men het avond-Sjema te reciteren? Vanaf het moment waarop mensen op de vooravond van de sjabbat binnengaan om hun brood te eten; dat zijn de woorden van rabbi Meïr. De wijzen zeggen: vanaf het moment waarop de priesters van hun teroema mogen eten. Het herkenningsteken hiervoor is het verschijnen van de sterren.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g9",
+              "ref": "bavli:berakhot:2b:g9",
+              "locator": "Berakhot 2b · Gemara · g9",
+              "layer": "gemara",
+              "original": "ואע\"פ שאין ראיה לדבר זכר לדבר שנאמר (נחמיה ד, טו) ואנחנו עושים במלאכה וחצים מחזיקים ברמחים מעלות השחר עד צאת הכוכבים ואומר (נחמיה ד, טז) והיו לנו הלילה משמר והיום מלאכה",
+              "nl": "Hoewel dit geen bewijs vormt, is er wel een aanknopingspunt, want er staat geschreven: “Wij waren aan het werk, terwijl de helft van hen de speren vasthield, vanaf het aanbreken van de dageraad tot het verschijnen van de sterren” (Nehemia 4:15). En er staat: “De nacht was voor ons de tijd om wacht te houden en de dag om te werken” (Nehemia 4:16).",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "verwijzing",
+                  "text": "De versverwijzingen volgen de Hebreeuwse nummering van de bron. De verzen worden hier aangehaald als aanknopingspunt voor de grens tussen dag en nacht, niet als rechtstreekse bepaling van het Sjema-tijdstip."
+                }
+              ]
+            },
+            {
+              "id": "g10",
+              "ref": "bavli:berakhot:2b:g10",
+              "locator": "Berakhot 2b · Gemara · g10",
+              "layer": "gemara",
+              "original": "מאי ואומר וכי תימא מכי ערבא שמשא ליליא הוא ואינהו דמחשכי ומקדמי ת\"ש והיו לנו הלילה משמר והיום מלאכה",
+              "nl": "Waarom wordt ook het tweede vers aangehaald? Je zou kunnen zeggen: zodra de zon ondergaat, is het nacht, maar zij werkten door tot later en begonnen vroeger. Luister daarom naar wat er staat: “De nacht was voor ons de tijd om wacht te houden en de dag om te werken.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Het tweede vers benoemt de werktijd als dag. Daarmee wordt het mogelijke tegenargument beantwoord dat het werk tot na het einde van de dag doorging."
+                }
+              ]
+            },
+            {
+              "id": "g11",
+              "ref": "bavli:berakhot:2b:g11",
+              "locator": "Berakhot 2b · Gemara · g11",
+              "layer": "gemara",
+              "original": "קא סלקא דעתך דעני ובני אדם חד שעורא הוא ואי אמרת עני וכהן חד שעורא הוא חכמים היינו רבי מאיר אלא שמע מינה עני שעורא לחוד וכהן שעורא לחוד",
+              "nl": "Men ging ervan uit dat voor de arme en voor de mensen hetzelfde tijdstip geldt. Als je dan zegt dat voor de arme en voor de priester hetzelfde tijdstip geldt, zeggen de wijzen toch hetzelfde als rabbi Meïr? Daaruit zou dus volgen dat het tijdstip van de arme verschilt van dat van de priester.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Dit is een voorlopige gevolgtrekking. Het volgende segment verwerpt de veronderstelling dat de avondmaaltijd van de arme en de sjabbatmaaltijd van andere mensen op hetzelfde tijdstip beginnen."
+                }
+              ]
+            },
+            {
+              "id": "g12",
+              "ref": "bavli:berakhot:2b:g12",
+              "locator": "Berakhot 2b · Gemara · g12",
+              "layer": "gemara",
+              "original": "לא עני וכהן חד שעורא הוא ועני ובני אדם לאו חד שעורא הוא.",
+              "nl": "Nee, het tijdstip van de arme en dat van de priester zijn hetzelfde; het tijdstip van de arme en dat van de mensen zijn verschillend.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g13",
+              "ref": "bavli:berakhot:2b:g13",
+              "locator": "Berakhot 2b · Gemara · g13",
+              "layer": "gemara",
+              "original": "ועני וכהן חד שעורא הוא ורמינהו מאימתי מתחילין לקרות שמע בערבין משעה שקדש היום בערבי שבתות דברי ר' אליעזר רבי יהושע אומר משעה שהכהנים מטוהרים לאכול בתרומתן",
+              "nl": "Zijn het tijdstip van de arme en dat van de priester inderdaad hetzelfde? Daartegenover stelt men deze overlevering: “Vanaf wanneer begint men ’s avonds het Sjema te reciteren? Vanaf het moment waarop op de vooravond van de sjabbat de dag heilig wordt; dat zijn de woorden van rabbi Eliëzer. Rabbi Jehosjoea zegt: vanaf het moment waarop de priesters rein zijn om van hun teroema te eten.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“De dag heilig wordt” duidt hier op het begin van de sjabbat. Het is een tijdsaanduiding binnen de overgeleverde meningsverschillen."
+                }
+              ]
+            },
+            {
+              "id": "g14",
+              "ref": "bavli:berakhot:2b:g14",
+              "locator": "Berakhot 2b · Gemara · g14",
+              "layer": "gemara",
+              "original": "רבי מאיר אומר משעה שהכהנים טובלין לאכול בתרומתן אמר לו ר' יהודה והלא כהנים מבעוד יום הם טובלים ר' חנינא אומר משעה שעני נכנס לאכול פתו במלח ר' אחאי ואמרי לה ר' אחא אומר משעה שרוב בני אדם נכנסין להסב.",
+              "nl": "“Rabbi Meïr zegt: vanaf het moment waarop de priesters zich onderdompelen om van hun teroema te eten. Rabbi Jehoeda zei tegen hem: maar de priesters dompelen zich toch onder terwijl het nog dag is? Rabbi Chanina zegt: vanaf het moment waarop de arme binnengaat om zijn brood met zout te eten. Rabbi Achai — volgens een andere overlevering rabbi Acha — zegt: vanaf het moment waarop de meeste mensen binnengaan om aan te liggen.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "onzeker",
+                  "text": "De bron bewaart twee naamsoverleveringen: rabbi Achai en rabbi Acha. Beide zijn in de vertaling behouden."
+                },
+                {
+                  "type": "begrip",
+                  "text": "Aanliggen: de houding bij een maaltijd in de hier veronderstelde omgeving. De onderdompeling van de priesters is de rituele reiniging die aan hun hervatte eten van teroema voorafgaat."
+                }
+              ]
+            },
+            {
+              "id": "g15",
+              "ref": "bavli:berakhot:2b:g15",
+              "locator": "Berakhot 2b · Gemara · g15",
+              "layer": "gemara",
+              "original": "ואי אמרת עני וכהן חד שעורא הוא ר' חנינא היינו ר' יהושע אלא לאו שמע מינה שעורא דעני לחוד ושעורא דכהן לחוד שמע מינה.",
+              "nl": "Als je zegt dat voor de arme en voor de priester hetzelfde tijdstip geldt, zegt rabbi Chanina toch hetzelfde als rabbi Jehosjoea? Moet je hieruit dus niet afleiden dat het tijdstip van de arme verschilt van dat van de priester? Inderdaad, dat moet je hieruit afleiden.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g16",
+              "ref": "bavli:berakhot:2b:g16",
+              "locator": "Berakhot 2b · Gemara · g16",
+              "layer": "gemara",
+              "original": "הי מנייהו מאוחר מסתברא דעני מאוחר דאי אמרת דעני מוקדם ר' חנינא היינו ר' אליעזר אלא לאו שמע מינה דעני מאוחר שמע מינה:",
+              "nl": "Welk van beide tijdstippen is later? Het is aannemelijk dat het tijdstip van de arme later is. Want als je zegt dat dat eerder is, zegt rabbi Chanina toch hetzelfde als rabbi Eliëzer? Moet je hieruit dus niet afleiden dat het tijdstip van de arme later is? Inderdaad, dat moet je hieruit afleiden.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "De Gemara onderscheidt hier het tijdstip van de arme van zowel dat van de priester als dat van het heilig worden van de dag; dit is de conclusie binnen deze redenering, geen kloktijd."
+                }
+              ]
+            },
+            {
+              "id": "g17",
+              "ref": "bavli:berakhot:2b:g17",
+              "locator": "Berakhot 2b · Gemara · g17",
+              "layer": "gemara",
+              "original": "אמר מר אמר ליה רבי יהודה והלא כהנים מבעוד יום הם טובלים שפיר קאמר ליה רבי יהודה לרבי מאיר",
+              "nl": "De meester zei: “Rabbi Jehoeda zei tegen hem: maar de priesters dompelen zich toch onder terwijl het nog dag is?” Rabbi Jehoeda brengt daarmee toch een terecht bezwaar tegen rabbi Meïr in?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 6,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g18",
+              "ref": "bavli:berakhot:2b:g18",
+              "locator": "Berakhot 2b · Gemara · g18",
+              "layer": "gemara",
+              "original": "ורבי מאיר הכי קאמר ליה מי סברת דאנא אבין השמשות דידך קא אמינא אנא אבין השמשות דרבי יוסי קא אמינא דאמר רבי יוסי בין השמשות כהרף עין זה נכנס וזה יוצא ואי אפשר לעמוד עליו",
+              "nl": "Rabbi Meïr antwoordt hem als volgt: “Denk je dat ik spreek over de schemering zoals jij die opvat? Ik spreek over de schemering zoals rabbi Josi die opvat.” Rabbi Josi zegt namelijk: “De schemering duurt een oogwenk: het ene komt binnen en het andere gaat weg, en het is niet mogelijk dat ogenblik precies vast te stellen.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2b-r2852504",
+              "sourceParagraph": 6,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "onzeker",
+                  "text": "“Het ene” en “het andere” worden in deze korte formulering niet nader genoemd; het gaat om de overgang tussen dag en nacht. De bron geeft hier geen meetbare tijdsduur."
+                },
+                {
+                  "type": "vervolg",
+                  "text": "De discussie gaat op Berakhot 3a verder met schijnbaar tegenstrijdige uitspraken van rabbi Meïr en rabbi Eliëzer. Die voortzetting is nog niet vertaald."
                 }
               ]
             }

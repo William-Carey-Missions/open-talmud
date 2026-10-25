@@ -66,8 +66,9 @@
       if (!inventoryResponse.ok || !progressResponse.ok) throw new Error('inventory');
       const inventory = await inventoryResponse.json();
       const progress = await progressResponse.json();
-      $('inventory-summary').textContent = '63 Misjna-tractaten · 37 Babylonische tractaten met Gemara · 39 Jeruzalemse tractaten met Gemara, waaronder gedeeltelijk overgeleverde teksten. ' + progress.translatedSegments + ' segmenten in concept vertaald; ' + progress.independentlyReviewedSegments + ' onafhankelijk gecontroleerd. Geen tractaat volledig vertaald.';
-      $('inventory-next').textContent = 'Volgende passage: Berakhot 2b. ' + progress.remaining;
+      const gemaraCount = id => inventory.corpora.find(c => c.id === id).tractates.filter(t => t.gemara !== 'niet-overgeleverd').length;
+      $('inventory-summary').textContent = inventory.mishnah.length + ' Misjna-tractaten · ' + gemaraCount('bavli') + ' Babylonische tractaten met Gemara · ' + gemaraCount('yerushalmi') + ' Jeruzalemse tractaten met Gemara, waaronder gedeeltelijk overgeleverde teksten. ' + progress.translatedSegments + ' segmenten in concept vertaald; ' + progress.independentlyReviewedSegments + ' onafhankelijk gecontroleerd. ' + (progress.completeTractates ? progress.completeTractates + ' tractaten volledig vertaald.' : 'Geen tractaat volledig vertaald.');
+      $('inventory-next').textContent = 'Volgende passage: ' + (progress.nextLabel || progress.nextRef) + '. ' + progress.remaining;
       for (const corpus of inventory.corpora) {
         const container = text('div', '', 'corpus-inventory');
         container.id = 'inventory-' + corpus.id;
@@ -92,7 +93,7 @@
             const name = document.createElement('th'); name.scope = 'row';
             name.append(tractate.sourceUrl ? link(tractate.title, tractate.sourceUrl) : text('span', tractate.title));
             const preserved = tractate.gemara === 'niet-overgeleverd' ? 'Niet overgeleverd' : tractate.gemara === 'gedeeltelijk-overgeleverd' ? 'Gedeeltelijk overgeleverd' : 'Overgeleverd';
-            const status = tractate.translationStatus === 'concept-deel' ? '2a: 12 segmenten in concept; rest open' : tractate.translationStatus === 'niet-van-toepassing' ? 'Niet van toepassing' : 'Nog niet begonnen';
+            const status = tractate.translationStatus === 'concept-deel' ? (tractate.units || []).filter(u => u.translationStatus === 'concept').map(u => u.id).join(', ') + ': ' + tractate.translatedSegments + ' segmenten in concept; rest open' : tractate.translationStatus === 'niet-van-toepassing' ? 'Niet van toepassing' : 'Nog niet begonnen';
             const note = text('td', preserved);
             if (tractate.note) note.append(text('small', tractate.note));
             row.append(name, note, text('td', status)); body.append(row);
@@ -117,7 +118,7 @@
       $('inventory-summary').textContent = 'De inventaris kon niet worden geladen. Ververs de pagina om het opnieuw te proberen.';
     }
   }
-  await renderInventory();
+  renderInventory();
   function chapterView(workId, chapterId) {
     const work = works.find(item => item.id === workId) || works[0];
     $('reader-controls').hidden = !work;
@@ -135,7 +136,7 @@
     fill($('work-select'), works, work.id);
     fill($('chapter-select'), chapters, chapter?.id);
     $('chapter-title').textContent = chapter ? work.title + ' · ' + chapter.title : work.title;
-    $('reader-status').textContent = 'Conceptvertaling · niet onafhankelijk gecontroleerd. Alleen Berakhot 2a is beschikbaar; de overige tekst is nog niet vertaald.' + (chapter?.scope ? ' ' + chapter.scope : '');
+    $('reader-status').textContent = 'Conceptvertaling · niet onafhankelijk gecontroleerd. Beschikbaar in dit werk: ' + chapters.map(c => c.id).join(', ') + '; de overige tekst is nog niet vertaald.' + (chapter?.scope ? ' ' + chapter.scope : '');
     for (const passage of chapter?.passages || []) {
       const row = text('div', '', 'passage');
       row.id = 'passage-' + passage.id;
@@ -162,9 +163,11 @@
       $('passages').append(row);
     }
     $('reader-source').replaceChildren();
-    if (work.source) {
-      const credit = text('p', 'Bron: ' + work.source + ' ');
-      if (work.sourceUrl) credit.append(link('Vaste bronversie', work.sourceUrl));
+    const source = chapter?.source || work.source;
+    const sourceUrl = chapter?.sourceUrl || work.sourceUrl;
+    if (source) {
+      const credit = text('p', 'Bron: ' + source + ' ');
+      if (sourceUrl) credit.append(link('Vaste bronversie', sourceUrl));
       if (work.license) credit.append(text('span', ' · Rechten: ' + work.license + ' '));
       if (work.licenseUrl) credit.append(link('Licentievoorwaarden', work.licenseUrl));
       $('reader-source').append(credit, link('Volledige inventaris en voortgang', '#inventaris'));

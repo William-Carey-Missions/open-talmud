@@ -17,6 +17,24 @@
       "sha256": "0d86d8cb1abf53641cd2c9568c60dd930d00c1c850185993483e273dd6d0f889",
       "status": "geïmporteerd",
       "changes": "Hyperlink- en notenapparaat verwijderd; lokaal gesegmenteerd. Rechtstreekse Nederlandse conceptvertaling toegevoegd; eigen toelichting apart gemarkeerd."
+    },
+    {
+      "id": "wikisource-berakhot-2b-r2852504",
+      "title": "Berakhot 2b — ongevocaliseerde Wikisource-editie",
+      "revision": 2852504,
+      "url": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&oldid=2852504",
+      "acquisitionUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91",
+      "revisionEvidence": "De opgehaalde pagina vermeldt revisie 2852504 in de bronverwijzing onderaan; revisiedatum 22 april 2024. De vaste revisie-URL is vastgelegd op basis van die verwijzing.",
+      "accessed": "2026-10-25",
+      "attribution": "Wikisource-bijdragers, Hebreeuwse Wikisource, ברכות ב ב; auteurs en bewerkingen via de paginageschiedenis.",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&action=history",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "extraction": "Alleen de zes hoofdtekstalinea’s na de aanduiding ברכות דף ב: במהדורת וילנא en vóór רש״י. Navigatie, hyperlinks en bewerkingslinks verwijderd. Geen commentaren geïmporteerd. Dit is een tekstextract, geen ruwe HTML- of manuscriptkopie.",
+      "localPath": "data/sources/wikisource-berakhot-2b.json",
+      "sha256": "f3654b45fd7fe306814727d8453ee18598c020cfe579b1c73a770274cc64512c",
+      "status": "geïmporteerd",
+      "changes": "Hyperlinks verwijderd; verdeeld in achttien lokale segmenten. Rechtstreekse Nederlandse conceptvertaling toegevoegd; eigen toelichting apart gemarkeerd."
     }
   ],
   "candidates": [
@@ -30,7 +48,7 @@
       ],
       "rights": "Wikisource-bewerkingen onder CC BY-SA 4.0; controleer eventuele aanvullende rechten per pagina en editie.",
       "rightsUrl": "https://he.wikisource.org/wiki/ויקיטקסט:זכויות_יוצרים",
-      "decision": "Basis voor verwerving in kleine delen. Alleen 2a is lokaal verworven; overige bronnen zijn vindplaatsen, geen geïmporteerde tekst."
+      "decision": "Basis voor verwerving in kleine delen. Berakhot 2a en 2b zijn lokaal verworven; overige bronnen zijn vindplaatsen, geen geïmporteerde tekst."
     },
     {
       "id": "sefaria",

@@ -2,14 +2,14 @@
   "version": 1,
   "updatedAt": "2026-10-25",
   "corpusComplete": false,
-  "translatedSegments": 12,
+  "translatedSegments": 30,
   "independentlyReviewedSegments": 0,
   "totalSegments": null,
   "completeTractates": 0,
-  "translatedUnits": 1,
-  "totalAcquiredUnits": 1,
-  "nextRef": "bavli:berakhot:2b",
-  "remaining": "Berakhot 2b–64a (124 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a moet nog worden verworven.",
+  "translatedUnits": 2,
+  "totalAcquiredUnits": 2,
+  "nextRef": "bavli:berakhot:3a",
+  "remaining": "Berakhot 3a–64a (123 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a–2b moet nog worden verworven.",
   "units": [
     {
       "ref": "bavli:berakhot:2a",
@@ -26,6 +26,23 @@
         "Technische begrippen en interpretatievragen toegelicht; de open vraag loopt door op 2b."
       ],
       "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:2b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-2b-r2852504",
+      "segments": 18,
+      "mishnahSegments": 0,
+      "gemaraSegments": 18,
+      "sourceCoverage": "Volledige hoofdtekst van 2b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "26d4556c97f8292abdf71e7422abf26376d6bbd2f1560733bcb12921bd6614e4",
+      "checks": [
+        "De achttien segmenten sluiten zonder tekstverlies aan op zes bronalinea’s.",
+        "Aansluiting op de open vraag van 2a en voortzetting op 3a gemarkeerd.",
+        "Meerdere tijdsopvattingen, naamsoverleveringen en voorlopige conclusies behouden."
+      ],
+      "independentReview": null
     }
-  ]
+  ],
+  "nextLabel": "Berakhot 3a"
 }

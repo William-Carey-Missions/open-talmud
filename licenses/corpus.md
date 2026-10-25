@@ -9,3 +9,9 @@ Veranderingen: navigatie, hyperlinks en verwijzingsnoten verwijderd; alleen de h
 Nederlandse conceptvertaling en toelichtingen: Open Talmud, 2026. Deze afgeleide teksten worden eveneens beschikbaar gesteld onder CC BY-SA 4.0. Bij verspreiding moeten de bron, deze licentie en wijzigingen vermeld blijven; verspreide bewerkingen moeten onder dezelfde licentie of een door die licentie toegelaten compatibele licentie vallen.
 
 Deze tekstlicentie geldt voor de grondtekstbewerking, vertaling en toelichtingen in data/library.json en het bronextract. Zij doet geen nieuwe uitspraak over de rechten op de bestaande websitecode, stylesheet of lettertypen. Voor lettertypen gelden de afzonderlijke licentiebestanden.
+
+## Berakhot 2b
+
+De bronbewerking van Berakhot 2b is afkomstig van de bijdragers aan Hebreeuwse Wikisource, pagina ברכות ב ב, [revisie 2852504](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&oldid=2852504), van 22 april 2024. De [paginageschiedenis](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&action=history) vermeldt de bijdragers en wijzigingen. Ook hiervoor worden CC BY-SA 4.0 en de hierboven genoemde naamsvermelding gevolgd.
+
+Veranderingen: navigatie en hyperlinks verwijderd; de zes hoofdtekstalinea’s verdeeld in achttien lokale segmenten; rechtstreekse Nederlandse conceptvertaling en afzonderlijke toelichtingen toegevoegd. De opmerkingen over traditionele lezingen zijn eigen toelichtingen, geen geïmporteerde commentaartekst.

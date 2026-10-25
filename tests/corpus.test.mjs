@@ -34,7 +34,7 @@ test('ieder vertaald segment heeft unieke verwijzingen en een controleerbare bro
   assert.ok(['he','arc'].includes(p.lang));
   assert.equal(p.translationStatus, 'concept');
   assert.ok(p.ref.startsWith('bavli:berakhot:'));
-  assert.ok(p.locator.startsWith('Berakhot 2a'));
+  assert.ok(p.locator.startsWith('Berakhot ' + chapter.id));
   assert.ok(sources.sources.some(s => s.id === p.sourceId && s.license === 'CC-BY-SA-4.0'));
   assert.ok(Array.isArray(p.notes));
  }
@@ -73,12 +73,32 @@ test('voortgang telt alleen aanwezige segmenten en claimt geen voltooiing', asyn
  const units = inventory.corpora[0].tractates[0].units;
  assert.equal(units.length, 125);
  assert.equal(units[0].id, '2a'); assert.equal(units.at(-1).id, '64a');
- assert.equal(units.filter(u => u.translationStatus === 'concept').length, 1);
- assert.equal(progress.units[0].segments, p.length);
- assert.equal(progress.units[0].translationSha256, sha(p.map(p => p.nl).join('\n')+'\n'));
+ assert.equal(units.filter(u => u.translationStatus === 'concept').length, progress.translatedUnits);
+ for (const unit of progress.units) {
+  const passages = p.filter(p => p.ref.startsWith(unit.ref + ':'));
+  assert.equal(unit.segments, passages.length);
+  assert.equal(unit.translationSha256, sha(passages.map(p => p.nl).join('\n')+'\n'));
+ }
 });
 
 test('Open Vertaling-basisstylesheet behoudt zijn herkomstchecksum', async () => {
  const source = await json('SOURCE.json');
  assert.equal(sha(await read('css/openvertaling.css')), source.sha256);
+});
+
+test('Berakhot 2b bevat de volledige hoofdtekst met blijvende brondekking', async () => {
+ const library = await json('data/library.json');
+ const chapter = library.works[0].chapters.find(c => c.id === '2b');
+ assert.ok(chapter, 'de volgende amud is daadwerkelijk vertaald');
+ const source = await json('data/sources/wikisource-berakhot-2b.json');
+ assert.equal(source.revision, 2852504);
+ assert.equal(source.paragraphs.length, 6);
+ assert.equal(chapter.passages.length, 18);
+ for (let i=0;i<source.paragraphs.length;i++)
+  assert.equal(normalize(chapter.passages.filter(p=>p.sourceParagraph===i+1).map(p=>p.original).join(' ')), normalize(source.paragraphs[i]));
+ assert.ok(chapter.passages.every(p=>p.layer==='gemara'));
+ assert.ok(chapter.passages.at(-1).notes.some(n=>n.type==='vervolg'));
+ const progress=await json('data/progress.json');
+ assert.equal(progress.nextRef,'bavli:berakhot:3a');
+ assert.equal(progress.translatedSegments,30);
 });
