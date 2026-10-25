@@ -98,7 +98,23 @@ test('Berakhot 2b bevat de volledige hoofdtekst met blijvende brondekking', asyn
   assert.equal(normalize(chapter.passages.filter(p=>p.sourceParagraph===i+1).map(p=>p.original).join(' ')), normalize(source.paragraphs[i]));
  assert.ok(chapter.passages.every(p=>p.layer==='gemara'));
  assert.ok(chapter.passages.at(-1).notes.some(n=>n.type==='vervolg'));
+
+});
+
+test('Berakhot 3a bevat de volledige hoofdtekst met behouden varianten', async () => {
+ const library=await json('data/library.json');
+ const chapter=library.works[0].chapters.find(c=>c.id==='3a');
+ assert.ok(chapter, 'de volgende amud is daadwerkelijk vertaald');
+ const source=await json('data/sources/wikisource-berakhot-3a.json');
+ assert.equal(source.revision,3006952);
+ assert.equal(source.paragraphs.length,6);
+ assert.equal(chapter.passages.length,19);
+ for(let i=0;i<source.paragraphs.length;i++)
+  assert.equal(normalize(chapter.passages.filter(p=>p.sourceParagraph===i+1).map(p=>p.original).join(' ')),normalize(source.paragraphs[i]));
+ assert.ok(chapter.passages.every(p=>p.layer==='gemara'));
+ assert.ok(chapter.passages.find(p=>p.original.includes('(והמתין לי)')).notes.some(n=>n.type==='tekstvorm'));
+ assert.ok(chapter.passages.at(-1).notes.some(n=>n.type==='vervolg'));
  const progress=await json('data/progress.json');
- assert.equal(progress.nextRef,'bavli:berakhot:3a');
- assert.equal(progress.translatedSegments,30);
+ assert.equal(progress.nextRef,'bavli:berakhot:3b');
+ assert.equal(progress.translatedSegments,49);
 });

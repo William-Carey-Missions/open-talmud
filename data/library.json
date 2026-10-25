@@ -538,7 +538,351 @@
                 },
                 {
                   "type": "vervolg",
-                  "text": "De discussie gaat op Berakhot 3a verder met schijnbaar tegenstrijdige uitspraken van rabbi Meïr en rabbi Eliëzer. Die voortzetting is nog niet vertaald."
+                  "text": "De discussie gaat op Berakhot 3a verder met schijnbaar tegenstrijdige uitspraken van rabbi Meïr en rabbi Eliëzer. Die voortzetting is beschikbaar via “Volgend gedeelte”."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a",
+          "title": "3a · Nachtwaken en het gebed in de ruïne",
+          "scope": "Volledige hoofdtekst van amud 3a in de gekozen editie; Gemara, aansluitend op 2b. De laatste vraag loopt door op 3b.",
+          "status": "concept",
+          "source": "Hebreeuwse Wikisource, ברכות ג א, revisie 3006952 (20 april 2026); Wikisource-bijdragers.",
+          "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&oldid=3006952",
+          "passages": [
+            {
+              "id": "g1",
+              "ref": "bavli:berakhot:3a:g1",
+              "locator": "Berakhot 3a · Gemara · g1",
+              "layer": "gemara",
+              "original": "קשיא דר' מאיר אדר\"מ תרי תנאי אליבא דר\"מ",
+              "nl": "De uitspraak van rabbi Meïr is in strijd met een andere uitspraak van rabbi Meïr! Twee leraren geven de mening van rabbi Meïr verschillend door.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "vervolg",
+                  "text": "Sluit aan op de verschillende begintijden van de Sjema-recitaties op 2b. De schijnbare tegenspraak wordt hier verklaard uit uiteenlopende overleveringen van dezelfde leraar."
+                },
+                {
+                  "type": "begrip",
+                  "text": "“Twee leraren” vertaalt תרי תנאי: twee overleveraars die de opvatting van een eerdere leraar verschillend formuleren."
+                }
+              ]
+            },
+            {
+              "id": "g2",
+              "ref": "bavli:berakhot:3a:g2",
+              "locator": "Berakhot 3a · Gemara · g2",
+              "layer": "gemara",
+              "original": "קשיא דר' אליעזר אדר' אליעזר תרי תנאי אליבא דר' אליעזר ואב\"א רישא לאו ר' אליעזר היא:",
+              "nl": "De uitspraak van rabbi Eliëzer is in strijd met een andere uitspraak van rabbi Eliëzer! Twee leraren geven de mening van rabbi Eliëzer verschillend door. Je kunt ook zeggen: het begin van de Misjna geeft niet de mening van rabbi Eliëzer weer.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Bij de tweede verklaring heeft “de woorden van rabbi Eliëzer” in de openingsmisjna alleen betrekking op de eindtijd, niet ook op de begintijd. Beide verklaringen uit de bron zijn behouden."
+                }
+              ]
+            },
+            {
+              "id": "g3",
+              "ref": "bavli:berakhot:3a:g3",
+              "locator": "Berakhot 3a · Gemara · g3",
+              "layer": "gemara",
+              "original": "עד סוף האשמורה: מאי קסבר ר' אליעזר אי קסבר שלש משמרות הוי הלילה לימא עד ארבע שעות ואי קסבר ארבע משמרות הוי הלילה לימא עד שלש שעות",
+              "nl": "“Tot het einde van de nachtwake.” Welke opvatting heeft rabbi Eliëzer? Als hij meent dat de nacht uit drie waken bestaat, laat hij dan zeggen: “tot er vier uur zijn verstreken”. Als hij meent dat de nacht uit vier waken bestaat, laat hij dan zeggen: “tot er drie uur zijn verstreken”.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "De berekening verdeelt de nacht in twaalf uren: drie waken van vier uur of vier waken van drie uur. Dit geeft geen vaste moderne kloktijden; de nachtelijke uren volgen de duur van de nacht."
+                }
+              ]
+            },
+            {
+              "id": "g4",
+              "ref": "bavli:berakhot:3a:g4",
+              "locator": "Berakhot 3a · Gemara · g4",
+              "layer": "gemara",
+              "original": "לעולם קסבר שלש משמרות הוי הלילה והא קמ\"ל דאיכא משמרות ברקיע ואיכא משמרות בארעא דתניא ר' אליעזר אומר שלש משמרות הוי הלילה ועל כל משמר ומשמר יושב הקב\"ה ושואג כארי שנאמר (ירמיהו כה, ל) ה' ממרום ישאג וממעון קדשו יתן קולו שאוג ישאג על נוהו",
+              "nl": "In werkelijkheid meent hij dat de nacht uit drie waken bestaat. Hiermee leert hij ons dat er waken in de hemel zijn en waken op aarde. Er is immers onderwezen: rabbi Eliëzer zegt: “De nacht bestaat uit drie waken. Bij elke wake zit de Heilige, gezegend zij Hij, en brult als een leeuw, zoals er staat geschreven: ‘De HEER zal vanuit de hoogte brullen en vanuit zijn heilige woning zijn stem laten horen; luid zal Hij brullen over zijn verblijf’” (Jeremia 25:30).",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“De Heilige, gezegend zij Hij” is de eerbiedsformule die in de grondtekst als הקב״ה is afgekort. De hemelse waken worden in deze vertelling verbonden met de aardse tekens."
+                }
+              ]
+            },
+            {
+              "id": "g5",
+              "ref": "bavli:berakhot:3a:g5",
+              "locator": "Berakhot 3a · Gemara · g5",
+              "layer": "gemara",
+              "original": "וסימן לדבר משמרה ראשונה חמור נוער שניה כלבים צועקים שלישית תינוק יונק משדי אמו ואשה מספרת עם בעלה.",
+              "nl": "De herkenningstekenen zijn: tijdens de eerste wake balkt een ezel; tijdens de tweede blaffen honden; tijdens de derde drinkt een kind aan de borst van zijn moeder en spreekt een vrouw met haar man.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Het vervolg onderzoekt of deze tekens bij het begin, het midden of het einde van de genoemde waken horen. De eerste opsomming beslist dat nog niet."
+                }
+              ]
+            },
+            {
+              "id": "g6",
+              "ref": "bavli:berakhot:3a:g6",
+              "locator": "Berakhot 3a · Gemara · g6",
+              "layer": "gemara",
+              "original": "מאי קא חשיב ר' אליעזר אי תחלת משמרות קא חשיב תחלת משמרה ראשונה סימנא למה לי אורתא הוא",
+              "nl": "Welke tijdstippen bedoelt rabbi Eliëzer? Als hij het begin van de waken bedoelt: waarvoor heb ik dan een teken voor het begin van de eerste wake nodig? Het is dan immers avond.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g7",
+              "ref": "bavli:berakhot:3a:g7",
+              "locator": "Berakhot 3a · Gemara · g7",
+              "layer": "gemara",
+              "original": "אי סוף משמרות קא חשיב סוף משמרה אחרונה למה לי סימנא יממא הוא",
+              "nl": "Als hij het einde van de waken bedoelt: waarvoor heb ik dan een teken voor het einde van de laatste wake nodig? Het is dan immers dag.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g8",
+              "ref": "bavli:berakhot:3a:g8",
+              "locator": "Berakhot 3a · Gemara · g8",
+              "layer": "gemara",
+              "original": "אלא חשיב סוף משמרה ראשונה ותחלת משמרה אחרונה ואמצעית דאמצעיתא",
+              "nl": "Hij bedoelt dus het einde van de eerste wake, het begin van de laatste wake en het midden van de middelste wake.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Deze verklaring combineert drie verschillende posities: het einde van de eerste wake, het midden van de tweede en het begin van de derde. Het volgende segment biedt een andere verklaring."
+                }
+              ]
+            },
+            {
+              "id": "g9",
+              "ref": "bavli:berakhot:3a:g9",
+              "locator": "Berakhot 3a · Gemara · g9",
+              "layer": "gemara",
+              "original": "ואב\"א כולהו סוף משמרות קא חשיב וכי תימא אחרונה לא צריך למאי נפקא מינה למיקרי ק\"ש למאן דגני בבית אפל ולא ידע זמן ק\"ש אימת כיון דאשה מספרת עם בעלה ותינוק יונק משדי אמו ליקום וליקרי.",
+              "nl": "Je kunt ook zeggen: hij bedoelt bij alle waken het einde. En als je zegt dat een teken voor de laatste wake niet nodig is: wat maakt dat praktisch uit? Het helpt iemand die in een donker huis slaapt en niet weet wanneer het tijd is om het Sjema te reciteren. Zodra een vrouw met haar man spreekt en een kind aan de borst van zijn moeder drinkt, moet hij opstaan en het reciteren.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "Bij deze tweede verklaring wijzen de tekens steeds op het einde van een wake. Het teken bij het einde van de laatste wake helpt iemand die in het donker geen daglicht kan waarnemen."
+                }
+              ]
+            },
+            {
+              "id": "g10",
+              "ref": "bavli:berakhot:3a:g10",
+              "locator": "Berakhot 3a · Gemara · g10",
+              "layer": "gemara",
+              "original": "אמר רב יצחק בר שמואל משמי' דרב ג' משמרות הוי הלילה ועל כל משמר ומשמר יושב הקב\"ה ושואג כארי ואומר אוי לבנים שבעונותיהם החרבתי את ביתי ושרפתי את היכלי והגליתים לבין אומות העולם:",
+              "nl": "Rav Jitschak bar Sjmoeël zei in naam van Rav: “De nacht bestaat uit drie waken. Bij elke wake zit de Heilige, gezegend zij Hij, en brult als een leeuw. Hij zegt: ‘Wee de kinderen om wier zonden Ik mijn huis heb verwoest, mijn heiligdom heb verbrand en die Ik onder de volken van de wereld heb verbannen.’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "De passage gebruikt het beeld van de verwoeste tempel en de ballingschap als klacht van een vader over zijn kinderen. Deze toelichting behoort niet tot de geciteerde woorden."
+                }
+              ]
+            },
+            {
+              "id": "g11",
+              "ref": "bavli:berakhot:3a:g11",
+              "locator": "Berakhot 3a · Gemara · g11",
+              "layer": "gemara",
+              "original": "תניא א\"ר יוסי פעם אחת הייתי מהלך בדרך ונכנסתי לחורבה אחת מחורבות ירושלים להתפלל בא אליהו זכור לטוב ושמר לי על הפתח (והמתין לי) עד שסיימתי תפלתי לאחר שסיימתי תפלתי אמר לי שלום עליך רבי ואמרתי לו שלום עליך רבי ומורי",
+              "nl": "Er is onderwezen: rabbi Josi zei: “Eens was ik onderweg en ging ik een van de ruïnes van Jeruzalem binnen om te bidden. Elia, moge hij ten goede worden herdacht, kwam en hield voor mij de wacht bij de ingang (en wachtte op mij), totdat ik mijn gebed had beëindigd. Nadat ik mijn gebed had beëindigd, zei hij tegen mij: ‘Vrede zij met u, rabbi.’ Ik zei tegen hem: ‘Vrede zij met u, mijn rabbi en mijn leermeester.’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "tekstvorm",
+                  "text": "De woorden “(en wachtte op mij)” staan ook in de gekozen brontekst tussen haakjes. De haakjes zijn in grondtekst en vertaling behouden; er wordt hier niet beslist over hun teksthistorische status."
+                },
+                {
+                  "type": "begrip",
+                  "text": "“Moge hij ten goede worden herdacht” vertaalt זכור לטוב, een eerbiedige formule bij de naam Elia."
+                }
+              ]
+            },
+            {
+              "id": "g12",
+              "ref": "bavli:berakhot:3a:g12",
+              "locator": "Berakhot 3a · Gemara · g12",
+              "layer": "gemara",
+              "original": "ואמר לי בני מפני מה נכנסת לחורבה זו אמרתי לו להתפלל",
+              "nl": "“Hij vroeg mij: ‘Mijn zoon, waarom bent u deze ruïne binnengegaan?’ Ik antwoordde: ‘Om te bidden.’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g13",
+              "ref": "bavli:berakhot:3a:g13",
+              "locator": "Berakhot 3a · Gemara · g13",
+              "layer": "gemara",
+              "original": "ואמר לי היה לך להתפלל בדרך ואמרתי לו מתיירא הייתי שמא יפסיקו בי עוברי דרכים ואמר לי היה לך להתפלל תפלה קצרה",
+              "nl": "“Hij zei tegen mij: ‘U had op de weg moeten bidden.’ Ik antwoordde: ‘Ik was bang dat voorbijgangers mij zouden onderbreken.’ Hij zei tegen mij: ‘U had een kort gebed moeten bidden.’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“Kort gebed” vertaalt תפלה קצרה. Welke gebedsvorm hiermee wordt bedoeld, wordt in deze passage niet omschreven."
+                }
+              ]
+            },
+            {
+              "id": "g14",
+              "ref": "bavli:berakhot:3a:g14",
+              "locator": "Berakhot 3a · Gemara · g14",
+              "layer": "gemara",
+              "original": "באותה שעה למדתי ממנו שלשה דברים למדתי שאין נכנסין לחורבה ולמדתי שמתפללין בדרך ולמדתי שהמתפלל בדרך מתפלל תפלה קצרה",
+              "nl": "“Op dat moment leerde ik drie dingen van hem. Ik leerde dat men een ruïne niet binnengaat; ik leerde dat men op de weg mag bidden; en ik leerde dat wie op de weg bidt, een kort gebed bidt.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g15",
+              "ref": "bavli:berakhot:3a:g15",
+              "locator": "Berakhot 3a · Gemara · g15",
+              "layer": "gemara",
+              "original": "ואמר לי בני מה קול שמעת בחורבה זו ואמרתי לו שמעתי בת קול שמנהמת כיונה ואומרת אוי לבנים שבעונותיהם החרבתי את ביתי ושרפתי את היכלי והגליתים לבין האומות",
+              "nl": "“Hij vroeg mij: ‘Mijn zoon, welke stem hebt u in deze ruïne gehoord?’ Ik antwoordde: ‘Ik hoorde een hemelse stem die kirde als een duif en zei: “Wee de kinderen om wier zonden Ik mijn huis heb verwoest, mijn heiligdom heb verbrand en die Ik onder de volken heb verbannen.”’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "Een bat kol is hier een hemelse stem. Het kirren als een duif behoort tot de beeldspraak van de vertelling."
+                }
+              ]
+            },
+            {
+              "id": "g16",
+              "ref": "bavli:berakhot:3a:g16",
+              "locator": "Berakhot 3a · Gemara · g16",
+              "layer": "gemara",
+              "original": "ואמר לי חייך וחיי ראשך לא שעה זו בלבד אומרת כך אלא בכל יום ויום שלש פעמים אומרת כך",
+              "nl": "“Hij zei tegen mij: ‘Bij uw leven en zo waar u leeft: niet alleen op dit uur zegt zij dit, maar iedere dag zegt zij het driemaal.’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "“Bij uw leven en zo waar u leeft” geeft de nadrukkelijke eedformule חייך וחיי ראשך weer, letterlijk ongeveer “bij uw leven en het leven van uw hoofd”. “Zij” verwijst naar de hemelse stem."
+                }
+              ]
+            },
+            {
+              "id": "g17",
+              "ref": "bavli:berakhot:3a:g17",
+              "locator": "Berakhot 3a · Gemara · g17",
+              "layer": "gemara",
+              "original": "ולא זו בלבד אלא בשעה שישראל נכנסין לבתי כנסיות ולבתי מדרשות ועונין יהא שמיה הגדול מבורך הקב\"ה מנענע ראשו ואומר אשרי המלך שמקלסין אותו בביתו כך מה לו לאב שהגלה את בניו ואוי להם לבנים שגלו מעל שולחן אביהם:",
+              "nl": "“‘En niet alleen dat: wanneer Israël de synagogen en leerhuizen binnengaat en antwoordt: “Moge zijn grote naam gezegend zijn”, knikt de Heilige, gezegend zij Hij, met zijn hoofd en zegt: “Gelukkig is de koning die men zo in zijn huis prijst! Hoe vergaat het de vader die zijn kinderen heeft verbannen? En wee de kinderen die van de tafel van hun vader zijn verbannen!”’”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 5,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "Het antwoord over Gods grote naam sluit aan bij de lofprijzing in het Kaddisj. De bron bewaart hier een mengvorm van Aramees en Hebreeuws."
+                },
+                {
+                  "type": "onzeker",
+                  "text": "מה לו לאב is een beknopte vraag, letterlijk ongeveer “wat [is er] voor de vader?”. De vertaling “Hoe vergaat het de vader” houdt de vraagvorm open."
+                }
+              ]
+            },
+            {
+              "id": "g18",
+              "ref": "bavli:berakhot:3a:g18",
+              "locator": "Berakhot 3a · Gemara · g18",
+              "layer": "gemara",
+              "original": "ת\"ר מפני שלשה דברים אין נכנסין לחורבה מפני חשד מפני המפולת ומפני המזיקין.",
+              "nl": "Onze leraren onderwezen: “Om drie redenen gaat men een ruïne niet binnen: vanwege verdenking, vanwege instortingsgevaar en vanwege de schadelijke geesten.”",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 6,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“Verdenking” blijft in de hoofdtekst onbepaald; de nadere bespreking volgt op 3b. Mazikim zijn in deze voorstelling schadelijke geesten; het instortingsgevaar is een afzonderlijke reden."
+                }
+              ]
+            },
+            {
+              "id": "g19",
+              "ref": "bavli:berakhot:3a:g19",
+              "locator": "Berakhot 3a · Gemara · g19",
+              "layer": "gemara",
+              "original": "מפני חשד ותיפוק ליה משום מפולת",
+              "nl": "“Vanwege verdenking” — is instortingsgevaar dan niet al voldoende reden?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-3a-r3006952",
+              "sourceParagraph": 6,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "vervolg",
+                  "text": "De vraag wordt op Berakhot 3b verder behandeld. Die voortzetting is nog niet vertaald."
                 }
               ]
             }

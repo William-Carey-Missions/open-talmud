@@ -15,3 +15,9 @@ Deze tekstlicentie geldt voor de grondtekstbewerking, vertaling en toelichtingen
 De bronbewerking van Berakhot 2b is afkomstig van de bijdragers aan Hebreeuwse Wikisource, pagina ברכות ב ב, [revisie 2852504](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&oldid=2852504), van 22 april 2024. De [paginageschiedenis](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91&action=history) vermeldt de bijdragers en wijzigingen. Ook hiervoor worden CC BY-SA 4.0 en de hierboven genoemde naamsvermelding gevolgd.
 
 Veranderingen: navigatie en hyperlinks verwijderd; de zes hoofdtekstalinea’s verdeeld in achttien lokale segmenten; rechtstreekse Nederlandse conceptvertaling en afzonderlijke toelichtingen toegevoegd. De opmerkingen over traditionele lezingen zijn eigen toelichtingen, geen geïmporteerde commentaartekst.
+
+## Berakhot 3a
+
+De bronbewerking van Berakhot 3a is afkomstig van de bijdragers aan Hebreeuwse Wikisource, pagina ברכות ג א, [revisie 3006952](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&oldid=3006952), van 20 april 2026. De [paginageschiedenis](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&action=history) vermeldt de bijdragers en wijzigingen. Hiervoor worden eveneens CC BY-SA 4.0 en de hierboven genoemde naamsvermelding gevolgd.
+
+Veranderingen: navigatie, hyperlinks en verwijzingssuperscripten verwijderd; de zes hoofdtekstalinea’s verdeeld in negentien lokale segmenten; haakjestekst behouden; rechtstreekse Nederlandse conceptvertaling en afzonderlijke toelichtingen toegevoegd.

@@ -2,14 +2,14 @@
   "version": 1,
   "updatedAt": "2026-10-25",
   "corpusComplete": false,
-  "translatedSegments": 30,
+  "translatedSegments": 49,
   "independentlyReviewedSegments": 0,
   "totalSegments": null,
   "completeTractates": 0,
-  "translatedUnits": 2,
-  "totalAcquiredUnits": 2,
-  "nextRef": "bavli:berakhot:3a",
-  "remaining": "Berakhot 3a–64a (123 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a–2b moet nog worden verworven.",
+  "translatedUnits": 3,
+  "totalAcquiredUnits": 3,
+  "nextRef": "bavli:berakhot:3b",
+  "remaining": "Berakhot 3b–64a (122 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a–3a moet nog worden verworven.",
   "units": [
     {
       "ref": "bavli:berakhot:2a",
@@ -42,7 +42,24 @@
         "Meerdere tijdsopvattingen, naamsoverleveringen en voorlopige conclusies behouden."
       ],
       "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:3a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-3a-r3006952",
+      "segments": 19,
+      "mishnahSegments": 0,
+      "gemaraSegments": 19,
+      "sourceCoverage": "Volledige hoofdtekst van 3a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "d79d0095da98c5000715537beb25c9c24a1001f1ddd7bb69f331eb37c72f44b7",
+      "checks": [
+        "De negentien segmenten sluiten zonder tekstverlies aan op zes bronalinea’s.",
+        "Alternatieve verklaringen van de nachtwaken en tekst tussen haakjes behouden.",
+        "Vertelling, aangehaalde woorden, toelichting en onzekere uitleg onderscheiden.",
+        "Aansluiting op 2b en de open vraag voor 3b gemarkeerd."
+      ],
+      "independentReview": null
     }
   ],
-  "nextLabel": "Berakhot 3a"
+  "nextLabel": "Berakhot 3b"
 }

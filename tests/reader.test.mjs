@@ -90,9 +90,9 @@ test('volgend gedeelte opent 2b met eigen bron en actuele voortgang', async () =
   assert.doesNotMatch(await page.locator('#reader-status').innerText(),/Alleen Berakhot 2a/);
   await page.goto(origin+'/#inventaris');
   await page.locator('#inventory-bavli').waitFor();
-  assert.match(await page.locator('#inventory-summary').innerText(),/30 segmenten/);
-  assert.match(await page.locator('#inventory-next').innerText(),/Volgende passage: Berakhot 3a/);
-  assert.match(await page.locator('#inventory-bavli tbody tr').first().innerText(),/30 segmenten/);
+  assert.match(await page.locator('#inventory-summary').innerText(),/49 segmenten/);
+  assert.match(await page.locator('#inventory-next').innerText(),/Volgende passage: Berakhot 3b/);
+  assert.match(await page.locator('#inventory-bavli tbody tr').first().innerText(),/49 segmenten/);
  } finally {await page.close();}
 });
 
@@ -103,5 +103,23 @@ test('een trage inventaris blokkeert de leestekst niet', async () => {
   await page.goto(origin+'/#lezen/bavli-berakhot/2b',{waitUntil:'domcontentloaded'});
   await page.locator('#passage-g18').waitFor({timeout:3000});
   assert.match(await page.locator('#passage-g18').innerText(),/oogwenk/);
+ } finally {await page.close();}
+});
+
+test('3a is navigeerbaar en gebruikt zijn eigen bronrevisie', async () => {
+ const page=await browser.newPage({viewport:{width:390,height:844}});
+ try {
+  await page.goto(origin+'/#lezen/bavli-berakhot/2b');
+  await page.locator('.passage').first().waitFor();
+  await page.locator('#next').click();
+  await page.waitForURL('**/#lezen/bavli-berakhot/3a');
+  assert.equal(await page.locator('.passage').count(),19);
+  assert.match(await page.locator('#passage-g11').innerText(),/Elia/);
+  assert.match(await page.locator('#passage-g19').innerText(),/instortingsgevaar/);
+  assert.ok((await page.locator('#reader-source a').first().getAttribute('href')).includes('oldid=3006952'));
+  assert.ok(await page.locator('#next').isDisabled());
+  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+1));
+  await page.locator('#previous').click();
+  await page.waitForURL('**/#lezen/bavli-berakhot/2b');
  } finally {await page.close();}
 });

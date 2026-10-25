@@ -35,6 +35,24 @@
       "sha256": "f3654b45fd7fe306814727d8453ee18598c020cfe579b1c73a770274cc64512c",
       "status": "geïmporteerd",
       "changes": "Hyperlinks verwijderd; verdeeld in achttien lokale segmenten. Rechtstreekse Nederlandse conceptvertaling toegevoegd; eigen toelichting apart gemarkeerd."
+    },
+    {
+      "id": "wikisource-berakhot-3a-r3006952",
+      "title": "Berakhot 3a — ongevocaliseerde Wikisource-editie",
+      "revision": 3006952,
+      "url": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&oldid=3006952",
+      "acquisitionUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90",
+      "revisionEvidence": "De opgehaalde pagina vermeldt revisie 3006952 in de bronverwijzing onderaan; revisiedatum 20 april 2026.",
+      "accessed": "2026-10-25",
+      "attribution": "Wikisource-bijdragers, Hebreeuwse Wikisource, ברכות ג א; auteurs en bewerkingen via de paginageschiedenis.",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&action=history",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "extraction": "Alleen de zes hoofdtekstalinea’s vóór רש״י. Navigatie, hyperlinks en verwijzingssuperscripten verwijderd. Haakjestekst (והמתין לי) en afkortingen behouden. Geen commentaren geïmporteerd. Dit is een tekstextract, geen ruwe HTML- of manuscriptkopie.",
+      "localPath": "data/sources/wikisource-berakhot-3a.json",
+      "sha256": "2640f84769eb6b38595e6bc6eea2aa679490e78e74bff6ef844e90c4741a7ed9",
+      "status": "geïmporteerd",
+      "changes": "Hyperlinks en verwijzingssuperscripten verwijderd; verdeeld in negentien lokale segmenten. Haakjestekst behouden. Rechtstreekse Nederlandse conceptvertaling en afzonderlijke toelichting toegevoegd."
     }
   ],
   "candidates": [
@@ -48,7 +66,7 @@
       ],
       "rights": "Wikisource-bewerkingen onder CC BY-SA 4.0; controleer eventuele aanvullende rechten per pagina en editie.",
       "rightsUrl": "https://he.wikisource.org/wiki/ויקיטקסט:זכויות_יוצרים",
-      "decision": "Basis voor verwerving in kleine delen. Berakhot 2a en 2b zijn lokaal verworven; overige bronnen zijn vindplaatsen, geen geïmporteerde tekst."
+      "decision": "Basis voor verwerving in kleine delen. Berakhot 2a, 2b en 3a zijn lokaal verworven; overige bronnen zijn vindplaatsen, geen geïmporteerde tekst."
     },
     {
       "id": "sefaria",

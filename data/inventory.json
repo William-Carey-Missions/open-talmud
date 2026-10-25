@@ -815,8 +815,8 @@
           "gemara": "overgeleverd",
           "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
           "translationStatus": "concept-deel",
-          "importedSegments": 30,
-          "translatedSegments": 30,
+          "importedSegments": 49,
+          "translatedSegments": 49,
           "independentlyReviewedSegments": 0,
           "segmentTotal": null,
           "units": [
@@ -842,9 +842,9 @@
               "id": "3a",
               "ref": "bavli:berakhot:3a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%92%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 19,
               "independentlyReviewedSegments": 0
             },
             {
