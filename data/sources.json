@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-25",
+  "sources": [
+    {
+      "id": "wikisource-berakhot-2a-r3006896",
+      "title": "Berakhot 2a — ongevocaliseerde Wikisource-editie",
+      "revision": 3006896,
+      "url": "https://he.wikisource.org/w/index.php?oldid=3006896&title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90",
+      "accessed": "2026-10-25",
+      "attribution": "Wikisource-bijdragers, Hebreeuwse Wikisource, ברכות ב א; auteurs en bewerkingen via de paginageschiedenis.",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90&action=history",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "extraction": "Alleen de hoofdtekst onder גמרא vóór רש״י. Navigatie, hyperlinks, verwijzingssuperscripten en bewerkingslinks verwijderd; vier tekstalinea’s behouden. Geen commentaren geïmporteerd. Dit is een tekstextract, geen ruwe HTML- of manuscriptkopie.",
+      "localPath": "data/sources/wikisource-berakhot-2a.json",
+      "sha256": "0d86d8cb1abf53641cd2c9568c60dd930d00c1c850185993483e273dd6d0f889",
+      "status": "geïmporteerd",
+      "changes": "Hyperlink- en notenapparaat verwijderd; lokaal gesegmenteerd. Rechtstreekse Nederlandse conceptvertaling toegevoegd; eigen toelichting apart gemarkeerd."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "wikisource-core",
+      "title": "Hebreeuwse Wikisource — ongevocaliseerde Misjna en beide Talmoeds",
+      "urls": [
+        "https://he.wikisource.org/wiki/משנה",
+        "https://he.wikisource.org/wiki/תלמוד_בבלי",
+        "https://he.wikisource.org/wiki/תלמוד_ירושלמי"
+      ],
+      "rights": "Wikisource-bewerkingen onder CC BY-SA 4.0; controleer eventuele aanvullende rechten per pagina en editie.",
+      "rightsUrl": "https://he.wikisource.org/wiki/ויקיטקסט:זכויות_יוצרים",
+      "decision": "Basis voor verwerving in kleine delen. Alleen 2a is lokaal verworven; overige bronnen zijn vindplaatsen, geen geïmporteerde tekst."
+    },
+    {
+      "id": "sefaria",
+      "title": "Sefaria — corpusstructuur en mogelijke aanvullende brontekstversies",
+      "urls": [
+        "https://www.sefaria.org/texts/Talmud/Bavli",
+        "https://www.sefaria.org/texts/Talmud/Yerushalmi",
+        "https://github.com/Sefaria/Sefaria-Export"
+      ],
+      "rights": "Geen algemene corpuslicentie. Controleer de license- en versionTitle-velden van elke concrete versie; een merged-bestand kan meerdere versies combineren.",
+      "rightsUrl": "https://developers.sefaria.org/docs/usage-of-our-name-and-logo",
+      "decision": "Gebruikt voor structuurcontrole. Geen Sefaria-tekstversie geïmporteerd; geen moderne vertaling overgenomen."
+    }
+  ],
+  "translation": {
+    "method": "Rechtstreeks vanuit het Hebreeuws en Aramees van het vastgelegde bronextract; geen overname van een moderne vertaling.",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "Open Talmud — Nederlandse conceptvertaling en toelichtingen, 2026.",
+    "review": "Eerste redactionele controle op koppeling, dekking en terminologie; onafhankelijke talmudistische controle nog vereist."
+  }
+}

@@ -3,6 +3,7 @@
   "stylesheet": "css/style.css",
   "sha256": "b1dfef562f7dc59e23d903e572649e435ef2720b23213c0117ffe893934c78ac",
   "imported_at": "2026-10-25",
-  "corpus_imported": false,
-  "source_commit": "98f3503a8486bf2935c8c106509e75fd97535d69"
+  "corpus_imported": true,
+  "source_commit": "98f3503a8486bf2935c8c106509e75fd97535d69",
+  "corpus_manifest": "data/sources.json"
 }

@@ -1,70 +1,74 @@
 # Open Talmud
 
-Zelfstandige leesomgeving met de vormgeving van [Open Vertaling](https://openvertaling.nl/).
+Nederlandse leesomgeving voor de grondtekst en vertaling van de Talmoed, met de vormgeving van [Open Vertaling](https://openvertaling.nl/).
 
-## Status
+## Status — 25 oktober 2026
 
-De websitebasis is gereed. **Er zijn nog geen Zohar- of Talmoedteksten geïmporteerd of vertaald.**
-Beide projecten hebben een eigen tekstbestand en eigen browserinstellingen.
+**Dit is een onvolledige conceptuitgave. Geen tractaat is volledig vertaald.**
 
-## Lokaal gebruiken
+Beschikbaar: de volledige hoofdtekst van **Babylonische Berakhot 2a**, rechtstreeks vertaald uit de vastgelegde Hebreeuws-Aramese bron. De twaalf gekoppelde segmenten bevatten Misjna Berakhot 1:1 (vier segmenten) en de aansluitende Gemara (acht segmenten). Toelichting en onzekere interpretaties staan afzonderlijk bij de tekst.
 
-Geen installatie of build nodig. Start vanuit de hoofdmap:
+De onafhankelijke inhoudelijke en taalkundige controle is nog niet uitgevoerd: **0 segmenten onafhankelijk gecontroleerd**. De laatste vraag op 2a loopt door op 2b; die voortzetting ontbreekt nog.
+
+Resteert: Berakhot 2b–64a (124 amudim), de overige Babylonische tractaten, de gehele Jeruzalemse Talmoed en de overige Misjna-teksten. De inventaris bevat alle 63 Misjna-tractaten en per Talmoed alle 63 posities, met onderscheid tussen overgeleverde, gedeeltelijk overgeleverde en ontbrekende Gemara. Er zijn 37 Babylonische en 39 Jeruzalemse tractaten met overgeleverde Gemara; deze aantallen betekenen geen volledige overlevering per tractaat.
+
+Alleen Berakhot heeft een register op amudniveau. De volledige segmentinventaris voor de overige teksten is nog niet verworven. Daarom wordt geen totaalpercentage opgegeven.
+
+## Lezen en controleren
+
+Geen installatie of build nodig:
 
 ~~~sh
 python -m http.server 8000
 ~~~
 
-Open http://localhost:8000. Gebruik een HTTP-server; rechtstreeks openen via een bestand-URL ondersteunt de JSON-laadfunctie niet.
+Open http://localhost:8000. Gebruik een HTTP-server; een bestand-URL ondersteunt de JSON-laadfunctie niet.
 
-## Beschikbaar
+- Eerste tekst: #lezen/bavli-berakhot/2a
+- Voorbeeld van een vaste fragmentlink: #lezen/bavli-berakhot/2a/g7
+- Inventaris en voortgang: #inventaris
+- Bronverantwoording: #bronnen
 
-- Open Vertaling-stijl met de originele basisstylesheet, lokale lettertypen, bovenbalk en zijbalk.
-- Responsieve navigatie, licht/donker/automatisch thema en bewaarde leesvoorkeuren.
-- Nederlandse vertaling naast grondtekst van rechts naar links.
-- Navigatie per werk en gedeelte, deelbare fragmentlinks en zoeken in geladen teksten.
-- Een duidelijke melding zolang geen corpus is toegevoegd.
+De ongewijzigde basisstylesheet, lokale lettertypen, navigatie, thema’s en tekstopties van de bestaande lezer blijven behouden.
 
-## Teksten toevoegen
+## Corpusbestanden
 
-Vul data/library.json. De lijst works is nu bewust leeg. De lezer verwacht dit model:
+| Bestand | Inhoud |
+| --- | --- |
+| [data/library.json](data/library.json) | Geïntegreerde brontekst, vertaling, blijvende segmenten, tekstlaag en toelichting |
+| [data/inventory.json](data/inventory.json) | Misjna, Babylonische en Jeruzalemse inventaris, plus Berakhot 2a–64a |
+| [data/sources.json](data/sources.json) | Gebruikte bronversie, rechten, naamsvermelding, bronkandidaten en checksum |
+| [data/sources/wikisource-berakhot-2a.json](data/sources/wikisource-berakhot-2a.json) | Vier bronalinea’s uit revisie 3006896, zonder hyperlink- en notenapparaat |
+| [data/progress.json](data/progress.json) | Exacte vertaalstatus, controlestatus, checksum en eerstvolgende passage |
+| [docs/corpusbeleid.md](docs/corpusbeleid.md) | Afbakening, bronkeuze, redactie en vervolgvolgorde |
 
-~~~json
-{
-  "version": 1,
-  "title": "Open Talmud",
-  "works": [
-    {
-      "id": "unieke-werkcode",
-      "title": "Titel van het werk",
-      "source": "Bibliografische bronvermelding",
-      "license": "Rechten van de gebruikte tekst",
-      "chapters": [
-        {
-          "id": "gedeelte-1",
-          "title": "Eerste gedeelte",
-          "passages": [
-            {
-              "id": "1",
-              "nl": "Nederlandse tekst",
-              "original": "Grondtekst",
-              "lang": "he"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+De lokale segmentcodes m1a–m1d en g1–g8 zijn eigen uitgavenummering, geen universele Talmoedsegmenten. Een ref zoals bavli:berakhot:2a:g7 koppelt de Nederlandse tekst aan de vastgelegde bronalinea. Misjna en Gemara worden onderscheiden; een misjnacitaat binnen de Gemara blijft onderdeel van de Gemara. Ingebedde Misjna wordt niet dubbel als vertaalprestatie geteld.
+
+Een eerste vertaling krijgt status concept. Alleen een vastgelegde onafhankelijke controle mag die controlestatus verhogen. Een onbekend totaal staat als null, nooit als een gefingeerde nul of voltooiingspercentage.
+
+## Bronnen en rechten
+
+De geïmporteerde bron is [Hebreeuwse Wikisource, Berakhot 2a, revisie 3006896](https://he.wikisource.org/w/index.php?oldid=3006896&title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90), 20 april 2026. Naamsvermelding: Wikisource-bijdragers; auteurs en bewerkingen staan in de [paginageschiedenis](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90&action=history). Alleen de hoofdtekst is overgenomen. Hyperlinks en verwijzingssuperscripten zijn verwijderd; lokale segmentering, Nederlandse vertaling en eigen toelichting zijn toegevoegd.
+
+De Wikisource-bewerkingen en deze afgeleide Nederlandse conceptvertaling en toelichtingen vallen onder [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Nederlandse tekst: Open Talmud, 2026. Zie ook [licenses/corpus.md](licenses/corpus.md).
+
+Sefaria is onderzocht als aanvullende vindplaats en voor structuurcontrole. Daar heeft iedere tekstversie eigen rechten; er is geen Sefaria-tekst geïmporteerd. Beschermde moderne vertalingen zijn niet overgenomen. De inventarislinks buiten 2a zijn vindplaatsen voor verdere verwerving; zij vormen geen verklaring dat iedere afzonderlijke pagina of teksteditie al gecontroleerd is.
+
+css/openvertaling.css is ongewijzigd overgenomen uit de Open Vertaling-repository; herkomst en SHA-256 staan in SOURCE.json. De lokale lettertypen vallen onder de SIL Open Font License; zie licenses/. De corpuslicentie vervangt de bestaande rechten op andere onderdelen niet.
+
+## Verificatie
+
+De datacontroles gebruiken alleen Node.js:
+
+~~~sh
+node --test tests/corpus.test.mjs
+node --check js/app.js
 ~~~
 
-Dit is uitsluitend een schema, geen tekstuitgave. Gebruik unieke string-id's. Geef he voor Hebreeuws of arc voor Aramees op. Tekstvelden worden als tekst weergegeven, nooit als HTML.
-Leg voor import de brontekst, gebruiksrechten en vertaalstatus vast. Een koppeling heeft de vorm #lezen/werkcode/gedeeltecode/passagecode.
+De browsercontroles gebruiken Playwright en een lokale Chromium-browser. Installeer die zelf in de ontwikkelomgeving, of gebruik een aanwezige installatie. PLAYWRIGHT_MODULE kan naar een bestaande Playwright-module wijzen; BROWSER_EXECUTABLE naar een browser. Zonder overrides wordt Playwright als pakket geladen en Edge gebruikt.
 
-## Vormgeving en rechten
+~~~sh
+node --test tests/reader.test.mjs
+~~~
 
-css/openvertaling.css is ongewijzigd overgenomen uit William-Carey-Missions/website-open-bijbelvertaling en wordt aangevuld door css/corpus.css.
-Herkomst en SHA-256 staan in SOURCE.json. Er wordt geen algemene licentie overgenomen voor nog toe te voegen tekstuitgaven.
-De meegeleverde lettertypen vallen onder de SIL Open Font License; zie licenses/.
-
-Deze repository bevat geen Bijbelcorpus, accountconfiguratie, servergeheimen of productiepublicatieconfiguratie van de oorspronkelijke site.
+De controles toetsen brondekking zonder tekstverlies, checksums, inventaris en voortgang, bronvermelding en toelichting in de lezer, zoeken, fragmentlinks en mobiele paginaoverloop. Zij vervangen geen onafhankelijke beoordeling van de vertaling.

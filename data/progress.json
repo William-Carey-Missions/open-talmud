@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-25",
+  "corpusComplete": false,
+  "translatedSegments": 12,
+  "independentlyReviewedSegments": 0,
+  "totalSegments": null,
+  "completeTractates": 0,
+  "translatedUnits": 1,
+  "totalAcquiredUnits": 1,
+  "nextRef": "bavli:berakhot:2b",
+  "remaining": "Berakhot 2b–64a (124 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a moet nog worden verworven.",
+  "units": [
+    {
+      "ref": "bavli:berakhot:2a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-2a-r3006896",
+      "segments": 12,
+      "mishnahSegments": 4,
+      "gemaraSegments": 8,
+      "sourceCoverage": "Volledige hoofdtekst van 2a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "c55e7580d04dc660dbb023f67dedb9ed84a2cee49825162937d6f7368ae261a0",
+      "checks": [
+        "Bronsegmenten sluiten zonder tekstverlies aan op de vier vastgelegde bronalinea’s.",
+        "Misjna en Gemara onderscheiden; de Misjna is Berakhot 1:1.",
+        "Technische begrippen en interpretatievragen toegelicht; de open vraag loopt door op 2b."
+      ],
+      "independentReview": null
+    }
+  ]
+}

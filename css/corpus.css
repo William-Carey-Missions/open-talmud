@@ -100,3 +100,23 @@ body.alternate-font .prose { font-family: var(--font-body); }
  #topnav .topnav-version { display: none; }
  #app-container { min-height: 0; }
 }
+
+/* Tekstverantwoording en corpusinventaris. */
+.passage-meta { font: 400 12px/1.6 var(--font-body); margin-bottom: 12px; }
+.passage-notes { border-left: 2px solid var(--gold); padding-left: 12px; font: 400 14px/1.7 var(--font-body); color: var(--text-secondary); }
+.passage-notes p { margin: 8px 0; }
+.passage-notes strong { color: var(--text-primary); }
+#inventaris { max-width: none; }
+#inventaris > p { max-width: 68ch; }
+.corpus-inventory details, #mishnah-inventory details { margin: 14px 0; border: 1px solid var(--border-default); border-radius: 4px; padding: 12px; }
+#inventaris summary { cursor: pointer; font: 500 17px/1.6 var(--font-body); }
+.inventory-scroll { overflow-x: auto; }
+#inventaris table { width: 100%; border-collapse: collapse; font: 400 15px/1.6 var(--font-body); margin-top: 16px; }
+#inventaris caption { text-align: left; color: var(--text-secondary); margin-bottom: 10px; }
+#inventaris th, #inventaris td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--border-default); padding: 12px 8px; }
+#inventaris small { display: block; margin-top: 8px; }
+#mishnah-inventory li { margin: 8px 0; }
+#reader-status { font: 400 15px/1.7 var(--font-body); }
+
+#content section { scroll-margin-top: 90px; }
+@media (max-width: 900px) { #content section { scroll-margin-top: 180px; } }

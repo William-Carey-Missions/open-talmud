@@ -33,7 +33,7 @@
   const settings = $('settings');
   $('settings-open').addEventListener('click', () => settings.showModal());
   $('settings-close').addEventListener('click', () => settings.close());
-  const sections = ['lezen','over','bronnen','zoeken'];
+  const sections = ['lezen','over','bronnen','inventaris','zoeken'];
   let library = { works: [] };
   let loadError = false;
   const text = (tag, value, className) => {
@@ -55,6 +55,69 @@
     link.href = '#lezen/' + encodeURIComponent(work.id);
     $('work-links').append(link);
   }
+  const link = (label, href) => {
+    const a = text('a', label);
+    a.href = href;
+    return a;
+  };
+  async function renderInventory() {
+    try {
+      const [inventoryResponse, progressResponse] = await Promise.all([fetch('data/inventory.json'), fetch('data/progress.json')]);
+      if (!inventoryResponse.ok || !progressResponse.ok) throw new Error('inventory');
+      const inventory = await inventoryResponse.json();
+      const progress = await progressResponse.json();
+      $('inventory-summary').textContent = '63 Misjna-tractaten · 37 Babylonische tractaten met Gemara · 39 Jeruzalemse tractaten met Gemara, waaronder gedeeltelijk overgeleverde teksten. ' + progress.translatedSegments + ' segmenten in concept vertaald; ' + progress.independentlyReviewedSegments + ' onafhankelijk gecontroleerd. Geen tractaat volledig vertaald.';
+      $('inventory-next').textContent = 'Volgende passage: Berakhot 2b. ' + progress.remaining;
+      for (const corpus of inventory.corpora) {
+        const container = text('div', '', 'corpus-inventory');
+        container.id = 'inventory-' + corpus.id;
+        container.append(text('h2', corpus.title), text('p', corpus.structure));
+        for (const order of inventory.orders) {
+          const details = document.createElement('details');
+          details.open = order.id === 'zeraim';
+          details.append(text('summary', order.title + ' · ' + order.subject));
+          const scroll = text('div', '', 'inventory-scroll');
+          const table = document.createElement('table');
+          const caption = text('caption', corpus.title + ' · ' + order.title);
+          table.append(caption);
+          const head = document.createElement('thead');
+          const headings = document.createElement('tr');
+          for (const value of ['Tractaat', 'Gemara', 'Vertaling']) {
+            const th = text('th', value); th.scope = 'col'; headings.append(th);
+          }
+          head.append(headings); table.append(head);
+          const body = document.createElement('tbody');
+          for (const tractate of corpus.tractates.filter(t => t.order === order.id)) {
+            const row = document.createElement('tr');
+            const name = document.createElement('th'); name.scope = 'row';
+            name.append(tractate.sourceUrl ? link(tractate.title, tractate.sourceUrl) : text('span', tractate.title));
+            const preserved = tractate.gemara === 'niet-overgeleverd' ? 'Niet overgeleverd' : tractate.gemara === 'gedeeltelijk-overgeleverd' ? 'Gedeeltelijk overgeleverd' : 'Overgeleverd';
+            const status = tractate.translationStatus === 'concept-deel' ? '2a: 12 segmenten in concept; rest open' : tractate.translationStatus === 'niet-van-toepassing' ? 'Niet van toepassing' : 'Nog niet begonnen';
+            const note = text('td', preserved);
+            if (tractate.note) note.append(text('small', tractate.note));
+            row.append(name, note, text('td', status)); body.append(row);
+          }
+          table.append(body); scroll.append(table); details.append(scroll); container.append(details);
+        }
+        $('inventory-tables').append(container);
+      }
+      $('mishnah-inventory').append(text('p', 'De 63 Misjna-tractaten vormen één basislaag. Berakhot 1:1 is vertaald binnen Babylonische Berakhot 2a; er is nog geen zelfstandige Misjna-uitgave. Dezelfde tekst wordt niet dubbel als vertaalprestatie geteld.'));
+      for (const order of inventory.orders) {
+        const details = document.createElement('details');
+        details.append(text('summary', order.title));
+        const list = document.createElement('ul');
+        for (const tractate of inventory.mishnah.filter(t => t.order === order.id)) {
+          const item = document.createElement('li');
+          item.append(link(tractate.title, tractate.sourceUrl), text('span', ' · zelfstandige vertaling nog niet begonnen'));
+          list.append(item);
+        }
+        details.append(list); $('mishnah-inventory').append(details);
+      }
+    } catch {
+      $('inventory-summary').textContent = 'De inventaris kon niet worden geladen. Ververs de pagina om het opnieuw te proberen.';
+    }
+  }
+  await renderInventory();
   function chapterView(workId, chapterId) {
     const work = works.find(item => item.id === workId) || works[0];
     $('reader-controls').hidden = !work;
@@ -72,6 +135,7 @@
     fill($('work-select'), works, work.id);
     fill($('chapter-select'), chapters, chapter?.id);
     $('chapter-title').textContent = chapter ? work.title + ' · ' + chapter.title : work.title;
+    $('reader-status').textContent = 'Conceptvertaling · niet onafhankelijk gecontroleerd. Alleen Berakhot 2a is beschikbaar; de overige tekst is nog niet vertaald.' + (chapter?.scope ? ' ' + chapter.scope : '');
     for (const passage of chapter?.passages || []) {
       const row = text('div', '', 'passage');
       row.id = 'passage-' + passage.id;
@@ -80,11 +144,31 @@
       nl.lang = 'nl';
       const original = text('p', passage.original || 'Grondtekst nog niet beschikbaar.', 'original');
       original.dir = 'rtl'; original.lang = passage.lang || 'he';
-      row.append(nl, original);
+      const translation = text('div', '', 'translation');
+      const meta = text('div', '', 'passage-meta');
+      meta.append(link((passage.layer === 'mishnah' ? 'Misjna' : 'Gemara') + ' · ' + passage.locator, '#lezen/' + encodeURIComponent(work.id) + '/' + encodeURIComponent(chapter.id) + '/' + encodeURIComponent(passage.id)));
+      translation.append(meta, nl);
+      if (passage.notes?.length) {
+        const notes = text('aside', '', 'passage-notes');
+        notes.setAttribute('aria-label', 'Toelichting bij ' + passage.id);
+        notes.append(text('strong', 'Toelichting'));
+        for (const note of passage.notes) {
+          const label = note.type === 'onzeker' ? 'Onzekere interpretatie: ' : note.type === 'vervolg' ? 'Vervolg: ' : '';
+          notes.append(text('p', label + note.text));
+        }
+        translation.append(notes);
+      }
+      row.append(translation, original);
       $('passages').append(row);
     }
     $('reader-source').replaceChildren();
-    if (work.source) $('reader-source').append(text('p', 'Bron: ' + work.source + (work.license ? ' · Rechten: ' + work.license : '')));
+    if (work.source) {
+      const credit = text('p', 'Bron: ' + work.source + ' ');
+      if (work.sourceUrl) credit.append(link('Vaste bronversie', work.sourceUrl));
+      if (work.license) credit.append(text('span', ' · Rechten: ' + work.license + ' '));
+      if (work.licenseUrl) credit.append(link('Licentievoorwaarden', work.licenseUrl));
+      $('reader-source').append(credit, link('Volledige inventaris en voortgang', '#inventaris'));
+    }
     const index = chapters.indexOf(chapter);
     $('previous').disabled = index <= 0;
     $('next').disabled = index < 0 || index >= chapters.length - 1;
@@ -119,7 +203,7 @@
       if (active) link.setAttribute('aria-current','page'); else link.removeAttribute('aria-current');
     });
     $('mobile-section').value = current;
-    $('chapter-title').textContent = {lezen: document.title.split(' — ')[0], over: 'Over deze uitgave', bronnen: 'Bronnen en verantwoording', zoeken: 'Zoeken'}[current];
+    $('chapter-title').textContent = {lezen: document.title.split(' — ')[0], over: 'Over deze uitgave', bronnen: 'Bronnen en verantwoording', inventaris: 'Corpusinventaris en voortgang', zoeken: 'Zoeken'}[current];
     if (current === 'lezen') {
       chapterView(parts[1], parts[2]);
       if (parts[3]) document.getElementById('passage-' + parts[3])?.scrollIntoView({block:'center'});

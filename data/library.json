@@ -1,5 +1,227 @@
 {
   "version": 1,
   "title": "Open Talmud",
-  "works": []
+  "editionStatus": "Onvolledige conceptvertaling; geen onafhankelijk gecontroleerde einduitgave.",
+  "works": [
+    {
+      "id": "bavli-berakhot",
+      "title": "Babylonische Talmoed · Berakhot",
+      "corpus": "bavli",
+      "tractate": "berakhot",
+      "source": "Hebreeuwse Wikisource, ברכות ב א, revisie 3006896 (20 april 2026); Wikisource-bijdragers.",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3006896&title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90",
+      "license": "CC BY-SA 4.0 — grondtekstbewerking, Nederlandse vertaling en toelichtingen",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "status": "concept",
+      "chapters": [
+        {
+          "id": "2a",
+          "title": "2a · Het Sjema in de avond",
+          "scope": "Volledige hoofdtekst van amud 2a in de gekozen editie; Misjna en Gemara. De discussie gaat verder op 2b.",
+          "status": "concept",
+          "passages": [
+            {
+              "id": "m1a",
+              "ref": "bavli:berakhot:2a:m1a",
+              "locator": "Berakhot 2a · Misjna 1:1 · m1a",
+              "layer": "mishnah",
+              "original": "מתניתין מאימתי קורין את שמע בערבין. משעה שהכהנים נכנסים לאכול בתרומתן עד סוף האשמורה הראשונה דברי ר' אליעזר. וחכמים אומרים עד חצות. רבן גמליאל אומר עד שיעלה עמוד השחר.",
+              "nl": "Vanaf wanneer reciteert men ’s avonds het Sjema? Vanaf het moment waarop de priesters binnengaan om van hun teroema te eten, tot het einde van de eerste nachtwake; dat zijn de woorden van rabbi Eliëzer. De wijzen zeggen: tot middernacht. Rabban Gamaliël zegt: totdat de dageraad aanbreekt.",
+              "lang": "he",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 1,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "Sjema: de recitatie die begint met “Hoor, Israël” (Deuteronomium 6:4). Teroema: het voor de priesters bestemde heilige aandeel van de oogst. De nachtwake is een deel van de nacht; de discussie over de indeling volgt later."
+                }
+              ]
+            },
+            {
+              "id": "m1b",
+              "ref": "bavli:berakhot:2a:m1b",
+              "locator": "Berakhot 2a · Misjna 1:1 · m1b",
+              "layer": "mishnah",
+              "original": "מעשה ובאו בניו מבית המשתה אמרו לו לא קרינו את שמע אמר להם אם לא עלה עמוד השחר חייבין אתם לקרות",
+              "nl": "Eens kwamen zijn zonen terug van een feestmaal. Zij zeiden tegen hem: “Wij hebben het Sjema niet gereciteerd.” Hij zei tegen hen: “Als de dageraad nog niet is aangebroken, zijn jullie verplicht het te reciteren.”",
+              "lang": "he",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "“Zijn zonen” verwijst naar de zojuist genoemde Rabban Gamaliël."
+                }
+              ]
+            },
+            {
+              "id": "m1c",
+              "ref": "bavli:berakhot:2a:m1c",
+              "locator": "Berakhot 2a · Misjna 1:1 · m1c",
+              "layer": "mishnah",
+              "original": "ולא זו בלבד אמרו אלא כל מה שאמרו חכמים עד חצות מצותן עד שיעלה עמוד השחר הקטר חלבים ואברים מצותן עד שיעלה עמוד השחר וכל הנאכלים ליום אחד מצותן עד שיעלה עמוד השחר",
+              "nl": "Dit zeiden zij niet alleen hierover. Bij alles waarvoor de wijzen “tot middernacht” zeiden, kan de verplichting worden vervuld totdat de dageraad aanbreekt. Het verbranden van vetstukken en ledematen kan worden verricht totdat de dageraad aanbreekt. Ook alles wat binnen één dag gegeten moet worden, kan worden gegeten totdat de dageraad aanbreekt.",
+              "lang": "he",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "toelichting",
+                  "text": "De vetstukken en ledematen horen bij de altaardienst. “Alles wat binnen één dag gegeten moet worden” betreft hier gewijde offergaven; de aansluitende nacht behoort tot de toegestane eettijd. De tekst groepeert voorbeelden; pas latere discussie bepaalt op welke daarvan de grens van middernacht van toepassing is."
+                }
+              ]
+            },
+            {
+              "id": "m1d",
+              "ref": "bavli:berakhot:2a:m1d",
+              "locator": "Berakhot 2a · Misjna 1:1 · m1d",
+              "layer": "mishnah",
+              "original": "א\"כ למה אמרו חכמים עד חצות כדי להרחיק אדם מן העבירה:",
+              "nl": "Waarom zeiden de wijzen dan “tot middernacht”? Om de mens ver van overtreding te houden.",
+              "lang": "he",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 2,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g1",
+              "ref": "bavli:berakhot:2a:g1",
+              "locator": "Berakhot 2a · Gemara · g1",
+              "layer": "gemara",
+              "original": "גמ' תנא היכא קאי דקתני מאימתי ותו מאי שנא דתני בערבית ברישא לתני דשחרית ברישא",
+              "nl": "Waarop sluit de leraar van de Misjna aan, dat hij onderwijst: “Vanaf wanneer”? En waarom behandelt hij eerst de avond? Laat hij eerst de ochtend behandelen!",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "De tanna is hier de leraar die de misjnaïsche formulering doorgeeft. De eerste vraag zoekt de eerder veronderstelde grondslag voor de recitatieplicht."
+                }
+              ]
+            },
+            {
+              "id": "g2",
+              "ref": "bavli:berakhot:2a:g2",
+              "locator": "Berakhot 2a · Gemara · g2",
+              "layer": "gemara",
+              "original": "תנא אקרא קאי דכתיב (דברים ו, ז) בשכבך ובקומך והכי קתני זמן קריאת שמע דשכיבה אימת משעה שהכהנים נכנסין לאכול בתרומתן",
+              "nl": "De leraar sluit aan bij de Schrift, want er staat geschreven: “wanneer je gaat liggen en wanneer je opstaat” (Deuteronomium 6:7). Zo onderwijst hij dus: wanneer is het tijd om het Sjema te reciteren bij het gaan liggen? Vanaf het moment waarop de priesters binnengaan om van hun teroema te eten.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g3",
+              "ref": "bavli:berakhot:2a:g3",
+              "locator": "Berakhot 2a · Gemara · g3",
+              "layer": "gemara",
+              "original": "ואי בעית אימא יליף מברייתו של עולם דכתיב (בראשית א, ה) ויהי ערב ויהי בקר יום אחד",
+              "nl": "Je kunt ook zeggen: hij leidt het af uit de schepping van de wereld, want er staat geschreven: “Het werd avond en het werd ochtend: één dag” (Genesis 1:5).",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g4",
+              "ref": "bavli:berakhot:2a:g4",
+              "locator": "Berakhot 2a · Gemara · g4",
+              "layer": "gemara",
+              "original": "אי הכי סיפא דקתני בשחר מברך שתים לפניה ואחת לאחריה ובערב מברך שתים לפניה ושתים לאחריה לתני דערבית ברישא.",
+              "nl": "Als dat zo is, waarom onderwijst hij dan verderop: “’s Ochtends spreekt men twee zegeningen vóór het Sjema uit en één erna, en ’s avonds twee ervoor en twee erna”? Laat hij ook daar de avond eerst behandelen!",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "verwijzing",
+                  "text": "De aangehaalde passage staat in Misjna Berakhot 1:4; zij is hier een citaat binnen de Gemara."
+                }
+              ]
+            },
+            {
+              "id": "g5",
+              "ref": "bavli:berakhot:2a:g5",
+              "locator": "Berakhot 2a · Gemara · g5",
+              "layer": "gemara",
+              "original": "תנא פתח בערבית והדר תני בשחרית עד דקאי בשחרית פריש מילי דשחרית והדר פריש מילי דערבית:",
+              "nl": "De leraar begon met de avond en behandelde daarna de ochtend. Toen hij bij de ochtend was aangekomen, zette hij de zaken van de ochtend uiteen; daarna zette hij de zaken van de avond uiteen.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 3,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g6",
+              "ref": "bavli:berakhot:2a:g6",
+              "locator": "Berakhot 2a · Gemara · g6",
+              "layer": "gemara",
+              "original": "אמר מר משעה שהכהנים נכנסים לאכול בתרומתן. מכדי כהנים אימת קא אכלי תרומה משעת צאת הכוכבים לתני משעת צאת הכוכבים.",
+              "nl": "De meester zei: “Vanaf het moment waarop de priesters binnengaan om van hun teroema te eten.” Wanneer mogen de priesters dan teroema eten? Vanaf het verschijnen van de sterren. Laat hij dan onderwijzen: “Vanaf het verschijnen van de sterren”!",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": []
+            },
+            {
+              "id": "g7",
+              "ref": "bavli:berakhot:2a:g7",
+              "locator": "Berakhot 2a · Gemara · g7",
+              "layer": "gemara",
+              "original": "מלתא אגב אורחיה קמשמע לן כהנים אימת קא אכלי בתרומה משעת צאת הכוכבים והא קמשמע לן דכפרה לא מעכבא כדתניא (ויקרא כב, ז) ובא השמש וטהר ביאת שמשו מעכבתו מלאכול בתרומה ואין כפרתו מעכבתו מלאכול בתרומה.",
+              "nl": "Hij leert ons terloops nog iets. Wanneer mogen de priesters teroema eten? Vanaf het verschijnen van de sterren. Daarmee leert hij ons dat het nog moeten brengen van een verzoeningsoffer dit niet verhindert. Er is immers onderwezen: “De zon gaat onder en het is rein” (Leviticus 22:7). Het ondergaan van de zon is een voorwaarde waaraan voldaan moet zijn voordat hij teroema mag eten; het brengen van zijn verzoeningsoffer is daarvoor geen voorwaarde.",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "begrip",
+                  "text": "“Er is onderwezen” introduceert een baraita: een tannaitische overlevering buiten de Misjna. Kappara duidt hier op het nog verschuldigde offer na bepaalde vormen van onreinheid."
+                },
+                {
+                  "type": "onzeker",
+                  "text": "Het onderwerp van וטהר (“en het/hij is rein”) is juist inzet van het vervolg. De onpersoonlijke weergave houdt die vraag open. De bron geeft hier geen vocalisatie."
+                }
+              ]
+            },
+            {
+              "id": "g8",
+              "ref": "bavli:berakhot:2a:g8",
+              "locator": "Berakhot 2a · Gemara · g8",
+              "layer": "gemara",
+              "original": "וממאי דהאי ובא השמש ביאת השמש והאי וטהר טהר יומא",
+              "nl": "Maar waaruit blijkt dat “de zon gaat onder” hier het ondergaan van de zon betekent, en dat “het is rein” betekent dat de dag voorbij is?",
+              "lang": "arc",
+              "sourceId": "wikisource-berakhot-2a-r3006896",
+              "sourceParagraph": 4,
+              "translationStatus": "concept",
+              "notes": [
+                {
+                  "type": "onzeker",
+                  "text": "טהר יומא is letterlijk ongeveer “de dag is rein geworden”. “De dag is voorbij” geeft de hier onderzochte uitleg weer; zij wordt op 2b tegenover de reiniging van de persoon gesteld."
+                },
+                {
+                  "type": "vervolg",
+                  "text": "Deze vraag loopt door op Berakhot 2b. Het einde van 2a is geen einde van de redenering. 2b is nog niet vertaald."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
