@@ -1,0 +1,126 @@
+{
+  "id": "16a",
+  "title": "16a · Werkenden, bruidegoms en de concentratie bij het gebed",
+  "scope": "Volledige hoofdtekst van amud 16a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%96_%D7%90&oldid=2851538",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:16a:g1",
+      "locator": "Berakhot 16a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אהלים לנחלים דכתיב (במדבר כד, ו) כנחלים נטיו כגנות עלי נהר כאהלים נטע וגו' לומר לך מה נחלים מעלין את האדם מטומאה לטהרה אף אהלים מעלין את האדם מכף חובה לכף זכות:",
+      "nl": "tenten naast beken? Er staat immers: ‘Als beken strekken zij zich uit, als tuinen langs een rivier, als tenten die Hij heeft geplant...’ (Numeri 24:6). Om je te leren: zoals beken iemand van onreinheid tot reinheid brengen, zo brengen tenten iemand van de schaal van schuld naar de schaal van verdienste.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De medeklinkers אהלים kunnen hier worden gelezen als “tenten” en in het bijbelvers ook als een aanduiding van aloëbomen. De uitleg verstaat er plaatsen van Torastudie onder."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:16a:g2",
+      "locator": "Berakhot 16a · Gemara · g2",
+      "layer": "gemara",
+      "original": "הקורא למפרע לא יצא וכו':",
+      "nl": "Wie in omgekeerde volgorde reciteert, heeft niet voldaan, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:16a:g3",
+      "locator": "Berakhot 16a · Gemara · g3",
+      "layer": "gemara",
+      "original": "רבי אמי ורבי אסי הוו קא קטרין ליה גננא לר' אלעזר אמר להו אדהכי והכי איזיל ואשמע מלתא דבי מדרשא ואיתי ואימא לכו אזל אשכחיה לתנא דקתני קמיה דר' יוחנן קרא וטעה ואינו יודע להיכן טעה באמצע הפרק יחזור לראש בין פרק לפרק יחזור לפרק ראשון בין כתיבה לכתיבה יחזור לכתיבה ראשונה אמר ליה ר' יוחנן לא שנו אלא שלא פתח בלמען ירבו ימיכם אבל פתח בלמען ירבו ימיכם סרכיה נקט ואתי אתא ואמר להו אמרו ליה אלו לא באנו אלא לשמוע דבר זה דיינו:",
+      "nl": "Rabbi Ammi en rabbi Assi maakten voor rabbi Elazar een bruidsvertrek gereed. Hij zei tegen hen: ‘Intussen ga ik een leerstelling in het leerhuis horen; ik kom terug en zal haar jullie vertellen.’ Hij ging en trof de overleveraar aan die voor rabbi Jochanan leerde: wie bij het reciteren een fout maakte en niet weet waar, gaat, als het midden in een gedeelte was, terug naar het begin daarvan; als het tussen gedeelten was, terug naar het eerste gedeelte; als het tussen de beide vermeldingen van schrijven was, terug naar de eerste vermelding van schrijven. Rabbi Jochanan zei tegen hem: dit is alleen geleerd wanneer hij nog niet met ‘opdat jullie dagen talrijk worden’ was begonnen. Als hij daar al mee was begonnen, had hij zijn gebruikelijke volgorde opgepakt en was hij daarmee verdergegaan. Rabbi Elazar kwam terug en vertelde hun dit. Zij zeiden tegen hem: ‘Zelfs als wij alleen gekomen waren om dit te horen, was het ons genoeg geweest.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het eerste en tweede gedeelte van het Sjema bevatten beide de opdracht “schrijf ze”. Wie het daaropvolgende “opdat jullie dagen talrijk worden” reciteert, mag aannemen dat hij de tweede vermelding volgens zijn gewoonte heeft gelezen."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:16a:m1",
+      "locator": "Berakhot 16a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין האומנין קורין בראש האילן ובראש הנדבך מה שאינן רשאין לעשות כן בתפלה חתן פטור מק\"ש לילה הראשונה ועד מוצאי שבת אם לא עשה מעשה ומעשה בר\"ג שנשא אשה וקרא לילה הראשונה אמרו לו תלמידיו למדתנו רבינו שחתן פטור מק\"ש אמר להם איני שומע לכם לבטל הימני מלכות שמים אפי' שעה אחת:",
+      "nl": "Misjna. Ambachtslieden mogen boven in een boom of boven op een rij metselwerk het Sjema reciteren; voor het gebed mogen zij dat niet doen. Een bruidegom is vrijgesteld van het Sjema vanaf de eerste nacht tot de afloop van de sjabbat, als hij de gemeenschap nog niet heeft voltrokken. Eens trouwde Rabban Gamaliël met een vrouw en reciteerde hij op de eerste nacht. Zijn leerlingen zeiden tegen hem: ‘Onze meester, u hebt ons geleerd dat een bruidegom is vrijgesteld van het Sjema.’ Hij antwoordde: ‘Ik luister niet naar jullie wanneer jullie mij het koningschap van de hemel willen laten opgeven, zelfs maar voor één ogenblik.’",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De genoemde termijn veronderstelt de gebruikelijke trouwdag op woensdag. De grondtekst noemt die dag hier niet opnieuw."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:16a:g4",
+      "locator": "Berakhot 16a · Gemara · g4",
+      "layer": "gemara",
+      "original": "גמ' ת\"ר האומנין קורין בראש האילן ובראש הנדבך ומתפללין בראש הזית ובראש התאנה ושאר כל האילנות יורדים למטה ומתפללין ובעל הבית בין כך ובין כך יורד למטה ומתפלל לפי שאין דעתו מיושבת עליו רמי ליה רב מרי ברה דבת שמואל לרבא תנן האומנין קורין בראש האילן ובראש הנדבך אלמא לא בעי כונה ורמינהי הקורא את שמע צריך שיכוין את לבו שנאמר שמע ישראל ולהלן הוא אומר (דברים כז, ט) הסכת ושמע ישראל מה להלן בהסכת אף כאן בהסכת אשתיק א\"ל מידי שמיע לך בהא א\"ל הכי אמר רב ששת והוא שבטלין ממלאכתן וקורין והתניא בית הלל אומרים עוסקין במלאכתן וקורין לא קשיא הא בפרק ראשון הא בפרק שני ת\"ר הפועלים שהיו עושין מלאכה אצל בעל הבית קורין ק\"ש ומברכין לפניה ולאחריה ואוכלין פתן ומברכין לפניה ולאחריה ומתפללין תפלה של שמונה עשרה אבל אין יורדין לפני התיבה ואין נושאין כפיהם והתניא מעין י\"ח אמר רב ששת לא קשיא הא ר\"ג הא ר' יהושע אי ר' יהושע מאי איריא פועלים אפילו כל אדם נמי אלא אידי ואידי ר\"ג ולא קשיא כאן בעושין בשכרן כאן בעושין בסעודתן והתניא הפועלים שהיו עושים מלאכה אצל בעל הבית קורין ק\"ש ומתפללין ואוכלין פתן ואין מברכים לפניה אבל מברכין לאחריה שתים כיצד ברכה ראשונה כתקונה שניה פותח בברכת הארץ וכוללין בונה ירושלים בברכת הארץ במה דברים אמורים בעושין בשכרן אבל עושין בסעודתן או שהיה בעל הבית מיסב עמהן מברכין כתיקונה:",
+      "nl": "Gemara. Onze meesters leerden: ambachtslieden mogen boven in een boom of op een rij metselwerk het Sjema reciteren. Bidden mogen zij boven in een olijfboom of vijgenboom; uit alle andere bomen komen zij naar beneden om te bidden. De eigenaar komt in alle gevallen naar beneden om te bidden, omdat zijn aandacht daar niet tot rust komt. Rav Mari, de zoon van Sjemoeëls dochter, legde Rava een tegenspraak voor: wij leerden dat ambachtslieden boven in een boom of op een rij metselwerk mogen reciteren; blijkbaar is gerichte aandacht niet nodig. Maar er is toch geleerd: wie het Sjema reciteert moet zijn hart richten, want er staat ‘Hoor, Israël’, en elders ‘Wees stil en hoor, Israël’ (Deuteronomium 27:9). Zoals daar stilte nodig is, zo ook hier. Rava zweeg. Hij vroeg: ‘Heb je hierover iets gehoord?’ Rav Mari antwoordde: zo zei Rav Sjesjet: mits zij hun werk onderbreken en reciteren. Maar er is toch geleerd dat het huis van Hillel zegt dat zij mogen werken en reciteren! Geen moeilijkheid: het ene betreft het eerste gedeelte, het andere het tweede. Onze meesters leerden: arbeiders die bij een werkgever werken, reciteren het Sjema met de zegeningen ervoor en erna; zij eten hun brood en spreken de zegeningen ervoor en erna uit; en zij bidden het gebed van de achttien zegeningen. Zij gaan echter niet voor de lessenaar staan en heffen hun handen niet op. Maar er is toch geleerd: een samenvatting van de achttien! Rav Sjesjet zei: geen moeilijkheid: het ene volgt Rabban Gamaliël, het andere rabbi Jehosjoea. Als het rabbi Jehosjoea is, waarom worden juist arbeiders genoemd? Dat geldt dan toch voor iedereen! Beide volgen veeleer Rabban Gamaliël, en er is geen moeilijkheid: het ene betreft wie voor loon werkt, het andere wie voor de maaltijd werkt. Er is immers geleerd: arbeiders die bij een werkgever werken, reciteren het Sjema, bidden en eten hun brood. Zij zeggen geen zegening vooraf, maar achteraf twee. Hoe? De eerste zegening zoals voorgeschreven; de tweede beginnen zij met de zegening over het land, en daarin nemen zij ‘Die Jeruzalem bouwt’ op. Wanneer geldt dit? Als zij voor loon werken. Maar als zij voor de maaltijd werken of de werkgever met hen aanligt, spreken zij de zegeningen in de voorgeschreven vorm uit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Voor de lessenaar staan betekent voorgaan in het openbare gebed. De handen opheffen betreft hier de priesterzegen. De ingekorte vormen beperken de werktijd die voor de rituelen wordt gebruikt."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:16a:g5",
+      "locator": "Berakhot 16a · Gemara · g5",
+      "layer": "gemara",
+      "original": "חתן פטור מק\"ש:",
+      "nl": "Een bruidegom is vrijgesteld van het Sjema.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:16a:g6",
+      "locator": "Berakhot 16a · Gemara · g6",
+      "layer": "gemara",
+      "original": "תנו רבנן בשבתך בביתך פרט לעוסק במצוה ובלכתך בדרך פרט לחתן מכאן אמרו הכונס את הבתולה פטור ואת האלמנה חייב מאי משמע אמר רב פפא כי דרך מה דרך רשות אף הכא נמי רשות מי לא עסקינן דקאזיל לדבר מצוה ואפילו הכי אמר רחמנא ליקרי אם כן לימא קרא בלכת מאי בלכתך שמע מינה בלכת דידך הוא דמחייבת הא דמצוה פטירת",
+      "nl": "Onze meesters leerden: ‘wanneer je in je huis zit’ sluit iemand uit die met een gebod bezig is; ‘wanneer je onderweg bent’ sluit een bruidegom uit. Daarom zei men: wie met een maagd trouwt is vrijgesteld, en wie met een weduwe trouwt is verplicht. Hoe blijkt dat uit de woorden? Rav Papa zei: zoals de weg. Zoals de weg een vrijwillige bezigheid betreft, zo betreft het ook hier een vrijwillige bezigheid. Gaat de tekst soms niet óók over iemand die onderweg is voor een gebod, terwijl de Barmhartige hem toch zegt te reciteren? Dan had de Schrift ‘bij het gaan’ moeten zeggen. Waarom ‘bij jouw gaan’? Daaruit blijkt: bij je eigen gaan ben je verplicht; bij dat van een gebod ben je vrijgesteld.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De vraag over het huwelijk met een weduwe volgt op 16b."
+        }
+      ]
+    }
+  ]
+}

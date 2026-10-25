@@ -1,0 +1,77 @@
+{
+  "id": "11a",
+  "title": "11a · Houdingen en zegeningen bij het Sjema",
+  "scope": "Volledige hoofdtekst van amud 11a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%90_%D7%90&oldid=2851548",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:11a:g1",
+      "locator": "Berakhot 11a · Gemara · g1",
+      "layer": "gemara",
+      "original": "גמ' בשלמא ב\"ה קא מפרשי טעמייהו וטעמא דב\"ש אלא ב\"ש מ\"ט לא אמרי כב\"ה אמרי לך ב\"ש א\"כ נימא קרא בבקר ובערב מאי בשכבך ובקומך בשעת שכיבה שכיבה ממש ובשעת קימה קימה ממש וב\"ש האי ובלכתך בדרך מאי עביד להו ההוא מבעי להו לכדתניא בשבתך בביתך פרט לעוסק במצוה ובלכתך בדרך פרט לחתן מכאן אמרו הכונס את הבתולה פטור ואת האלמנה חייב מאי משמע אמר רב פפא כי דרך מה דרך רשות אף כל רשות מי לא עסקינן דקא אזיל לדבר מצוה ואפילו הכי אמר רחמנא לקרי אם כן לכתוב רחמנא בשבת ובלכת מאי בשבתך ובלכתך בשבת דידך ובלכת דידך הוא דמחייבת הא דמצוה פטירת אי הכי אפילו כונס את האלמנה נמי האי טריד והאי לא טריד אי משום טרדא אפילו טבעה ספינתו בים נמי וכי תימא ה\"נ אלמה א\"ר אבא בר זבדא אמר רב אבל חייב בכל המצות האמורות בתורה חוץ מן התפילין שהרי נאמר בהם פאר שנאמר (יחזקאל כד, יז) פארך חבוש עליך התם טריד טרדא דמצוה הכא טריד טרדא דרשות וב\"ש ההוא מבעי להו פרט לשלוחי מצוה וב\"ה אמרי ממילא ש\"מ דאפילו בדרך נמי קרי:",
+      "nl": "Gemara. Het is begrijpelijk dat het huis van Hillel zowel zijn eigen reden als die van het huis van Sjammai uitlegt. Maar waarom zegt het huis van Sjammai niet hetzelfde als het huis van Hillel? Het huis van Sjammai antwoordt: dan had de Schrift ‘in de ochtend en in de avond’ moeten zeggen. Wat betekent ‘wanneer je neerligt en wanneer je opstaat’? Op de tijd van neerliggen werkelijk neerliggen, en op de tijd van opstaan werkelijk staan. Wat doet het huis van Sjammai dan met ‘wanneer je onderweg bent’? Dat hebben zij nodig voor wat is geleerd: ‘wanneer je in je huis zit’ sluit iemand uit die met een gebod bezig is; ‘wanneer je onderweg bent’ sluit een bruidegom uit. Daarom zei men: wie met een maagd trouwt is vrijgesteld, en wie met een weduwe trouwt is verplicht. Hoe blijkt dat uit de woorden? Rav Papa zei: zoals de weg. Zoals de weg een vrijwillige bezigheid betreft, zo ook alle andere vrijwillige bezigheden. Gaat de tekst soms niet óók over iemand die onderweg is voor een gebod, terwijl de Barmhartige toch zegt dat hij moet reciteren? Dan had de Barmhartige ‘bij het zitten en bij het gaan’ moeten schrijven. Waarom ‘bij jouw zitten en bij jouw gaan’? Alleen bij jouw eigen zitten en gaan ben je verplicht; bij dat van een gebod ben je vrijgesteld. Als dat zo is, moet ook wie met een weduwe trouwt vrijgesteld zijn! Deze is in gedachten bezet en die niet. Als het om bezorgdheid gaat, dan ook iemand wiens schip op zee is gezonken! En als je zegt dat dit inderdaad zo is: waarom zei rabbi Abba bar Zavda dan namens Rav dat een rouwende verplicht is tot alle geboden die in de Tora genoemd worden, behalve de tefillien? Die worden immers ‘sieraad’ genoemd: ‘Bind je sieraad om’ (Ezechiël 24:17). Daar betreft de bezorgdheid een gebod; hier betreft zij een eigen aangelegenheid. En het huis van Sjammai heeft die uitdrukking nodig om gezanten voor een gebod uit te sluiten. Het huis van Hillel zegt: daaruit volgt vanzelf ook dat men onderweg mag reciteren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-11a-r2851548",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Tefillien zijn gebedsriemen met tekstkokertjes. De rouwende is hier iemand van wie het naaste familielid al begraven is."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:11a:g2",
+      "locator": "Berakhot 11a · Gemara · g2",
+      "layer": "gemara",
+      "original": "ת\"ר בה\"א עומדין וקורין יושבין וקורין ומטין וקורין הולכין בדרך וקורין עושין במלאכתן וקורין ומעשה ברבי ישמעאל ור' אלעזר בן עזריה שהיו מסובין במקום אחד והיה ר' ישמעאל מוטה ור' אלעזר בן עזריה זקוף כיון שהגיע זמן קריאת שמע הטה רבי אלעזר וזקף ר' ישמעאל אמר לו רבי אלעזר בן עזריה לר' ישמעאל ישמעאל אחי אמשול לך משל למה הדבר דומה משל לאחד שאומרים לו זקנך מגודל אמר להם יהיה כנגד המשחיתים אף כך אתה כל זמן שאני זקוף אתה מוטה עכשיו כשאני הטתי אתה זקפת אמר לו אני עשיתי כדברי ב\"ה ואתה עשית כדברי ב\"ש ולא עוד אלא שמא יראו התלמידים ויקבעו הלכה לדורות מאי ולא עוד וכי תימא בית הלל נמי אית להו מטין ה\"מ דמטה ואתא מעיקרא אבל הכא כיון דעד השתא הוית זקוף והשתא מוטה אמרי ש\"מ כב\"ש סבירא להו שמא יראו התלמידים ויקבעו הלכה לדורות. תני רב יחזקאל עשה כדברי ב\"ש עשה כדברי ב\"ה עשה רב יוסף אמר עשה כדברי ב\"ש לא עשה ולא כלום דתנן מי שהיה ראשו ורובו בסוכה ושלחנו בתוך הבית ב\"ש פוסלין וב\"ה מכשירין אמרו להם ב\"ה לב\"ש מעשה שהלכו זקני ב\"ש וזקני ב\"ה לבקר את ר' יוחנן בן החורנית מצאוהו שהיה ראשו ורובו בסוכה ושלחנו בתוך הבית ולא אמרו לו כלום אמרו להם משם ראיה אף הם אמרו לו א\"כ היית נוהג לא קיימת מצות סוכה מימיך רב נחמן בר יצחק אמר עשה כדברי בית שמאי חייב מיתה דתנן אמר ר\"ט אני הייתי בא בדרך והטתי לקרות כדברי ב\"ש וסכנתי בעצמי מפני הלסטים אמרו לו כדאי היית לחוב בעצמך שעברת על דברי ב\"ה:",
+      "nl": "Onze meesters leerden: het huis van Hillel zegt dat men staand, zittend, liggend, onderweg of tijdens het werk mag reciteren. Eens lagen rabbi Jisjmaël en rabbi Elazar ben Azarja samen aan. Rabbi Jisjmaël lag achterover en rabbi Elazar ben Azarja zat rechtop. Toen de tijd van het Sjema aanbrak, ging rabbi Elazar liggen en ging rabbi Jisjmaël rechtop zitten. Rabbi Elazar ben Azarja zei tegen rabbi Jisjmaël: ‘Mijn broer Jisjmaël, ik zal je een vergelijking geven. Waarop lijkt dit? Op iemand tegen wie men zegt: “Je baard is lang gegroeid”, en die antwoordt: “Laat hem maar tegenover degenen staan die hem afscheren.” Zo ook jij: zolang ik rechtop zat, lag jij; nu ik ben gaan liggen, ga jij rechtop zitten.’ Hij antwoordde: ‘Ik handelde volgens het huis van Hillel en jij volgens het huis van Sjammai. Bovendien zouden de leerlingen dit kunnen zien en er een blijvende regel van kunnen maken.’ Wat betekent ‘bovendien’? Je zou kunnen zeggen dat ook het huis van Hillel liggen toestaat. Dat geldt echter wanneer iemand al van tevoren lag. Maar omdat jij tot nu toe rechtop zat en nu ging liggen, kunnen zij zeggen: hieruit blijkt dat zij het huis van Sjammai volgen. De leerlingen zouden het kunnen zien en er een blijvende regel van maken. Rav Jechezkel leerde: wie volgens het huis van Sjammai handelt, heeft geldig gehandeld; wie volgens het huis van Hillel handelt, heeft geldig gehandeld. Rav Josef zei: wie volgens het huis van Sjammai handelt, heeft niets geldig verricht. Wij leerden immers: als iemands hoofd en het grootste deel van zijn lichaam in de loofhut zijn, maar zijn tafel in het huis staat, verklaart het huis van Sjammai dit ongeldig en het huis van Hillel geldig. Het huis van Hillel zei tegen het huis van Sjammai: eens gingen de oudsten van beide huizen rabbi Jochanan ben Ha-Choranit bezoeken. Zij troffen hem aan met zijn hoofd en het grootste deel van zijn lichaam in de loofhut, terwijl zijn tafel in huis stond, en zij zeiden hem niets. Zij antwoordden: halen jullie daar een bewijs uit? Zij zeiden juist tegen hem: ‘Als je dit gewoon was te doen, heb je van je leven het gebod van de loofhut niet vervuld.’ Rav Nachman bar Jitschak zei: wie volgens het huis van Sjammai handelt, verdient de dood. Wij leerden immers: rabbi Tarfon zei: ‘Ik was eens onderweg en legde mij neer om volgens het huis van Sjammai te reciteren. Daardoor bracht ik mijzelf in gevaar vanwege rovers.’ Zij zeiden tegen hem: ‘Je had het aan jezelf te wijten als je schade had opgelopen, omdat je de woorden van het huis van Hillel had overtreden.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-11a-r2851548",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "De baardvergelijking is beknopt en spreekwoordelijk: de reactie verzet zich kennelijk tegen de voorgestelde verandering. De vertaling behoudt het beeld zonder er een stellige uitleg aan toe te voegen."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:11a:m1",
+      "locator": "Berakhot 11a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' בשחר מברך שתים לפניה ואחת לאחריה ובערב מברך שתים לפניה ושתים לאחריה אחת ארוכה ואחת קצרה מקום שאמרו להאריך אינו רשאי לקצר לקצר אינו רשאי להאריך לחתום אינו רשאי שלא לחתום שלא לחתום אינו רשאי לחתום.",
+      "nl": "Misjna. ’s Morgens spreekt men twee zegeningen vóór het Sjema en één erna uit; ’s avonds twee ervoor en twee erna, één lange en één korte. Waar men heeft voorgeschreven lang te spreken, mag men niet inkorten; waar men heeft voorgeschreven kort te spreken, mag men niet verlengen. Waar men moet afsluiten met een zegenspreuk, mag men die niet achterwege laten; waar men niet zo moet afsluiten, mag men geen zegenspreuk toevoegen.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-11a-r2851548",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:11a:g3",
+      "locator": "Berakhot 11a · Gemara · g3",
+      "layer": "gemara",
+      "original": "גמ' מאי מברך אמר ר' יעקב א\"ר אושעיא",
+      "nl": "Gemara. Welke zegening spreekt men uit? Rabbi Jaäkov zei namens rabbi Hosjaja:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-11a-r2851548",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De zegening zelf volgt op 11b."
+        }
+      ]
+    }
+  ]
+}

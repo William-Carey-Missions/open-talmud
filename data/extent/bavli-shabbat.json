@@ -1,0 +1,1704 @@
+{
+  "corpus": "bavli",
+  "tractate": "shabbat",
+  "title": "Sjabbat",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%A9%D7%91%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&oldid=1311617",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:49:51.056925+00:00",
+  "htmlSha256": "ac42368db972ec14c2252673d65319581507e422c1397e8516fb536ecc9f018b",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33278964#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&oldid=1311617",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&id=1311617&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25A9%25D7%2591%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33278964",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי שבת פרק א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%91_%D7%90",
+      "title": "שבת ב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%91_%D7%91",
+      "title": "שבת ב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%92_%D7%90",
+      "title": "שבת ג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%92_%D7%91",
+      "title": "שבת ג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%93_%D7%90",
+      "title": "שבת ד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%93_%D7%91",
+      "title": "שבת ד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%94_%D7%90",
+      "title": "שבת ה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%94_%D7%91",
+      "title": "שבת ה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%95_%D7%90",
+      "title": "שבת ו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%95_%D7%91",
+      "title": "שבת ו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%96_%D7%90",
+      "title": "שבת ז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%96_%D7%91",
+      "title": "שבת ז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%97_%D7%90",
+      "title": "שבת ח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%97_%D7%91",
+      "title": "שבת ח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98_%D7%90",
+      "title": "שבת ט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98_%D7%91",
+      "title": "שבת ט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99_%D7%90",
+      "title": "שבת י א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99_%D7%91",
+      "title": "שבת י ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "שבת יא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "שבת יא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "שבת יב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "שבת יב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "שבת יג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "שבת יג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "שבת יד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%93_%D7%91",
+      "title": "שבת יד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "שבת טו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "שבת טו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98%D7%96_%D7%90",
+      "title": "שבת טז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%98%D7%96_%D7%91",
+      "title": "שבת טז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%96_%D7%90",
+      "title": "שבת יז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "שבת יז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%97_%D7%90",
+      "title": "שבת יח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "שבת יח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%98_%D7%90",
+      "title": "שבת יט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "שבת יט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B_%D7%90",
+      "title": "שבת כ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B_%D7%91",
+      "title": "שבת כ ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי שבת פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B_%D7%91",
+      "title": "שבת כ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%90_%D7%90",
+      "title": "שבת כא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%90_%D7%91",
+      "title": "שבת כא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%91_%D7%90",
+      "title": "שבת כב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%91_%D7%91",
+      "title": "שבת כב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%92_%D7%90",
+      "title": "שבת כג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%92_%D7%91",
+      "title": "שבת כג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%93_%D7%90",
+      "title": "שבת כד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%93_%D7%91",
+      "title": "שבת כד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%94_%D7%90",
+      "title": "שבת כה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%94_%D7%91",
+      "title": "שבת כה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "שבת כו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%95_%D7%91",
+      "title": "שבת כו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%96_%D7%90",
+      "title": "שבת כז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%96_%D7%91",
+      "title": "שבת כז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%97_%D7%90",
+      "title": "שבת כח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%97_%D7%91",
+      "title": "שבת כח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%98_%D7%90",
+      "title": "שבת כט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%98_%D7%91",
+      "title": "שבת כט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C_%D7%90",
+      "title": "שבת ל א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C_%D7%91",
+      "title": "שבת ל ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%90_%D7%90",
+      "title": "שבת לא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%90_%D7%91",
+      "title": "שבת לא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%91_%D7%90",
+      "title": "שבת לב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%91_%D7%91",
+      "title": "שבת לב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%92_%D7%90",
+      "title": "שבת לג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%92_%D7%91",
+      "title": "שבת לג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%93_%D7%90",
+      "title": "שבת לד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%93_%D7%91",
+      "title": "שבת לד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%94_%D7%90",
+      "title": "שבת לה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%94_%D7%91",
+      "title": "שבת לה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%95_%D7%90",
+      "title": "שבת לו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "שבת לו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי שבת פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "שבת לו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%96_%D7%90",
+      "title": "שבת לז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%96_%D7%91",
+      "title": "שבת לז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%97_%D7%90",
+      "title": "שבת לח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%97_%D7%91",
+      "title": "שבת לח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%98_%D7%90",
+      "title": "שבת לט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9C%D7%98_%D7%91",
+      "title": "שבת לט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E_%D7%90",
+      "title": "שבת מ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E_%D7%91",
+      "title": "שבת מ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%90_%D7%90",
+      "title": "שבת מא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%90_%D7%91",
+      "title": "שבת מא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%91_%D7%90",
+      "title": "שבת מב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%91_%D7%91",
+      "title": "שבת מב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%92_%D7%90",
+      "title": "שבת מג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%92_%D7%91",
+      "title": "שבת מג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%93_%D7%90",
+      "title": "שבת מד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%93_%D7%91",
+      "title": "שבת מד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%94_%D7%90",
+      "title": "שבת מה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%94_%D7%91",
+      "title": "שבת מה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%95_%D7%90",
+      "title": "שבת מו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%95_%D7%91",
+      "title": "שבת מו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%96_%D7%90",
+      "title": "שבת מז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%96_%D7%91",
+      "title": "שבת מז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי שבת פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%96_%D7%91",
+      "title": "שבת מז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%97_%D7%90",
+      "title": "שבת מח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%97_%D7%91",
+      "title": "שבת מח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%98_%D7%90",
+      "title": "שבת מט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%9E%D7%98_%D7%91",
+      "title": "שבת מט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0_%D7%90",
+      "title": "שבת נ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0_%D7%91",
+      "title": "שבת נ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%90_%D7%90",
+      "title": "שבת נא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%90_%D7%91",
+      "title": "שבת נא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי שבת פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%90_%D7%91",
+      "title": "שבת נא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%91_%D7%90",
+      "title": "שבת נב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%91_%D7%91",
+      "title": "שבת נב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%92_%D7%90",
+      "title": "שבת נג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%92_%D7%91",
+      "title": "שבת נג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%93_%D7%90",
+      "title": "שבת נד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%93_%D7%91",
+      "title": "שבת נד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%94_%D7%90",
+      "title": "שבת נה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%94_%D7%91",
+      "title": "שבת נה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%95_%D7%90",
+      "title": "שבת נו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%95_%D7%91",
+      "title": "שבת נו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי שבת פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%96_%D7%90",
+      "title": "שבת נז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%96_%D7%91",
+      "title": "שבת נז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%97_%D7%90",
+      "title": "שבת נח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%97_%D7%91",
+      "title": "שבת נח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%98_%D7%90",
+      "title": "שבת נט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A0%D7%98_%D7%91",
+      "title": "שבת נט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1_%D7%90",
+      "title": "שבת ס א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1_%D7%91",
+      "title": "שבת ס ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%90_%D7%90",
+      "title": "שבת סא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%90_%D7%91",
+      "title": "שבת סא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%91_%D7%90",
+      "title": "שבת סב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%91_%D7%91",
+      "title": "שבת סב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%92_%D7%90",
+      "title": "שבת סג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%92_%D7%91",
+      "title": "שבת סג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%93_%D7%90",
+      "title": "שבת סד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%93_%D7%91",
+      "title": "שבת סד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%94_%D7%90",
+      "title": "שבת סה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%94_%D7%91",
+      "title": "שבת סה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%95_%D7%90",
+      "title": "שבת סו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%95_%D7%91",
+      "title": "שבת סו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%96_%D7%90",
+      "title": "שבת סז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%96_%D7%91",
+      "title": "שבת סז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי שבת פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%96_%D7%91",
+      "title": "שבת סז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%97_%D7%90",
+      "title": "שבת סח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%97_%D7%91",
+      "title": "שבת סח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%98_%D7%90",
+      "title": "שבת סט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A1%D7%98_%D7%91",
+      "title": "שבת סט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2_%D7%90",
+      "title": "שבת ע א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2_%D7%91",
+      "title": "שבת ע ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%90_%D7%90",
+      "title": "שבת עא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%90_%D7%91",
+      "title": "שבת עא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%91_%D7%90",
+      "title": "שבת עב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%91_%D7%91",
+      "title": "שבת עב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%92_%D7%90",
+      "title": "שבת עג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%92_%D7%91",
+      "title": "שבת עג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%93_%D7%90",
+      "title": "שבת עד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%93_%D7%91",
+      "title": "שבת עד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%94_%D7%90",
+      "title": "שבת עה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%94_%D7%91",
+      "title": "שבת עה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%95_%D7%90",
+      "title": "שבת עו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%95_%D7%91",
+      "title": "שבת עו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי שבת פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%95_%D7%91",
+      "title": "שבת עו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%96_%D7%90",
+      "title": "שבת עז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%96_%D7%91",
+      "title": "שבת עז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%97_%D7%90",
+      "title": "שבת עח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%97_%D7%91",
+      "title": "שבת עח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%98_%D7%90",
+      "title": "שבת עט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A2%D7%98_%D7%91",
+      "title": "שבת עט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4_%D7%90",
+      "title": "שבת פ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4_%D7%91",
+      "title": "שבת פ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%90_%D7%90",
+      "title": "שבת פא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%90_%D7%91",
+      "title": "שבת פא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%91_%D7%90",
+      "title": "שבת פב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%98",
+      "title": "בבלי שבת פרק ט"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%91_%D7%90",
+      "title": "שבת פב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%91_%D7%91",
+      "title": "שבת פב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%92_%D7%90",
+      "title": "שבת פג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%92_%D7%91",
+      "title": "שבת פג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%93_%D7%90",
+      "title": "שבת פד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%93_%D7%91",
+      "title": "שבת פד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%94_%D7%90",
+      "title": "שבת פה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%94_%D7%91",
+      "title": "שבת פה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%95_%D7%90",
+      "title": "שבת פו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%95_%D7%91",
+      "title": "שבת פו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%96_%D7%90",
+      "title": "שבת פז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%96_%D7%91",
+      "title": "שבת פז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%97_%D7%90",
+      "title": "שבת פח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%97_%D7%91",
+      "title": "שבת פח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%98_%D7%90",
+      "title": "שבת פט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A4%D7%98_%D7%91",
+      "title": "שבת פט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6_%D7%90",
+      "title": "שבת צ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6_%D7%91",
+      "title": "שבת צ ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99",
+      "title": "בבלי שבת פרק י"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6_%D7%91",
+      "title": "שבת צ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%90_%D7%90",
+      "title": "שבת צא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%90_%D7%91",
+      "title": "שבת צא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%91_%D7%90",
+      "title": "שבת צב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%91_%D7%91",
+      "title": "שבת צב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%92_%D7%90",
+      "title": "שבת צג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%92_%D7%91",
+      "title": "שבת צג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%93_%D7%90",
+      "title": "שבת צד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%93_%D7%91",
+      "title": "שבת צד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%94_%D7%90",
+      "title": "שבת צה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%94_%D7%91",
+      "title": "שבת צה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%95_%D7%90",
+      "title": "שבת צו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%90",
+      "title": "בבלי שבת פרק יא"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%95_%D7%90",
+      "title": "שבת צו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%95_%D7%91",
+      "title": "שבת צו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%96_%D7%90",
+      "title": "שבת צז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%96_%D7%91",
+      "title": "שבת צז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%97_%D7%90",
+      "title": "שבת צח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%97_%D7%91",
+      "title": "שבת צח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%98_%D7%90",
+      "title": "שבת צט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A6%D7%98_%D7%91",
+      "title": "שבת צט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7_%D7%90",
+      "title": "שבת ק א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7_%D7%91",
+      "title": "שבת ק ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%90_%D7%90",
+      "title": "שבת קא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%90_%D7%91",
+      "title": "שבת קא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%91_%D7%90",
+      "title": "שבת קב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%91",
+      "title": "בבלי שבת פרק יב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%91_%D7%91",
+      "title": "שבת קב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%92_%D7%90",
+      "title": "שבת קג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%92_%D7%91",
+      "title": "שבת קג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%93_%D7%90",
+      "title": "שבת קד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%93_%D7%91",
+      "title": "שבת קד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%94_%D7%90",
+      "title": "שבת קה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%92",
+      "title": "בבלי שבת פרק יג"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%94_%D7%90",
+      "title": "שבת קה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%94_%D7%91",
+      "title": "שבת קה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%95_%D7%90",
+      "title": "שבת קו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%95_%D7%91",
+      "title": "שבת קו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%96_%D7%90",
+      "title": "שבת קז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%93",
+      "title": "בבלי שבת פרק יד"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%96_%D7%90",
+      "title": "שבת קז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%96_%D7%91",
+      "title": "שבת קז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%97_%D7%90",
+      "title": "שבת קח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%97_%D7%91",
+      "title": "שבת קח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98_%D7%90",
+      "title": "שבת קט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98_%D7%91",
+      "title": "שבת קט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99_%D7%90",
+      "title": "שבת קי א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99_%D7%91",
+      "title": "שבת קי ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%90_%D7%90",
+      "title": "שבת קיא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%90_%D7%91",
+      "title": "שבת קיא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%98%D7%95",
+      "title": "בבלי שבת פרק טו"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%90_%D7%91",
+      "title": "שבת קיא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%91_%D7%90",
+      "title": "שבת קיב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%91_%D7%91",
+      "title": "שבת קיב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%92_%D7%90",
+      "title": "שבת קיג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%92_%D7%91",
+      "title": "שבת קיג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%93_%D7%90",
+      "title": "שבת קיד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%93_%D7%91",
+      "title": "שבת קיד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98%D7%95_%D7%90",
+      "title": "שבת קטו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%98%D7%96",
+      "title": "בבלי שבת פרק טז"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98%D7%95_%D7%90",
+      "title": "שבת קטו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98%D7%95_%D7%91",
+      "title": "שבת קטו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98%D7%96_%D7%90",
+      "title": "שבת קטז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%98%D7%96_%D7%91",
+      "title": "שבת קטז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%96_%D7%90",
+      "title": "שבת קיז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%96_%D7%91",
+      "title": "שבת קיז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%97_%D7%90",
+      "title": "שבת קיח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%97_%D7%91",
+      "title": "שבת קיח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%98_%D7%90",
+      "title": "שבת קיט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%99%D7%98_%D7%91",
+      "title": "שבת קיט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B_%D7%90",
+      "title": "שבת קכ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B_%D7%91",
+      "title": "שבת קכ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%90_%D7%90",
+      "title": "שבת קכא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%90_%D7%91",
+      "title": "שבת קכא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%91_%D7%90",
+      "title": "שבת קכב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%91_%D7%91",
+      "title": "שבת קכב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%96",
+      "title": "בבלי שבת פרק יז"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%91_%D7%91",
+      "title": "שבת קכב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%92_%D7%90",
+      "title": "שבת קכג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%92_%D7%91",
+      "title": "שבת קכג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%93_%D7%90",
+      "title": "שבת קכד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%93_%D7%91",
+      "title": "שבת קכד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%94_%D7%90",
+      "title": "שבת קכה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%94_%D7%91",
+      "title": "שבת קכה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%95_%D7%90",
+      "title": "שבת קכו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%95_%D7%91",
+      "title": "שבת קכו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%97",
+      "title": "בבלי שבת פרק יח"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%95_%D7%91",
+      "title": "שבת קכו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%96_%D7%90",
+      "title": "שבת קכז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%96_%D7%91",
+      "title": "שבת קכז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%97_%D7%90",
+      "title": "שבת קכח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%97_%D7%91",
+      "title": "שבת קכח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%98_%D7%90",
+      "title": "שבת קכט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9B%D7%98_%D7%91",
+      "title": "שבת קכט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%98",
+      "title": "בבלי שבת פרק יט"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C_%D7%90",
+      "title": "שבת קל א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C_%D7%91",
+      "title": "שבת קל ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%90_%D7%90",
+      "title": "שבת קלא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%90_%D7%91",
+      "title": "שבת קלא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%91_%D7%90",
+      "title": "שבת קלב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%91_%D7%91",
+      "title": "שבת קלב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%92_%D7%90",
+      "title": "שבת קלג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%92_%D7%91",
+      "title": "שבת קלג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%93_%D7%90",
+      "title": "שבת קלד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%93_%D7%91",
+      "title": "שבת קלד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%94_%D7%90",
+      "title": "שבת קלה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%94_%D7%91",
+      "title": "שבת קלה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%95_%D7%90",
+      "title": "שבת קלו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%95_%D7%91",
+      "title": "שבת קלו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%96_%D7%90",
+      "title": "שבת קלז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%96_%D7%91",
+      "title": "שבת קלז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%9B",
+      "title": "בבלי שבת פרק כ"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%96_%D7%91",
+      "title": "שבת קלז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%97_%D7%90",
+      "title": "שבת קלח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%97_%D7%91",
+      "title": "שבת קלח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%98_%D7%90",
+      "title": "שבת קלט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9C%D7%98_%D7%91",
+      "title": "שבת קלט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E_%D7%90",
+      "title": "שבת קמ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E_%D7%91",
+      "title": "שבת קמ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%90_%D7%90",
+      "title": "שבת קמא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%90_%D7%91",
+      "title": "שבת קמא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%9B%D7%90",
+      "title": "בבלי שבת פרק כא"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%90_%D7%91",
+      "title": "שבת קמא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%91_%D7%90",
+      "title": "שבת קמב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%91_%D7%91",
+      "title": "שבת קמב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%92_%D7%90",
+      "title": "שבת קמג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%9B%D7%91",
+      "title": "בבלי שבת פרק כב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%92_%D7%91",
+      "title": "שבת קמג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%93_%D7%90",
+      "title": "שבת קמד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%93_%D7%91",
+      "title": "שבת קמד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%94_%D7%90",
+      "title": "שבת קמה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%94_%D7%91",
+      "title": "שבת קמה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%95_%D7%90",
+      "title": "שבת קמו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%95_%D7%91",
+      "title": "שבת קמו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%96_%D7%90",
+      "title": "שבת קמז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%96_%D7%91",
+      "title": "שבת קמז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%97_%D7%90",
+      "title": "שבת קמח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%9B%D7%92",
+      "title": "בבלי שבת פרק כג"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%97_%D7%90",
+      "title": "שבת קמח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%97_%D7%91",
+      "title": "שבת קמח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%98_%D7%90",
+      "title": "שבת קמט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%9E%D7%98_%D7%91",
+      "title": "שבת קמט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0_%D7%90",
+      "title": "שבת קנ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0_%D7%91",
+      "title": "שבת קנ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%90_%D7%90",
+      "title": "שבת קנא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%90_%D7%91",
+      "title": "שבת קנא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%91_%D7%90",
+      "title": "שבת קנב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%91_%D7%91",
+      "title": "שבת קנב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%92_%D7%90",
+      "title": "שבת קנג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%9B%D7%93",
+      "title": "בבלי שבת פרק כד"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%92_%D7%90",
+      "title": "שבת קנג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%92_%D7%91",
+      "title": "שבת קנג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%93_%D7%90",
+      "title": "שבת קנד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%93_%D7%91",
+      "title": "שבת קנד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%94_%D7%90",
+      "title": "שבת קנה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%94_%D7%91",
+      "title": "שבת קנה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%95_%D7%90",
+      "title": "שבת קנו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%95_%D7%91",
+      "title": "שבת קנו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%96_%D7%90",
+      "title": "שבת קנז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%AA_%D7%A7%D7%A0%D7%96_%D7%91",
+      "title": "שבת קנז ב"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_שבת&oldid=1311617"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%91%D7%AA",
+      "title": "קטגוריה:בבלי מסכת שבת"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

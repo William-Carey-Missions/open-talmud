@@ -1,0 +1,911 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "yoma",
+  "title": "Joma",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%99%D7%95%D7%9E%D7%90",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&oldid=743014",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%99%D7%95%D7%9E%D7%90&action=history",
+  "retrievedAt": "2026-10-25T16:51:21.881477+00:00",
+  "htmlSha256": "59ee316fccd74932c33420bfd18d89f5aff636916bf65691592f357457444d77",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%99%D7%95%D7%9E%D7%90",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%99%D7%95%D7%9E%D7%90",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%99%D7%95%D7%9E%D7%90",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%99%D7%95%D7%9E%D7%90",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q139825091#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&oldid=743014",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&id=743014&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%2599%25D7%2595%25D7%259E%25D7%2590"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q139825091",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "ירושלמי מסכת שקלים",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "מסכת יומא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "ירושלמי מסכת סוכה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "הטקסט בספר זה הושלם"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90",
+      "title": "ירושלמי יומא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%90",
+      "title": "ירושלמי יומא א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%91",
+      "title": "ירושלמי יומא א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%92",
+      "title": "ירושלמי יומא א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%93",
+      "title": "ירושלמי יומא א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%94",
+      "title": "ירושלמי יומא א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%95",
+      "title": "ירושלמי יומא א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%96",
+      "title": "ירושלמי יומא א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%90_%D7%97",
+      "title": "ירושלמי יומא א ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%91",
+      "title": "ירושלמי יומא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%91_%D7%90",
+      "title": "ירושלמי יומא ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%91_%D7%91",
+      "title": "ירושלמי יומא ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%91_%D7%92",
+      "title": "ירושלמי יומא ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%91_%D7%93",
+      "title": "ירושלמי יומא ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92",
+      "title": "ירושלמי יומא ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%90",
+      "title": "ירושלמי יומא ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%91",
+      "title": "ירושלמי יומא ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%92",
+      "title": "ירושלמי יומא ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%93",
+      "title": "ירושלמי יומא ג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%94",
+      "title": "ירושלמי יומא ג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%95",
+      "title": "ירושלמי יומא ג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%96",
+      "title": "ירושלמי יומא ג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%97",
+      "title": "ירושלמי יומא ג ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%92_%D7%98",
+      "title": "ירושלמי יומא ג ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93",
+      "title": "ירושלמי יומא ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%90",
+      "title": "ירושלמי יומא ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%91",
+      "title": "ירושלמי יומא ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%92",
+      "title": "ירושלמי יומא ד ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%93",
+      "title": "ירושלמי יומא ד ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%94",
+      "title": "ירושלמי יומא ד ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93_%D7%95",
+      "title": "ירושלמי יומא ד ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94",
+      "title": "ירושלמי יומא ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%90",
+      "title": "ירושלמי יומא ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%91",
+      "title": "ירושלמי יומא ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%92",
+      "title": "ירושלמי יומא ה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%93",
+      "title": "ירושלמי יומא ה ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%94",
+      "title": "ירושלמי יומא ה ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%95",
+      "title": "ירושלמי יומא ה ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%94_%D7%96",
+      "title": "ירושלמי יומא ה ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95",
+      "title": "ירושלמי יומא ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%90",
+      "title": "ירושלמי יומא ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%91",
+      "title": "ירושלמי יומא ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%92",
+      "title": "ירושלמי יומא ו ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%93",
+      "title": "ירושלמי יומא ו ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%94",
+      "title": "ירושלמי יומא ו ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%95",
+      "title": "ירושלמי יומא ו ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%95_%D7%96",
+      "title": "ירושלמי יומא ו ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%96",
+      "title": "ירושלמי יומא ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%96_%D7%90",
+      "title": "ירושלמי יומא ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%96_%D7%91",
+      "title": "ירושלמי יומא ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%96_%D7%92",
+      "title": "ירושלמי יומא ז ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97",
+      "title": "ירושלמי יומא ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%90",
+      "title": "ירושלמי יומא ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%91",
+      "title": "ירושלמי יומא ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%92",
+      "title": "ירושלמי יומא ח ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%93",
+      "title": "ירושלמי יומא ח ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%94",
+      "title": "ירושלמי יומא ח ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%95",
+      "title": "ירושלמי יומא ח ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%97_%D7%96",
+      "title": "ירושלמי יומא ח ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%90_%D7%90",
+      "title": "ירושלמי יומא דף א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%91_%D7%90",
+      "title": "ירושלמי יומא דף ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%92_%D7%90",
+      "title": "ירושלמי יומא דף ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%92_%D7%91",
+      "title": "ירושלמי יומא דף ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%93_%D7%90",
+      "title": "ירושלמי יומא דף ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%93_%D7%91",
+      "title": "ירושלמי יומא דף ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%94_%D7%90",
+      "title": "ירושלמי יומא דף ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%94_%D7%91",
+      "title": "ירושלמי יומא דף ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%95_%D7%90",
+      "title": "ירושלמי יומא דף ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%95_%D7%91",
+      "title": "ירושלמי יומא דף ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%96_%D7%90",
+      "title": "ירושלמי יומא דף ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%96_%D7%91",
+      "title": "ירושלמי יומא דף ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%97_%D7%90",
+      "title": "ירושלמי יומא דף ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%97_%D7%91",
+      "title": "ירושלמי יומא דף ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98_%D7%90",
+      "title": "ירושלמי יומא דף ט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98_%D7%91",
+      "title": "ירושלמי יומא דף ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99_%D7%90",
+      "title": "ירושלמי יומא דף י א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99_%D7%91",
+      "title": "ירושלמי יומא דף י ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%90_%D7%90",
+      "title": "ירושלמי יומא דף יא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף יא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%91_%D7%90",
+      "title": "ירושלמי יומא דף יב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%91_%D7%91",
+      "title": "ירושלמי יומא דף יב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%92_%D7%90",
+      "title": "ירושלמי יומא דף יג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%92_%D7%91",
+      "title": "ירושלמי יומא דף יג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%93_%D7%90",
+      "title": "ירושלמי יומא דף יד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%93_%D7%91",
+      "title": "ירושלמי יומא דף יד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98%D7%95_%D7%90",
+      "title": "ירושלמי יומא דף טו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98%D7%95_%D7%91",
+      "title": "ירושלמי יומא דף טו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98%D7%96_%D7%90",
+      "title": "ירושלמי יומא דף טז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98%D7%96_%D7%91",
+      "title": "ירושלמי יומא דף טז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%96_%D7%90",
+      "title": "ירושלמי יומא דף יז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%96_%D7%91",
+      "title": "ירושלמי יומא דף יז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%97_%D7%90",
+      "title": "ירושלמי יומא דף יח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%97_%D7%91",
+      "title": "ירושלמי יומא דף יח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%98_%D7%90",
+      "title": "ירושלמי יומא דף יט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%99%D7%98_%D7%91",
+      "title": "ירושלמי יומא דף יט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B_%D7%90",
+      "title": "ירושלמי יומא דף כ א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B_%D7%91",
+      "title": "ירושלמי יומא דף כ ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%90_%D7%90",
+      "title": "ירושלמי יומא דף כא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף כא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%91_%D7%90",
+      "title": "ירושלמי יומא דף כב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%91_%D7%91",
+      "title": "ירושלמי יומא דף כב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%92_%D7%90",
+      "title": "ירושלמי יומא דף כג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%92_%D7%91",
+      "title": "ירושלמי יומא דף כג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%93_%D7%90",
+      "title": "ירושלמי יומא דף כד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%93_%D7%91",
+      "title": "ירושלמי יומא דף כד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%94_%D7%90",
+      "title": "ירושלמי יומא דף כה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%94_%D7%91",
+      "title": "ירושלמי יומא דף כה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%95_%D7%90",
+      "title": "ירושלמי יומא דף כו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%95_%D7%91",
+      "title": "ירושלמי יומא דף כו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%96_%D7%90",
+      "title": "ירושלמי יומא דף כז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%96_%D7%91",
+      "title": "ירושלמי יומא דף ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%97_%D7%90",
+      "title": "ירושלמי יומא דף כח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%97_%D7%91",
+      "title": "ירושלמי יומא דף ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9B%D7%98_%D7%90",
+      "title": "ירושלמי יומא דף כט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%98_%D7%91",
+      "title": "ירושלמי יומא דף ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C_%D7%90",
+      "title": "ירושלמי יומא דף ל א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C_%D7%91",
+      "title": "ירושלמי יומא דף ל ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%90_%D7%90",
+      "title": "ירושלמי יומא דף לא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף לא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%91_%D7%90",
+      "title": "ירושלמי יומא דף לב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%91_%D7%91",
+      "title": "ירושלמי יומא דף לב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%92_%D7%90",
+      "title": "ירושלמי יומא דף לג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%92_%D7%91",
+      "title": "ירושלמי יומא דף לג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%93_%D7%90",
+      "title": "ירושלמי יומא דף לד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%93_%D7%91",
+      "title": "ירושלמי יומא דף לד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%94_%D7%90",
+      "title": "ירושלמי יומא דף לה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%94_%D7%91",
+      "title": "ירושלמי יומא דף לה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%95_%D7%90",
+      "title": "ירושלמי יומא דף לו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%95_%D7%91",
+      "title": "ירושלמי יומא דף לו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%96_%D7%90",
+      "title": "ירושלמי יומא דף לז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%96_%D7%91",
+      "title": "ירושלמי יומא דף לז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%97_%D7%90",
+      "title": "ירושלמי יומא דף לח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%97_%D7%91",
+      "title": "ירושלמי יומא דף לח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%98_%D7%90",
+      "title": "ירושלמי יומא דף לט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9C%D7%98_%D7%91",
+      "title": "ירושלמי יומא דף לט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E_%D7%90",
+      "title": "ירושלמי יומא דף מ א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E_%D7%91",
+      "title": "ירושלמי יומא דף מ ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E%D7%90_%D7%90",
+      "title": "ירושלמי יומא דף מא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E%D7%90_%D7%91",
+      "title": "ירושלמי יומא דף מא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E%D7%91_%D7%90",
+      "title": "ירושלמי יומא דף מב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90_%D7%93%D7%A3_%D7%9E%D7%91_%D7%91",
+      "title": "ירושלמי יומא דף מב ב"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "משנה מסכת יומא",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%99%D7%95%D7%9E%D7%90",
+      "title": "תוספתא/יומא"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "בבלי מסכת יומא",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "ביאור:ירושלמי מאיר/מסכת יומא"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "w:מסכת יומא",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_יומא&oldid=743014"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "קטגוריה:ספרים מושלמים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "קטגוריה:ירושלמי מסכת יומא"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "קטגוריה:מסכת יומא"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%99%D7%95%D7%9E%D7%90&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "24b",
+  "title": "24b · Lichamelijke onderbrekingen en onreine plaatsen",
+  "scope": "Volledige hoofdtekst van amud 24b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 24b — ongevocaliseerde Wikisource-editie, revisie 2851521; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%93_%D7%91&oldid=2851521",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:24b:g1",
+      "locator": "Berakhot 24b · Gemara · 1",
+      "layer": "gemara",
+      "original": "וממשמש בבגדו אבל לא היה מתעטף וכשהוא מפהק היה מניח ידו על סנטרו מיתיבי המשמיע קולו בתפלתו הרי זה מקטני אמנה המגביה קולו בתפלתו הרי זה מנביאי השקר מגהק ומפהק הרי זה מגסי הרוח המתעטש בתפלתו סימן רע לו ויש אומרים ניכר שהוא מכוער הרק בתפלתו כאילו רק בפני המלך בשלמא מגהק ומפהק לא קשיא כאן לאונסו כאן לרצונו אלא מתעטש אמתעטש קשיא מתעטש אמתעטש נמי לא קשיא כאן מלמעלה כאן מלמטה דאמר רב זירא הא מילתא אבלעא לי בי רב המנונא ותקילא לי כי כולי תלמודאי המתעטש בתפלתו סימן יפה לו כשם שעושים לו נחת רוח מלמטה כך עושין לו נחת רוח מלמעלה אלא רק ארק קשיא רק ארק נמי לא קשיא אפשר כדרב יהודה דאמר רב יהודה היה עומד בתפלה ונזדמן לו רוק מבליעו בטליתו ואם טלית נאה הוא מבליעו באפרקסותו רבינא הוה קאי אחורי דרב אשי נזדמן לו רוק פתקיה לאחוריה א\"ל לא סבר לה מר להא דרב יהודה מבליעו באפרקסותו א\"ל אנא אנינא דעתאי:",
+      "nl": "...en zijn kleding betastte, maar zich niet opnieuw in zijn mantel hulde. Als hij gaapte, legde hij zijn hand op zijn kin. Men wierp tegen: wie zijn stem bij het gebed hoorbaar maakt, behoort tot de kleingelovigen; wie zijn stem bij het gebed verheft, behoort tot de valse profeten. Wie boert en gaapt, behoort tot de hoogmoedigen. Wie tijdens het gebed niest, krijgt een ongunstig teken; sommigen zeggen: het blijkt dat hij afstotelijk is. Wie tijdens het gebed spuugt, is alsof hij de koning in het gezicht spuugt! Bij boeren en gapen is er geen moeilijkheid: het ene geval is onvrijwillig, het andere vrijwillig. Maar niezen spreekt niezen toch tegen! Ook dat is geen moeilijkheid: het ene gaat over boven, het andere over onder. Want Rav Zeïra zei: dit werd mij in het leerhuis van Rav Hamnoena terloops meegedeeld en is mij evenveel waard als al mijn studie: wie tijdens het gebed niest, krijgt een gunstig teken. Zoals men hem beneden verlichting schenkt, zo schenkt men hem boven verlichting. Maar spugen spreekt spugen toch tegen! Ook dat is geen moeilijkheid: het kan zoals Rav Jehoeda zei. Rav Jehoeda zei: wie in gebed staat en speeksel in zijn mond krijgt, laat het in zijn mantel opgaan; is het een mooie mantel, dan in zijn onderkleed. Ravina stond achter Rav Asji. Hij kreeg speeksel in zijn mond en spuugde het naar achteren. Rav Asji zei: “Aanvaardt de meester niet Rav Jehoeda’s uitspraak dat hij het in zijn onderkleed laat opgaan?” Hij antwoordde: “Ik ben daar te gevoelig voor.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Dezelfde Hebreeuwse term wordt in deze bespreking gebruikt voor niezen van boven en, als verhullende aanduiding, een wind laten van onderen."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:24b:g2",
+      "locator": "Berakhot 24b · Gemara · 2",
+      "layer": "gemara",
+      "original": "המשמיע קולו בתפלתו הרי זה מקטני אמנה:",
+      "nl": "“Wie zijn stem bij het gebed hoorbaar maakt, behoort tot de kleingelovigen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:24b:g3",
+      "locator": "Berakhot 24b · Gemara · 3",
+      "layer": "gemara",
+      "original": "אמר רב הונא לא שנו אלא שיכול לכוין את לבו בלחש אבל אין יכול לכוין את לבו בלחש מותר וה\"מ ביחיד אבל בצבור אתי למיטרד צבורא:",
+      "nl": "Rav Hoena zei: dit geldt alleen wanneer hij zich bij zacht spreken kan concentreren. Kan hij zich niet concentreren bij zacht spreken, dan is het toegestaan. Dat geldt alleen voor een enkeling; bij de gemeenschap zou hij de gemeenschap storen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:24b:g4",
+      "locator": "Berakhot 24b · Gemara · 4",
+      "layer": "gemara",
+      "original": "רבי אבא הוה קא משתמיט מיניה דרב יהודה דהוה קא בעי למיסק לארעא דישראל דאמר רב יהודה כל העולה מבבל לא\"י עובר בעשה שנאמר (ירמיהו כז, כב) בבלה יובאו ושמה יהיו עד יום פקדי אותם נאם ה' אמר איזיל ואשמע מיניה מילתא מבית וועדא והדר אפיק אזל אשכחיה לתנא דקתני קמיה דרב יהודה היה עומד בתפלה ונתעטש ממתין עד שיכלה הרוח וחוזר ומתפלל איכא דאמרי היה עומד בתפלה ובקש להתעטש מרחיק לאחריו ד' אמות ומתעטש וממתין עד שיכלה הרוח וחוזר ומתפלל ואומר רבש\"ע יצרתנו נקבים נקבים חלולים חלולים גלוי וידוע לפניך חרפתנו וכלימתנו בחיינו ובאחריתנו רמה ותולעה ומתחיל ממקום שפסק אמר ליה אילו לא באתי אלא לשמוע דבר זה דיי:",
+      "nl": "Rabbi Abba ontweek Rav Jehoeda, omdat hij naar het land Israël wilde optrekken. Rav Jehoeda zei immers: ieder die uit Babylonië naar het land Israël optrekt, overtreedt een positief gebod, want er staat: “Naar Babel zullen zij gebracht worden en daar zullen zij blijven tot de dag waarop Ik naar hen omzie — uitspraak van de HEER” (Jeremia 27:22). Hij zei: “Laat ik gaan en iets van hem horen uit het leerhuis, en dan vertrek ik.” Hij ging en trof de overleveraar aan die vóór Rav Jehoeda leerde: als iemand in gebed staat en vanonderen een wind laat, wacht hij totdat de lucht verdwenen is en hervat hij het gebed. Sommigen zeggen: als iemand in gebed staat en een wind moet laten, gaat hij vier el achteruit, laat de wind, wacht totdat de lucht verdwenen is en hervat het gebed. Hij zegt: “Meester van de wereld, U hebt ons geschapen met openingen en holten. Onze smaad en schande tijdens ons leven zijn voor U openbaar en bekend; aan ons einde zijn wij made en worm.” Dan begint hij waar hij ophield. Rabbi Abba zei tegen hem: “Al was ik alleen gekomen om dit te horen, dan was het mij genoeg.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:24b:g5",
+      "locator": "Berakhot 24b · Gemara · 5",
+      "layer": "gemara",
+      "original": "ת\"ר היה ישן בטליתו ואינו יכול להוציא את ראשו מפני הצנה חוצץ בטליתו על צוארו וקורא ק\"ש וי\"א על לבו ותנא קמא הרי לבו רואה את הערוה קסבר לבו רואה את הערוה מותר אמר רב הונא א\"ר יוחנן היה מהלך במבואות המטונפות מניח ידו על פיו וקורא ק\"ש א\"ל רב חסדא האלהים אם אמרה לי ר' יוחנן בפומיה לא צייתנא ליה איכא דאמרי אמר רבה בר בר חנה אמר ריב\"ל היה מהלך במבואות המטונפות מניח ידו על פיו וקורא ק\"ש א\"ל ר' חסדא האלהים אם אמרה לי ריב\"ל בפומיה לא צייתנא ליה ומי אמר ר' הונא הכי והאמר רב הונא ת\"ח אסור לו לעמוד במקום הטנופת לפי שאי אפשר לו לעמוד בלי הרהור תורה לא קשיא כאן בעומד כאן במהלך ומי אמר רבי יוחנן הכי והאמר רבה בר בר חנה א\"ר יוחנן בכל מקום מותר להרהר בדברי תורה חוץ מבית המרחץ ומבית הכסא וכי תימא הכא נמי כאן בעומד כאן במהלך איני והא רבי אבהו הוה קא אזיל בתריה דרבי יוחנן והוה קא קרי ק\"ש כי מטא במבואות המטונפות אשתיק א\"ל לר' יוחנן להיכן אהדר א\"ל אם שהית כדי לגמור את כולה חזור לראש הכי קאמר ליה לדידי לא סבירא לי לדידך דסבירא לך אם שהית כדי לגמור את כולה חזור לראש תניא כותיה דרב הונא תניא כותיה דרב חסדא תניא כותיה דרב הונא המהלך במבואות המטונפות מניח ידו על פיו ויקרא ק\"ש תניא כותיה דרב חסדא היה מהלך במבואות המטונפות לא יקרא ק\"ש ולא עוד אלא שאם היה קורא ובא פוסק לא פסק מאי אמר ר' מיאשה בר בריה דריב\"ל עליו הכתוב אומר (יחזקאל כ, כה) וגם אני נתתי להם חוקים לא טובים ומשפטים לא יחיו [בהם] ר' אסי אמר (ישעיהו ה, יח) הוי מושכי העון בחבלי השוא רב אדא בר אהבה אמר מהכא (במדבר טו, לא) כי דבר ה' בזה ואם פסק מה שכרו אמר ר' אבהו עליו הכתוב אומר (דברים לב, מז) ובדבר הזה תאריכו ימים:",
+      "nl": "Onze meesters leerden: wie in zijn mantel lag te slapen en wegens de kou zijn hoofd niet naar buiten kan steken, sluit met zijn mantel bij zijn hals een scheiding en reciteert het Sjema. Sommigen zeggen: bij zijn hart. Maar volgens de eerste leraar ziet zijn hart dan toch zijn naaktheid! Hij meent dat het toegestaan is wanneer zijn hart zijn naaktheid ziet. Rav Hoena zei uit naam van rabbi Jochanan: wie door vuile stegen loopt, legt zijn hand op zijn mond en reciteert het Sjema. Rav Chisda zei tegen hem: “Bij God, zelfs als rabbi Jochanan het mij met eigen mond zei, zou ik niet naar hem luisteren!” Sommigen zeggen: Rabba bar bar Chana zei uit naam van rabbi Jehosjoea ben Levi: wie door vuile stegen loopt, legt zijn hand op zijn mond en reciteert het Sjema. Rabbi Chisda zei: “Bij God, zelfs als rabbi Jehosjoea ben Levi het mij met eigen mond zei, zou ik niet naar hem luisteren!” Heeft Rav Hoena dit werkelijk gezegd? Rav Hoena zei toch dat een geleerde niet op een vuile plaats mag blijven staan, omdat het hem onmogelijk is zonder gedachten aan de Tora te blijven! Dat is geen moeilijkheid: het ene gaat over stilstaan, het andere over doorlopen. Heeft rabbi Jochanan dit werkelijk gezegd? Rabba bar bar Chana zei toch uit naam van rabbi Jochanan: overal mag men over woorden van de Tora nadenken, behalve in een badhuis en een privaat! Mocht je zeggen dat ook hier het ene over stilstaan en het andere over doorlopen gaat: is dat zo? Rabbi Abbahoe liep achter rabbi Jochanan en reciteerde het Sjema. Toen hij bij vuile stegen kwam, zweeg hij. Hij vroeg rabbi Jochanan: “Waar hervat ik?” Die zei: “Als je zolang hebt gewacht dat je het geheel had kunnen afmaken, begin dan opnieuw.” Dit is wat hij tegen hem zei: “Ikzelf aanvaard jouw opvatting niet. Maar volgens jou, die haar wel aanvaardt: als je zolang hebt gewacht dat je het geheel had kunnen afmaken, begin dan opnieuw.” Er is een overlevering die Rav Hoena ondersteunt en een die Rav Chisda ondersteunt. Rav Hoena wordt ondersteund door: wie door vuile stegen loopt, legt zijn hand op zijn mond en reciteert het Sjema. Rav Chisda wordt ondersteund door: wie door vuile stegen loopt, reciteert het Sjema niet; bovendien houdt hij op als hij al reciterend aankomt. Wat als hij niet ophoudt? Rabbi Mejasja, de kleinzoon van rabbi Jehosjoea ben Levi, zei: over hem zegt de Schrift: “Ook gaf Ik hun inzettingen die niet goed waren en rechtsregels waardoor zij niet zouden leven” (Ezechiël 20:25). Rabbi Assi zei: “Wee hun die ongerechtigheid aantrekken met koorden van leegheid” (Jesaja 5:18). Rav Adda bar Ahava leidde het hieruit af: “Want hij heeft het woord van de HEER veracht” (Numeri 15:31). En als hij ophoudt, wat is zijn loon? Rabbi Abbahoe zei: over hem zegt de Schrift: “Door dit woord zullen jullie je dagen verlengen” (Deuteronomium 32:47).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:24b:g6",
+      "locator": "Berakhot 24b · Gemara · 6",
+      "layer": "gemara",
+      "original": "אמר רב הונא היתה טליתו חגורה לו על מתניו מותר לקרות ק\"ש תניא נמי הכי היתה טליתו של בגד ושל עור ושל שק חגורה על מתניו מותר לקרות ק\"ש",
+      "nl": "Rav Hoena zei: als zijn mantel om zijn middel gebonden is, mag hij het Sjema reciteren. Zo is ook geleerd: als zijn mantel, van stof, leer of zakweefsel, om zijn middel gebonden is, mag hij het Sjema reciteren...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "shekalim",
+  "title": "Sjekalim",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&oldid=2704355",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=history",
+  "retrievedAt": "2026-10-25T16:51:21.762159+00:00",
+  "htmlSha256": "1101fb2f2df56a6c78e82be19c87fbd3596a2f78bad85382f3708dfcdf308207",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:NewItem?site=hewikisource&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&oldid=2704355",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&id=2704355&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%25A9%25D7%25A7%25D7%259C%25D7%2599%25D7%259D"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A4%D7%A1%D7%97%D7%99%D7%9D",
+      "title": "ירושלמי מסכת פסחים",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "מסכת שקלים"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "ירושלמי מסכת יומא",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90",
+      "title": "ירושלמי שקלים א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%90",
+      "title": "ירושלמי שקלים א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%91",
+      "title": "ירושלמי שקלים א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%92",
+      "title": "ירושלמי שקלים א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%93",
+      "title": "ירושלמי שקלים א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%94",
+      "title": "ירושלמי שקלים א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%95",
+      "title": "ירושלמי שקלים א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%96",
+      "title": "ירושלמי שקלים א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91",
+      "title": "ירושלמי שקלים ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91_%D7%90",
+      "title": "ירושלמי שקלים ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91_%D7%91",
+      "title": "ירושלמי שקלים ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91_%D7%92",
+      "title": "ירושלמי שקלים ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91_%D7%93",
+      "title": "ירושלמי שקלים ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%91_%D7%94",
+      "title": "ירושלמי שקלים ב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%92",
+      "title": "ירושלמי שקלים ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%92_%D7%90",
+      "title": "ירושלמי שקלים ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%92_%D7%91",
+      "title": "ירושלמי שקלים ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%92_%D7%92",
+      "title": "ירושלמי שקלים ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93",
+      "title": "ירושלמי שקלים ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93_%D7%90",
+      "title": "ירושלמי שקלים ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93_%D7%91",
+      "title": "ירושלמי שקלים ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93_%D7%92",
+      "title": "ירושלמי שקלים ד ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93_%D7%93",
+      "title": "ירושלמי שקלים ד ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93_%D7%94",
+      "title": "ירושלמי שקלים ד ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%94",
+      "title": "ירושלמי שקלים ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%94_%D7%90",
+      "title": "ירושלמי שקלים ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%94_%D7%91",
+      "title": "ירושלמי שקלים ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%94_%D7%92",
+      "title": "ירושלמי שקלים ה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%94_%D7%93",
+      "title": "ירושלמי שקלים ה ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%95",
+      "title": "ירושלמי שקלים ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%95_%D7%90",
+      "title": "ירושלמי שקלים ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%95_%D7%91",
+      "title": "ירושלמי שקלים ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%95_%D7%92",
+      "title": "ירושלמי שקלים ו ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%95_%D7%93",
+      "title": "ירושלמי שקלים ו ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%96",
+      "title": "ירושלמי שקלים ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%96_%D7%90",
+      "title": "ירושלמי שקלים ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%96_%D7%91",
+      "title": "ירושלמי שקלים ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%96_%D7%92",
+      "title": "ירושלמי שקלים ז ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97",
+      "title": "ירושלמי שקלים ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97_%D7%90",
+      "title": "ירושלמי שקלים ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97_%D7%91",
+      "title": "ירושלמי שקלים ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97_%D7%92",
+      "title": "ירושלמי שקלים ח ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%97_%D7%93",
+      "title": "ירושלמי שקלים ח ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%90_%D7%90",
+      "title": "ירושלמי שקלים דף א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי שקלים דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%91_%D7%90",
+      "title": "ירושלמי שקלים דף ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%91_%D7%91",
+      "title": "ירושלמי שקלים דף ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%92_%D7%90",
+      "title": "ירושלמי שקלים דף ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%92_%D7%91",
+      "title": "ירושלמי שקלים דף ג ב"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%93_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ד א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%93_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ד ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%94_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ה א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%94_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ה ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%95_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ו א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%95_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ו ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%96_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ז א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%96_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ז ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%97_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ח א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%97_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ח ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ט א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף ט ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף י א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף י ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%90_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יא א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%90_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יא ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%91_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יב א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%91_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יב ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%92_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יג א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%92_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יג ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%93_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יד א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%93_%D7%91",
+      "title": "ירושלמי שקלים דף יד ב"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98%D7%95_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף טו א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98%D7%95_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף טו ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98%D7%96_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף טז א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%98%D7%96_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף טז ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%96_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יז א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%96_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יז ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%97_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יח א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%97_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יח ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%98_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יט א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%99%D7%98_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף יט ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כ א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כ ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%90_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כא א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%90_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כא ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%91_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כב א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%91_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כב ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%92_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כג א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%92_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כג ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%93_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כד א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%93_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כד ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%94_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כה א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%94_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כה ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%95_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כו א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%93%D7%A3_%D7%9B%D7%95_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי שקלים דף כו ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "משנה מסכת שקלים",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "תוספתא/שקלים"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "בבלי מסכת שקלים",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "ביאור:ירושלמי מאיר/מסכת שקלים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "w:מסכת שקלים",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_שקלים&oldid=2704355"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "קטגוריה:ירושלמי מסכת שקלים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D",
+      "title": "קטגוריה:מסכת שקלים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "קטגוריה:תלמוד ירושלמי"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

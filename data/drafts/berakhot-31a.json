@@ -1,0 +1,112 @@
+{
+  "id": "31a",
+  "title": "31a · Voorbereiding, aandacht en Hanna’s gebed",
+  "scope": "Volledige hoofdtekst van amud 31a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%90_%D7%90&oldid=2851508",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:31a:g1",
+      "locator": "Berakhot 31a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אייתי כסא דמוקרא בת ארבע מאה זוזי ותבר קמייהו ואעציבו רב אשי עבד הלולא לבריה חזנהו לרבנן דהוו קא בדחי טובא אייתי כסא דזוגיתא חיורתא ותבר קמייהו ואעציבו אמרו ליה רבנן לרב המנונא זוטי בהלולא דמר בריה דרבינא לישרי לן מר אמר להו ווי לן דמיתנן ווי לן דמיתנן אמרי ליה אנן מה נעני בתרך א\"ל הי תורה והי מצוה דמגנו עלן א\"ר יוחנן משום רשב\"י אסור לאדם שימלא שחוק פיו בעולם הזה שנאמר (תהלים קכו, ב) אז ימלא שחוק פינו ולשוננו רנה אימתי בזמן שיאמרו בגוים הגדיל ה' לעשות עם אלה אמרו עליו על ר\"ל שמימיו לא מלא שחוק פיו בעוה\"ז מכי שמעה מר' יוחנן רביה:",
+      "nl": "Hij bracht een kostbare beker van vierhonderd zoez en brak die voor hun ogen. Toen werden zij bedroefd. Rav Asji hield een bruiloft voor zijn zoon. Hij zag dat de wijzen bijzonder vrolijk waren, bracht een beker van wit glas en brak die voor hun ogen. Toen werden zij bedroefd. Op de bruiloft van Mar, de zoon van Ravina, zeiden de wijzen tegen Rav Hamnoena de Kleine: ‘Laat de meester voor ons zingen.’ Hij zei: ‘Wee ons, want wij sterven! Wee ons, want wij sterven!’ Zij vroegen: ‘Wat moeten wij als antwoord zingen?’ Hij zei: ‘Waar is de Tora en waar is het gebod dat ons beschermt?’ Rabbi Jochanan zei namens rabbi Sjimon ben Jochai: men mag in deze wereld zijn mond niet geheel met lachen vullen. Er staat: ‘Dan zal onze mond met lachen gevuld worden en onze tong met jubel’ (Psalm 126:2). Wanneer? Wanneer men onder de volken zegt: ‘De HEER heeft grote dingen aan hen gedaan.’ Men vertelde over Resj Lakisj dat hij vanaf het moment dat hij dit van zijn meester rabbi Jochanan hoorde, van zijn leven zijn mond in deze wereld niet meer geheel met lachen vulde.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:31a:g2",
+      "locator": "Berakhot 31a · Gemara · g2",
+      "layer": "gemara",
+      "original": "ת\"ר אין עומדין להתפלל לא מתוך דין ולא מתוך דבר הלכה אלא מתוך הלכה פסוקה והיכי דמי הלכה פסוקה אמר אביי כי הא דר' זירא דאמר ר' זירא בנות ישראל החמירו על עצמן שאפילו רואות טיפת דם כחרדל יושבת עליה שבעה נקיים רבא אמר כי הא דרב הושעיא דאמר רב הושעיא מערים אדם על תבואתו ומכניסה במוץ שלה כדי שתהא בהמתו אוכלת ופטורה מן המעשר ואב\"א כי הא דרב הונא דא\"ר הונא א\"ר זעירא המקיז דם בבהמת קדשים אסור בהנאה ומועלין בו רבנן עבדי כמתניתין רב אשי עביד כברייתא.",
+      "nl": "Onze meesters leerden: men gaat niet bidden vanuit een rechtszaak of een halachische discussie, maar vanuit een vaststaande halacha. Wat is een vaststaande halacha? Abbaje zei: zoals rabbi Zeïra zei: de dochters van Israël hebben zichzelf verzwaard door zelfs na het zien van een bloeddruppel als een mosterdzaad zeven reine dagen af te wachten. Rava zei: zoals Rav Hosjaja zei: men mag bij zijn oogst een omweg gebruiken en haar in het kaf binnenbrengen, zodat zijn vee ervan mag eten en zij van de tiende vrijgesteld blijft. Of zo men wil: zoals Rav Hoena zei namens rabbi Zeïra: bloed dat men bij een gewijd dier aftapt, mag men niet benutten; bij gebruik is men schuldig aan ontwijding. De wijzen handelden volgens de Misjna; Rav Asji volgens de baraita.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De Misjna schrijft ernstige eerbied voor; de baraita een duidelijke, afgeronde rechtsregel als voorbereiding. De regels over bloed zien op de voorbereiding op rituele reinheid; “reine dagen” zijn dagen zonder bloedverlies."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:31a:g3",
+      "locator": "Berakhot 31a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ת\"ר אין עומדין להתפלל לא מתוך עצבות ולא מתוך עצלות ולא מתוך שחוק ולא מתוך שיחה ולא מתוך קלות ראש ולא מתוך דברים בטלים אלא מתוך שמחה של מצוה וכן לא יפטר אדם מחברו לא מתוך שיחה ולא מתוך שחוק ולא מתוך קלות ראש ולא מתוך דברים בטלים אלא מתוך דבר הלכה שכן מצינו בנביאים הראשונים שסיימו דבריהם בדברי שבח ותנחומים וכן תנא מרי בר בריה דרב הונא בריה דר' ירמיה בר אבא אל יפטר אדם מחבירו אלא מתוך דבר הלכה שמתוך כך זוכרהו כי הא דרב כהנא אלוייה לרב שימי בר אשי מפום נהרא עד בי צניתא דבבל כי מטא להתם א\"ל מר ודאי דאמרי אינשי הני צניתא דבבל איתנהו מאדם הראשון ועד השתא א\"ל אדכרתן מילתא דרבי יוסי ברבי חנינא דאמר ר' יוסי ברבי חנינא מאי דכתיב (ירמיהו ב, ו) בארץ אשר לא עבר בה איש ולא ישב אדם שם וכי מאחר דלא עבר היאך ישב אלא לומר לך כל ארץ שגזר עליה אדם הראשון לישוב נתישבה וכל ארץ שלא גזר עליה אדם הראשון לישוב לא נתישבה רב מרדכי אלוייה לרב שימי בר אשי מהגרוניא ועד בי כיפי ואמרי לה עד בי דורא:",
+      "nl": "Onze meesters leerden: men gaat niet bidden vanuit droefheid, loomheid, gelach, gepraat, lichtzinnigheid of zinloze zaken, maar vanuit de vreugde van een gebod. Evenzo neemt men geen afscheid van een vriend vanuit gepraat, gelach, lichtzinnigheid of zinloze zaken, maar vanuit een halachisch woord. Zo zien wij dat de vroegere profeten hun woorden met lof en vertroosting afsloten. Zo leerde ook Mari, de zoon van een zoon van Rav Hoena, de zoon van rabbi Jirmeja bar Abba: men neemt alleen afscheid van een vriend met een halachisch woord, zodat hij zich hem daardoor herinnert. Zo begeleidde Rav Kahana Rav Sjimi bar Asji van Poem Nahara tot Be Tsanita in Babylonië. Daar aangekomen vroeg hij: ‘Meester, is het waar wat de mensen zeggen, dat deze palmbomen van Babylonië er vanaf Adam, de eerste mens, tot nu toe zijn?’ Hij antwoordde: ‘Je herinnert mij aan een woord van rabbi Jose, zoon van rabbi Chanina. Hij vroeg: wat betekent “in een land waar geen man doorheen trok en waar geen mens woonde” (Jeremia 2:6)? Als niemand erdoorheen trok, hoe zou er iemand hebben gewoond? Het leert je: elk land waarvan Adam, de eerste mens, bepaalde dat het bewoond zou worden, werd bewoond; elk land waarvoor hij dat niet bepaalde, werd niet bewoond.’ Rav Mordechai begeleidde Rav Sjimi bar Asji van Hagroenia tot Be Kife, of volgens anderen tot Be Doera.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "Het vers zegt letterlijk “geen adam”; de uitleg hoort daarin de eigennaam Adam."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:31a:g4",
+      "locator": "Berakhot 31a · Gemara · g4",
+      "layer": "gemara",
+      "original": "ת\"ר המתפלל צריך שיכוין את לבו לשמים אבא שאול אומר סימן לדבר (תהלים י, יז) תכין לבם תקשיב אזנך תניא א\"ר יהודה כך היה מנהגו של ר\"ע כשהיה מתפלל עם הצבור היה מקצר ועולה מפני טורח צבור וכשהיה מתפלל בינו לבין עצמו אדם מניחו בזוית זו ומוצאו בזוית אחרת וכל כך למה מפני כריעות והשתחויות:",
+      "nl": "Onze meesters leerden: wie bidt moet zijn hart naar de hemel richten. Abba Sjaoel zegt: een aanduiding hiervoor is ‘U richt hun hart, U laat Uw oor luisteren’ (Psalm 10:17). Er is geleerd: rabbi Jehoeda zei: zo was rabbi Akiva’s gewoonte: wanneer hij met de gemeenschap bad, hield hij het kort en eindigde hij, om de gemeenschap niet te belasten. Wanneer hij alleen bad, liet iemand hem in de ene hoek achter en trof hem in een andere aan. Waarom zoveel verplaatsing? Door zijn buigingen en neerwerpingen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:31a:g5",
+      "locator": "Berakhot 31a · Gemara · g5",
+      "layer": "gemara",
+      "original": "א\"ר חייא בר אבא לעולם יתפלל אדם בבית שיש בו חלונות שנאמר (דניאל ו, יא) וכוין פתיחן ליה וגו' יכול יתפלל אדם כל היום כלו כבר מפורש על ידי דניאל (דניאל ו, יא) וזמנין תלתא וגו' יכול משבא לגולה הוחלה כבר נאמר (דניאל ו, יא) די הוא עבד מן קדמת דנא יכול יתפלל אדם לכל רוח שירצה ת\"ל (דניאל ו, יא) (לקבל) [נגד] ירושלם יכול יהא כוללן בבת אחת כבר מפורש ע\"י דוד דכתיב (תהלים נה, יח) ערב ובקר וצהרים וגו' יכול ישמיע קולו בתפלתו כבר מפורש על ידי חנה שנאמר (שמואל א א, יג) וקולה לא ישמע יכול ישאל אדם צרכיו ואח\"כ יתפלל כבר מפורש על ידי שלמה שנאמר (מלכים א ח, כח) לשמוע אל הרנה ואל התפלה רנה זו תפלה תפלה זו בקשה אין אומר דבר (בקשה) אחר אמת ויציב אבל אחר התפלה אפי' כסדר וידוי של יה\"כ אומר איתמר נמי אמר רב חייא בר אשי אמר רב אע\"פ שאמרו שואל אדם צרכיו בשומע תפלה אם בא לומר אחר תפלתו אפילו כסדר של יה\"כ אומר:",
+      "nl": "Rabbi Chijja bar Abba zei: men moet steeds bidden in een huis met ramen. Er staat: ‘Zijn ramen stonden open...’ (Daniël 6:11). Zou men de hele dag moeten bidden? Daniël heeft het al uitgelegd: ‘Driemaal...’ (Daniël 6:11). Zou hij pas begonnen zijn toen hij in ballingschap kwam? Er staat al: ‘Zoals hij voordien placht te doen.’ Zou men naar elke gewenste richting kunnen bidden? De Schrift zegt: ‘(tegenover) [naar] Jeruzalem.’ Zou men alle gebeden in één keer kunnen samenvoegen? David heeft het al uitgelegd: ‘Avond, ochtend en middag...’ (Psalm 55:18). Zou men zijn stem tijdens het gebed moeten laten horen? Hanna heeft het al uitgelegd: ‘Haar stem werd niet gehoord’ (1 Samuël 1:13). Zou men eerst zijn behoeften moeten vragen en daarna bidden? Salomo heeft het al uitgelegd: ‘Om naar de jubel en naar het gebed te horen’ (1 Koningen 8:28). Jubel is het gebed; gebed is het verzoek. Men zegt geen woord (van verzoek) na ‘Waar en bestendig’, maar na het gebed mag men zelfs de volledige schuldbelijdenis van de Verzoendag zeggen. Zo is ook overgeleverd: Rav Chijja bar Asji zei namens Rav: hoewel men zijn behoeften in ‘Die het gebed hoort’ mag vragen, mag men, als men daarna nog iets wil zeggen, zelfs de volledige orde van de Verzoendag uitspreken.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Tussen de slotzegening van het Sjema en het staande gebed voegt men geen persoonlijke verzoeken in. De lofprijzing komt vóór het verzoek."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De ronde en vierkante haakjes bij de richting naar Jeruzalem en de parenthetische aanvulling “van verzoek” zijn in de bron aanwezig."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:31a:g6",
+      "locator": "Berakhot 31a · Gemara · g6",
+      "layer": "gemara",
+      "original": "אמר רב המנונא כמה הלכתא גברוותא איכא למשמע מהני קראי דחנה (שמואל א א, יג) וחנה היא מדברת על לבה מכאן למתפלל צריך שיכוין לבו רק שפתיה נעות מכאן למתפלל שיחתוך בשפתיו וקולה לא ישמע מכאן שאסור להגביה קולו בתפלתו ויחשבה עלי לשכורה מכאן ששכור אסור להתפלל ויאמר אליה עלי עד מתי תשתכרין וגו' א\"ר אלעזר מכאן לרואה בחברו",
+      "nl": "Rav Hamnoena zei: hoeveel gewichtige halachische regels kan men uit deze verzen over Hanna leren! ‘Hanna sprak in haar hart’ (1 Samuël 1:13): hieruit dat wie bidt zijn hart moet richten. ‘Alleen haar lippen bewogen’: hieruit dat hij de woorden met zijn lippen moet vormen. ‘Haar stem werd niet gehoord’: hieruit dat men zijn stem in het gebed niet mag verheffen. ‘Eli hield haar voor dronken’: hieruit dat een dronken persoon niet mag bidden. ‘Eli zei tegen haar: hoe lang blijf je dronken?’ Rabbi Elazar zei: hieruit dat wie bij zijn naaste...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De zin en de uitleg van Hanna’s antwoord vervolgen op 31b."
+        }
+      ]
+    }
+  ]
+}

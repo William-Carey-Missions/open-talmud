@@ -17,11 +17,15 @@ Vertaal rechtstreeks uit de grondtekst in kleine aaneengesloten eenheden. Behoud
 ## Uitvoering
 
 1. Leg bronnen, rechten, vaste verwijzingen en de drie inventarissen vast.
-2. Bewaar Berakhot 2a als controleerbaar bronextract en vertaal de volledige amud.
+2. Bewaar iedere amud als controleerbaar bronextract en vertaal de volledige hoofdtekst.
 3. Koppel de segmenten in data/library.json; toon status, tekstlaag en toelichting in de bestaande lezer.
 4. Controleer brondekking, inventaristellingen, verwijzingen, zoekfunctie en mobiele weergave; commit en push de getoetste voortgang.
-5. Ga verder bij Berakhot 3b (2a–3a zijn in concept beschikbaar), rond Berakhot af en vervolg de Babylonische orden; behandel daarna het Jeruzalemse corpus. Leg elke volgende bronversie en segmenttelling vast voordat volledigheid wordt geclaimd.
+5. Volg de eerstvolgende passage uit het voortgangsregister, rond Berakhot af en vervolg de Babylonische orden; behandel daarna het Jeruzalemse corpus. Leg elke volgende bronversie en segmenttelling vast voordat volledigheid wordt geclaimd.
 
 ## Controlepunten
 
 Geen tekstverlies bij segmentering; geen dubbeltelling van ingebedde Misjna; geen gefingeerde aantallen voor nog niet verworven teksten; geen kwalificatie als definitief zonder onafhankelijke controle; behoud van de ongewijzigde basisstylesheet.
+
+## Voortgangsmaat
+
+De vaste omvangstelling van beide overgeleverde Talmoeds telt 8.445 editiegebonden amudplaatsen. De 1%-grens ligt bij 85 volledig in concept vertaalde zijden. Dit is geen maat voor woordvolume en telt de zelfstandige Misjna niet nogmaals mee. Bronnen, rode links, interne structuurhiaten en editieverschillen zijn verantwoord in [omvangstelling.md](omvangstelling.md).

@@ -1,0 +1,88 @@
+{
+  "sourceUrl": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Niddah",
+  "retrievedAt": "2026-10-25T16:52:15.841710+00:00",
+  "responseSha256": "153638a434b39b0a2565adcbf1a49b82c654c85337d7499c07434c008bb6beb6",
+  "tractate": "niddah",
+  "edition": "Vilna",
+  "nodes": [
+    {
+      "wholeRef": "Jerusalem Talmud Niddah 1:1:1-6:5",
+      "startingAddress": "1a",
+      "refs": [
+        "Jerusalem Talmud Niddah 1:1:1-4",
+        "Jerusalem Talmud Niddah 1:1:4-7",
+        "Jerusalem Talmud Niddah 1:1:7-2:2",
+        "Jerusalem Talmud Niddah 1:2:2-3:4",
+        "Jerusalem Talmud Niddah 1:3:4-7",
+        "Jerusalem Talmud Niddah 1:3:7-4:5",
+        "Jerusalem Talmud Niddah 1:4:5-5:2",
+        "Jerusalem Talmud Niddah 1:5:2-4",
+        "Jerusalem Talmud Niddah 1:5:4-6:2",
+        "Jerusalem Talmud Niddah 1:6:2-5",
+        "Jerusalem Talmud Niddah 1:6:5"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Niddah 2:1:1-7:9",
+      "startingAddress": "6a",
+      "refs": [
+        "Jerusalem Talmud Niddah 2:1:1-5",
+        "Jerusalem Talmud Niddah 2:1:5-2:3",
+        "Jerusalem Talmud Niddah 2:2:3-4:2",
+        "Jerusalem Talmud Niddah 2:4:2-6:1",
+        "Jerusalem Talmud Niddah 2:6:1-7:2",
+        "Jerusalem Talmud Niddah 2:7:2-6",
+        "Jerusalem Talmud Niddah 2:7:6-9"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Niddah 3:1:1-5:4",
+      "startingAddress": "9a",
+      "refs": [
+        "Jerusalem Talmud Niddah 3:1:1-2:1",
+        "Jerusalem Talmud Niddah 3:2:1-5",
+        "Jerusalem Talmud Niddah 3:2:5-9",
+        "Jerusalem Talmud Niddah 3:2:9-4:1",
+        "Jerusalem Talmud Niddah 3:4:1-5",
+        "Jerusalem Talmud Niddah 3:4:5-7",
+        "Jerusalem Talmud Niddah 3:4:7-5:3",
+        "Jerusalem Talmud Niddah 3:5:3-4"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Niddah 4:1:1-7:1",
+      "startingAddress": "12b",
+      "refs": [
+        "Jerusalem Talmud Niddah 4:1:1-6:1",
+        "Jerusalem Talmud Niddah 4:6:1-7:1"
+      ]
+    }
+  ],
+  "amudim": [
+    "1a",
+    "1b",
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b",
+    "13a"
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "corpus": "bavli",
+  "tractate": "berakhot",
+  "title": "Berakhot",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&oldid=2953405",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:49:51.068788+00:00",
+  "htmlSha256": "e2233c6eb2a36d2a3a1ce888efde44bfb7f641876f1a2a8afd35a5379e48ebf8",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "#",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "#ראה_גם",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "https://en.wikisource.org/wiki/Talmud/Seder_Zeraim/Tractate_Berakhot",
+      "title": "Talmud/Seder Zeraim/Tractate Berakhot – אנגלית",
+      "class": "interlanguage-link-target"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33278798#sitelinks-wikisource",
+      "title": "עריכת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "שיחה על דף התוכן [t]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&oldid=2953405",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&id=2953405&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%2591%25D7%25A8%25D7%259B%25D7%2595%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33278798",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "מסכת ברכות"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי ברכות פרק א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%9E%D7%A0%D7%95%D7%A7%D7%93_%D7%95%D7%9E%D7%A2%D7%95%D7%A6%D7%91",
+      "title": "בבלי ברכות פרק א מנוקד ומעוצב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%90",
+      "title": "ברכות ב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91_%D7%91",
+      "title": "ברכות ב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90",
+      "title": "ברכות ג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%91",
+      "title": "ברכות ג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%93_%D7%90",
+      "title": "ברכות ד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%93_%D7%91",
+      "title": "ברכות ד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%94_%D7%90",
+      "title": "ברכות ה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%94_%D7%91",
+      "title": "ברכות ה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%95_%D7%90",
+      "title": "ברכות ו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%95_%D7%91",
+      "title": "ברכות ו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%96_%D7%90",
+      "title": "ברכות ז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%96_%D7%91",
+      "title": "ברכות ז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%97_%D7%90",
+      "title": "ברכות ח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%97_%D7%91",
+      "title": "ברכות ח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98_%D7%90",
+      "title": "ברכות ט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98_%D7%91",
+      "title": "ברכות ט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99_%D7%90",
+      "title": "ברכות י א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99_%D7%91",
+      "title": "ברכות י ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "ברכות יא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "ברכות יא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "ברכות יב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "ברכות יב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "ברכות יג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי ברכות פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91_%D7%9E%D7%A0%D7%95%D7%A7%D7%93_%D7%95%D7%9E%D7%A2%D7%95%D7%A6%D7%91",
+      "title": "בבלי ברכות פרק ב מנוקד ומעוצב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "ברכות יג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "ברכות יג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "ברכות יד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%93_%D7%91",
+      "title": "ברכות יד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "ברכות טו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "ברכות טו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%96_%D7%90",
+      "title": "ברכות טז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%96_%D7%91",
+      "title": "ברכות טז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%96_%D7%90",
+      "title": "ברכות יז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "ברכות יז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי ברכות פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "ברכות יז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%97_%D7%90",
+      "title": "ברכות יח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "ברכות יח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%98_%D7%90",
+      "title": "ברכות יט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "ברכות יט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B_%D7%90",
+      "title": "ברכות כ א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B_%D7%91",
+      "title": "ברכות כ ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%90_%D7%90",
+      "title": "ברכות כא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%90_%D7%91",
+      "title": "ברכות כא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%91_%D7%90",
+      "title": "ברכות כב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%91_%D7%91",
+      "title": "ברכות כב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%92_%D7%90",
+      "title": "ברכות כג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%92_%D7%91",
+      "title": "ברכות כג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%93_%D7%90",
+      "title": "ברכות כד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%93_%D7%91",
+      "title": "ברכות כד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%94_%D7%90",
+      "title": "ברכות כה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%94_%D7%91",
+      "title": "ברכות כה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "ברכות כו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי ברכות פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93_%D7%9E%D7%A0%D7%95%D7%A7%D7%93_%D7%95%D7%9E%D7%A2%D7%95%D7%A6%D7%91",
+      "title": "בבלי ברכות פרק ד מנוקד ומעוצב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "ברכות כו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%95_%D7%91",
+      "title": "ברכות כו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%96_%D7%90",
+      "title": "ברכות כז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%96_%D7%91",
+      "title": "ברכות כז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%97_%D7%90",
+      "title": "ברכות כח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%97_%D7%91",
+      "title": "ברכות כח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%98_%D7%90",
+      "title": "ברכות כט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%98_%D7%91",
+      "title": "ברכות כט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C_%D7%90",
+      "title": "ברכות ל א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C_%D7%91",
+      "title": "ברכות ל ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי ברכות פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%94_%D7%9E%D7%A0%D7%95%D7%A7%D7%93_%D7%95%D7%9E%D7%A2%D7%95%D7%A6%D7%91",
+      "title": "בבלי ברכות פרק ה מנוקד ומעוצב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C_%D7%91",
+      "title": "ברכות ל ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%90_%D7%90",
+      "title": "ברכות לא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%90_%D7%91",
+      "title": "ברכות לא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%91_%D7%90",
+      "title": "ברכות לב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%91_%D7%91",
+      "title": "ברכות לב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%92_%D7%90",
+      "title": "ברכות לג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%92_%D7%91",
+      "title": "ברכות לג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%93_%D7%90",
+      "title": "ברכות לד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%93_%D7%91",
+      "title": "ברכות לד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי ברכות פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%94_%D7%90",
+      "title": "ברכות לה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%94_%D7%91",
+      "title": "ברכות לה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%95_%D7%90",
+      "title": "ברכות לו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "ברכות לו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%96_%D7%90",
+      "title": "ברכות לז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%96_%D7%91",
+      "title": "ברכות לז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%97_%D7%90",
+      "title": "ברכות לח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%97_%D7%91",
+      "title": "ברכות לח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%98_%D7%90",
+      "title": "ברכות לט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%98_%D7%91",
+      "title": "ברכות לט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E_%D7%90",
+      "title": "ברכות מ א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E_%D7%91",
+      "title": "ברכות מ ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%90_%D7%90",
+      "title": "ברכות מא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%90_%D7%91",
+      "title": "ברכות מא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%91_%D7%90",
+      "title": "ברכות מב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%91_%D7%91",
+      "title": "ברכות מב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%92_%D7%90",
+      "title": "ברכות מג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%92_%D7%91",
+      "title": "ברכות מג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%93_%D7%90",
+      "title": "ברכות מד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%93_%D7%91",
+      "title": "ברכות מד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%94_%D7%90",
+      "title": "ברכות מה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי ברכות פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%94_%D7%90",
+      "title": "ברכות מה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%94_%D7%91",
+      "title": "ברכות מה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%95_%D7%90",
+      "title": "ברכות מו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%95_%D7%91",
+      "title": "ברכות מו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%96_%D7%90",
+      "title": "ברכות מז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%96_%D7%91",
+      "title": "ברכות מז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%97_%D7%90",
+      "title": "ברכות מח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%97_%D7%91",
+      "title": "ברכות מח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%98_%D7%90",
+      "title": "ברכות מט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%98_%D7%91",
+      "title": "ברכות מט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0_%D7%90",
+      "title": "ברכות נ א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0_%D7%91",
+      "title": "ברכות נ ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%90_%D7%90",
+      "title": "ברכות נא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%90_%D7%91",
+      "title": "ברכות נא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי ברכות פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%90_%D7%91",
+      "title": "ברכות נא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%91_%D7%90",
+      "title": "ברכות נב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%91_%D7%91",
+      "title": "ברכות נב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%92_%D7%90",
+      "title": "ברכות נג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%92_%D7%91",
+      "title": "ברכות נג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%98",
+      "title": "בבלי ברכות פרק ט"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%93_%D7%90",
+      "title": "ברכות נד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%93_%D7%91",
+      "title": "ברכות נד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%94_%D7%90",
+      "title": "ברכות נה א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%94_%D7%91",
+      "title": "ברכות נה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%95_%D7%90",
+      "title": "ברכות נו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%95_%D7%91",
+      "title": "ברכות נו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%96_%D7%90",
+      "title": "ברכות נז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%96_%D7%91",
+      "title": "ברכות נז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%97_%D7%90",
+      "title": "ברכות נח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%97_%D7%91",
+      "title": "ברכות נח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%98_%D7%90",
+      "title": "ברכות נט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A0%D7%98_%D7%91",
+      "title": "ברכות נט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1_%D7%90",
+      "title": "ברכות ס א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1_%D7%91",
+      "title": "ברכות ס ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%90_%D7%90",
+      "title": "ברכות סא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%90_%D7%91",
+      "title": "ברכות סא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%91_%D7%90",
+      "title": "ברכות סב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%91_%D7%91",
+      "title": "ברכות סב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%92_%D7%90",
+      "title": "ברכות סג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%92_%D7%91",
+      "title": "ברכות סג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A1%D7%93_%D7%90",
+      "title": "ברכות סד א"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&action=edit&section=1",
+      "title": "עריכת פסקה: \"ראה גם\""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "ביאור:בבלי ברכות פרק א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%93%D7%A3_%D7%91",
+      "title": "ביאור:בבלי ברכות דף ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%94%D7%9C%D7%9B%D7%94_%D7%9E%D7%9E%D7%A7%D7%95%D7%A8%D7%94/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "ביאור:הלכה ממקורה/מסכת ברכות"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%99%D7%A6%D7%95%D7%A8%D7%99_%D7%93%D7%A8%D7%9A",
+      "title": "ויקיטקסט:קיצורי דרך"
+    },
+    {
+      "href": "/wiki/Bavli_brachot",
+      "title": "Bavli brachot",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_ברכות&oldid=2953405"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "title": "קטגוריה:מסכת ברכות"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%91%D7%A8%D7%9B%D7%95%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

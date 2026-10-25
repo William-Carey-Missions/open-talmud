@@ -1,0 +1,124 @@
+{
+  "id": "40b",
+  "title": "40b · Zegenformules en verschillende voedselsoorten",
+  "scope": "Volledige hoofdtekst van amud 40b in de gekozen editie; Misjna en Gemara. De laatste redenering loopt door op 41a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E_%D7%91&oldid=2851488",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:40b:g1",
+      "locator": "Berakhot 40b · Gemara · g1",
+      "layer": "gemara",
+      "original": "אבל היכא דכי שקלת ליה לפירי ליתיה לגווזא דהדר מפיק לא מברכינן עליה בורא פרי העץ אלא בפה\"א:",
+      "nl": "Maar als na het wegnemen van de vrucht geen stam blijft die opnieuw vrucht voortbrengt, zegt men niet “die de vrucht van de boom schept”, maar “die de vrucht van de aarde schept”.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van het onderscheid tussen boom en gewas op 40a."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:40b:g2",
+      "locator": "Berakhot 40b · Gemara · g2",
+      "layer": "gemara",
+      "original": "ועל כולן אם אמר שהכל וכו':",
+      "nl": "“Als hij over alle ‘door wiens woord alles ontstond’ zei”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:40b:g3",
+      "locator": "Berakhot 40b · Gemara · g3",
+      "layer": "gemara",
+      "original": "אתמר רב הונא אמר חוץ מן הפת ומן היין ורבי יוחנן אמר אפי' פת ויין נימא כתנאי ראה פת ואמר כמה נאה פת זו ברוך המקום שבראה יצא ראה תאנה ואמר כמה נאה תאנה זו ברוך המקום שבראה יצא דברי ר' מאיר ר' יוסי אומר כל המשנה ממטבע שטבעו חכמים בברכות לא יצא ידי חובתו נימא רב הונא דאמר כר' יוסי ור' יוחנן דאמר כר' מאיר אמר לך רב הונא אנא דאמרי אפי' לר' מאיר עד כאן לא קאמר ר' מאיר התם אלא היכא דקא מדכר שמיה דפת אבל היכא דלא קא מדכר שמיה דפת אפילו ר' מאיר מודה ור' יוחנן אמר לך אנא דאמרי אפילו לרבי יוסי עד כאן לא קאמר ר' יוסי התם אלא משום דקאמר ברכה דלא תקינו רבנן אבל אמר שהכל נהיה בדברו דתקינו רבנן אפילו ר' יוסי מודה בנימין רעיא כרך ריפתא ואמר בריך מריה דהאי פיתא אמר רב יצא והאמר רב כל ברכה שאין בה הזכרת השם אינה ברכה דאמר בריך רחמנא מריה דהאי פיתא והא בעינן שלש ברכות מאי יצא דקאמר רב נמי יצא ידי ברכה ראשונה מאי קמשמע לן אע\"ג דאמרה בלשון חול תנינא ואלו נאמרים בכל לשון פרשת סוטה וידוי מעשר וקריאת שמע ותפלה וברכת המזון אצטריך סד\"א הני מילי דאמרה בלשון חול כי היכי דתקינו רבנן בלשון קדש אבל לא אמרה בלשון חול כי היכי דתקינו רבנן בלשון קדש אימא לא קמ\"ל.",
+      "nl": "Er is overgeleverd: rav Hoena zei: behalve over brood en wijn. Rabbi Jochanan zei: zelfs over brood en wijn. Lijkt dit op een geschil tussen leraren? Zag iemand brood en zei hij: “Wat is dit brood mooi! Gezegend de Alomtegenwoordige die het schiep”, dan heeft hij voldaan. Zag hij een vijg en zei hij: “Wat is deze vijg mooi! Gezegend de Alomtegenwoordige die haar schiep”, dan heeft hij voldaan. Dit zegt rabbi Meïr. Rabbi Jose zegt: wie afwijkt van de formulering die de wijzen voor zegeningen vaststelden, heeft niet voldaan. Volgt rav Hoena dan rabbi Jose en rabbi Jochanan rabbi Meïr? Rav Hoena kan zeggen: mijn uitspraak geldt zelfs volgens rabbi Meïr. Rabbi Meïr zegt dat daar alleen wanneer hij brood uitdrukkelijk noemt; noemt hij brood niet, dan stemt ook rabbi Meïr ermee in. Rabbi Jochanan kan zeggen: mijn uitspraak geldt zelfs volgens rabbi Jose. Rabbi Jose zegt dat daar alleen omdat hij een zegening zegt die de rabbijnen niet instelden. Zegt hij “door wiens woord alles ontstond”, wat de rabbijnen wel instelden, dan stemt ook rabbi Jose ermee in. Binjamin de herder at brood en zei: “Gezegend de heer van dit brood.” Rav zei: hij heeft voldaan. Maar Rav zei toch: een zegening waarin Gods naam niet genoemd wordt, is geen zegening? Hij zei: “Gezegend de Barmhartige, de heer van dit brood.” Er zijn toch drie zegeningen vereist? Met “hij heeft voldaan” bedoelde Rav: aan de eerste zegening. Wat leert dit ons? Dat het ook geldt als hij haar in een gewone taal zegt? Wij leerden toch: dit mag in elke taal worden gezegd: de afdeling over de verdachte vrouw, de tiendenverklaring, het Sjema, het gebed en het dankgebed na het eten. Het is nodig: je zou denken dat dit alleen geldt wanneer hij in die andere taal zegt wat de rabbijnen in de heilige taal instelden; wijkt hij daarvan af, dan niet. Daarom leert hij dat het wel geldt.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De heilige taal is het Hebreeuws; de woorden van Binjamin zijn Aramees. De verdachte vrouw betreft de sota-procedure."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:40b:g4",
+      "locator": "Berakhot 40b · Gemara · g4",
+      "layer": "gemara",
+      "original": "גופא אמר רב כל ברכה שאין בה הזכרת השם אינה ברכה ורבי יוחנן אמר כל ברכה שאין בה מלכות אינה ברכה אמר אביי כוותיה דרב מסתברא דתניא (דברים כו, יג) לא עברתי ממצותיך ולא שכחתי לא עברתי מלברכך ולא שכחתי מלהזכיר שמך עליו ואילו מלכות לא קתני ור' יוחנן תני ולא שכחתי מלהזכיר שמך ומלכותך עליו:",
+      "nl": "Ter zake zelf: Rav zei: iedere zegening waarin Gods naam ontbreekt, is geen zegening. Rabbi Jochanan zei: iedere zegening waarin zijn koningschap ontbreekt, is geen zegening. Abaje zei: de opvatting van Rav is aannemelijk, want er is geleerd (Deuteronomium 26:13): “Ik ben van uw geboden niet afgeweken en heb niet vergeten.” “Niet afgeweken”: van U te zegenen. “Niet vergeten”: uw naam erover te noemen. Koningschap wordt niet genoemd! Rabbi Jochanan leert: “Niet vergeten”: uw naam en uw koningschap erover te noemen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:40b:m1",
+      "locator": "Berakhot 40b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' ועל דבר שאין גדולו מן הארץ אומר שהכל נהיה בדברו על החומץ ועל הנובלות ועל הגובאי אומר שהכל נהיה בדברו ר' יהודה אומר כל שהוא מין קללה אין מברכין עליו היו לפניו מינין הרבה ר' יהודה אומר אם יש ביניהן מין שבעה עליו הוא מברך וחכ\"א מברך על איזה מהן שירצה:",
+      "nl": "Misjna. Over iets wat niet uit de aarde groeit, zegt men “door wiens woord alles ontstond”. Over azijn, verwelkte vruchten en sprinkhanen zegt men “door wiens woord alles ontstond”. Rabbi Jehoeda zegt: over alles wat een teken van vervloeking is, zegent men niet. Had hij vele soorten voor zich, dan zegt rabbi Jehoeda: als er een van de zeven soorten bij is, zegent hij daarover. De wijzen zeggen: hij zegent over welke hij wil.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:40b:g5",
+      "locator": "Berakhot 40b · Gemara · g5",
+      "layer": "gemara",
+      "original": "גמ' תנו רבנן על דבר שאין גדולו מן הארץ כגון בשר בהמות חיות ועופות ודגים אומר שהכל נהיה בדברו על החלב ועל הביצים ועל הגבינה אומר שהכל על הפת שעפשה ועל היין שהקרים ועל התבשיל שעבר צורתו אומר שהכל על המלח ועל הזמית ועל כמהין ופטריות אומר שהכל למימרא דכמהין ופטריות לאו גדולי קרקע נינהו והתניא הנודר מפירות הארץ אסור בפירות הארץ ומותר בכמהין ופטריות ואם אמר כל גדולי קרקע עלי אסור אף בכמהין ופטריות אמר אביי מירבא רבו מארעא מינקי לא ינקי מארעא והא על דבר שאין גדולו מן הארץ קתני תני על דבר שאין יונק מן הארץ:",
+      "nl": "Gemara. De wijzen leerden: over iets wat niet uit de aarde groeit, zoals vlees van vee, wild, vogels en vissen, zegt men “door wiens woord alles ontstond”. Over melk, eieren en kaas zegt men “door wiens woord alles ontstond”. Over beschimmeld brood, wijn waarop een vlies kwam en een gerecht dat zijn oorspronkelijke toestand verloor, zegt men “door wiens woord alles ontstond”. Over zout, pekelwater, truffels en paddenstoelen zegt men “door wiens woord alles ontstond”. Betekent dit dat truffels en paddenstoelen geen voortbrengselen van de bodem zijn? Er is toch geleerd: wie zich door een gelofte aardvruchten ontzegt, mag geen aardvruchten eten maar wel truffels en paddenstoelen. Zei hij “alle voortbrengselen van de bodem zijn mij verboden”, dan zijn ook truffels en paddenstoelen verboden. Abaje zei: zij groeien wel uit de aarde, maar ontlenen er hun voeding niet aan. Er staat toch “wat niet uit de aarde groeit”? Lees: wat geen voeding uit de aarde trekt.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:40b:g6",
+      "locator": "Berakhot 40b · Gemara · g6",
+      "layer": "gemara",
+      "original": "ועל הנובלות. מאי נובלות ר' זירא ור' אילעא חד אמר בושלי כמרא וחד אמר תמרי דזיקא תנן ר' יהודה אומר כל שהוא מין קללה אין מברכין עליו בשלמא למ\"ד בושלי כמרא היינו דקרי ליה מין קללה אלא למאן דאמר תמרי דזיקא מאי מין קללה אשארא איכא דאמרי בשלמא למאן דאמר בושלי כמרא היינו דמברכינן עלייהו שהכל אלא למ\"ד תמרי דזיקא שהכל בורא פרי העץ מבעי ליה לברוכי אלא בנובלות סתמא כ\"ע לא פליגי דבושלי כמרא נינהו כי פליגי בנובלות תמרה דתנן הקלין שבדמאי השיתין והרימין והעוזרדין בנות שוח ובנות שקמה וגופנין ונצפה ונובלות תמרה שיתין אמר רבה בר בר חנה א\"ר יוחנן מין תאנים רימין כנדי העוזרדין טולשי בנות שוח אמר רבה בר בר חנה א\"ר יוחנן תאיני חיורתא בנות שקמה אמר רבה בר בר חנה א\"ר יוחנן דובלי גופנין שילהי גופני נצפה פרחה נובלות תמרה ר' אילעא ור' זירא חד אמר בושלי כמרא וחד אמר תמרי דזיקא בשלמא למ\"ד בושלי כמרא היינו דקתני הקלין שבדמאי ספיקן הוא דפטור הא ודאן חייב אלא למאן דאמר תמרי דזיקא ודאן חייב הפקרא נינהו הכא במאי עסקינן שעשאן גורן דא\"ר יצחק א\"ר יוחנן משום ר' אליעזר בן יעקב הלקט והשכחה והפאה שעשאן גורן הוקבעו למעשר איכא דאמרי",
+      "nl": "“Over verwelkte vruchten.” Wat zijn die? Rabbi Zeira en rabbi Ila verschilden: de een zei door hitte verschrompelde vruchten, de ander afgewaaide dadels. Wij leerden: rabbi Jehoeda zegt: over alles wat een teken van vervloeking is, zegent men niet. Volgens wie verschrompelde vruchten bedoelt, is begrijpelijk dat hij dit vervloeking noemt. Maar welke vervloeking is er bij afgewaaide dadels? Zijn uitspraak slaat op de andere gevallen. Volgens een andere formulering: bij verschrompelde vruchten is begrijpelijk dat men “door wiens woord alles ontstond” zegt; maar bij afgewaaide dadels zou men toch “die de vrucht van de boom schept” moeten zeggen! Over newalot zonder nadere aanduiding verschillen allen dus niet: het zijn door hitte verschrompelde vruchten. Zij verschillen over newalot temara. Wij leerden: de lichte gevallen bij demai zijn sjittien, rimien, oezeradien, benot sjoeach, benot sjikma, gofnien, nitspe en newalot temara. Sjittien: Rabba bar bar Chana zei namens rabbi Jochanan: een vijgensoort. Rimien zijn kandi; oezeradien zijn tolsje. Benot sjoeach: Rabba bar bar Chana zei namens rabbi Jochanan: witte vijgen. Benot sjikma: Rabba bar bar Chana zei namens rabbi Jochanan: doevle. Gofnien zijn late druiven. Nitspe zijn kapperbloemen. Over newalot temara verschilden rabbi Ila en rabbi Zeira: de een zei door hitte verschrompelde dadels, de ander afgewaaide dadels. Bij verschrompelde dadels is begrijpelijk dat zij tot de lichte gevallen van demai behoren: alleen bij twijfel zijn ze vrijgesteld, maar bij zekerheid zijn ze verplicht. Maar bij afgewaaide dadels: zouden ze bij zekerheid verplicht zijn? Ze zijn toch onbeheerd bezit! Hier gaat het om iemand die er een hoop van maakte. Rabbi Jitschak zei namelijk namens rabbi Jochanan, namens rabbi Eliëzer ben Jaäkov: nalezingen, vergeten oogst en akkerranden die men tot een hoop maakte, werden verplicht tot vertienden. Volgens een andere formulering",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Demai is opbrengst waarvan onzeker is of de verplichte tienden zijn afgezonderd. Nalezing, vergeten oogst en akkerranden zijn voor armen bestemde oogstgaven."
+        },
+        {
+          "type": "onzeker",
+          "text": "De zeldzame plantnamen kandi, tolsje en doevle blijven getranslitereerd omdat een zekere moderne botanische identificatie hier ontbreekt."
+        },
+        {
+          "type": "vervolg",
+          "text": "De alternatieve formulering volgt op 41a."
+        }
+      ]
+    }
+  ]
+}

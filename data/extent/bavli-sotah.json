@@ -1,0 +1,744 @@
+{
+  "corpus": "bavli",
+  "tractate": "sotah",
+  "title": "Sota",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%A1%D7%95%D7%98%D7%94",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&oldid=2942872",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%A1%D7%95%D7%98%D7%94&action=history",
+  "retrievedAt": "2026-10-25T16:49:54.020766+00:00",
+  "htmlSha256": "288d9a1f5dce8275f184e9b13754086665c94dcc55e467b940fc30623c1678be",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A1%D7%95%D7%98%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A1%D7%95%D7%98%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A1%D7%95%D7%98%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A1%D7%95%D7%98%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279192#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "שיחה על דף התוכן [t]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&oldid=2942872",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&id=2942872&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25A1%25D7%2595%25D7%2598%25D7%2594"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279192",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי סוטה פרק א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%91_%D7%90",
+      "title": "סוטה ב א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%91_%D7%91",
+      "title": "סוטה ב ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%92_%D7%90",
+      "title": "סוטה ג א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%92_%D7%91",
+      "title": "סוטה ג ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%93_%D7%90",
+      "title": "סוטה ד א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%93_%D7%91",
+      "title": "סוטה ד ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%94_%D7%90",
+      "title": "סוטה ה א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%94_%D7%91",
+      "title": "סוטה ה ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%95_%D7%90",
+      "title": "סוטה ו א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%95_%D7%91",
+      "title": "סוטה ו ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%96_%D7%90",
+      "title": "סוטה ז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%96_%D7%91",
+      "title": "סוטה ז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%97_%D7%90",
+      "title": "סוטה ח א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%97_%D7%91",
+      "title": "סוטה ח ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98_%D7%90",
+      "title": "סוטה ט א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98_%D7%91",
+      "title": "סוטה ט ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99_%D7%90",
+      "title": "סוטה י א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99_%D7%91",
+      "title": "סוטה י ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%90_%D7%90",
+      "title": "סוטה יא א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%90_%D7%91",
+      "title": "סוטה יא ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%91_%D7%90",
+      "title": "סוטה יב א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%91_%D7%91",
+      "title": "סוטה יב ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%92_%D7%90",
+      "title": "סוטה יג א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%92_%D7%91",
+      "title": "סוטה יג ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%93_%D7%90",
+      "title": "סוטה יד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי סוטה פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%93_%D7%90",
+      "title": "סוטה יד א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%93_%D7%91",
+      "title": "סוטה יד ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98%D7%95_%D7%90",
+      "title": "סוטה טו א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98%D7%95_%D7%91",
+      "title": "סוטה טו ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98%D7%96_%D7%90",
+      "title": "סוטה טז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%98%D7%96_%D7%91",
+      "title": "סוטה טז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%96_%D7%90",
+      "title": "סוטה יז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%96_%D7%91",
+      "title": "סוטה יז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%97_%D7%90",
+      "title": "סוטה יח א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%97_%D7%91",
+      "title": "סוטה יח ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%98_%D7%90",
+      "title": "סוטה יט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי סוטה פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%98_%D7%90",
+      "title": "סוטה יט א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%99%D7%98_%D7%91",
+      "title": "סוטה יט ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B_%D7%90",
+      "title": "סוטה כ א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B_%D7%91",
+      "title": "סוטה כ ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%90_%D7%90",
+      "title": "סוטה כא א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%90_%D7%91",
+      "title": "סוטה כא ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%91_%D7%90",
+      "title": "סוטה כב א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%91_%D7%91",
+      "title": "סוטה כב ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%92_%D7%90",
+      "title": "סוטה כג א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%92_%D7%91",
+      "title": "סוטה כג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי סוטה פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%92_%D7%91",
+      "title": "סוטה כג ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%93_%D7%90",
+      "title": "סוטה כד א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%93_%D7%91",
+      "title": "סוטה כד ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%94_%D7%90",
+      "title": "סוטה כה א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%94_%D7%91",
+      "title": "סוטה כה ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%95_%D7%90",
+      "title": "סוטה כו א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%95_%D7%91",
+      "title": "סוטה כו ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%96_%D7%90",
+      "title": "סוטה כז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%96_%D7%91",
+      "title": "סוטה כז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי סוטה פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%96_%D7%91",
+      "title": "סוטה כז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%97_%D7%90",
+      "title": "סוטה כח א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%97_%D7%91",
+      "title": "סוטה כח ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%98_%D7%90",
+      "title": "סוטה כט א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9B%D7%98_%D7%91",
+      "title": "סוטה כט ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C_%D7%90",
+      "title": "סוטה ל א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C_%D7%91",
+      "title": "סוטה ל ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%90_%D7%90",
+      "title": "סוטה לא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי סוטה פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%90_%D7%90",
+      "title": "סוטה לא א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%90_%D7%91",
+      "title": "סוטה לא ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%91_%D7%90",
+      "title": "סוטה לב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי סוטה פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%91_%D7%90",
+      "title": "סוטה לב א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%91_%D7%91",
+      "title": "סוטה לב ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%92_%D7%90",
+      "title": "סוטה לג א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%92_%D7%91",
+      "title": "סוטה לג ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%93_%D7%90",
+      "title": "סוטה לד א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%93_%D7%91",
+      "title": "סוטה לד ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%94_%D7%90",
+      "title": "סוטה לה א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%94_%D7%91",
+      "title": "סוטה לה ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%95_%D7%90",
+      "title": "סוטה לו א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%95_%D7%91",
+      "title": "סוטה לו ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%96_%D7%90",
+      "title": "סוטה לז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%96_%D7%91",
+      "title": "סוטה לז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%97_%D7%90",
+      "title": "סוטה לח א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%97_%D7%91",
+      "title": "סוטה לח ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%98_%D7%90",
+      "title": "סוטה לט א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9C%D7%98_%D7%91",
+      "title": "סוטה לט ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E_%D7%90",
+      "title": "סוטה מ א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E_%D7%91",
+      "title": "סוטה מ ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%90_%D7%90",
+      "title": "סוטה מא א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%90_%D7%91",
+      "title": "סוטה מא ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%91_%D7%90",
+      "title": "סוטה מב א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי סוטה פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%91_%D7%90",
+      "title": "סוטה מב א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%91_%D7%91",
+      "title": "סוטה מב ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%92_%D7%90",
+      "title": "סוטה מג א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%92_%D7%91",
+      "title": "סוטה מג ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%93_%D7%90",
+      "title": "סוטה מד א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%93_%D7%91",
+      "title": "סוטה מד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94_%D7%A4%D7%A8%D7%A7_%D7%98",
+      "title": "בבלי סוטה פרק ט"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%93_%D7%91",
+      "title": "סוטה מד ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%94_%D7%90",
+      "title": "סוטה מה א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%94_%D7%91",
+      "title": "סוטה מה ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%95_%D7%90",
+      "title": "סוטה מו א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%95_%D7%91",
+      "title": "סוטה מו ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%96_%D7%90",
+      "title": "סוטה מז א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%96_%D7%91",
+      "title": "סוטה מז ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%97_%D7%90",
+      "title": "סוטה מח א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%97_%D7%91",
+      "title": "סוטה מח ב"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%98_%D7%90",
+      "title": "סוטה מט א"
+    },
+    {
+      "href": "/wiki/%D7%A1%D7%95%D7%98%D7%94_%D7%9E%D7%98_%D7%91",
+      "title": "סוטה מט ב"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_סוטה&oldid=2942872"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%93%D7%A8_%D7%A0%D7%A9%D7%99%D7%9D",
+      "title": "קטגוריה:בבלי סדר נשים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "קטגוריה:בבלי מסכת סוטה"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%98%D7%94",
+      "title": "קטגוריה:מסכת סוטה"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%95%D7%98%D7%94&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

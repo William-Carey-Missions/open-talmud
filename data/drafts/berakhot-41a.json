@@ -1,0 +1,63 @@
+{
+  "id": "41a",
+  "title": "41a · Welke voedselsoort gaat voor?",
+  "scope": "Volledige hoofdtekst van amud 41a in de gekozen editie; Gemara. De matenbespreking loopt door op 41b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%90_%D7%90&oldid=2851486",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:41a:g1",
+      "locator": "Berakhot 41a · Gemara · g1",
+      "layer": "gemara",
+      "original": "בשלמא למ\"ד תמרי דזיקא היינו דהכא קרי לה נובלות סתמא והתם קרי לה תמרה אלא למ\"ד בושלי כמרא ניתני אידי ואידי נובלות תמרה או אידי ואידי נובלות סתמא קשיא:",
+      "nl": "Voor wie afgewaaide dadels bedoelt, is begrijpelijk dat hij ze hier eenvoudig newalot noemt en daar newalot temara. Maar volgens wie door hitte verschrompelde vruchten bedoelt, had hij beide newalot temara of beide eenvoudig newalot moeten noemen! Dit blijft een moeilijkheid.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-41a-r2851486",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de alternatieve formulering op 40b."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:41a:g2",
+      "locator": "Berakhot 41a · Gemara · g2",
+      "layer": "gemara",
+      "original": "היו לפניו מינין הרבה כו':",
+      "nl": "“Had hij vele soorten voor zich”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-41a-r2851486",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:41a:g3",
+      "locator": "Berakhot 41a · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר עולא מחלוקת בשברכותיהן שוות דרבי יהודה סבר מין שבעה עדיף ורבנן סברי מין חביב עדיף אבל בשאין ברכותיהן שוות ד\"ה מברך על זה וחוזר ומברך על זה מיתיבי היו לפניו צנון וזית מברך על הצנון ופוטר את הזית הב\"ע כשהצנון עיקר אי הכי אימא סיפא ר' יהודה אומר מברך על הזית שהזית ממין שבעה לית ליה לר' יהודה הא דתנן כל שהוא עיקר ועמו טפלה מברך על העיקר ופוטר את הטפלה וכי תימא ה\"נ דלית ליה והתניא רבי יהודה אומר אם מחמת צנון בא הזית מברך על הצנון ופוטר את הזית לעולם בצנון עיקר עסקינן וכי פליגי רבי יהודה ורבנן במילתא אחריתי פליגי וחסורי מחסרא והכי קתני היו לפניו צנון וזית מברך על הצנון ופוטר את הזית בד\"א כשהצנון עיקר אבל אין הצנון עיקר ד\"ה מברך על זה וחוזר ומברך על זה ושני מינין בעלמא שברכותיהן שוות מברך על איזה מהן שירצה רבי יהודה אומר מברך על הזית שהזית ממין שבעה פליגי בה רבי אמי ורבי יצחק נפחא חד אמר מחלוקת בשברכותיהן שוות דרבי יהודה סבר מין שבעה עדיף ורבנן סברי מין חביב עדיף אבל בשאין ברכותיהן שוות דברי הכל מברך על זה וחוזר ומברך על זה וחד אמר אף בשאין ברכותיהן שוות נמי מחלוקת בשלמא למאן דאמר בשברכותיהן שוות מחלוקת שפיר אלא למאן דאמר בשאין ברכותיהן שוות פליגי במאי פליגי א\"ר ירמיה להקדים דאמר רב יוסף ואיתימא רבי יצחק כל המוקדם בפסוק זה מוקדם לברכה שנאמר (דברים ח, ח) ארץ חטה ושעורה וגפן ותאנה ורמון ארץ זית שמן ודבש ופליגא דרבי חנן דא\"ר חנן כל הפסוק כולו לשיעורין נאמר חטה דתנן הנכנס לבית המנוגע וכליו על כתפיו וסנדליו וטבעותיו בידיו הוא והן טמאין מיד היה לבוש כליו וסנדליו ברגליו וטבעותיו באצבעותיו הוא טמא מיד והן טהורין עד שישהא בכדי אכילת פרס פת חטין ולא פת שעורין מיסב ואוכלן בלפתן שעורה דתנן עצם כשעורה מטמא במגע ובמשא ואינו מטמא באהל גפן כדי רביעית יין לנזיר תאנה כגרוגרת להוצאת שבת רמון כדתנן כל כלי בעלי בתים",
+      "nl": "Oella zei: het geschil betreft soorten met dezelfde zegening. Rabbi Jehoeda meent dat een van de zeven soorten voorgaat; de rabbijnen menen dat de geliefdste soort voorgaat. Verschillen hun zegeningen, dan zijn allen het erover eens dat hij over de ene zegent en daarna over de andere. Men wierp tegen: heeft hij radijs en olijf voor zich, dan zegent hij over de radijs en stelt daarmee de olijf vrij. Waarover gaat het hier? Wanneer de radijs de hoofdzaak is. Lees dan het slot: rabbi Jehoeda zegt dat hij over de olijf zegent, omdat die tot de zeven soorten behoort. Aanvaardt rabbi Jehoeda dan niet wat wij leerden: bij een hoofdzaak met iets bijkomstigs zegent men over de hoofdzaak en stelt het bijkomstige vrij? Als je zegt dat hij dit inderdaad niet aanvaardt: er is toch geleerd dat rabbi Jehoeda zegt: als de olijf vanwege de radijs wordt gegeten, zegent hij over de radijs en stelt de olijf vrij! Het gaat inderdaad om radijs als hoofdzaak. Het geschil tussen rabbi Jehoeda en de rabbijnen betreft iets anders. Er ontbreken woorden; zo moet het worden gelezen: heeft hij radijs en olijf voor zich, dan zegent hij over de radijs en stelt de olijf vrij. Wanneer? Als de radijs de hoofdzaak is. Is die niet de hoofdzaak, dan zegent hij volgens allen over de ene en daarna over de andere. Bij twee andere soorten met dezelfde zegening zegent hij over welke hij wil. Rabbi Jehoeda zegt: hij zegent over de olijf, omdat die tot de zeven soorten behoort. Rabbi Ammi en rabbi Jitschak Nappacha verschilden hierover. De een zei: het geschil betreft soorten met dezelfde zegening; rabbi Jehoeda laat de zeven soorten voorgaan en de rabbijnen de geliefdste soort. Bij verschillende zegeningen zegent hij volgens allen over de ene en daarna over de andere. De ander zei: ook bij verschillende zegeningen bestaat een geschil. Volgens wie het geschil tot dezelfde zegening beperkt, is het duidelijk. Maar waarover verschillen zij volgens wie ook verschillende zegeningen bedoelt? Rabbi Jirmeja zei: over de volgorde. Rav Josef — volgens anderen rabbi Jitschak — zei immers: wat in dit vers eerder staat, gaat voor bij de zegening, want er staat (Deuteronomium 8:8): “Een land van tarwe en gerst, wijnstok, vijg en granaatappel; een land van olijfolie en honing.” Dit verschilt van rabbi Chanan, want rabbi Chanan zei: het hele vers is over maten gezegd. Tarwe: wij leerden dat wie een door tsaraät aangetast huis binnengaat met kleren op zijn schouders, sandalen en ringen in zijn handen, zelf én die voorwerpen meteen onrein zijn. Draagt hij de kleren, de sandalen aan zijn voeten en de ringen aan zijn vingers, dan is hij meteen onrein, maar de voorwerpen blijven rein totdat hij er de tijd verblijft om een halve broodportie te eten: tarwebrood, geen gerstebrood, terwijl hij aanligt en het met toespijs eet. Gerst: wij leerden dat een bot ter grootte van een gerstekorrel door aanraking en dragen onrein maakt, maar niet onder hetzelfde dak. Wijnstok: de maat van een kwart log wijn voor een nazireeër. Vijg: de grootte van een gedroogde vijg bij het naar buiten dragen op sjabbat. Granaatappel: zoals wij leerden, alle gebruiksvoorwerpen van particulieren",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-41a-r2851486",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Tsaraät is de in de Tora beschreven aantasting van onder meer huizen. Een nazireeër heeft een bijzondere gelofte met onder meer onthouding van wijn. Log is een inhoudsmaat."
+        },
+        {
+          "type": "vervolg",
+          "text": "De maat voor beschadigde gebruiksvoorwerpen volgt op 41b."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "chagigah",
+  "title": "Chagiga",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%97%D7%92%D7%99%D7%92%D7%94",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&oldid=1087439",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94&action=history",
+  "retrievedAt": "2026-10-25T16:51:23.338636+00:00",
+  "htmlSha256": "2ffbfc61086345cdbe6242ca82b43d272b652bc44b62be206a0dbbdbd1ec423f",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:NewItem?site=hewikisource&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&oldid=1087439",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&id=1087439&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%2597%25D7%2592%25D7%2599%25D7%2592%25D7%2594"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9E%D7%95%D7%A2%D7%93_%D7%A7%D7%98%D7%9F",
+      "title": "ירושלמי מסכת מועד קטן",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "מסכת חגיגה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%91%D7%9E%D7%95%D7%AA",
+      "title": "ירושלמי מסכת יבמות",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90",
+      "title": "ירושלמי חגיגה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%90",
+      "title": "ירושלמי חגיגה א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%91",
+      "title": "ירושלמי חגיגה א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%92",
+      "title": "ירושלמי חגיגה א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%93",
+      "title": "ירושלמי חגיגה א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%94",
+      "title": "ירושלמי חגיגה א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%95",
+      "title": "ירושלמי חגיגה א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%96",
+      "title": "ירושלמי חגיגה א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%90_%D7%97",
+      "title": "ירושלמי חגיגה א ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91",
+      "title": "ירושלמי חגיגה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%90",
+      "title": "ירושלמי חגיגה ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%91",
+      "title": "ירושלמי חגיגה ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%92",
+      "title": "ירושלמי חגיגה ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%93",
+      "title": "ירושלמי חגיגה ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%94",
+      "title": "ירושלמי חגיגה ב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%95",
+      "title": "ירושלמי חגיגה ב ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%91_%D7%96",
+      "title": "ירושלמי חגיגה ב ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92",
+      "title": "ירושלמי חגיגה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%90",
+      "title": "ירושלמי חגיגה ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%91",
+      "title": "ירושלמי חגיגה ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%92",
+      "title": "ירושלמי חגיגה ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%93",
+      "title": "ירושלמי חגיגה ג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%94",
+      "title": "ירושלמי חגיגה ג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%95",
+      "title": "ירושלמי חגיגה ג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%96",
+      "title": "ירושלמי חגיגה ג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%92_%D7%97",
+      "title": "ירושלמי חגיגה ג ח"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "משנה מסכת חגיגה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "תוספתא/חגיגה"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "בבלי מסכת חגיגה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "ביאור:ירושלמי מאיר/מסכת חגיגה"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "w:מסכת חגיגה",
+      "class": "extiw"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%90_%D7%90",
+      "title": "ירושלמי חגיגה דף א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי חגיגה דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%91_%D7%90",
+      "title": "ירושלמי חגיגה דף ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%91_%D7%91",
+      "title": "ירושלמי חגיגה דף ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%92_%D7%90",
+      "title": "ירושלמי חגיגה דף ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%92_%D7%91",
+      "title": "ירושלמי חגיגה דף ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%93_%D7%90",
+      "title": "ירושלמי חגיגה דף ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%93_%D7%91",
+      "title": "ירושלמי חגיגה דף ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%94_%D7%90",
+      "title": "ירושלמי חגיגה דף ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%94_%D7%91",
+      "title": "ירושלמי חגיגה דף ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%95_%D7%90",
+      "title": "ירושלמי חגיגה דף ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%95_%D7%91",
+      "title": "ירושלמי חגיגה דף ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%96_%D7%90",
+      "title": "ירושלמי חגיגה דף ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%96_%D7%91",
+      "title": "ירושלמי חגיגה דף ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%97_%D7%90",
+      "title": "ירושלמי חגיגה דף ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%97_%D7%91",
+      "title": "ירושלמי חגיגה דף ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98_%D7%90",
+      "title": "ירושלמי חגיגה דף ט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98_%D7%91",
+      "title": "ירושלמי חגיגה דף ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99_%D7%90",
+      "title": "ירושלמי חגיגה דף י א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99_%D7%91",
+      "title": "ירושלמי חגיגה דף י ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%90_%D7%90",
+      "title": "ירושלמי חגיגה דף יא א"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%90_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יא ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%91_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יב א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%91_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יב ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%92_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יג א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%92_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יג ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%93_%D7%90",
+      "title": "ירושלמי חגיגה דף יד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%93_%D7%91",
+      "title": "ירושלמי חגיגה דף יד ב"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98%D7%95_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף טו א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98%D7%95_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף טו ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98%D7%96_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף טז א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%98%D7%96_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף טז ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%96_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יז א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%96_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יז ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%97_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יח א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%97_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יח ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%98_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יט א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%99%D7%98_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף יט ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כ א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כ ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B%D7%90_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כא א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B%D7%90_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כא ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B%D7%91_%D7%90&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כב א (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94_%D7%93%D7%A3_%D7%9B%D7%91_%D7%91&action=edit&redlink=1",
+      "title": "ירושלמי חגיגה דף כב ב (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_חגיגה&oldid=1087439"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "קטגוריה:ירושלמי מסכת חגיגה"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "title": "קטגוריה:מסכת חגיגה"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%97%D7%92%D7%99%D7%92%D7%94&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

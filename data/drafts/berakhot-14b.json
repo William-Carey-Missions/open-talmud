@@ -1,0 +1,94 @@
+{
+  "id": "14b",
+  "title": "14b · Het Sjema en het dragen van tefillien",
+  "scope": "Volledige hoofdtekst van amud 14b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%93_%D7%91&oldid=2851541",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:14b:g1",
+      "locator": "Berakhot 14b · Gemara · g1",
+      "layer": "gemara",
+      "original": "(ירמיהו י, י) וה' אלהים אמת חוזר ואומר אמת או אינו חוזר ואומר אמת א\"ר אבהו א\"ר יוחנן חוזר ואומר אמת רבה אמר אינו חוזר ואומר אמת ההוא דנחית קמיה דרבה שמעיה רבה דאמר אמת אמת תרי זימני אמר רבה כל אמת אמת תפסיה להאי אמר רב יוסף כמה מעליא הא שמעתתא דכי אתא רב שמואל בר יהודה אמר אמרי במערבא ערבית דבר אל בני ישראל ואמרת אליהם אני ה' אלהיכם אמת אמר ליה אביי מאי מעליותא והא אמר רב כהנא אמר רב לא יתחיל ואם התחיל גומר וכי תימא ואמרת אליהם לא הוי התחלה והאמר רב שמואל בר יצחק אמר רב דבר אל בני ישראל לא הוי התחלה ואמרת אליהם הוי התחלה אמר רב פפא קסברי במערבא ואמרת אליהם נמי לא הויא התחלה עד דאמר ועשו להם ציצית אמר אביי הלכך אנן אתחולי מתחלינן דקא מתחלי במערבא וכיון דאתחלינן מגמר נמי גמרינן דהא אמר רב כהנא אמר רב לא יתחיל ואם התחיל גומר חייא בר רב אמר אמר אני ה' אלהיכם צריך לומר אמת לא אמר אני ה' אלהיכם אינו צ\"ל אמת והא בעי לאדכורי יציאת מצרים דאמר הכי מודים אנחנו לך ה' אלהינו שהוצאתנו מארץ מצרים ופדיתנו מבית עבדים ועשית לנו נסים וגבורות על הים ושרנו לך:",
+      "nl": "‘De HEER God is waarheid’ (Jeremia 10:10). Zegt men daarna nogmaals ‘waarheid’, of zegt men het niet nogmaals? Rabbi Abbahoe zei namens rabbi Jochanan: men zegt nogmaals ‘waarheid’. Rabba zei: men zegt niet nogmaals ‘waarheid’. Iemand ging voor Rabba voor in het gebed. Rabba hoorde hem tweemaal ‘waarheid, waarheid’ zeggen en zei: ‘Elke waarheid heeft deze man te pakken gekregen!’ Rav Josef zei: hoe voortreffelijk is deze overlevering! Want toen Rav Sjemoeël bar Jehoeda kwam, zei hij: in het westen zeggen zij ’s avonds: ‘Spreek tot de Israëlieten en zeg tegen hen: Ik ben de HEER, jullie God. Waarheid.’ Abbaje zei tegen hem: wat is daar voortreffelijk aan? Rav Kahana zei toch namens Rav: men moet niet beginnen, maar als men begonnen is, maakt men het af. En als je zegt dat ‘en zeg tegen hen’ geen begin is: Rav Sjemoeël bar Jitschak zei toch namens Rav dat ‘spreek tot de Israëlieten’ geen begin is, maar ‘en zeg tegen hen’ wel! Rav Papa zei: in het westen menen zij dat ook ‘en zeg tegen hen’ geen begin is, totdat men zegt: ‘Zij zullen voor zichzelf tsietsiet maken.’ Abbaje zei: daarom beginnen wij wel, omdat zij in het westen beginnen; en omdat wij begonnen zijn, maken wij het ook af. Rav Kahana zei immers namens Rav: men moet niet beginnen, maar als men begonnen is, maakt men het af. Chijja bar Rav zei: wie ‘Ik ben de HEER, jullie God’ heeft gezegd, moet ‘waarheid’ zeggen. Wie ‘Ik ben de HEER, jullie God’ niet heeft gezegd, hoeft geen ‘waarheid’ te zeggen. Maar hij moet de uittocht uit Egypte toch vermelden? Hij zegt het als volgt: ‘Wij danken U, HEER, onze God, dat U ons uit het land Egypte hebt geleid en ons uit het slavenhuis hebt verlost, voor ons wonderen en machtige daden op de zee hebt verricht, en wij voor U hebben gezongen.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "“Het westen” is het land Israël, ten westen van Babylonië. De bespreking betreft de avondrecitatie van het gedeelte over de tsietsiet."
+        },
+        {
+          "type": "onzeker",
+          "text": "Rabba’s uitroep over “waarheid” is spottend geformuleerd; de precieze idiomatische strekking is minder zeker dan de afwijzing van de herhaling."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:14b:g2",
+      "locator": "Berakhot 14b · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר ר' יהושע בן קרחה למה קדמה פרשת שמע וכו':",
+      "nl": "Rabbi Jehosjoea ben Korcha zei: waarom staat het gedeelte ‘Hoor’ eerder, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:14b:g3",
+      "locator": "Berakhot 14b · Gemara · g3",
+      "layer": "gemara",
+      "original": "תניא ר\"ש בן יוחי אומר בדין הוא שיקדים שמע לוהיה אם שמוע שזה ללמוד וזה ללמד והיה אם שמוע לויאמר שזה ללמוד וזה לעשות אטו שמע ללמוד אית ביה ללמד ולעשות לית ביה והא כתיב ושננתם וקשרתם וכתבתם ותו והיה אם שמוע ללמד הוא דאית ביה ולעשות לית ביה והא כתיב וקשרתם וכתבתם אלא הכי קאמר בדין הוא שתקדם שמע לוהיה אם שמוע שזה ללמוד וללמד ולעשות והיה אם שמוע לויאמר שזה יש בה ללמד ולעשות ויאמר אין בה אלא לעשות בלבד ותיפוק ליה מדרבי יהושע בן קרחה חדא ועוד קאמר חדא כדי שיקבל עליו עול מלכות שמים תחלה ואח\"כ יקבל עליו עול מצות ועוד משום דאית בה הני מילי אחרנייתא. רב משי ידיה וקרא ק\"ש ואנח תפילין וצלי והיכי עביד הכי והתניא החופר כוך למת בקבר פטור מק\"ש ומן התפלה ומן התפילין ומכל מצות האמורות בתורה הגיע זמן ק\"ש עולה ונוטל ידיו ומניח תפילין וקורא ק\"ש ומתפלל הא גופא קשיא רישא אמר פטור וסיפא חייב הא לא קשיא סיפא בתרי ורישא בחד מ\"מ קשיא לרב רב כרבי יהושע בן קרחה סבירא ליה דאמר עול מלכות שמים תחלה ואח\"כ עול מצות אימר דאמר רבי יהושע בן קרחה להקדים קריאה לקריאה קריאה לעשיה מי שמעת ליה ותו מי סבר ליה כרבי יהושע בן קרחה והאמר רב חייא בר אשי זמנין סגיאין הוה קאימנא קמיה דרב ומקדים ומשי ידיה ומברך ומתני לן פרקין ומנח תפילין והדר קרי ק\"ש וכ\"ת בדלא מטא זמן ק\"ש א\"כ מאי אסהדתיה דרב חייא בר אשי לאפוקי ממ\"ד למשנה אין צריך לברך קמ\"ל דאף למשנה נמי צריך לברך מ\"מ קשיא לרב שלוחא הוא דעוית:",
+      "nl": "Er is geleerd: rabbi Sjimon ben Jochai zegt: terecht staat ‘Hoor’ vóór ‘En het zal gebeuren als jullie luisteren’, want het ene gaat over leren en het andere over onderwijzen. ‘En het zal gebeuren als jullie luisteren’ staat vóór ‘En Hij zei’, want het ene gaat over leren en het andere over doen. Maar bevat ‘Hoor’ alleen leren, en geen onderwijzen en doen? Er staat toch ‘prent ze in’, ‘bind ze’ en ‘schrijf ze’? En bevat ‘En het zal gebeuren als jullie luisteren’ alleen onderwijzen, en geen doen? Er staat toch ‘bind ze’ en ‘schrijf ze’? Dit bedoelt hij: terecht staat ‘Hoor’ vooraan, want het bevat leren, onderwijzen en doen. ‘En het zal gebeuren als jullie luisteren’ staat vóór ‘En Hij zei’, want het bevat onderwijzen en doen, terwijl ‘En Hij zei’ alleen doen bevat. Maar is de reden van rabbi Jehosjoea ben Korcha niet voldoende? Hij geeft één reden en nog een reden: eerst om het juk van het koningschap van de hemel op zich te nemen en daarna het juk van de geboden; en bovendien omdat die andere zaken erin staan. Rav waste zijn handen, reciteerde het Sjema, legde tefillien aan en bad. Hoe kon hij zo handelen? Er is toch geleerd: wie in een graf een nis voor een dode uithakt, is vrijgesteld van het Sjema, het gebed, tefillien en alle geboden die in de Tora genoemd worden. Als de tijd van het Sjema aanbreekt, komt hij omhoog, wast zijn handen, legt tefillien aan, reciteert het Sjema en bidt. Dit spreekt zichzelf tegen: eerst noemt men hem vrijgesteld en daarna verplicht! Dat is geen moeilijkheid: het slot betreft twee werkers, het begin één. Toch blijft de vraag tegen Rav staan. Rav volgt rabbi Jehosjoea ben Korcha, die zegt: eerst het juk van het koningschap van de hemel en daarna het juk van de geboden. Rabbi Jehosjoea ben Korcha sprak over het ene gedeelte vóór het andere reciteren. Heb je hem ook horen zeggen dat recitatie vóór uitvoering gaat? Bovendien, volgt Rav hem wel? Rav Chijja bar Asji zei toch: vele keren stond ik voor Rav. Eerst waste hij zijn handen, sprak een zegening uit en onderwees ons ons hoofdstuk; daarna legde hij tefillien aan en reciteerde hij het Sjema. En als je zegt dat de tijd van het Sjema nog niet was aangebroken: wat leert de getuigenis van Rav Chijja bar Asji ons dan? Zij weerspreekt degene die zegt dat er voor Misjnastudie geen zegening nodig is en leert dat dit ook voor Misjnastudie nodig is. Hoe dan ook blijft de vraag tegen Rav staan. De bode had zich vergist.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Bij twee werkers kan één blijven werken terwijl de ander reciteert. De bode moest Rav kennelijk zijn tefillien brengen; zijn vergissing verklaart waarom Rav het Sjema al had gereciteerd."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:14b:g4",
+      "locator": "Berakhot 14b · Gemara · g4",
+      "layer": "gemara",
+      "original": "אמר עולא כל הקורא ק\"ש בלא תפילין כאילו מעיד עדות שקר בעצמו א\"ר חייא בר אבא א\"ר יוחנן כאילו הקריב עולה בלא מנחה וזבח בלא נסכים:",
+      "nl": "Oella zei: wie het Sjema zonder tefillien reciteert, is alsof hij een vals getuigenis tegen zichzelf aflegt. Rabbi Chijja bar Abba zei namens rabbi Jochanan: alsof hij een brandoffer zonder meeloffer en een slachtoffer zonder plengoffers heeft gebracht.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:14b:g5",
+      "locator": "Berakhot 14b · Gemara · g5",
+      "layer": "gemara",
+      "original": "ואמר רבי יוחנן הרוצה שיקבל עליו עול מלכות שמים שלמה",
+      "nl": "Rabbi Jochanan zei verder: wie het juk van het koningschap van de hemel volledig op zich wil nemen,",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De zin wordt op 15a voltooid."
+        }
+      ]
+    }
+  ]
+}

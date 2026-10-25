@@ -2,17 +2,13 @@
 
 Nederlandse leesomgeving voor de grondtekst en vertaling van de Talmoed, met de vormgeving van [Open Vertaling](https://openvertaling.nl/).
 
-## Status — 25 oktober 2026
+## Status
 
-**Dit is een onvolledige conceptuitgave. Geen tractaat is volledig vertaald.**
+**Dit is een onvolledige conceptuitgave.** De actuele reeks, segmenttelling en eerstvolgende passage staan in [de vertaalstatus](docs/status.md) en [het voortgangsregister](data/progress.json). Onafhankelijke inhoudelijke eindcontrole is nog niet uitgevoerd.
 
-Beschikbaar: de volledige hoofdtekst van **Babylonische Berakhot 2a–3a**, rechtstreeks vertaald uit de vastgelegde Hebreeuws-Aramese bron. De negenenveertig gekoppelde segmenten bevatten Misjna Berakhot 1:1 (vier segmenten) en de aansluitende Gemara (vijfenveertig segmenten). Op 2a staan twaalf segmenten, op 2b achttien en op 3a negentien. Toelichting en onzekere interpretaties staan afzonderlijk bij de tekst.
+De voortgangsmaat telt **8.445 vastgezette editiegebonden drukzijden** van beide Talmoeds samen. **85 volledig vertaalde zijden** overschrijden 1%. Dit is geen woordpercentage en geen extra telling van de zelfstandige Misjna; zie [methode en bronnen](docs/omvangstelling.md).
 
-De onafhankelijke inhoudelijke en taalkundige controle is nog niet uitgevoerd: **0 segmenten onafhankelijk gecontroleerd**. De laatste vraag op 2a loopt door op de nu beschikbare 2b. De vraag over het betreden van een ruïne gaat verder op 3b; die voortzetting ontbreekt nog.
-
-Resteert: Berakhot 3b–64a (122 amudim), de overige Babylonische tractaten, de gehele Jeruzalemse Talmoed en de overige Misjna-teksten. De inventaris bevat alle 63 Misjna-tractaten en per Talmoed alle 63 posities, met onderscheid tussen overgeleverde, gedeeltelijk overgeleverde en ontbrekende Gemara. Er zijn 37 Babylonische en 39 Jeruzalemse tractaten met overgeleverde Gemara; deze aantallen betekenen geen volledige overlevering per tractaat.
-
-Alleen Berakhot heeft een register op amudniveau. De volledige segmentinventaris voor de overige teksten is nog niet verworven. Daarom wordt geen totaalpercentage opgegeven.
+De inventaris bevat alle 63 Misjna-tractaten, 37 Babylonische en 39 Jeruzalemse tractaten met overgeleverde Gemara. Gedeeltelijk overgeleverde of ontbrekende Gemara blijft apart zichtbaar. De daadwerkelijke tekstverwerving wordt per bronextract verantwoord.
 
 ## Lezen en controleren
 
@@ -26,7 +22,7 @@ Open http://localhost:8000. Gebruik een HTTP-server; een bestand-URL ondersteunt
 
 - Eerste tekst: #lezen/bavli-berakhot/2a
 - Vervolg: #lezen/bavli-berakhot/2b
-- Nieuwste gedeelte: #lezen/bavli-berakhot/3a
+- Nieuwste gedeelte: zie de keuzelijst in de lezer
 - Voorbeeld van een vaste fragmentlink: #lezen/bavli-berakhot/2a/g7
 - Inventaris en voortgang: #inventaris
 - Bronverantwoording: #bronnen
@@ -60,9 +56,15 @@ Voor 3a is [revisie 3006952](https://he.wikisource.org/w/index.php?title=%D7%91%
 
 De Wikisource-bewerkingen en deze afgeleide Nederlandse conceptvertaling en toelichtingen vallen onder [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Nederlandse tekst: Open Talmud, 2026. Zie ook [licenses/corpus.md](licenses/corpus.md).
 
-Sefaria is onderzocht als aanvullende vindplaats en voor structuurcontrole. Daar heeft iedere tekstversie eigen rechten; er is geen Sefaria-tekst geïmporteerd. Beschermde moderne vertalingen zijn niet overgenomen. De inventarislinks buiten 2a–3a zijn vindplaatsen voor verdere verwerving; zij vormen geen verklaring dat iedere afzonderlijke pagina of teksteditie al gecontroleerd is.
+Sefaria is onderzocht als aanvullende vindplaats en voor structuurcontrole. Daar heeft iedere tekstversie eigen rechten; er is geen Sefaria-tekst geïmporteerd. Beschermde moderne vertalingen zijn niet overgenomen. De inventarislinks zonder verworven bronextract zijn vindplaatsen voor verdere verwerving; zij vormen geen verklaring dat iedere afzonderlijke pagina of teksteditie al gecontroleerd is.
 
 css/openvertaling.css is ongewijzigd overgenomen uit de Open Vertaling-repository; herkomst en SHA-256 staan in SOURCE.json. De lokale lettertypen vallen onder de SIL Open Font License; zie licenses/. De corpuslicentie vervangt de bestaande rechten op andere onderdelen niet.
+
+## Blokverwerving en integratie
+
+Nieuwe bronextracten worden met scripts/acquire_wikisource.py verworven. Afgeronde amudim staan als controleerbare hoofdstukken in data/drafts/. node scripts/import_drafts.mjs valideert volledige brondekking en unieke verwijzingen vóór het toevoegen van een aaneengesloten reeks aan de lezer. Het script berekent voortgang en status opnieuw uit de daadwerkelijke inhoud.
+
+De omvangstelling is offline reproduceerbaar met python scripts/corpus_extent.py. Bronverwerving gebruikt alleen openbare bronnen; geen betaalde vertaaldienst is nodig.
 
 ## Verificatie
 

@@ -1,0 +1,104 @@
+{
+  "id": "4b",
+  "title": "4b · Het avondgebed en de verlossingszegen",
+  "scope": "Volledige hoofdtekst van amud 4b in de gekozen editie; Gemara. De laatste uitspraak loopt door op 5a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%93_%D7%91&oldid=2851561",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:4b:g1",
+      "locator": "Berakhot 4b · Gemara · g1",
+      "layer": "gemara",
+      "original": "ואי כרבן גמליאל סבירא להו לימרו כרבן גמליאל לעולם כרבן גמליאל סבירא להו והא דקא אמרי עד חצות כדי להרחיק את האדם מן העבירה כדתניא חכמים עשו סייג לדבריהם כדי שלא יהא אדם בא מן השדה בערב ואומר אלך לביתי ואוכל קימעא ואשתה קימעא ואישן קימעא ואח\"כ אקרא ק\"ש ואתפלל וחוטפתו שינה ונמצא ישן כל הלילה אבל אדם בא מן השדה בערב נכנס לבית הכנסת אם רגיל לקרות קורא ואם רגיל לשנות שונה וקורא ק\"ש ומתפלל ואוכל פתו ומברך וכל העובר על דברי חכמים חייב מיתה מאי שנא בכל דוכתא דלא קתני חייב מיתה ומאי שנא הכא דקתני חייב מיתה איבעית אימא משום דאיכא אונס שינה ואיבע\"א לאפוקי ממאן דאמר תפלת ערבית רשות קמ\"ל דחובה:",
+      "nl": "Als zij de opvatting van Rabban Gamaliël volgen, laten zij dan hetzelfde zeggen als Rabban Gamaliël! Zij volgen inderdaad Rabban Gamaliël. Dat zij “tot middernacht” zeggen, dient om de mens ver van overtreding te houden. Zo is geleerd: de wijzen maakten een omheining om hun voorschriften, opdat iemand niet ’s avonds van het veld komt en zegt: “Ik ga naar huis, eet een beetje, drink een beetje, slaap een beetje en daarna reciteer ik het Sjema en bid ik.” Dan overvalt hem de slaap en slaapt hij de hele nacht. Iemand die ’s avonds van het veld komt, gaat dus de synagoge binnen. Als hij gewend is Schrift te lezen, leest hij; als hij gewend is overlevering te bestuderen, bestudeert hij die. Hij reciteert het Sjema, bidt, eet zijn brood en spreekt de zegening uit. Wie de woorden van de wijzen overtreedt, verdient de dood. Waarom wordt elders niet onderwezen “verdient de dood”, terwijl het hier wel wordt onderwezen? Je kunt zeggen: omdat de slaap iemand ongewild kan overmeesteren. Je kunt ook zeggen: om de opvatting uit te sluiten dat het avondgebed vrijwillig is. Hier wordt geleerd dat het verplicht is.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De omheining is een aanvullende voorzorgsregel die overtreding van een voorschrift moet voorkomen."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:4b:g2",
+      "locator": "Berakhot 4b · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר מר קורא ק\"ש ומתפלל מסייע ליה לר' יוחנן דאמר ר' יוחנן איזהו בן העולם הבא זה הסומך גאולה לתפלה של ערבית רבי יהושע בן לוי אומר תפלות באמצע תקנום במאי קא מפלגי אי בעית אימא קרא איבע\"א סברא איבע\"א סברא דר' יוחנן סבר גאולה מאורתא נמי הוי אלא גאולה מעלייתא לא הויא אלא עד צפרא ור' יהושע בן לוי סבר כיון דלא הויא אלא מצפרא לא הויא גאולה מעלייתא ואב\"א קרא ושניהם מקרא אחד דרשו דכתיב (דברים ו, ז) בשכבך ובקומך ר' יוחנן סבר מקיש שכיבה לקימה מה קימה ק\"ש ואח\"כ תפלה אף שכיבה נמי ק\"ש ואח\"כ תפלה ר' יהושע בן לוי סבר מקיש שכיבה לקימה מה קימה ק\"ש סמוך למטתו אף שכיבה נמי ק\"ש סמוך למטתו מתיב מר בריה דרבינא בערב מברך שתים לפניה ושתים לאחריה ואי אמרת בעי לסמוך הא לא קא סמך גאולה לתפלה דהא בעי למימר השכיבנו אמרי כיון דתקינו רבנן השכיבנו כגאולה אריכתא דמיא דאי לא תימא הכי שחרית היכי מצי סמיך והא אמר רבי יוחנן בתחלה אומר (תהלים נא, יז) ה' שפתי תפתח ולבסוף הוא אומר (תהלים יט, טו) יהיו לרצון אמרי פי אלא התם כיון דתקינו רבנן למימר ה' שפתי תפתח כתפלה אריכתא דמיא הכא נמי כיון דתקינו רבנן למימר השכיבנו כגאולה אריכתא דמיא:",
+      "nl": "De meester zei: “Hij reciteert het Sjema en bidt.” Dit ondersteunt rabbi Jochanan, want rabbi Jochanan zei: wie behoort tot de komende wereld? Wie de verlossingszegen onmiddellijk laat volgen door het avondgebed. Rabbi Jehosjoea ben Levi zegt: men stelde de gebeden in tussen de recitaties van het Sjema. Waarover verschillen zij? Je kunt zeggen: over een Schrifttekst; je kunt ook zeggen: over een redenering. Wat de redenering betreft: rabbi Jochanan meent dat de verlossing ook al ’s avonds plaatsvond, al werd zij pas ’s ochtends volledig. Rabbi Jehosjoea ben Levi meent: omdat zij pas ’s ochtends plaatsvond, was er ’s avonds nog geen volledige verlossing. Je kunt ook zeggen dat zij verschillen over een Schrifttekst. Beiden legden dezelfde tekst uit (Deuteronomium 6:7): “wanneer je gaat liggen en wanneer je opstaat.” Rabbi Jochanan meent: het gaan liggen wordt vergeleken met het opstaan. Zoals bij het opstaan eerst het Sjema en daarna het gebed komt, zo ook bij het gaan liggen. Rabbi Jehosjoea ben Levi meent: het gaan liggen wordt vergeleken met het opstaan. Zoals bij het opstaan het Sjema aansluit bij het bed, zo ook bij het gaan liggen. Mar, de zoon van Ravina, wierp tegen: ’s avonds spreekt men twee zegeningen ervoor uit en twee erna. Als je zegt dat men ze direct moet laten aansluiten, sluit de verlossingszegen toch niet direct aan op het gebed? Men moet immers “Laat ons neerliggen” zeggen! Men antwoordde: omdat de rabbijnen “Laat ons neerliggen” instelden, geldt het als een verlengde verlossingszegen. Anders zou men ’s ochtends evenmin direct kunnen aansluiten. Rabbi Jochanan zei immers: aan het begin zegt men (Psalmen 51:17): “Heer, open mijn lippen”, en aan het einde (Psalmen 19:15): “Mogen de woorden van mijn mond welgevallig zijn.” Daar geldt: omdat de rabbijnen voorschreven “Heer, open mijn lippen” te zeggen, geldt het als een verlengd gebed. Zo geldt hier: omdat de rabbijnen “Laat ons neerliggen” voorschreven, geldt het als een verlengde verlossingszegen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het gebed is hier het staande gebed. De verlossingszegen sluit de zegeningen bij het Sjema af. Volgens rabbi Jehosjoea ben Levi staat het avondgebed vóór het avond-Sjema."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:4b:g3",
+      "locator": "Berakhot 4b · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר רבי אלעזר א\"ר אבינא כל האומר (תהלים קמה, א) תהלה לדוד בכל יום שלוש פעמים מובטח לו שהוא בן העולם הבא מאי טעמא אילימא משום דאתיא באל\"ף בי\"ת נימא (תהלים קיט, א) אשרי תמימי דרך דאתיא בתמניא אפין אלא משום דאית ביה (תהלים קמה, טז) פותח את ידך נימא הלל הגדול דכתיב ביה (תהלים קלו, כה) נותן לחם לכל בשר אלא משום דאית ביה תרתי אמר רבי יוחנן מפני מה לא נאמר נו\"ן באשרי מפני שיש בה מפלתן של שונאי ישראל דכתיב (עמוס ה, ב) נפלה לא תוסיף קום בתולת ישראל במערבא מתרצי לה הכי נפלה ולא תוסיף לנפול עוד קום בתולת ישראל אמר רב נחמן בר יצחק אפילו הכי חזר דוד וסמכן ברוח הקודש שנאמר (תהלים קמה, יד) סומך ה' לכל הנופלים:",
+      "nl": "Rabbi Elazar zei namens rabbi Avina: wie dagelijks driemaal “Een loflied van David” (Psalmen 145:1) zegt, is ervan verzekerd dat hij tot de komende wereld behoort. Waarom? Als het is omdat het volgens het alfabet is gerangschikt, laat hij dan “Gelukkig wie onberispelijk van weg zijn” (Psalmen 119:1) zeggen: dat volgt het alfabet achtvoudig. Als het is omdat er staat (Psalmen 145:16): “U opent uw hand”, laat hij dan het grote Hallel zeggen, waarin staat (Psalmen 136:25): “Die voedsel geeft aan alle vlees.” Het is dus omdat deze psalm beide kenmerken heeft. Rabbi Jochanan zei: waarom staat er geen noen in Asjree? Omdat daarmee de val van de vijanden van Israël wordt aangeduid, want er staat (Amos 5:2): “Gevallen is zij; zij zal niet meer opstaan, de maagd Israël.” In het Westen leggen zij het zo uit: “Zij is gevallen en zal niet opnieuw vallen; sta op, maagd Israël!” Rav Nachman bar Jitschak zei: toch heeft David hen daarna weer ondersteund, door de heilige geest, want er staat (Psalmen 145:14): “De HEER ondersteunt allen die vallen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Asjree is de liturgische benaming van Psalm 145 met inleidende verzen. Noen is een Hebreeuwse letter; het volgende vers begint met samech. Het Westen duidt het land Israël aan."
+        },
+        {
+          "type": "toelichting",
+          "text": "“De vijanden van Israël” is een verhullende aanduiding van Israël zelf, om het onheil niet rechtstreeks uit te spreken."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:4b:g4",
+      "locator": "Berakhot 4b · Gemara · g4",
+      "layer": "gemara",
+      "original": "א\"ר אלעזר בר אבינא גדול מה שנאמר במיכאל יותר ממה שנאמר בגבריאל דאילו במיכאל כתי' (ישעיהו ו, ו) ויעף אלי אחד מן השרפים ואלו גבי גבריאל כתי' (דניאל ט, כא) והאיש גבריאל אשר ראיתי בחזון בתחלה מועף ביעף וגו' מאי משמע דהאי אחד מיכאל הוא אמר ר' יוחנן אתיא אחד אחד כתיב הכא ויעף אלי אחד מן השרפים וכתי' התם (דניאל י, יג) והנה מיכאל אחד (מן) השרים הראשונים בא לעזרני תנא מיכאל באחת גבריאל בשתים אליהו בארבע ומלאך המות בשמנה ובשעת המגפה באחת:",
+      "nl": "Rabbi Elazar bar Avina zei: wat over Michaël gezegd wordt, is groter dan wat over Gabriël gezegd wordt. Over Michaël staat immers (Jesaja 6:6): “Een van de serafs vloog naar mij toe.” Over Gabriël staat daarentegen (Daniël 9:21): “De man Gabriël die ik eerder in het visioen had gezien, vloog met een vlucht”, enzovoort. Waaruit blijkt dat die “ene” Michaël is? Rabbi Jochanan zei: dit wordt afgeleid door “een” met “een” te verbinden. Hier staat: “Een van de serafs vloog naar mij toe”; daar staat (Daniël 10:13): “Zie, Michaël, een (van) de voornaamste vorsten, kwam mij helpen.” Er is geleerd: Michaël komt met één vlucht, Gabriël met twee, Elia met vier en de doodsengel met acht; tijdens een epidemie met één.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De herhaling in de beschrijving van Gabriëls vlucht wordt gelezen als twee vluchten; Michaëls ene vlucht duidt grotere snelheid aan."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:4b:g5",
+      "locator": "Berakhot 4b · Gemara · g5",
+      "layer": "gemara",
+      "original": "א\"ר יהושע בן לוי אע\"פ שקרא אדם ק\"ש בביהכ\"נ מצוה לקרותו על מטתו אמר רבי יוסי מאי קרא (תהלים ד, ה) רגזו ואל תחטאו אמרו בלבבכם על משכבכם ודומו סלה אמר רב נחמן",
+      "nl": "Rabbi Jehosjoea ben Levi zei: hoewel iemand het Sjema in de synagoge heeft gereciteerd, is het een gebod het ook op zijn bed te reciteren. Rabbi Jose zei: welke Schriftplaats ligt hieraan ten grondslag? (Psalmen 4:5): “Beef en zondig niet; spreek in uw hart op uw bed en zwijg. Sela.” Rav Nachman zei:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Rav Nachmans uitspraak volgt op 5a."
+        }
+      ]
+    }
+  ]
+}

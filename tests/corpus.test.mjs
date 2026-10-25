@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
+import {validateDraft} from '../scripts/import_drafts.mjs';
 const read = path => readFile(new URL('../' + path, import.meta.url), 'utf8');
 const json = async path => JSON.parse(await read(path));
 const sha = value => createHash('sha256').update(value).digest('hex');
@@ -114,7 +115,27 @@ test('Berakhot 3a bevat de volledige hoofdtekst met behouden varianten', async (
  assert.ok(chapter.passages.every(p=>p.layer==='gemara'));
  assert.ok(chapter.passages.find(p=>p.original.includes('(והמתין לי)')).notes.some(n=>n.type==='tekstvorm'));
  assert.ok(chapter.passages.at(-1).notes.some(n=>n.type==='vervolg'));
+
+});
+
+test('alle geïntegreerde amudim dekken hun volledige bron en vaste omvangsnoemer',async()=>{
+ const library=await json('data/library.json');
+ const sources=await json('data/sources.json');
+ const extent=await json('data/extent.json');
  const progress=await json('data/progress.json');
- assert.equal(progress.nextRef,'bavli:berakhot:3b');
- assert.equal(progress.translatedSegments,49);
+ assert.equal(extent.denominator,8445);
+ assert.equal(extent.tractates.length,76);
+ assert.equal(extent.tractates.reduce((n,t)=>n+t.amudCount,0),8445);
+ assert.equal(extent.onePercentThresholdWholeAmudim,85);
+ assert.equal(new Set(extent.tractates.flatMap(t=>t.amudim)).size,8445);
+ for(const chapter of library.works[0].chapters){
+  const entry=sources.sources.find(s=>s.id===chapter.passages[0].sourceId);
+  const source=await json(entry.localPath);
+  validateDraft(chapter,source,chapter.id);
+  for(let i=0;i<source.paragraphs.length;i++)
+   assert.equal(normalize(chapter.passages.filter(p=>p.sourceParagraph===i+1).map(p=>p.original).join(' ')),normalize(source.paragraphs[i]),chapter.id+' alinea '+(i+1));
+ }
+ assert.equal(progress.extent.translatedWholeUnits,library.works[0].chapters.length);
+ assert.equal(progress.extent.percent,100*library.works[0].chapters.length/8445);
+ assert.equal(progress.extent.targetReached,library.works[0].chapters.length>=85);
 });

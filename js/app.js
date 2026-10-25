@@ -68,6 +68,8 @@
       const progress = await progressResponse.json();
       const gemaraCount = id => inventory.corpora.find(c => c.id === id).tractates.filter(t => t.gemara !== 'niet-overgeleverd').length;
       $('inventory-summary').textContent = inventory.mishnah.length + ' Misjna-tractaten · ' + gemaraCount('bavli') + ' Babylonische tractaten met Gemara · ' + gemaraCount('yerushalmi') + ' Jeruzalemse tractaten met Gemara, waaronder gedeeltelijk overgeleverde teksten. ' + progress.translatedSegments + ' segmenten in concept vertaald; ' + progress.independentlyReviewedSegments + ' onafhankelijk gecontroleerd. ' + (progress.completeTractates ? progress.completeTractates + ' tractaten volledig vertaald.' : 'Geen tractaat volledig vertaald.');
+      const measured = progress.extent;
+      if (measured) $('extent-status').textContent = measured.percent.toLocaleString('nl-NL', {minimumFractionDigits: 3, maximumFractionDigits: 3}) + '% van ' + measured.denominator.toLocaleString('nl-NL') + ' vastgezette drukzijden in concept vertaald (' + measured.translatedWholeUnits + ' zijden). De 1%-grens is ' + measured.onePercentThreshold + ' volledige zijden. Dit is geen woordpercentage; de zelfstandige Misjna en de onafhankelijke eindcontrole worden apart bijgehouden.';
       $('inventory-next').textContent = 'Volgende passage: ' + (progress.nextLabel || progress.nextRef) + '. ' + progress.remaining;
       for (const corpus of inventory.corpora) {
         const container = text('div', '', 'corpus-inventory');
@@ -93,7 +95,7 @@
             const name = document.createElement('th'); name.scope = 'row';
             name.append(tractate.sourceUrl ? link(tractate.title, tractate.sourceUrl) : text('span', tractate.title));
             const preserved = tractate.gemara === 'niet-overgeleverd' ? 'Niet overgeleverd' : tractate.gemara === 'gedeeltelijk-overgeleverd' ? 'Gedeeltelijk overgeleverd' : 'Overgeleverd';
-            const status = tractate.translationStatus === 'concept-deel' ? (tractate.units || []).filter(u => u.translationStatus === 'concept').map(u => u.id).join(', ') + ': ' + tractate.translatedSegments + ' segmenten in concept; rest open' : tractate.translationStatus === 'niet-van-toepassing' ? 'Niet van toepassing' : 'Nog niet begonnen';
+            const status = tractate.translationStatus === 'concept-deel' ? (tractate.units || []).filter(u => u.translationStatus === 'concept').map(u => u.id).filter((_,i,a)=>i===0||i===a.length-1).join('–') + ': ' + tractate.translatedSegments + ' segmenten in concept; rest open' : tractate.translationStatus === 'niet-van-toepassing' ? 'Niet van toepassing' : 'Nog niet begonnen';
             const note = text('td', preserved);
             if (tractate.note) note.append(text('small', tractate.note));
             row.append(name, note, text('td', status)); body.append(row);
@@ -136,7 +138,7 @@
     fill($('work-select'), works, work.id);
     fill($('chapter-select'), chapters, chapter?.id);
     $('chapter-title').textContent = chapter ? work.title + ' · ' + chapter.title : work.title;
-    $('reader-status').textContent = 'Conceptvertaling · niet onafhankelijk gecontroleerd. Beschikbaar in dit werk: ' + chapters.map(c => c.id).join(', ') + '; de overige tekst is nog niet vertaald.' + (chapter?.scope ? ' ' + chapter.scope : '');
+    $('reader-status').textContent = 'Conceptvertaling · niet onafhankelijk gecontroleerd. Beschikbaar in dit werk: ' + chapters.map(c => c.id).filter((_,i,a)=>i===0||i===a.length-1).join('–') + ' (' + chapters.length + ' zijden)' + '; de overige tekst is nog niet vertaald.' + (chapter?.scope ? ' ' + chapter.scope : '');
     for (const passage of chapter?.passages || []) {
       const row = text('div', '', 'passage');
       row.id = 'passage-' + passage.id;

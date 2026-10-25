@@ -1,0 +1,829 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "sukkah",
+  "title": "Soekka",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%A1%D7%95%D7%9B%D7%94",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&oldid=2788039",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A1%D7%95%D7%9B%D7%94&action=history",
+  "retrievedAt": "2026-10-25T16:51:22.045294+00:00",
+  "htmlSha256": "b7cdc87d88c52bbb4ee8eea8f5f9a69785eaaa609e5405930760e6b8addac6fc",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "#",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "#קישורים_חיצוניים",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q114279434#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&oldid=2788039",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&id=2788039&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%25A1%25D7%2595%25D7%259B%25D7%2594"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q114279434",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%95%D7%9E%D7%90",
+      "title": "ירושלמי מסכת יומא",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "מסכת סוכה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%91%D7%99%D7%A6%D7%94",
+      "title": "ירושלמי מסכת ביצה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "הטקסט בספר זה הושלם"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90",
+      "title": "ירושלמי סוכה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%90",
+      "title": "ירושלמי סוכה א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%91",
+      "title": "ירושלמי סוכה א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%92",
+      "title": "ירושלמי סוכה א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%93",
+      "title": "ירושלמי סוכה א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%94",
+      "title": "ירושלמי סוכה א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%95",
+      "title": "ירושלמי סוכה א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%96",
+      "title": "ירושלמי סוכה א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%97",
+      "title": "ירושלמי סוכה א ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%98",
+      "title": "ירושלמי סוכה א ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%99",
+      "title": "ירושלמי סוכה א י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%99%D7%90",
+      "title": "ירושלמי סוכה א יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%90_%D7%99%D7%91",
+      "title": "ירושלמי סוכה א יב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91",
+      "title": "ירושלמי סוכה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%90",
+      "title": "ירושלמי סוכה ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%91",
+      "title": "ירושלמי סוכה ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%92",
+      "title": "ירושלמי סוכה ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%93",
+      "title": "ירושלמי סוכה ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%94",
+      "title": "ירושלמי סוכה ב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%95",
+      "title": "ירושלמי סוכה ב ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%96",
+      "title": "ירושלמי סוכה ב ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%97",
+      "title": "ירושלמי סוכה ב ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%98",
+      "title": "ירושלמי סוכה ב ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%91_%D7%99",
+      "title": "ירושלמי סוכה ב י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92",
+      "title": "ירושלמי סוכה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%90",
+      "title": "ירושלמי סוכה ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%91",
+      "title": "ירושלמי סוכה ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%92",
+      "title": "ירושלמי סוכה ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%93",
+      "title": "ירושלמי סוכה ג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%94",
+      "title": "ירושלמי סוכה ג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%95",
+      "title": "ירושלמי סוכה ג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%96",
+      "title": "ירושלמי סוכה ג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%97",
+      "title": "ירושלמי סוכה ג ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%98",
+      "title": "ירושלמי סוכה ג ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%99",
+      "title": "ירושלמי סוכה ג י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%99%D7%90",
+      "title": "ירושלמי סוכה ג יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%92_%D7%99%D7%91",
+      "title": "ירושלמי סוכה ג יב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93",
+      "title": "ירושלמי סוכה ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%90",
+      "title": "ירושלמי סוכה ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%91",
+      "title": "ירושלמי סוכה ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%92",
+      "title": "ירושלמי סוכה ד ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%93",
+      "title": "ירושלמי סוכה ד ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%94",
+      "title": "ירושלמי סוכה ד ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%95",
+      "title": "ירושלמי סוכה ד ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93_%D7%96",
+      "title": "ירושלמי סוכה ד ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94",
+      "title": "ירושלמי סוכה ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%90",
+      "title": "ירושלמי סוכה ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%91",
+      "title": "ירושלמי סוכה ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%92",
+      "title": "ירושלמי סוכה ה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%93",
+      "title": "ירושלמי סוכה ה ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%94",
+      "title": "ירושלמי סוכה ה ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%95",
+      "title": "ירושלמי סוכה ה ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%96",
+      "title": "ירושלמי סוכה ה ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%94_%D7%97",
+      "title": "ירושלמי סוכה ה ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%90_%D7%90",
+      "title": "ירושלמי סוכה דף א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי סוכה דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%91_%D7%90",
+      "title": "ירושלמי סוכה דף ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי סוכה דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%92_%D7%90",
+      "title": "ירושלמי סוכה דף ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%92_%D7%91",
+      "title": "ירושלמי סוכה דף ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%93_%D7%90",
+      "title": "ירושלמי סוכה דף ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%93_%D7%91",
+      "title": "ירושלמי סוכה דף ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%94_%D7%90",
+      "title": "ירושלמי סוכה דף ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%94_%D7%91",
+      "title": "ירושלמי סוכה דף ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%95_%D7%90",
+      "title": "ירושלמי סוכה דף ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%95_%D7%91",
+      "title": "ירושלמי סוכה דף ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%96_%D7%90",
+      "title": "ירושלמי סוכה דף ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%96_%D7%91",
+      "title": "ירושלמי סוכה דף ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%97_%D7%90",
+      "title": "ירושלמי סוכה דף ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%97_%D7%91",
+      "title": "ירושלמי סוכה דף ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98_%D7%90",
+      "title": "ירושלמי סוכה דף ט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98_%D7%91",
+      "title": "ירושלמי סוכה דף ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99_%D7%90",
+      "title": "ירושלמי סוכה דף י א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99_%D7%91",
+      "title": "ירושלמי סוכה דף י ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%90_%D7%90",
+      "title": "ירושלמי סוכה דף יא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%90_%D7%91",
+      "title": "ירושלמי סוכה דף יא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%91_%D7%90",
+      "title": "ירושלמי סוכה דף יב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%91_%D7%91",
+      "title": "ירושלמי סוכה דף יב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%92_%D7%90",
+      "title": "ירושלמי סוכה דף יג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%92_%D7%91",
+      "title": "ירושלמי סוכה דף יג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%93_%D7%90",
+      "title": "ירושלמי סוכה דף יד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%93_%D7%91",
+      "title": "ירושלמי סוכה דף יד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98%D7%95_%D7%90",
+      "title": "ירושלמי סוכה דף טו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98%D7%95_%D7%91",
+      "title": "ירושלמי סוכה דף טו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98%D7%96_%D7%90",
+      "title": "ירושלמי סוכה דף טז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%98%D7%96_%D7%91",
+      "title": "ירושלמי סוכה דף טז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%96_%D7%90",
+      "title": "ירושלמי סוכה דף יז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%96_%D7%91",
+      "title": "ירושלמי סוכה דף יז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%97_%D7%90",
+      "title": "ירושלמי סוכה דף יח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%97_%D7%91",
+      "title": "ירושלמי סוכה דף יח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%98_%D7%90",
+      "title": "ירושלמי סוכה דף יט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%99%D7%98_%D7%91",
+      "title": "ירושלמי סוכה דף יט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B_%D7%90",
+      "title": "ירושלמי סוכה דף כ א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B_%D7%91",
+      "title": "ירושלמי סוכה דף כ ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%90_%D7%90",
+      "title": "ירושלמי סוכה דף כא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%90_%D7%91",
+      "title": "ירושלמי סוכה דף כא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%91_%D7%90",
+      "title": "ירושלמי סוכה דף כב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%91_%D7%91",
+      "title": "ירושלמי סוכה דף כב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%92_%D7%90",
+      "title": "ירושלמי סוכה דף כג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%92_%D7%91",
+      "title": "ירושלמי סוכה דף כג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%93_%D7%90",
+      "title": "ירושלמי סוכה דף כד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%93_%D7%91",
+      "title": "ירושלמי סוכה דף כד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%94_%D7%90",
+      "title": "ירושלמי סוכה דף כה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%94_%D7%91",
+      "title": "ירושלמי סוכה דף כה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%95_%D7%90",
+      "title": "ירושלמי סוכה דף כו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94_%D7%93%D7%A3_%D7%9B%D7%95_%D7%91",
+      "title": "ירושלמי סוכה דף כו ב"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "משנה מסכת סוכה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "תוספתא/סוכה"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "בבלי מסכת סוכה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "ביאור:ירושלמי מאיר/מסכת סוכה"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "w:מסכת סוכה",
+      "class": "extiw"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&action=edit&section=1",
+      "title": "עריכת פסקה: \"קישורים חיצוניים\""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A2%D7%96%D7%A8%D7%94:%D7%91%D7%A7%D7%A8%D7%AA_%D7%96%D7%94%D7%95%D7%99%D7%95%D7%AA&action=edit&redlink=1",
+      "title": "עזרה:בקרת זהויות (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Q114279434?uselang=he",
+      "title": "עריכת הנתון בוויקינתונים"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%94_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA",
+      "title": "w:הספרייה הלאומית",
+      "class": "extiw"
+    },
+    {
+      "href": "http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007287348605171",
+      "class": "external text"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5_%D7%91%D7%A7%D7%A8%D7%94_%D7%9E%D7%A9%D7%95%D7%9C%D7%91",
+      "title": "w:קובץ בקרה משולב",
+      "class": "extiw"
+    },
+    {
+      "href": "https://d-nb.info/gnd/1089091370",
+      "class": "external text"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%98%D7%AA_%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%AA_%D7%94%D7%A7%D7%95%D7%A0%D7%92%D7%A8%D7%A1",
+      "title": "w:שיטת ספריית הקונגרס",
+      "class": "extiw"
+    },
+    {
+      "href": "https://id.loc.gov/authorities/names/n85361702",
+      "class": "external text"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/VIAF",
+      "title": "w:VIAF",
+      "class": "extiw"
+    },
+    {
+      "href": "https://viaf.org/viaf/184319337",
+      "class": "external text"
+    },
+    {
+      "href": "/w/index.php?title=WorldCat&action=edit&redlink=1",
+      "title": "WorldCat (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "https://www.worldcat.org/identities/containsVIAFID/184319337",
+      "class": "external text"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_סוכה&oldid=2788039"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "קטגוריה:ספרים מושלמים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "קטגוריה:ירושלמי מסכת סוכה"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A1%D7%95%D7%9B%D7%94",
+      "title": "קטגוריה:מסכת סוכה"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%A1%D7%95%D7%9B%D7%94&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

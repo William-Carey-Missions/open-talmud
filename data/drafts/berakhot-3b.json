@@ -1,0 +1,121 @@
+{
+  "id": "3b",
+  "title": "3b · Nachtwaken en Davids lier",
+  "scope": "Volledige hoofdtekst van amud 3b in de gekozen editie; Gemara. De discussie gaat verder op 4a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%91&oldid=2866878",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:3b:g1",
+      "locator": "Berakhot 3b · Gemara · g1",
+      "layer": "gemara",
+      "original": "בחדתי ותיפוק ליה משום מזיקין בתרי אי בתרי חשד נמי ליכא בתרי ופריצי. מפני המפולת ותיפוק ליה משום חשד ומזיקין בתרי וכשרי. מפני המזיקין ותיפוק ליה מפני חשד ומפולת בחורבה חדתי ובתרי וכשרי אי בתרי מזיקין נמי ליכא במקומן חיישינן ואי בעית אימא לעולם בחד ובחורבה חדתי דקאי בדברא דהתם משום חשד ליכא דהא אשה בדברא לא שכיחא ומשום מזיקין איכא:",
+      "nl": "Dit geldt voor een pas ontstane ruïne. Maar volstaat het gevaar van schadelijke geesten dan niet als reden? Het gaat om twee personen. Als het er twee zijn, bestaat toch ook geen verdenking? Het gaat om twee losbandige personen. “Vanwege instortingsgevaar”: volstaan verdenking en schadelijke geesten dan niet als reden? Het gaat om twee rechtschapen personen. “Vanwege schadelijke geesten”: volstaan verdenking en instortingsgevaar dan niet als reden? Het gaat om een pas ontstane ruïne en twee rechtschapen personen. Als het er twee zijn, zijn schadelijke geesten toch evenmin te vrezen? Op hun eigen verblijfplaats houdt men daar wel rekening mee. Je kunt ook zeggen: het gaat inderdaad om één persoon, in een pas ontstane ruïne op het open veld. Daar bestaat geen verdenking, omdat een vrouw op het open veld niet gebruikelijk is; het gevaar van schadelijke geesten bestaat er wel.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Deze alinea vervolgt de drie redenen uit 3a om een ruïne niet binnen te gaan: verdenking van ongeoorloofd gedrag, instortingsgevaar en schadelijke geesten."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:3b:g2",
+      "locator": "Berakhot 3b · Gemara · g2",
+      "layer": "gemara",
+      "original": "תנו רבנן ארבע משמרות הוי הלילה דברי רבי רבי נתן אומר שלוש מאי טעמא דרבי נתן דכתיב (שופטים ז יט): \"ויבא גדעון ומאה איש אשר אתו בקצה המחנה ראש האשמורת התיכונה\" תנא אין תיכונה אלא שיש לפניה ולאחריה ורבי מאי תיכונה אחת מן התיכונה שבתיכונות ורבי נתן מי כתיב תיכונה שבתיכונות תיכונה כתיב מאי טעמיה דרבי אמר רבי זריקא אמר רבי אמי אמר רבי יהושע בן לוי כתוב אחד אומר (תהלים קיט סב): \"חצות לילה אקום להודות לך על משפטי צדקך\" וכתוב אחד אומר (שם) קדמו עיני אשמורות הא כיצד ארבע משמרות הוי הלילה ורבי נתן סבר לה כרבי יהושע דתנן רבי יהושע אומר עד שלוש שעות שכן דרך מלכים לעמוד בשלוש שעות שית דליליא ותרתי דיממא הוו להו שתי משמרות רב אשי אמר משמרה ופלגא נמי משמרות קרו להו:",
+      "nl": "De wijzen leerden: de nacht telt vier nachtwaken; dit zijn de woorden van Rabbi. Rabbi Natan zegt: drie. Wat is de grond van rabbi Natan? Er staat geschreven (Rechters 7:19): “Gideon en de honderd mannen die bij hem waren kwamen bij de rand van het kamp, aan het begin van de middelste nachtwake.” Er is geleerd: iets heet alleen “middelste” als er iets vóór en iets na ligt. En Rabbi? Wat betekent “middelste”? Een van de twee middelste nachtwaken. En rabbi Natan? Staat er soms “de middelste van de middelste”? Er staat “de middelste”. Wat is de grond van Rabbi? Rabbi Zerika zei namens rabbi Ammi, namens rabbi Jehosjoea ben Levi: de ene Schriftplaats zegt (Psalmen 119:62): “Midden in de nacht sta ik op om U te danken voor uw rechtvaardige bepalingen.” De andere zegt (aldaar): “Mijn ogen zijn de nachtwaken vóór.” Hoe gaat dat samen? De nacht telt vier nachtwaken. Rabbi Natan volgt rabbi Jehosjoea, want wij leerden in de Misjna: rabbi Jehosjoea zegt: tot drie uur, omdat koningen gewoonlijk om drie uur opstaan. Zes uren van de nacht en twee van de dag vormen samen twee nachtwaken. Rav Asji zei: ook anderhalve nachtwake noemt men “nachtwaken”.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Rabbi zonder persoonsnaam duidt rabbi Jehoeda ha-Nasi aan. De uren zijn relatieve dag- en nachturen. De redenering bij vier nachtwaken telt twee nachtwaken tussen middernacht en dageraad; bij drie nachtwaken telt men door tot het gebruikelijke opstaan van koningen."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:3b:g3",
+      "locator": "Berakhot 3b · Gemara · g3",
+      "layer": "gemara",
+      "original": "ואמר רבי זריקא אמר רבי אמי אמר רבי יהושע בן לוי אין אומרין בפני המת אלא דבריו של מת אמר רבי אבא בר כהנא לא אמרן אלא בדברי תורה אבל מילי דעלמא לית לן בה ואיכא דאמרי אמר רבי אבא בר כהנא לא אמרן אלא [אפילו] בדברי תורה וכל שכן מילי דעלמא:",
+      "nl": "Rabbi Zerika zei verder namens rabbi Ammi, namens rabbi Jehosjoea ben Levi: in aanwezigheid van een dode spreekt men uitsluitend over zaken die de dode betreffen. Rabbi Abba bar Kahana zei: dit is alleen gezegd over woorden van de Tora; over alledaagse zaken bestaat geen bezwaar. Volgens een andere overlevering zei rabbi Abba bar Kahana: dit is alleen gezegd [zelfs] over woorden van de Tora, en des te meer over alledaagse zaken.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De bron bewaart [אפילו], “zelfs”, als tekstvariant in de tweede overlevering. De twee overleveringen verschillen over de reikwijdte van het spreekverbod."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:3b:g4",
+      "locator": "Berakhot 3b · Gemara · g4",
+      "layer": "gemara",
+      "original": "ודוד בפלגא דליליא הוה קאי מאורתא הוה קאי דכתיב (תהלים קיט קמז): \"קדמתי בנשף ואשועה\" וממאי דהאי נשף אורתא הוא דכתיב (משלי ז ט): \"בנשף בערב יום באישון לילה ואפלה\" אמר רב אושעיא אמר רבי אחא הכי קאמר (דוד) מעולם לא עבר עלי חצות לילה בשינה. רבי זירא אמר עד חצות לילה היה מתנמנם כסוס מכאן ואילך היה מתגבר כארי רב אשי אמר עד חצות לילה היה עוסק בדברי תורה מכאן ואילך בשירות ותשבחות.",
+      "nl": "Stond David dan midden in de nacht op? Hij stond toch al aan het begin van de avond op, want er staat geschreven (Psalmen 119:147): “Ik ben de schemering vóór en roep om hulp.” Waaruit blijkt dat deze schemering de avond is? Er staat geschreven (Spreuken 7:9): “In de schemering, bij het vallen van de avond, in het diepst van de nacht en het donker.” Rav Osjaja zei namens rabbi Acha: dit bedoelt (David): nooit ging middernacht voor mij slapend voorbij. Rabbi Zeira zei: tot middernacht sluimerde hij als een paard; vanaf dat moment toonde hij de kracht van een leeuw. Rav Asji zei: tot middernacht hield hij zich bezig met woorden van de Tora; vanaf dat moment met liederen en lofzangen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:3b:g5",
+      "locator": "Berakhot 3b · Gemara · g5",
+      "layer": "gemara",
+      "original": "ונשף אורתא הוא הא נשף צפרא הוא דכתיב (שמואל א ל יז): \"ויכם דוד מהנשף ועד הערב למחרתם\" מאי לאו מצפרא ועד ליליא לא מאורתא ועד אורתא אי הכי לכתוב מהנשף ועד הנשף או מהערב ועד הערב אלא אמר רבא תרי נשפי הוו נשף ליליא ואתי יממא נשף יממא ואתי ליליא.",
+      "nl": "Betekent nesjef dan avondschemering? Het betekent toch ochtendschemering, want er staat geschreven (1 Samuel 30:17): “David versloeg hen van de schemering tot de avond van de volgende dag.” Betekent dat niet: van de ochtend tot de nacht? Nee, van de avond tot de avond. Maar dan had er moeten staan: “van de schemering tot de schemering”, of: “van de avond tot de avond”. Daarom zei Rava: er zijn twee schemeringen. De nacht wijkt en de dag komt; de dag wijkt en de nacht komt.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het Hebreeuwse nesjef duidt schemering aan. Het woordspel verbindt de schemering met het wijken van nacht of dag."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:3b:g6",
+      "locator": "Berakhot 3b · Gemara · g6",
+      "layer": "gemara",
+      "original": "ודוד מי הוה ידע פלגא דליליא אימת השתא משה רבינו לא הוה ידע דכתיב (שמות יא ד): \"כחצת הלילה אני יוצא בתוך מצרים\" מאי כחצות אילימא דאמר ליה קודשא בריך הוא כחצות מי איכא ספיקא קמי שמיא אלא דאמר ליה (למחר) בחצות (כי השתא) ואתא איהו ואמר כחצות אלמא מספקא ליה ודוד הוה ידע דוד סימנא הוה ליה דאמר רב אחא בר ביזנא אמר רבי שמעון חסידא כינור היה תלוי למעלה ממיטתו של דוד וכיוון שהגיע חצות לילה בא רוח צפונית ונושבת בו ומנגן מאליו מיד היה עומד ועוסק בתורה עד שעלה עמוד השחר כיוון שעלה עמוד השחר נכנסו חכמי ישראל אצלו אמרו לו אדונינו המלך עמך ישראל צריכין פרנסה אמר להם לכו והתפרנסו זה מזה אמרו לו אין הקומץ משביע את הארי ואין הבור מתמלא מחולייתו אמר להם לכו ופשטו ידיכם בגדוד מיד יועצים באחיתופל ונמלכין בסנהדרין ושואלין באורים ותומים אמר רב יוסף מאי קרא (דכתיב) (דברי הימים א כז לד): \"ואחרי אחיתופל בניהו בן יהוידע ואביתר ושר צבא למלך יואב\" אחיתופל זה יועץ וכן הוא אומר (שמואל ב טז כג): \"ועצת אחיתפל אשר יעץ בימים ההם כאשר ישאל [איש] בדבר האלהים\"",
+      "nl": "Wist David dan wanneer het middernacht was? Zelfs Mozes, onze leraar, wist dat niet, want er staat geschreven (Exodus 11:4): “Omstreeks middernacht ga Ik door Egypte.” Wat betekent “omstreeks middernacht”? Als je zegt dat de Heilige, gezegend zij Hij, “omstreeks middernacht” tegen hem zei: bestaat er dan twijfel bij de Hemel? Hij moet dus tegen hem hebben gezegd: “(Morgen) om middernacht (zoals nu)”, waarna Mozes zelf “omstreeks middernacht” zei. Daaruit blijkt dat hij twijfelde. En David zou het wel geweten hebben? David had een teken. Rav Acha bar Bizna zei namelijk namens rabbi Sjimon Chasida: boven Davids bed hing een lier. Zodra middernacht aanbrak, kwam een noordenwind, blies erdoorheen en liet haar vanzelf klinken. Onmiddellijk stond hij op en hield zich bezig met de Tora totdat de dageraad aanbrak. Zodra de dageraad aanbrak, kwamen de wijzen van Israël bij hem binnen. Ze zeiden tegen hem: “Onze heer de koning, uw volk Israël heeft levensonderhoud nodig.” Hij zei tegen hen: “Ga en onderhoud elkaar.” Ze zeiden tegen hem: “Een handvol verzadigt de leeuw niet, en een kuil vult zich niet met zijn eigen uitgegraven aarde.” Hij zei tegen hen: “Ga en trek met een krijgsbende op.” Onmiddellijk vroegen zij Achitofel om raad, overlegden met het Sanhedrin en raadpleegden de oeriem en toemmiem. Rav Josef zei: welke Schriftplaats ligt hieraan ten grondslag? (Er staat geschreven) (1 Kronieken 27:34): “Na Achitofel kwamen Benajahu, de zoon van Jehojada, en Evjatar; en Joav was de legerbevelhebber van de koning.” Achitofel is de raadsman, zoals ook wordt gezegd (2 Samuel 16:23): “De raad die Achitofel in die dagen gaf, was alsof [iemand] het woord van God raadpleegde.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De oeriem en toemmiem zijn een priesterlijk middel om Gods beslissing te vragen. Het Sanhedrin is hier de raad van wijzen."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De ronde en vierkante haakjes volgen de gekozen grondtekst."
+        },
+        {
+          "type": "vervolg",
+          "text": "De uitleg van de aangehaalde namen gaat verder op 4a."
+        }
+      ]
+    }
+  ]
+}

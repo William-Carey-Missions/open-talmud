@@ -1,0 +1,90 @@
+{
+  "id": "20a",
+  "title": "20a · Toewijding en de heiliging van Gods naam",
+  "scope": "Volledige hoofdtekst van amud 20a in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 20a — ongevocaliseerde Wikisource-editie, revisie 2851530; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B_%D7%90&oldid=2851530",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:20a:g1",
+      "locator": "Berakhot 20a · Gemara · 1",
+      "layer": "gemara",
+      "original": "אבל מטמא הוא למת מצוה אמאי לימא אין חכמה ואין תבונה ואין עצה לנגד ה' שאני התם דכתיב ולאחותו וליגמר מינה שב ואל תעשה שאני:",
+      "nl": "...maar voor een overledene voor wie niemand zorgt, verontreinigt hij zich wel. Waarom? Laat men toch zeggen: “Er is geen wijsheid, geen inzicht en geen raad tegenover de HEER”! Daar is het anders, want er staat: “En voor zijn zuster.” Laten wij er dan een algemene regel uit afleiden! Een gebod nalaten door stil te blijven zitten is anders.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20a-r2851530",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Voltooit de redenering aan het einde van 19b."
+        },
+        {
+          "type": "begrip",
+          "text": "“Stil blijven zitten” is de technische onderscheiding sjev we-al taase: een plicht niet uitvoeren, tegenover het actief begaan van een verboden handeling."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:20a:g2",
+      "locator": "Berakhot 20a · Gemara · 2",
+      "layer": "gemara",
+      "original": "אמר ליה רב פפא לאביי מאי שנא ראשונים דאתרחיש להו ניסא ומאי שנא אנן דלא מתרחיש לן ניסא אי משום תנויי בשני דרב יהודה כולי תנויי בנזיקין הוה ואנן קא מתנינן שיתא סדרי וכי הוה מטי רב יהודה בעוקצין האשה שכובשת ירק בקדרה ואמרי לה זיתים שכבשן בטרפיהן טהורים אמר הויות דרב ושמואל קא חזינא הכא ואנן קא מתנינן בעוקצין תליסר מתיבתא ואילו רב יהודה כי הוה שליף חד מסאניה אתי מטרא ואנן קא מצערינן נפשין ומצוח קא צוחינן ולית דמשגח בן אמר ליה קמאי הוו קא מסרי נפשייהו אקדושת השם אנן לא מסרינן נפשין אקדושת השם כי הא דרב אדא בר אהבה חזייה לההיא כותית דהות לבישא כרבלתא בשוקא סבר דבת ישראל היא קם קרעיה מינה אגלאי מילתא דכותית היא שיימוה בארבע מאה זוזי א\"ל מה שמך אמרה ליה מתון אמר לה מתון מתון ארבע מאה זוזי שויא:",
+      "nl": "Rav Pappa vroeg Abbaje: “Waarom gebeurden er voor de vroegeren wonderen en voor ons niet? Als het aan studie ligt: in de dagen van Rav Jehoeda werd alleen Nezikin bestudeerd, maar wij bestuderen alle zes orden! Wanneer Rav Jehoeda bij Oektsin kwam, bij ‘een vrouw die groente in een pot perst’ — volgens een andere overlevering: ‘olijven die met hun bladeren zijn ingelegd, zijn rein’ — zei hij: ‘Hier zie ik de moeilijke vragen van Rav en Sjmoeël.’ Wij bestuderen Oektsin in dertien leerscholen. Toch kwam er, zodra Rav Jehoeda één schoen uittrok, regen, terwijl wij ons kwellen en luid roepen en niemand zich om ons bekommert.” Hij antwoordde: “De vroegeren zetten hun leven op het spel voor de heiliging van Gods naam; wij doen dat niet.” Zoals bij Rav Adda bar Ahava: hij zag op de markt een Koetische vrouw met een opvallend kledingstuk. Hij dacht dat zij een dochter van Israël was, stond op en scheurde het haar af. Het bleek dat zij Koetisch was. Men stelde de schadevergoeding vast op vierhonderd zoez. Hij vroeg: “Hoe heet je?” Zij antwoordde: “Matoen.” Hij zei: “Matoen, matoen is vierhonderd zoez waard.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20a-r2851530",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Nezikin en Oektsin zijn onderdelen van de Misjna. Het uittrekken van de schoen maakt hier deel uit van een handeling in een vastensituatie. De naam Matoen roept de betekenis geduld of bedachtzaamheid op; de herhaling vormt de woordspeling aan het einde."
+        },
+        {
+          "type": "onzeker",
+          "text": "Koetisch is de historische groepsaanduiding כותית. De precieze aard van כרבלתא, het afgescheurde kledingstuk, is niet ondubbelzinnig; de vertaling kiest daarom een brede term."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:20a:g3",
+      "locator": "Berakhot 20a · Gemara · 3",
+      "layer": "gemara",
+      "original": "רב גידל הוה רגיל דהוה קא אזיל ויתיב אשערי דטבילה אמר להו הכי טבילו והכי טבילו אמרי ליה רבנן לא קא מסתפי מר מיצר הרע אמר להו דמיין באפאי כי קאקי חיורי ר' יוחנן הוה רגיל דהוה קא אזיל ויתיב אשערי דטבילה אמר כי סלקן בנות ישראל ואתיין מטבילה מסתכלן בי ונהוי להו זרעא דשפירי כוותי אמרי ליה רבנן לא קא מסתפי מר מעינא בישא אמר להו אנא מזרעא דיוסף קא אתינא דלא שלטא ביה עינא בישא דכתיב (בראשית מט, כב) בן פורת יוסף בן פורת עלי עין ואמר רבי אבהו אל תקרי עלי עין אלא עולי עין רבי יוסי ברבי חנינא אמר מהכא (בראשית מח, טז) וידגו לרוב בקרב הארץ מה דגים שבים מים מכסין עליהם ואין עין הרע שולטת בהם אף זרעו של יוסף אין עין הרע שולטת בהם ואב\"א עין שלא רצתה לזון ממה שאינו שלו אין עין הרע שולטת בו:",
+      "nl": "Rav Giddel ging geregeld bij de ingang van de onderdompelingsplaats zitten. Hij zei tegen de vrouwen: “Zo moet je je onderdompelen, en zo.” De wijzen vroegen: “Vreest de meester de kwade neiging niet?” Hij antwoordde: “Voor mij lijken zij op witte ganzen.” Rabbi Jochanan ging ook geregeld bij de ingang van de onderdompelingsplaats zitten. Hij zei: “Wanneer de dochters van Israël van de onderdompeling terugkomen, zullen zij naar mij kijken en kinderen krijgen die even mooi zijn als ik.” De wijzen vroegen: “Vreest de meester het boze oog niet?” Hij antwoordde: “Ik stam van Jozef af; over hem heeft het boze oog geen macht. Er staat immers: ‘Jozef is een vruchtbare zoon, een vruchtbare zoon bij een bron’” (Genesis 49:22). Rabbi Abbahoe zei: lees niet ‘bij een bron’, maar ‘boven het oog’. Rabbi Josi, de zoon van rabbi Chanina, leidde het hieruit af: “Mogen zij als vissen talrijk worden in het land” (Genesis 48:16). Zoals de vissen in zee door water worden bedekt en het boze oog geen macht over hen heeft, zo heeft het ook geen macht over het nageslacht van Jozef. Je kunt ook zeggen: over het oog dat zich niet wilde voeden met wat niet van hem was, heeft het boze oog geen macht.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20a-r2851530",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De uitleg speelt met de dubbele betekenis van עין: bron en oog, en met een gewijzigde lezing van עלי. De slotzin verwijst naar Jozefs weigering te kijken naar wat hem niet toekwam. De passage verwoordt historische opvattingen over schoonheid en het boze oog."
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "ref": "bavli:berakhot:20a:m4",
+      "locator": "Berakhot 20a · Misjna · 4",
+      "layer": "mishnah",
+      "original": "מתני' נשים ועבדים וקטנים פטורין מק\"ש",
+      "nl": "Misjna. Vrouwen, slaven en minderjarigen zijn vrijgesteld van het Sjema...",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-20a-r2851530",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Deze Misjna begint hier en wordt op 20b voortgezet."
+        }
+      ]
+    }
+  ]
+}

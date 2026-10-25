@@ -1,0 +1,156 @@
+{
+  "id": "6b",
+  "title": "6b · Zorg voor gebed en medemensen",
+  "scope": "Volledige hoofdtekst van amud 6b in de gekozen editie; Gemara.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%95_%D7%91&oldid=2851557",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:6b:g1",
+      "locator": "Berakhot 6b · Gemara · g1",
+      "layer": "gemara",
+      "original": "וכולהו כתיבי באדרעיה:",
+      "nl": "En al deze teksten staan in de tefillien aan zijn arm.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De zin voltooit de bespreking van Gods tefillien op 6a."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:6b:g2",
+      "locator": "Berakhot 6b · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר רבין בר רב אדא אמר רבי יצחק כל הרגיל לבא לבית הכנסת ולא בא יום אחד הקב\"ה משאיל בו שנאמר (ישעיהו נ, י) מי בכם ירא ה' שומע בקול עבדו אשר הלך חשכים ואין נוגה לו אם לדבר מצוה הלך נוגה לו ואם לדבר הרשות הלך אין נוגה לו יבטח בשם ה' מאי טעמא משום דהוה ליה לבטוח בשם ה' ולא בטח:",
+      "nl": "Ravin bar Rav Adda zei namens rabbi Jitschak: als iemand gewoonlijk naar de synagoge komt en één dag wegblijft, vraagt de Heilige, gezegend zij Hij, naar hem, want er staat (Jesaja 50:10): “Wie onder jullie vreest de HEER, luistert naar de stem van zijn dienaar, maar ging in duisternis en had geen licht?” Ging hij weg voor een gebod, dan heeft hij licht; ging hij weg voor een eigen aangelegenheid, dan heeft hij geen licht. “Laat hij vertrouwen op de naam van de HEER”: waarom? Omdat hij op de naam van de HEER had moeten vertrouwen en dat niet deed.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:6b:g3",
+      "locator": "Berakhot 6b · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר ר' יוחנן בשעה שהקב\"ה בא בבית הכנסת ולא מצא בה עשרה מיד הוא כועס שנא' (ישעיהו נ, ב) מדוע באתי ואין איש קראתי ואין עונה. א\"ר חלבו אמר רב הונא כל הקובע מקום לתפלתו אלהי אברהם בעזרו וכשמת אומרים לו אי עניו אי חסיד מתלמידיו של אברהם אבינו ואברהם אבינו מנא לן דקבע מקום דכתיב (בראשית יט, כז) וישכם אברהם בבקר אל המקום אשר עמד שם ואין עמידה אלא תפלה שנאמר (תהלים קו, ל) ויעמוד פינחס ויפלל:",
+      "nl": "Rabbi Jochanan zei: wanneer de Heilige, gezegend zij Hij, in de synagoge komt en er geen tien vindt, wordt Hij onmiddellijk boos, want er staat (Jesaja 50:2): “Waarom kwam Ik en was er niemand? Ik riep en niemand antwoordde.” Rabbi Chelbo zei namens rav Hoena: wie een vaste plaats voor zijn gebed heeft, wordt geholpen door de God van Avraham. Wanneer hij sterft, zegt men over hem: “Wat een nederig mens, wat een vroom mens, een leerling van onze vader Avraham!” Waaruit blijkt dat onze vader Avraham een vaste plaats had? Er staat (Genesis 19:27): “Avraham stond ’s ochtends vroeg op en ging naar de plaats waar hij had gestaan.” “Staan” duidt uitsluitend gebed aan, want er staat (Psalmen 106:30): “Pinchas stond op en bad.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:6b:g4",
+      "locator": "Berakhot 6b · Gemara · g4",
+      "layer": "gemara",
+      "original": "אמר רבי חלבו אמר רב הונא היוצא מבית הכנסת אל יפסיע פסיעה גסה אמר אביי לא אמרן אלא למיפק אבל למיעל מצוה למרהט שנא' (הושע ו, ג) נרדפה לדעת את ה' אמר רבי זירא מריש כי הוה חזינא להו לרבנן דקא רהטי לפרקא בשבתא אמינא קא מחליין רבנן שבתא כיון דשמענא להא דרבי תנחום א\"ר יהושע בן לוי לעולם ירוץ אדם לדבר הלכה ואפילו בשבת שנא' (הושע יא, י) אחרי ה' ילכו כאריה ישאג וגו' אנא נמי רהיטנא. אמר ר' זירא אגרא דפרקא רהטא אמר אביי אגרא דכלה דוחקא אמר רבא אגרא דשמעתא סברא אמר רב פפא אגרא דבי טמיא שתיקותא אמר מר זוטרא אגרא דתעניתא צדקתא אמר רב ששת אגרא דהספדא דלויי אמר רב אשי אגרא דבי הלולי מילי:",
+      "nl": "Rabbi Chelbo zei namens rav Hoena: wie de synagoge verlaat, mag geen grote passen nemen. Abaje zei: dit is alleen gezegd over het weggaan; bij het binnengaan is het een gebod om te rennen, want er staat (Hosea 6:3): “Laten wij ernaar jagen de HEER te kennen.” Rabbi Zeira zei: aanvankelijk zag ik de rabbijnen op sjabbat naar de openbare les rennen en dacht: de rabbijnen ontheiligen sjabbat. Toen hoorde ik wat rabbi Tanchoem namens rabbi Jehosjoea ben Levi zei: laat iemand altijd rennen voor een woord van halacha, ook op sjabbat, want er staat (Hosea 11:10): “Achter de HEER zullen zij gaan; als een leeuw zal Hij brullen”, enzovoort. Sindsdien ren ook ik. Rabbi Zeira zei: de verdienste van de openbare les ligt in het erheen rennen. Abaje zei: de verdienste van de grote leerbijeenkomst ligt in het verdragen van de drukte. Rava zei: de verdienste van het bestuderen van een overlevering ligt in het begrijpen van de redenering. Rav Pappa zei: de verdienste van een bezoek aan een rouwend huis ligt in het zwijgen. Mar Zoetra zei: de verdienste van een vastendag ligt in het geven van liefdadigheid. Rav Sjesjet zei: de verdienste van een lijkrede ligt in het verheffen van de stem. Rav Asji zei: de verdienste van een bruiloft ligt in de gesproken woorden.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De kalle is een grote openbare leerbijeenkomst. Bij de bruiloft doelen de woorden op het verheugen van het bruidspaar."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:6b:g5",
+      "locator": "Berakhot 6b · Gemara · g5",
+      "layer": "gemara",
+      "original": "אמר רב הונא כל המתפלל אחורי בית הכנסת נקרא רשע שנאמר (תהלים יב, ט) סביב רשעים יתהלכון אמר אביי לא אמרן אלא דלא מהדר אפיה לבי כנישתא אבל מהדר אפיה לבי כנישתא לית לן בה ההוא גברא דקא מצלי אחורי בי כנישתא ולא מהדר אפיה לבי כנישתא חלף אליהו חזייה אידמי ליה כטייעא א\"ל כדו בר קיימת קמי מרך שלף ספסרא וקטליה א\"ל ההוא מרבנן לרב ביבי בר אביי ואמרי לה רב ביבי לרב נחמן בר יצחק מאי (תהלים יב, ט) כרום זלות לבני אדם אמר ליה אלו דברים שעומדים ברומו של עולם ובני אדם מזלזלין בהן ר' יוחנן ור' אלעזר דאמרי תרוייהו כיון שנצטרך אדם לבריות פניו משתנות ככרום שנאמר כרום זלות לבני אדם מאי כרום כי אתא רב דימי אמר עוף אחד יש בכרכי הים וכרום שמו וכיון שחמה זורחת מתהפך לכמה גוונין ר' אמי ור' אסי דאמרי תרוייהו כאילו נדון בשני דינים אש ומים שנאמר (תהלים סו, יב) הרכבת אנוש לראשנו באנו באש ובמים:",
+      "nl": "Rav Hoena zei: wie achter de synagoge bidt, wordt een boosdoener genoemd, want er staat (Psalmen 12:9): “Rondom lopen boosdoeners.” Abaje zei: dit is alleen gezegd als hij zijn gezicht niet naar de synagoge keert; keert hij zijn gezicht wel naar de synagoge, dan bestaat geen bezwaar. Er was iemand die achter de synagoge bad zonder zijn gezicht erheen te keren. Elia kwam voorbij, zag hem, verscheen hem als een Arabische reiziger en zei: “Sta je zo voor je Heer alsof er twee machten zijn?” Hij trok zijn zwaard en doodde hem. Een van de rabbijnen vroeg rav Bivi bar Abaje — volgens anderen vroeg rav Bivi het rav Nachman bar Jitschak —: wat betekent (Psalmen 12:9): “Wanneer verhevenheid gering wordt geacht door mensen”? Hij antwoordde: dit zijn zaken die op de hoogste plaats in de wereld staan, maar die mensen geringschatten. Rabbi Jochanan en rabbi Elazar zeiden beiden: zodra iemand van anderen afhankelijk wordt, verandert zijn gezicht als een keroem, want er staat: “Keroem, geringheid voor mensen.” Wat is een keroem? Toen rav Dimi kwam, zei hij: er is een vogel in de kuststeden die keroem heet. Zodra de zon schijnt, verandert hij in allerlei kleuren. Rabbi Ammi en rabbi Assi zeiden beiden: het is alsof hij met twee straffen wordt berecht, vuur en water, want er staat (Psalmen 66:12): “U liet mensen over ons hoofd rijden; wij kwamen in vuur en water.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "כדו בר wordt hier weergegeven als “alsof er twee machten zijn”, in aansluiting bij de verwijtende vraag. De korte uitdrukking is moeilijk en vraagt nadere tekstcontrole."
+        },
+        {
+          "type": "toelichting",
+          "text": "Het tweede deel leest כרום uit de psalm als de naam van een kleurveranderende vogel. De vertaling laat die andere lezing afzonderlijk staan."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:6b:g6",
+      "locator": "Berakhot 6b · Gemara · g6",
+      "layer": "gemara",
+      "original": "ואמר רבי חלבו אמר רב הונא לעולם יהא אדם זהיר בתפלת המנחה שהרי אליהו לא נענה אלא בתפלת המנחה שנאמר (מלכים א יח, לו) ויהי בעלות המנחה ויגש אליהו הנביא ויאמר וגו' ענני ה' ענני ענני שתרד אש מן השמים וענני שלא יאמרו מעשה כשפים הם ר' יוחנן אמר אף בתפלת ערבית שנאמר (תהלים קמא, ב) תכון תפלתי קטרת לפניך משאת כפי מנחת ערב רב נחמן בר יצחק אמר אף תפלת שחרית שנאמר (תהלים ה, ד) ה' בקר תשמע קולי בקר אערך לך ואצפה:",
+      "nl": "Rabbi Chelbo zei verder namens rav Hoena: laat iemand altijd zorgvuldig zijn met het middaggebed, want Elia werd alleen tijdens het middaggebed verhoord, zoals er staat (1 Koningen 18:36): “Toen het tijdstip van het graanoffer aanbrak, trad de profeet Elia naar voren en zei”, enzovoort: “Antwoord mij, HEER, antwoord mij.” “Antwoord mij”: laat vuur uit de hemel neerdalen; “antwoord mij”: laat hen niet zeggen dat het toverij is. Rabbi Jochanan zei: ook met het avondgebed, want er staat (Psalmen 141:2): “Laat mijn gebed als reukwerk voor U staan, het opheffen van mijn handen als het avondoffer.” Rav Nachman bar Jitschak zei: ook met het ochtendgebed, want er staat (Psalmen 5:4): “HEER, ’s ochtends hoort U mijn stem; ’s ochtends richt ik mij tot U en wacht.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:6b:g7",
+      "locator": "Berakhot 6b · Gemara · g7",
+      "layer": "gemara",
+      "original": "וא\"ר חלבו אמר רב הונא כל הנהנה מסעודת חתן ואינו משמחו עובר בחמשה קולות שנאמר (ירמיהו לג, יא) קול ששון וקול שמחה קול חתן וקול כלה קול אומרים הודו את ה' צבאות ואם משמחו מה שכרו אמר רבי יהושע בן לוי זוכה לתורה שנתנה בחמשה קולות שנאמר (שמות יט, טז) ויהי ביום השלישי בהיות הבקר ויהי קולות וברקים וענן כבד על ההר וקול שופר וגו' ויהי קול השופר וגו' והאלהים יעננו בקול. איני והא כתיב (שמות כ, יד) וכל העם רואים את הקולת אותן קולות דקודם מתן תורה הוו רבי אבהו אמר כאילו הקריב תודה שנאמר (ירמיהו לג, יא) מביאים תודה בית ה' רב נחמן בר יצחק אמר כאילו בנה אחת מחורבות ירושלים שנאמר (ירמיהו לג, יא) כי אשיב את שבות הארץ כבראשונה אמר ה':",
+      "nl": "Rabbi Chelbo zei verder namens rav Hoena: wie geniet van het feestmaal van een bruidegom maar hem niet verheugt, overtreedt wat in vijf stemmen wordt uitgedrukt, want er staat (Jeremia 33:11): “De stem van blijdschap en de stem van vreugde, de stem van de bruidegom en de stem van de bruid, de stem van hen die zeggen: dank de HEER van de legermachten.” Als hij hem wel verheugt, wat is zijn beloning? Rabbi Jehosjoea ben Levi zei: hij verdient de Tora, die met vijf stemmen gegeven werd, want er staat (Exodus 19:16): “Op de derde dag, toen het ochtend werd, waren er stemmen en bliksemflitsen en een zware wolk op de berg, en een stem van de sjofar”, enzovoort; “de stem van de sjofar”, enzovoort; “en God antwoordde hem met een stem.” Is dat zo? Er staat toch ook (Exodus 20:14): “Het hele volk zag de stemmen”? Dat waren de stemmen van vóór de Toragave. Rabbi Abbahoe zei: het is alsof hij een dankoffer heeft gebracht, want er staat (Jeremia 33:11): “Die een dankoffer brengen naar het huis van de HEER.” Rav Nachman bar Jitschak zei: het is alsof hij een van de ruïnes van Jeruzalem heeft herbouwd, want er staat (Jeremia 33:11): “Want Ik zal het lot van het land herstellen zoals vroeger, zegt de HEER.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het meervoud “stemmen” bij het eerste Exodus-citaat telt voor twee; met de drie volgende vermeldingen komt de telling op vijf."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:6b:g8",
+      "locator": "Berakhot 6b · Gemara · g8",
+      "layer": "gemara",
+      "original": "וא\"ר חלבו אמר רב הונא כל אדם שיש בו יראת שמים דבריו נשמעין שנאמר (קהלת יב, יג) סוף דבר הכל נשמע את האלהים ירא וגו' מאי (קהלת יב, יג) כי זה כל האדם א\"ר אלעזר אמר הקב\"ה כל העולם כלו לא נברא אלא בשביל זה רבי אבא בר כהנא אמר שקול זה כנגד כל העולם כולו ר' שמעון בן עזאי אומר ואמרי לה ר' שמעון בן זומא אומר כל העולם כולו לא נברא אלא לצוות לזה:",
+      "nl": "Rabbi Chelbo zei verder namens rav Hoena: naar ieder die ontzag voor de Hemel heeft, wordt geluisterd, want er staat (Prediker 12:13): “Het slot van de zaak, alles wordt gehoord: vrees God”, enzovoort. Wat betekent (Prediker 12:13): “want dit is de hele mens”? Rabbi Elazar zei: de Heilige, gezegend zij Hij, zei: de hele wereld werd alleen voor deze mens geschapen. Rabbi Abba bar Kahana zei: deze mens weegt op tegen de hele wereld. Rabbi Sjimon ben Azzai zegt — volgens anderen rabbi Sjimon ben Zoma —: de hele wereld werd alleen geschapen om deze mens gezelschap te geven.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g9",
+      "ref": "bavli:berakhot:6b:g9",
+      "locator": "Berakhot 6b · Gemara · g9",
+      "layer": "gemara",
+      "original": "וא\"ר חלבו אמר רב הונא כל שיודע בחברו שהוא רגיל ליתן לו שלום יקדים לו שלום שנאמר (תהלים לד, טו) בקש שלום ורדפהו ואם נתן לו ולא החזיר נקרא גזלן שנאמר (ישעיהו ג, יד) ואתם בערתם הכרם גזלת העני בבתיכם:",
+      "nl": "Rabbi Chelbo zei verder namens rav Hoena: wie weet dat zijn metgezel hem gewoonlijk groet, moet hem vóór zijn met een groet, want er staat (Psalmen 34:15): “Zoek vrede en jaag die na.” Als de ander hem groet en hij de groet niet beantwoordt, wordt hij een rover genoemd, want er staat (Jesaja 3:14): “Jullie hebben de wijngaard verteerd; wat aan de arme geroofd is, ligt in jullie huizen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "sourceParagraph": 9,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Sjalom kan zowel “vrede” als een begroeting betekenen; de uitleg verbindt die betekenissen."
+        }
+      ]
+    }
+  ]
+}

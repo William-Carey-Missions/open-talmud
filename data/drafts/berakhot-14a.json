@@ -1,0 +1,117 @@
+{
+  "id": "14a",
+  "title": "14a · Onderbreken, begroeten en proeven tijdens het vasten",
+  "scope": "Volledige hoofdtekst van amud 14a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%93_%D7%90&oldid=2851542",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:14a:g1",
+      "locator": "Berakhot 14a · Gemara · g1",
+      "layer": "gemara",
+      "original": "ובפרקים שואל מפני הכבוד ומשיב שלום לכל אדם תניא נמי הכי הקורא את שמע ופגע בו רבו או גדול הימנו בפרקים שואל מפני הכבוד וא\"צ לומר שהוא משיב ובאמצע שואל מפני היראה ואצ\"ל שהוא משיב דברי ר' מאיר ר' יהודה אומר באמצע שואל מפני היראה ומשיב מפני הכבוד ובפרקים שואל מפני הכבוד ומשיב שלום לכל אדם בעא מיניה אחי תנא דבי רבי חייא מרבי חייא בהלל ובמגילה מהו שיפסיק אמרינן ק\"ו ק\"ש דאורייתא פוסק הלל דרבנן מבעיא או דלמא פרסומי ניסא עדיף א\"ל פוסק ואין בכך כלום אמר רבה ימים שהיחיד גומר בהן את ההלל בין פרק לפרק פוסק באמצע הפרק אינו פוסק וימים שאין היחיד גומר בהן את ההלל אפי' באמצע הפרק פוסק איני והא רב בר שבא איקלע לגביה דרבינא וימים שאין היחיד גומר את ההלל הוה ולא פסיק ליה שאני רב בר שבא דלא חשיב עליה דרבינא:",
+      "nl": "En tussen de gedeelten mag hij uit eerbied een groet beginnen en iedereen een groet beantwoorden. Zo is ook geleerd: als iemand het Sjema reciteert en zijn meester of iemand die groter is dan hij ontmoet, mag hij tussen de gedeelten uit eerbied een groet beginnen en vanzelfsprekend beantwoorden; middenin mag hij uit vrees een groet beginnen en vanzelfsprekend beantwoorden. Dit zijn de woorden van rabbi Meïr. Rabbi Jehoeda zegt: middenin mag hij uit vrees een groet beginnen en uit eerbied antwoorden; tussen de gedeelten mag hij uit eerbied een groet beginnen en iedereen een groet beantwoorden. Achi, de overleveraar in het leerhuis van rabbi Chijja, vroeg rabbi Chijja: mag men tijdens het Hallel en de rol van Ester onderbreken? Redeneren wij van licht naar zwaar: bij het Sjema, dat uit de Tora verplicht is, mag men onderbreken; hoeveel te meer bij het Hallel, dat een instelling van de meesters is? Of weegt de bekendmaking van het wonder zwaarder? Hij antwoordde: men mag onderbreken; daar is geen bezwaar tegen. Rabba zei: op dagen waarop een afzonderlijke persoon het Hallel helemaal reciteert, mag hij tussen de gedeelten onderbreken, maar niet midden in een gedeelte. Op dagen waarop een afzonderlijke persoon het Hallel niet helemaal reciteert, mag hij zelfs midden in een gedeelte onderbreken. Is dat zo? Rav bar Sjeva kwam toch bij Ravina op een dag waarop men het Hallel niet helemaal reciteert, en Ravina onderbrak niet voor hem! Rav bar Sjeva was anders: Ravina beschouwde hem niet als iemand voor wie zo’n eerbiedsbetuiging nodig was.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Hallel is een reeks lofpsalmen. De rol van Ester wordt op Poeriem gelezen om het wonder van de redding bekend te maken."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:14a:g2",
+      "locator": "Berakhot 14a · Gemara · g2",
+      "layer": "gemara",
+      "original": "בעי מיניה אשיאן תנא דבי ר' אמי מר' אמי השרוי בתענית מהו שיטעום אכילה ושתיה קביל עליה והא ליכא או דילמא הנאה קביל עליה והא איכא א\"ל טועם ואין בכך כלום תניא נמי הכי מטעמת אינה טעונה ברכה והשרוי בתענית טועם ואין בכך כלום עד כמה ר' אמי ור' אסי טעמי עד שיעור רביעתא:",
+      "nl": "Asjian, de overleveraar in het leerhuis van rabbi Ammi, vroeg rabbi Ammi: mag iemand die vast iets proeven? Heeft hij alleen eten en drinken op zich genomen, en dat gebeurt hier niet? Of heeft hij afzien van genot op zich genomen, en daarvan is hier wel sprake? Hij antwoordde: hij mag proeven; daar is geen bezwaar tegen. Zo is ook geleerd: een proefhap vereist geen zegening, en iemand die vast mag proeven; daar is geen bezwaar tegen. Hoeveel? Rabbi Ammi en rabbi Assi proefden tot de maat van een kwart log.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "“Proeven” is hier onderscheiden van eten of drinken. Het fragment noemt zelf niet uitdrukkelijk het uitspugen; de omvang van de toestemming vraagt daarom uitleg buiten deze hoofdtekst."
+        },
+        {
+          "type": "begrip",
+          "text": "Een log is een oude inhoudsmaat; de passage noemt een kwart daarvan zonder een moderne omrekening."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:14a:g3",
+      "locator": "Berakhot 14a · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר רב כל הנותן שלום לחבירו קודם שיתפלל כאלו עשאו במה שנאמר (ישעיהו ב, כב) חדלו לכם מן האדם אשר נשמה באפו כי במה נחשב הוא אל תקרי במה אלא במה ושמואל אמר במה חשבתו לזה ולא לאלוה מתיב רב ששת בפרקים שואל מפני הכבוד ומשיב תרגמה ר' אבא במשכים לפתחו (א\"ר יונה א\"ר זירא כל העושה חפציו קודם שיתפלל כאלו בנה במה א\"ל במה אמרת א\"ל לא אסור קא אמינא וכדרב אידי בר אבין ד)אמר רב אידי בר אבין אמר רב יצחק בר אשיאן אסור לו לאדם לעשות חפציו קודם שיתפלל שנאמר (תהלים פה, יד) צדק לפניו יהלך וישם לדרך פעמיו ואמר רב אידי בר אבין אמר רב יצחק בר אשיאן כל המתפלל ואח\"כ יוצא לדרך הקב\"ה עושה לו חפציו שנאמר צדק לפניו יהלך וישם לדרך פעמיו:",
+      "nl": "Rav zei: wie zijn naaste begroet voordat hij heeft gebeden, is alsof hij hem tot een offerhoogte heeft gemaakt. Er staat: ‘Laat toch af van de mens, die adem in zijn neus heeft, want waarvoor wordt hij gehouden?’ (Jesaja 2:22). Lees niet bammè, ‘waarvoor’, maar bama, ‘offerhoogte’. Sjemoeël zei: ‘Waarvoor heb je deze gehouden, en God niet?’ Rav Sjesjet wierp tegen: tussen de gedeelten mag hij uit eerbied een groet beginnen en een groet beantwoorden! Rabbi Abba legde het uit als: wie ’s morgens vroeg naar de deur van de ander gaat. (Rabbi Jona zei namens rabbi Zeïra: wie zijn eigen zaken doet voordat hij heeft gebeden, is alsof hij een offerhoogte heeft gebouwd. Hij vroeg hem: ‘Zei je een offerhoogte?’ Hij antwoordde: ‘Nee, ik zei dat het verboden is’, overeenkomstig Rav Idi bar Avin.) Rav Idi bar Avin zei namelijk namens Rav Jitschak bar Asjian: het is iemand verboden zijn eigen zaken te doen voordat hij heeft gebeden. Er staat: ‘Gerechtigheid gaat voor hem uit en richt zijn schreden op de weg’ (Psalm 85:14). Rav Idi bar Avin zei verder namens Rav Jitschak bar Asjian: wie bidt en daarna op reis gaat, voor hem vervult de Heilige, gezegend is Hij, zijn behoeften, zoals er staat: ‘Gerechtigheid gaat voor hem uit en richt zijn schreden op de weg.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De hele parenthetische overlevering is als variant in de bron opgenomen. De woordspeling berust op dezelfde medeklinkers במה met verschillende klinkers."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:14a:g4",
+      "locator": "Berakhot 14a · Gemara · g4",
+      "layer": "gemara",
+      "original": "(ו)א\"ר יונה א\"ר זירא כל הלן שבעת ימים בלא חלום נקרא רע שנאמר (משלי יט, כג) ושבע ילין בל יפקד רע אל תקרי שבע אלא שבע א\"ל רב אחא בריה דרבי חייא בר אבא הכי א\"ר חייא א\"ר יוחנן כל המשביע עצמו מדברי תורה ולן אין מבשרין אותו בשורות רעות שנאמר ושבע ילין בל יפקד רע:",
+      "nl": "(En) rabbi Jona zei namens rabbi Zeïra: wie zeven dagen overnacht zonder een droom, wordt slecht genoemd. Er staat: ‘Verzadigd zal hij overnachten, hij wordt niet door kwaad bezocht’ (Spreuken 19:23). Lees niet savea, ‘verzadigd’, maar sjeva, ‘zeven’. Rav Acha, de zoon van rabbi Chijja bar Abba, zei tegen hem: zo zei rabbi Chijja namens rabbi Jochanan: wie zich met woorden van de Tora verzadigt en gaat slapen, krijgt geen slechte tijdingen in zijn droom te horen. Er staat: ‘Verzadigd zal hij overnachten, hij wordt niet door kwaad bezocht.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg verandert de lezing van שבע van “verzadigd” in “zeven” en leest het slot als aanduiding van de persoon."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:14a:g5",
+      "locator": "Berakhot 14a · Gemara · g5",
+      "layer": "gemara",
+      "original": "אלו הן בין הפרקים וכו':",
+      "nl": "Dit zijn de overgangen tussen de gedeelten, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:14a:g6",
+      "locator": "Berakhot 14a · Gemara · g6",
+      "layer": "gemara",
+      "original": "א\"ר אבהו א\"ר יוחנן הלכה כר' יהודה דאמר בין אלהיכם לאמת ויציב לא יפסיק א\"ר אבהו א\"ר יוחנן מאי טעמיה דרבי יהודה דכתיב",
+      "nl": "Rabbi Abbahoe zei namens rabbi Jochanan: de halacha volgt rabbi Jehoeda, die zegt dat men tussen ‘jullie God’ en ‘Waar en bestendig’ niet mag onderbreken. Rabbi Abbahoe zei namens rabbi Jochanan: wat is de reden van rabbi Jehoeda? Er staat immers:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Het aangehaalde vers staat aan het begin van 14b."
+        }
+      ]
+    }
+  ]
+}

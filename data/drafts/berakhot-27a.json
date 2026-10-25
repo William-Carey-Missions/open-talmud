@@ -1,0 +1,80 @@
+{
+  "id": "27a",
+  "title": "27a · De grens van het gebedsuur en vroeg sjabbatgebed",
+  "scope": "Volledige hoofdtekst van amud 27a in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 27a — ongevocaliseerde Wikisource-editie, revisie 2851516; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%96_%D7%90&oldid=2851516",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:27a:g1",
+      "locator": "Berakhot 27a · Gemara · 1",
+      "layer": "gemara",
+      "original": "היינו רבנן אלא מאי עד ולא עד בכלל אימא סיפא ושל מוספין כל היום ר' יהודה אומר עד שבע שעות ותניא היו לפניו שתי תפלות אחת של מוסף ואחת של מנחה מתפלל של מנחה ואחר כך של מוסף שזו תדירה וזו אינה תדירה רבי יהודה אומר מתפלל של מוסף ואחר כך של מנחה שזו עוברת וזו אינה עוברת אי אמרת בשלמא עד ועד בכלל היינו דמשכחת להו שתי תפלות בהדי הדדי אלא אי אמרת עד ולא עד בכלל היכי משכחת להו שתי תפלות בהדי הדדי כיון דאתיא לה של מנחה אזלא לה של מוספין אלא מאי עד ועד בכלל קשיא רישא מאי איכא בין רבי יהודה לרבנן מי סברת דהאי פלג מנחה פלג אחרונה קאמר פלג ראשונה קאמר והכי קאמר אימת נפיק פלג ראשונה ועייל פלג אחרונה מכי נפקי י\"א שעות חסר רביע אמר רב נחמן אף אנן נמי תנינא רבי יהודה בן בבא העיד חמשה דברים שממאנין את הקטנה ושמשיאין את האשה על פי עד אחד ועל תרנגול שנסקל בירושלים על שהרג את הנפש ועל יין בן ארבעים יום שנתנסך על גבי המזבח ועל תמיד של שחר שקרב בארבע שעות ש\"מ עד ועד בכלל ש\"מ אמר רב כהנא הלכה כרבי יהודה הואיל ותנן בבחירתא כוותיה:",
+      "nl": "...toch hetzelfde als de wijzen! Maar wat zeg je dan: de grens is niet inbegrepen? Lees het slot: het aanvullende gebed de hele dag; rabbi Jehoeda zegt: tot zeven uur. Er is geleerd: als iemand twee gebeden moet bidden, een aanvullend gebed en een middaggebed, bidt hij eerst het middaggebed en daarna het aanvullende gebed, want het ene is regelmatig en het andere niet. Rabbi Jehoeda zegt: hij bidt eerst het aanvullende gebed en daarna het middaggebed, want de tijd van het ene loopt af en die van het andere niet. Als je zegt dat de grens inbegrepen is, is duidelijk hoe beide gebeden tegelijk aan de orde kunnen zijn. Maar als je zegt dat de grens niet inbegrepen is, hoe kunnen beide dan tegelijk aan de orde zijn? Zodra het middaggebed aanbreekt, is de tijd voor het aanvullende gebed al voorbij! Dus wat zeg je: de grens is inbegrepen? Dan blijft het begin moeilijk: waarin verschilt rabbi Jehoeda van de wijzen? Denk je dat “het midden van de middagperiode” de laatste helft bedoelt? Het bedoelt de eerste helft. Dit is de bedoeling: wanneer eindigt de eerste helft en begint de laatste? Wanneer elf uur min een kwart zijn verstreken. Rav Nachman zei: ook wij hebben zo geleerd. Rabbi Jehoeda ben Bava getuigde over vijf zaken: dat men een minderjarig meisje laat weigeren; dat men een vrouw laat hertrouwen op het getuigenis van één getuige; over een haan die in Jeruzalem werd gestenigd omdat hij een mens had gedood; over wijn van veertig dagen die op het altaar werd uitgegoten; en over het dagelijkse ochtendoffer dat in het vierde uur werd gebracht. Hieruit blijkt dat “tot” de grens insluit. Dat blijkt hieruit. Rav Kahana zei: de halakha volgt rabbi Jehoeda, omdat wij in het uitgelezen tractaat overeenkomstig zijn opvatting hebben geleerd.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het “uitgelezen tractaat” is Edoejot. Het minderjarige meisje kan onder bepaalde voorwaarden een voor haar gesloten huwelijk door miöen weigeren; het getuigenis van één getuige betreft hier de dood van de echtgenoot."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:27a:g2",
+      "locator": "Berakhot 27a · Gemara · 2",
+      "layer": "gemara",
+      "original": "ועל תמיד של שחר שקרב בארבע שעות:",
+      "nl": "“En over het dagelijkse ochtendoffer dat in het vierde uur werd gebracht.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:27a:g3",
+      "locator": "Berakhot 27a · Gemara · 3",
+      "layer": "gemara",
+      "original": "מאן תנא להא דתנן (שמות טז, כא) וחם השמש ונמס בארבע שעות אתה אומר בארבע שעות או אינו אלא בשש שעות כשהוא אומר (בראשית יח, א) כחום היום הרי שש שעות אמור הא מה אני מקיים וחם השמש ונמס בארבע שעות מני לא רבי יהודה ולא רבנן אי רבי יהודה עד ארבע שעות נמי צפרא הוא אי רבנן עד חצות נמי צפרא הוא אי בעית אימא רבי יהודה אי בעית אימא רבנן אי בעית אימא רבנן אמר קרא בבקר בבקר חלקהו לשני בקרים ואי בעית אימא רבי יהודה האי בקר יתירא להקדים לו שעה אחת דכולא עלמא מיהא וחם השמש ונמס בארבע שעות מאי משמע אמר רבי אחא בר יעקב אמר קרא וחם השמש ונמס איזו היא שעה שהשמש חם והצל צונן הוי אומר בארבע שעות:",
+      "nl": "Wie is de leraar van wat wij hebben geleerd? “Wanneer de zon warm werd, smolt het” (Exodus 16:21): in het vierde uur. Jij zegt: in het vierde uur; of is het pas in het zesde uur? Wanneer er staat “in de hitte van de dag” (Genesis 18:1), is het zesde uur al genoemd. Hoe pas ik dan “wanneer de zon warm werd, smolt het” toe? In het vierde uur. Wie is dit? Noch rabbi Jehoeda, noch de wijzen! Volgens rabbi Jehoeda is het tot vier uur toch nog ochtend; volgens de wijzen is het tot de middag nog ochtend! Als je wilt, zeg: rabbi Jehoeda. Als je wilt, zeg: de wijzen. Volgens de wijzen zegt de Schrift “ochtend na ochtend”: verdeel de ochtend in twee ochtenden. Volgens rabbi Jehoeda dient dit extra “ochtend” om één uur vroeger te beginnen. Allen zijn het er in elk geval over eens dat “wanneer de zon warm werd, smolt het” in het vierde uur is. Hoe blijkt dat? Rabbi Acha bar Jaäkov zei: de Schrift zegt “wanneer de zon warm werd, smolt het”. Welk uur is de zon warm terwijl de schaduw koel blijft? Dat moet het vierde uur zijn.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:27a:g4",
+      "locator": "Berakhot 27a · Gemara · 4",
+      "layer": "gemara",
+      "original": "תפלת המנחה עד הערב וכו':",
+      "nl": "“Het middaggebed tot de avond”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:27a:g5",
+      "locator": "Berakhot 27a · Gemara · 5",
+      "layer": "gemara",
+      "original": "אמר ליה רב חסדא לרב יצחק התם אמר רב כהנא הלכה כרבי יהודה הואיל ותנן בבחירתא כוותיה הכא מאי אישתיק ולא אמר ליה ולא מידי אמר רב חסדא נחזי אנן מדרב מצלי של שבת בערב שבת מבעוד יום ש\"מ הלכה כרבי יהודה אדרבה מדרב הונא ורבנן לא הוו מצלו עד אורתא שמע מינה אין הלכה כרבי יהודה השתא דלא אתמר הלכתא לא כמר ולא כמר דעבד כמר עבד ודעבד כמר עבד רב איקלע לבי גניבא וצלי של שבת בערב שבת והוה מצלי רבי ירמיה בר אבא לאחוריה דרב וסיים רב ולא פסקיה לצלותיה דרבי ירמיה שמע מינה תלת שמע מינה מתפלל אדם של שבת בערב שבת ושמע מינה מתפלל תלמיד אחורי רבו ושמע מינה אסור לעבור כנגד המתפללין מסייע ליה לרבי יהושע בן לוי דאמר רבי יהושע בן לוי אסור לעבור כנגד המתפללין איני והא רבי אמי ורבי אסי חלפי רבי אמי ורבי אסי חוץ לארבע אמות הוא דחלפי ורבי ירמיה היכי עביד הכי והא אמר רב יהודה אמר רב לעולם אל יתפלל אדם",
+      "nl": "Rav Chisda vroeg Rav Jitschak: daar zei Rav Kahana dat de halakha rabbi Jehoeda volgt omdat wij in het uitgelezen tractaat overeenkomstig hem hebben geleerd. Hoe is het hier? Hij zweeg en zei hem niets. Rav Chisda zei: laten wij zelf kijken. Rav bad op de vooravond van sjabbat het sjabbatgebed terwijl het nog dag was. Daaruit blijkt dat de halakha rabbi Jehoeda volgt. Integendeel: Rav Hoena en de wijzen baden niet voordat het avond was; daaruit blijkt dat de halakha rabbi Jehoeda niet volgt! Nu er niet is vastgesteld dat de halakha de ene of de andere volgt, heeft wie volgens de ene handelt een geldige handelwijze, en ook wie volgens de andere handelt. Rav kwam in het huis van Geneiva en bad op de vooravond van sjabbat het sjabbatgebed. Rabbi Jirmeja bar Abba bad achter Rav. Rav was klaar en onderbrak het gebed van rabbi Jirmeja niet. Hieruit blijken drie zaken: men mag het sjabbatgebed op de vooravond van sjabbat bidden; een leerling mag achter zijn meester bidden; en het is verboden vóór biddende mensen langs te lopen. Dat ondersteunt rabbi Jehosjoea ben Levi, die zei: het is verboden vóór biddende mensen langs te lopen. Is dat zo? Rabbi Ammi en rabbi Assi liepen toch voorbij! Rabbi Ammi en rabbi Assi liepen op meer dan vier el afstand voorbij. Maar hoe kon rabbi Jirmeja dat doen? Rav Jehoeda zei toch uit naam van Rav: een mens mag nooit bidden...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

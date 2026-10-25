@@ -1,0 +1,138 @@
+{
+  "id": "43a",
+  "title": "43a · Samen zegenen en geurig reukwerk",
+  "scope": "Volledige hoofdtekst van amud 43a in de gekozen editie; Gemara. De geurbespreking gaat verder op 43b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%92_%D7%90&oldid=2851482",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:43a:g1",
+      "locator": "Berakhot 43a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אהדר קרעיה לאחוריה וקרע קריעה אחרינא אמר נח נפשיה דרב וברכת מזונא לא גמרינן עד דאתא ההוא סבא רמא להו מתניתין אברייתא ושני להו כיון דאמרי ניזיל וניכול לחמא בדוך פלן כהסבו דמי:",
+      "nl": "Hij draaide de scheur in zijn kleding naar achteren en scheurde nogmaals. Hij zei: “Rav is gestorven en zelfs het dankgebed na het eten hebben wij niet geleerd!” Toen kwam een oude man, stelde de Misjna tegenover de baraita en antwoordde hun: omdat zij hadden gezegd “laten wij op die bepaalde plaats brood eten”, geldt het als aanliggen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de rouwvertelling op 42b. De scheur is een rouwteken."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:43a:g2",
+      "locator": "Berakhot 43a · Gemara · g2",
+      "layer": "gemara",
+      "original": "הסבו אחד מברך:",
+      "nl": "“Lagen zij aan, dan zegent één.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:43a:g3",
+      "locator": "Berakhot 43a · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר רב לא שנו אלא פת דבעי הסבה אבל יין לא בעי הסבה ור' יוחנן אמר אפילו יין נמי בעי הסבה איכא דאמרי אמר רב לא שנו אלא פת דמהניא ליה הסבה אבל יין לא מהניא ליה הסבה ורבי יוחנן אמר אפילו יין נמי מהניא ליה הסבה מיתיבי כיצד סדר הסבה אורחין נכנסין ויושבין על גבי ספסלין ועל גבי קתדראות עד שיכנסו כולם הביאו להם מים כל אחד ואחד נוטל ידו אחת בא להם יין כל אחד ואחד מברך לעצמו עלו והסבו ובא להם מים אף על פי שכל אחד ואחד נטל ידו אחת חוזר ונוטל שתי ידיו בא להם יין אף על פי שכל אחד ואחד ברך לעצמו אחד מברך לכולם להאיך לישנא דאמר רב לא שנו אלא פת דבעי הסבה אבל יין לא בעי הסבה קשיא רישא שאני אורחין דדעתייהו למיעקר ולהאיך לישנא דאמר רב לא שנו אלא פת דמהניא ליה הסבה אבל יין לא מהניא ליה הסבה קשיא סיפא שאני התם דמגו דקא מהניא ליה הסבה לפת מהניא ליה הסבה ליין:",
+      "nl": "Rav zei: dit is alleen geleerd over brood, waarvoor aanliggen nodig is; wijn vereist geen aanliggen. Rabbi Jochanan zei: ook wijn vereist aanliggen. Volgens een andere overlevering zei Rav: dit is alleen geleerd over brood, waarvoor aanliggen helpt; voor wijn helpt aanliggen niet. Rabbi Jochanan zei: ook voor wijn helpt aanliggen. Men wierp tegen: hoe verloopt het aanliggen? De gasten komen binnen en zitten op banken en stoelen totdat allen zijn binnengekomen. Men brengt water; ieder wast één hand. Komt er wijn, dan zegent ieder voor zichzelf. Zij gaan naar boven en liggen aan. Komt er water, dan wast ieder opnieuw beide handen, ook al had ieder al één hand gewassen. Komt er wijn, dan zegent één voor allen, ook al had ieder eerder voor zichzelf gezegend. Volgens de formulering van Rav dat alleen brood aanliggen vereist en wijn niet, levert het eerste deel een moeilijkheid op. Gasten zijn anders, omdat zij van plan zijn hun plaats te verlaten. Volgens de formulering dat aanliggen voor brood helpt maar voor wijn niet, levert het laatste deel een moeilijkheid op. Daar is het anders: omdat het aanliggen voor brood helpt, helpt het ook voor wijn.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:43a:g4",
+      "locator": "Berakhot 43a · Gemara · g4",
+      "layer": "gemara",
+      "original": "בא להם יין בתוך המזון:",
+      "nl": "“Brengt men hun wijn tijdens het eten.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:43a:g5",
+      "locator": "Berakhot 43a · Gemara · g5",
+      "layer": "gemara",
+      "original": "שאלו את בן זומא מפני מה אמרו בא להם יין בתוך המזון כל אחד ואחד מברך לעצמו לאחר המזון אחד מברך לכולם אמר להם הואיל ואין בית הבליעה פנוי:",
+      "nl": "Men vroeg Ben Zoma: waarom zeiden zij dat ieder voor zichzelf zegent als tijdens het eten wijn wordt gebracht, terwijl na het eten één voor allen zegent? Hij antwoordde: omdat de keel niet vrij is.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Tijdens het eten kan men niet veilig spreken of gezamenlijk antwoorden; de keel is met voedsel bezig."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:43a:g6",
+      "locator": "Berakhot 43a · Gemara · g6",
+      "layer": "gemara",
+      "original": "והוא אומר על המוגמר כו':",
+      "nl": "“Diezelfde persoon spreekt de zegening over het reukwerk uit”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:43a:g7",
+      "locator": "Berakhot 43a · Gemara · g7",
+      "layer": "gemara",
+      "original": "מדקתני והוא אומר על המוגמר מכלל דאיכא עדיף מיניה ואמאי הואיל והוא נטל ידיו תחלה באחרונה מסייע ליה לרב דאמר רב חייא בר אשי אמר רב הנוטל ידיו תחלה באחרונה הוא מזומן לברכה רב ורבי חייא הוו יתבי קמיה דרבי בסעודתא א\"ל רבי לרב קום משי ידך חזייה דהוה מרתת אמר ליה רבי חייא בר פחתי עיין בברכת מזונא קאמר לך:",
+      "nl": "Dat hij “diezelfde persoon” zegt, betekent dat iemand anders geschikter kan zijn. Waarom doet hij het dan? Omdat hij bij de laatste handwassing als eerste zijn handen waste. Dit ondersteunt Rav, want rav Chijja bar Asji zei namens Rav: wie bij de laatste handwassing als eerste zijn handen wast, is aangewezen voor de zegening. Rav en rabbi Chijja zaten tijdens een maaltijd voor Rabbi. Rabbi zei tegen Rav: “Sta op en was je handen.” Hij zag dat Rav beefde. Rabbi Chijja zei tegen hem: “Zoon van edelen, hij zegt dat je je op het dankgebed moet voorbereiden.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Rabbi zonder naam is rabbi Jehoeda ha-Nasi. De laatste handwassing gaat aan het dankgebed vooraf."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:43a:g8",
+      "locator": "Berakhot 43a · Gemara · g8",
+      "layer": "gemara",
+      "original": "אמר רבי זירא אמר רבא בר ירמיה מאימתי מברכין על הריח משתעלה תמרתו א\"ל רבי זירא לרבא בר ירמיה והא לא קא ארח אמר ליה ולטעמיך המוציא לחם מן הארץ דמברך והא לא אכל אלא דעתיה למיכל הכא נמי דעתיה לארוחי אמר רבי חייא בריה דאבא בר נחמני אמר רב חסדא אמר רב ואמרי לה אמר רב חסדא אמר זעירי כל המוגמרות מברכין עליהן בורא עצי בשמים חוץ ממושק שמן חיה הוא שמברכין עליו בורא מיני בשמים מיתיבי אין מברכין בורא עצי בשמים אלא על אפרסמון של בית רבי ועל אפרסמון של בית קיסר ועל ההדס שבכל מקום תיובתא אמר ליה רב חסדא לרב יצחק האי משחא דאפרסמון מאי מברכין עלויה א\"ל הכי אמר רב יהודה בורא שמן ארצנו א\"ל בר מיניה דר' יהודה דחביבא ליה ארץ ישראל לכולי עלמא מאי א\"ל הכי אמר רבי יוחנן בורא שמן ערב אמר ר' אדא בר אהבה האי כשרתא מברכין עלויה בורא עצי בשמים אבל משחא כבישא לא ורב כהנא אמר אפילו משחא כבישא אבל משחא טחינא לא נהרדעי אמרי אפי' משחא טחינא",
+      "nl": "Rabbi Zeira zei namens Rava bar Jirmeja: vanaf wanneer zegent men over een geur? Zodra de rookzuil opstijgt. Rabbi Zeira vroeg Rava bar Jirmeja: hij heeft de geur toch nog niet geroken? Hij antwoordde: volgens die redenering heeft hij bij “die brood uit de aarde voortbrengt” ook nog niet gegeten! Hij is van plan te eten; zo is hij hier van plan te ruiken. Rabbi Chijja, de zoon van Abba bar Nachmani, zei namens rav Chisda, namens Rav — volgens anderen rav Chisda namens Zeïri —: over alle soorten reukwerk zegt men “die geurige bomen schept”, behalve over muskus, dat van een dier komt: daarover zegt men “die soorten geurstoffen schept”. Men wierp tegen: men zegt “die geurige bomen schept” alleen over de balsem van het huis van Rabbi, de balsem van het huis van de keizer en mirte van iedere plaats. Dit is een weerlegging. Rav Chisda vroeg rav Jitschak: welke zegening zegt men over balsemolie? Hij antwoordde: zo zei rav Jehoeda: “die de olie van ons land schept”. Hij zei: “Laat rav Jehoeda erbuiten, want het land Israël is hem dierbaar. Wat zeggen anderen?” Hij antwoordde: zo zei rabbi Jochanan: “die geurige olie schept”. Rav Adda bar Ahava zei: over dit kosjta zegt men “die geurige bomen schept”, maar niet over olie waarin het is geweekt. Rav Kahana zei: ook over olie waarin het is geweekt, maar niet over olie waarin het is fijngemalen. In Nehardea zeiden zij: zelfs over olie waarin het is fijngemalen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "כשרתא is hier als kosjta weergegeven, een aromatische plantaardige grondstof. De exacte identificatie en bereidingswijze vragen nadere lexicale controle."
+        },
+        {
+          "type": "begrip",
+          "text": "Afarsemon is hier balsem, niet de moderne vrucht die in het Hebreeuws dezelfde naam heeft."
+        }
+      ]
+    }
+  ]
+}

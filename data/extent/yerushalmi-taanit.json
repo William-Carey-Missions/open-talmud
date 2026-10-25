@@ -1,0 +1,719 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "taanit",
+  "title": "Taanit",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&oldid=930047",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:51:22.507516+00:00",
+  "htmlSha256": "000879ea61ecd827071c770297c710cfdaf32ff5464ad7940d0f5269ac77244e",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:NewItem?site=hewikisource&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "שיחה על דף התוכן [t]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&oldid=930047",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&id=930047&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%25AA%25D7%25A2%25D7%25A0%25D7%2599%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94",
+      "title": "ירושלמי מסכת ראש השנה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מסכת תענית"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9E%D7%92%D7%99%D7%9C%D7%94",
+      "title": "ירושלמי מסכת מגילה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "הטקסט בספר זה הושלם"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90",
+      "title": "ירושלמי תענית א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%90",
+      "title": "ירושלמי תענית א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%91",
+      "title": "ירושלמי תענית א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%92",
+      "title": "ירושלמי תענית א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%93",
+      "title": "ירושלמי תענית א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%94",
+      "title": "ירושלמי תענית א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%95",
+      "title": "ירושלמי תענית א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%96",
+      "title": "ירושלמי תענית א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%90_%D7%97",
+      "title": "ירושלמי תענית א ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91",
+      "title": "ירושלמי תענית ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%90",
+      "title": "ירושלמי תענית ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%91",
+      "title": "ירושלמי תענית ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%92",
+      "title": "ירושלמי תענית ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%93",
+      "title": "ירושלמי תענית ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%94",
+      "title": "ירושלמי תענית ב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%95",
+      "title": "ירושלמי תענית ב ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%96",
+      "title": "ירושלמי תענית ב ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%97",
+      "title": "ירושלמי תענית ב ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%98",
+      "title": "ירושלמי תענית ב ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%99",
+      "title": "ירושלמי תענית ב י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%99%D7%90",
+      "title": "ירושלמי תענית ב יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%99%D7%91",
+      "title": "ירושלמי תענית ב יב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%99%D7%92",
+      "title": "ירושלמי תענית ב יג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%99%D7%93",
+      "title": "ירושלמי תענית ב יד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92",
+      "title": "ירושלמי תענית ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%90",
+      "title": "ירושלמי תענית ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%91",
+      "title": "ירושלמי תענית ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%92",
+      "title": "ירושלמי תענית ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%93",
+      "title": "ירושלמי תענית ג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%94",
+      "title": "ירושלמי תענית ג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%95",
+      "title": "ירושלמי תענית ג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%96",
+      "title": "ירושלמי תענית ג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%97",
+      "title": "ירושלמי תענית ג ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%98",
+      "title": "ירושלמי תענית ג ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%99",
+      "title": "ירושלמי תענית ג י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%99%D7%90",
+      "title": "ירושלמי תענית ג יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93",
+      "title": "ירושלמי תענית ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%90",
+      "title": "ירושלמי תענית ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%91",
+      "title": "ירושלמי תענית ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%92",
+      "title": "ירושלמי תענית ד ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%93",
+      "title": "ירושלמי תענית ד ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%94",
+      "title": "ירושלמי תענית ד ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%95",
+      "title": "ירושלמי תענית ד ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%96",
+      "title": "ירושלמי תענית ד ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%90_%D7%90",
+      "title": "ירושלמי תענית דף א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי תענית דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%91_%D7%90",
+      "title": "ירושלמי תענית דף ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%90_%D7%91",
+      "title": "ירושלמי תענית דף א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%92_%D7%90",
+      "title": "ירושלמי תענית דף ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%92_%D7%91",
+      "title": "ירושלמי תענית דף ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%93_%D7%90",
+      "title": "ירושלמי תענית דף ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%93_%D7%91",
+      "title": "ירושלמי תענית דף ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%94_%D7%90",
+      "title": "ירושלמי תענית דף ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%94_%D7%91",
+      "title": "ירושלמי תענית דף ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%95_%D7%90",
+      "title": "ירושלמי תענית דף ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%95_%D7%91",
+      "title": "ירושלמי תענית דף ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%96_%D7%90",
+      "title": "ירושלמי תענית דף ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%96_%D7%91",
+      "title": "ירושלמי תענית דף ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%97_%D7%90",
+      "title": "ירושלמי תענית דף ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%97_%D7%91",
+      "title": "ירושלמי תענית דף ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98_%D7%90",
+      "title": "ירושלמי תענית דף ט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98_%D7%91",
+      "title": "ירושלמי תענית דף ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99_%D7%90",
+      "title": "ירושלמי תענית דף י א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99_%D7%91",
+      "title": "ירושלמי תענית דף י ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%90_%D7%90",
+      "title": "ירושלמי תענית דף יא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%90_%D7%91",
+      "title": "ירושלמי תענית דף יא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%91_%D7%90",
+      "title": "ירושלמי תענית דף יב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%91_%D7%91",
+      "title": "ירושלמי תענית דף יב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%92_%D7%90",
+      "title": "ירושלמי תענית דף יג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%92_%D7%91",
+      "title": "ירושלמי תענית דף יג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%93_%D7%90",
+      "title": "ירושלמי תענית דף יד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%93_%D7%91",
+      "title": "ירושלמי תענית דף יד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98%D7%95_%D7%90",
+      "title": "ירושלמי תענית דף טו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98%D7%95_%D7%91",
+      "title": "ירושלמי תענית דף טו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98%D7%96_%D7%90",
+      "title": "ירושלמי תענית דף טז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%98%D7%96_%D7%91",
+      "title": "ירושלמי תענית דף טז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%96_%D7%90",
+      "title": "ירושלמי תענית דף יז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%96_%D7%91",
+      "title": "ירושלמי תענית דף יז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%97_%D7%90",
+      "title": "ירושלמי תענית דף יח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%97_%D7%91",
+      "title": "ירושלמי תענית דף יח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%98_%D7%90",
+      "title": "ירושלמי תענית דף יט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%99%D7%98_%D7%91",
+      "title": "ירושלמי תענית דף יט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B_%D7%90",
+      "title": "ירושלמי תענית דף כ א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B_%D7%91",
+      "title": "ירושלמי תענית דף כ ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%90_%D7%90",
+      "title": "ירושלמי תענית דף כא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%90_%D7%91",
+      "title": "ירושלמי תענית דף כא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%91_%D7%90",
+      "title": "ירושלמי תענית דף כב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%91_%D7%91",
+      "title": "ירושלמי תענית דף כב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%92_%D7%90",
+      "title": "ירושלמי תענית דף כג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%92_%D7%91",
+      "title": "ירושלמי תענית דף כג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%93_%D7%90",
+      "title": "ירושלמי תענית דף כד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%93_%D7%91",
+      "title": "ירושלמי תענית דף כד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%94_%D7%90",
+      "title": "ירושלמי תענית דף כה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%94_%D7%91",
+      "title": "ירושלמי תענית דף כה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%95_%D7%90",
+      "title": "ירושלמי תענית דף כו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93%D7%A3_%D7%9B%D7%95_%D7%91",
+      "title": "ירושלמי תענית דף כו ב"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "משנה מסכת תענית",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "תוספתא/תענית"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "בבלי מסכת תענית",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "ביאור:ירושלמי מאיר/מסכת תענית"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "w:מסכת תענית",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_תענית&oldid=930047"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%9E%D7%95%D7%A9%D7%9C%D7%9E%D7%99%D7%9D",
+      "title": "קטגוריה:ספרים מושלמים"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "קטגוריה:ירושלמי מסכת תענית"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "קטגוריה:מסכת תענית"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

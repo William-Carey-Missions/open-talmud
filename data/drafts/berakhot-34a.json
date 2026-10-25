@@ -1,0 +1,86 @@
+{
+  "id": "34a",
+  "title": "34a · De voorganger en de vorm van het gebed",
+  "scope": "Volledige hoofdtekst van amud 34a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%93_%D7%90&oldid=2851502",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:34a:g1",
+      "locator": "Berakhot 34a · Gemara · g1",
+      "layer": "gemara",
+      "original": "חברותא כלפי שמיא מי איכא אי לא כוון דעתיה מעיקרא מחינן ליה במרזפתא דנפחא עד דמכוין דעתיה:",
+      "nl": "Is er dan kameraadschap tegenover de hemel? Als hij van het begin af zijn aandacht niet richtte, slaan wij hem met een smidshamer totdat hij zijn aandacht richt!",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34a-r2851502",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De smidshamer is een scherpe, overdrijvende terechtwijzing op de gedachte dat men het eerste uitspreken zonder aandacht kan rechtvaardigen."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:34a:m1",
+      "locator": "Berakhot 34a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' (האומר יברכוך טובים הרי זה דרכי מינות) העובר לפני התיבה וטעה יעבור אחר תחתיו ולא יהא סרבן באותה שעה מהיכן הוא מתחיל מתחלת הברכה שטעה זה העובר לפני התיבה לא יענה אמן אחר הכהנים מפני הטרוף ואם אין שם כהן אלא הוא לא ישא את כפיו ואם הבטחתו שהוא נושא את כפיו וחוזר לתפלתו רשאי:",
+      "nl": "Misjna. (Wie zegt ‘Mogen de goeden U zegenen’, volgt de wegen van sektarij.) Als iemand voorgaat voor de lessenaar en zich vergist, neemt een ander zijn plaats in; op dat moment moet die niet weigeren. Waar begint hij? Aan het begin van de zegening waarin de eerste zich vergiste. De voorganger antwoordt geen amen na de priesters, om niet in de war te raken. Als er geen andere priester is dan hijzelf, heft hij zijn handen niet op. Als hij er echter zeker van is dat hij zijn handen kan opheffen en vervolgens zijn gebed kan hervatten, mag hij het doen.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-34a-r2851502",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De zin over “de goeden” staat in de grondtekst tussen haakjes. Met het opheffen van de handen wordt de priesterzegen bedoeld."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:34a:g2",
+      "locator": "Berakhot 34a · Gemara · g2",
+      "layer": "gemara",
+      "original": "גמ' ת\"ר העובר לפני התיבה צריך לסרב ואם אינו מסרב דומה לתבשיל שאין בו מלח ואם מסרב יותר מדאי דומה לתבשיל שהקדיחתו מלח כיצד הוא עושה פעם ראשונה יסרב שניה מהבהב שלישית פושט את רגליו ויורד ת\"ר שלשה רובן קשה ומיעוטן יפה ואלו הן שאור ומלח וסרבנות אמר רב הונא טעה בשלש ראשונות חוזר לראש באמצעיות חוזר לאתה חונן באחרונות חוזר לעבודה ורב אסי אמר אמצעיות אין להן סדר מתיב רב ששת מהיכן הוא חוזר מתחלת הברכה שטעה זה תיובתא דרב הונא אמר לך רב הונא אמצעיות כלהו חדא ברכתא נינהו אמר רב יהודה לעולם אל ישאל אדם צרכיו לא בשלש ראשונות ולא בשלש אחרונות אלא באמצעיות דא\"ר חנינא ראשונות דומה לעבד שמסדר שבח לפני רבו אמצעיות דומה לעבד שמבקש פרס מרבו אחרונות דומה לעבד שקבל פרס מרבו ונפטר והולך לו ת\"ר מעשה בתלמיד אחד שירד לפני התיבה בפני רבי אליעזר והיה מאריך יותר מדאי א\"ל תלמידיו רבינו כמה ארכן הוא זה אמר להם כלום מאריך יותר ממשה רבינו דכתיב ביה (דברים ט, כה) את ארבעים היום ואת ארבעים הלילה וגו' שוב מעשה בתלמיד א' שירד לפני התיבה בפני ר\"א והיה מקצר יותר מדאי א\"ל תלמידיו כמה קצרן הוא זה א\"ל כלום מקצר יותר ממשה רבינו דכתיב (במדבר יב, יג) אל נא רפא נא לה א\"ר יעקב אמר רב חסדא כל המבקש רחמים על חבירו אין צריך להזכיר שמו שנאמר אל נא רפא נא לה ולא קמדכר שמה דמרים:",
+      "nl": "Gemara. Onze meesters leerden: wie wordt gevraagd voor te gaan, moet eerst weigeren. Als hij niet weigert, is hij als een gerecht zonder zout; als hij te veel weigert, als een gerecht dat door zout bedorven is. Hoe doet hij het? De eerste keer weigert hij, de tweede keer aarzelt hij, de derde keer strekt hij zijn benen en daalt af. Onze meesters leerden: bij drie dingen is veel ervan schadelijk en weinig goed: zuurdeeg, zout en weigering. Rav Hoena zei: wie zich in de eerste drie zegeningen vergist, begint opnieuw; in de middelste gaat hij terug naar ‘U schenkt kennis’; in de laatste naar de tempeldienstzegening. Rav Assi zei: de middelste hebben geen vaste onderlinge terugkeervolgorde. Rav Sjesjet wierp tegen: waar begint hij opnieuw? Bij het begin van de zegening waarin deze zich vergiste. Dit weerlegt Rav Hoena! Rav Hoena kan antwoorden: de middelste zijn allemaal één zegening. Rav Jehoeda zei: men vraagt zijn behoeften nooit in de eerste drie of de laatste drie, maar in de middelste. Rabbi Chanina zei immers: bij de eerste is men als een dienaar die de lof van zijn meester ordent; bij de middelste als een dienaar die zijn meester om een gift vraagt; bij de laatste als een dienaar die een gift heeft ontvangen, afscheid neemt en weggaat. Onze meesters leerden: een leerling ging eens voor in aanwezigheid van rabbi Eliëzer en maakte het bijzonder lang. Zijn leerlingen zeiden: ‘Onze meester, wat een langbidder is dat!’ Hij antwoordde: ‘Bidt hij soms langer dan Mozes, onze meester, over wie geschreven staat: “De veertig dagen en de veertig nachten”?’ (Deuteronomium 9:25). Een andere leerling ging voor in aanwezigheid van rabbi Eliëzer en hield het bijzonder kort. Zijn leerlingen zeiden: ‘Wat een kortbidder is dat!’ Hij antwoordde: ‘Bidt hij soms korter dan Mozes, onze meester, over wie geschreven staat: “God, genees haar toch!”?’ (Numeri 12:13). Rabbi Jaäkov zei namens Rav Chisda: wie voor zijn naaste om ontferming vraagt, hoeft diens naam niet te vermelden. Er staat: ‘God, genees haar toch’, en hij noemt Mirjams naam niet.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34a-r2851502",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "“De middelste hebben geen vaste terugkeervolgorde” betekent hier dat men teruggaat naar de afzonderlijke zegening met de fout, niet naar het begin van de hele middelste reeks."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:34a:g3",
+      "locator": "Berakhot 34a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ת\"ר אלו ברכות שאדם שוחה בהן באבות תחלה וסוף בהודאה תחלה וסוף ואם בא לשוח בסוף כל ברכה וברכה ובתחלת כל ברכה וברכה מלמדין אותו שלא ישחה אר\"ש בן פזי אריב\"ל משום בר קפרא הדיוט כמו שאמרנו",
+      "nl": "Onze meesters leerden: in deze zegeningen buigt men: bij de vaderen aan het begin en aan het einde, en bij de dankzegging aan het begin en aan het einde. Als iemand bij het begin en het einde van elke afzonderlijke zegening wil buigen, leert men hem dat niet te doen. Rabbi Sjimon ben Pazi zei namens rabbi Jehosjoea ben Levi, namens Bar Kappara: een gewoon persoon doet zoals wij hebben gezegd...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34a-r2851502",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "“De vaderen” is de eerste zegening van het staande gebed, waarin de aartsvaders worden genoemd."
+        },
+        {
+          "type": "vervolg",
+          "text": "De verschillende buigregels voor hoogwaardigheidsbekleders volgen op 34b."
+        }
+      ]
+    }
+  ]
+}

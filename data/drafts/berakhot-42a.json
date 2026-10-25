@@ -1,0 +1,76 @@
+{
+  "id": "42a",
+  "title": "42a · Maaltijdgrenzen en gezamenlijk zegenen",
+  "scope": "Volledige hoofdtekst van amud 42a in de gekozen editie; Misjna en Gemara. De Misjna loopt door op 42b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%91_%D7%90&oldid=2851484",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:42a:g1",
+      "locator": "Berakhot 42a · Gemara · g1",
+      "layer": "gemara",
+      "original": "דגורם ברכה לעצמו רב הונא אכל תליסר ריפתי בני תלתא תלתא בקבא ולא בריך א\"ל רב נחמן עדי כפנא אלא כל שאחרים קובעים עליו סעודה צריך לברך רב יהודה הוה עסיק ליה לבריה בי רב יהודה בר חביבא אייתו לקמייהו פת הבאה בכסנין כי אתא שמעינהו דקא מברכי המוציא אמר להו מאי ציצי דקא שמענא דילמא המוציא לחם מן הארץ קא מברכיתו אמרי ליה אין דתניא רבי מונא אמר משום רבי יהודה פת הבאה בכסנין מברכין עליה המוציא ואמר שמואל הלכה כרבי מונא אמר להו אין הלכה כרבי מונא אתמר אמרי ליה והא מר הוא דאמר משמיה דשמואל לחמניות מערבין בהן ומברכין עליהן המוציא שאני התם דקבע סעודתיה עלייהו אבל היכא דלא קבע סעודתיה עלייהו לא רב פפא איקלע לבי רב הונא בריה דרב נתן בתר דגמר סעודתייהו אייתו לקמייהו מידי למיכל שקל רב פפא וקא אכיל אמרי ליה לא סבר לה מר גמר אסור מלאכול אמר להו סלק אתמר רבא ורבי זירא איקלעו לבי ריש גלותא לבתר דסליקו תכא מקמייהו שדרו להו ריסתנא מבי ריש גלותא רבא אכיל ורבי זירא לא אכיל א\"ל לא סבר לה מר סלק אסור מלאכול א\"ל אנן אתכא דריש גלותא סמכינן:",
+      "nl": "omdat die op zichzelf een zegening aanleiding geeft. Rav Hoena at dertien broden, waarvan er drie in een kav gingen, en zei geen dankgebed. Rav Nachman zei tegen hem: “Dat is nog honger stillen! Bij alles waarvan anderen een maaltijd maken, moet men het dankgebed zeggen.” Rav Jehoeda regelde het huwelijk van zijn zoon in het huis van rav Jehoeda bar Chaviva. Men bracht kisniengebak. Toen hij kwam, hoorde hij hen “die brood voortbrengt” zeggen. Hij vroeg: “Wat hoor ik daar voor een geluid? Zeggen jullie soms ‘die brood uit de aarde voortbrengt’?” Zij antwoordden: “Ja, want er is geleerd: rabbi Mona zei namens rabbi Jehoeda dat men over kisniengebak ‘die brood voortbrengt’ zegt, en Sjemoeël zei dat de halacha rabbi Mona volgt.” Hij zei: “Er is overgeleverd dat de halacha rabbi Mona niet volgt.” Zij zeiden: “De meester zei toch zelf namens Sjemoeël dat men kleine broodjes voor een eroev kan gebruiken en er ‘die brood voortbrengt’ over zegt?” Daar is het anders: hij maakte er zijn maaltijd van. Zonder dat doet men het niet. Rav Pappa kwam in het huis van rav Hoena, de zoon van rav Natan. Nadat zij hun maaltijd hadden beëindigd, bracht men nog iets te eten. Rav Pappa nam ervan en at. Men vroeg: “Aanvaardt de meester niet dat wie klaar is niet meer mag eten?” Hij antwoordde: “Er is overgeleverd: wanneer men de tafel heeft weggenomen.” Rava en rabbi Zeira kwamen in het huis van de ballingschapsleider. Nadat men de tafel had weggenomen, stuurde men hun vanuit diens huis een gerecht. Rava at; rabbi Zeira niet. Hij vroeg: “Aanvaardt de meester niet dat men na het wegnemen niet meer mag eten?” Hij antwoordde: “Wij rekenen op de tafel van de ballingschapsleider.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42a-r2851484",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De opening voltooit Ben Zoma’s antwoord over wijn op 41b."
+        },
+        {
+          "type": "begrip",
+          "text": "Kav is een inhoudsmaat. Kisniengebak is pat habaa bekisnien. Een eroev gebruikt voedsel voor een gemeenschappelijke regeling bij sjabbat."
+        },
+        {
+          "type": "onzeker",
+          "text": "עדי כפנא is voorlopig weergegeven als “nog honger stillen”; de korte uitdrukking bekritiseert het eten van een maaltijdhoeveelheid zonder het passende dankgebed."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:42a:g2",
+      "locator": "Berakhot 42a · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר רב הרגיל בשמן שמן מעכבו אמר רב אשי כי הוינן בי רב כהנא אמר לן כגון אנן דרגילינן במשחא משחא מעכבא לן ולית הלכתא ככל הני שמעתתא אלא כי הא דאמר רבי חייא בר אשי אמר רב שלש תכיפות הן תכף לסמיכה שחיטה תכף לגאולה תפלה תכף לנטילת ידים ברכה אמר אביי אף אנו נאמר תכף לתלמידי חכמים ברכה שנאמר (בראשית ל, כז) ויברכני ה' בגללך איבעית אימא מהכא שנאמר (בראשית לט, ה) ויברך ה' את בית המצרי בגלל יוסף:",
+      "nl": "Rav zei: wie gewend is aan olie, kan pas na de olie afsluiten. Rav Asji zei: toen wij bij rav Kahana waren, zei hij: voor ons, die aan olie gewend zijn, is de olie bepalend. De halacha volgt echter geen van deze uitspraken, maar wat rav Chijja bar Asji namens Rav zei: er zijn drie zaken die onmiddellijk op elkaar volgen: op het opleggen van de handen volgt de slacht; op de verlossingszegen het gebed; op het handenwassen de zegening. Abaje zei: ook wij zeggen: op Torakenners volgt zegen, want er staat (Genesis 30:27): “De HEER heeft mij vanwege jou gezegend.” Je kunt het ook hieruit afleiden (Genesis 39:5): “De HEER zegende het huis van de Egyptenaar vanwege Josef.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42a-r2851484",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De olie werd bij de afsluiting van de maaltijd gebruikt. Het handenwassen betreft hier de laatste handwassing, waarna het dankgebed volgt. De handoplegging betreft een offerdier."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:42a:m1",
+      "locator": "Berakhot 42a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' ברך על היין שלפני המזון פטר את היין שלאחר המזון ברך על הפרפרת שלפני המזון פטר את הפרפרת שלאחר המזון ברך על הפת פטר את הפרפרת על הפרפרת לא פטר את הפת בש\"א אף לא מעשה קדרה היו יושבין כל אחד מברך לעצמו הסבו אחד מברך לכולן",
+      "nl": "Misjna. Wie over de wijn vóór het eten zegende, stelde de wijn na het eten vrij. Wie over de bijspijs vóór het eten zegende, stelde de bijspijs na het eten vrij. Wie over het brood zegende, stelde de bijspijs vrij; wie over de bijspijs zegende, stelde het brood niet vrij. Het huis van Sjammai zegt: zelfs geen gekookt gerecht. Zaten zij bijeen, dan zegent ieder voor zichzelf; lagen zij aan, dan zegent één voor allen.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-42a-r2851484",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Aanliggen is de formele gezamenlijke maaltijdhouding. Parperet is hier bijspijs, een voedselcategorie die in het vervolg van brood en gekookte graangerechten wordt onderscheiden."
+        },
+        {
+          "type": "vervolg",
+          "text": "De Misjna vervolgt op 42b met wijn tijdens en na de maaltijd."
+        }
+      ]
+    }
+  ]
+}

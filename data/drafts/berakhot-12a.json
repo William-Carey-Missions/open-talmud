@@ -1,0 +1,121 @@
+{
+  "id": "12a",
+  "title": "12a · De volgorde en afsluiting van zegeningen",
+  "scope": "Volledige hoofdtekst van amud 12a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%91_%D7%90&oldid=2851546",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:12a:g1",
+      "locator": "Berakhot 12a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אלא אי אמרת אהבה רבה הוו אמרי מאי ברכות אין מעכבות זו את זו דלמא האי דלא אמרי יוצר אור משום דלא מטא זמן יוצר אור וכי מטא זמן יוצר אור הוו אמרי ואי מכללא מאי דאי מכללא לעולם אהבה רבה הוו אמרי וכי מטא זמן יוצר אור הוו אמרי ליה ומאי ברכות אין מעכבות זו את זו סדר ברכות:",
+      "nl": "Maar als je zegt dat zij ‘Met grote liefde’ zeiden, wat betekent dan dat het weglaten van de ene zegening de andere niet ongeldig maakt? Misschien zeiden zij ‘Die het licht vormt’ niet omdat de tijd daarvoor nog niet was aangebroken, en zeiden zij die wel zodra de tijd aanbrak! En als de uitspraak uit een andere uitspraak is afgeleid, wat volgt daar dan uit? Als zij is afgeleid, kunnen zij inderdaad ‘Met grote liefde’ hebben gezegd en ‘Die het licht vormt’ hebben gezegd zodra de tijd daarvoor aanbrak. Wat betekent dan dat de zegeningen elkaar niet ongeldig maken? De volgorde van de zegeningen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De discussie vervolgt 11b: de gevolgtrekking kan alleen de volgorde betreffen en bewijst niet dat één van beide zegeningen mag worden weggelaten."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:12a:g2",
+      "locator": "Berakhot 12a · Gemara · g2",
+      "layer": "gemara",
+      "original": "וקורין עשרת הדברות שמע והיה אם שמוע ויאמר אמת ויציב ועבודה וברכת כהנים. א\"ר יהודה אמר שמואל אף בגבולין בקשו לקרות כן אלא שכבר בטלום מפני תרעומת המינין תניא נמי הכי ר' נתן אומר בגבולין בקשו לקרות כן אלא שכבר בטלום מפני תרעומת המינין רבה בב\"ח סבר למקבעינהו בסורא א\"ל רב חסדא כבר בטלום מפני תרעומת המינין אמימר סבר למקבעינהו בנהרדעא א\"ל רב אשי כבר בטלום מפני תרעומת המינין:",
+      "nl": "Zij lezen de Tien Woorden, ‘Hoor’, ‘En het zal gebeuren als jullie luisteren’ en ‘En Hij zei’, en zeggen ‘Waar en bestendig’, de tempeldienst en de priesterzegen. Rav Jehoeda zei namens Sjemoeël: ook buiten de tempel wilde men zo reciteren, maar men schafte dit af vanwege de tegenwerpingen van de sektariërs. Zo is ook geleerd: rabbi Natan zegt dat men buiten de tempel zo wilde reciteren, maar dat men dit afschafte vanwege de tegenwerpingen van de sektariërs. Rabba bar bar Chana wilde dit in Soera invoeren. Rav Chisda zei tegen hem: ‘Men heeft dit al afgeschaft vanwege de tegenwerpingen van de sektariërs.’ Amemar wilde het in Nehardea invoeren. Rav Asji zei tegen hem: ‘Men heeft dit al afgeschaft vanwege de tegenwerpingen van de sektariërs.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "“Sektariërs” vertaalt minim, een brede polemische aanduiding. De grondtekst specificeert hier niet welke groep bedoeld is."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:12a:g3",
+      "locator": "Berakhot 12a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ובשבת מוסיפין ברכה אחת למשמר היוצא. מאי ברכה אחת א\"ר חלבו משמר היוצא אומר למשמר הנכנס מי ששכן את שמו בבית הזה הוא ישכין ביניכם אהבה ואחוה ושלום וריעות:",
+      "nl": "Op sjabbat voegen zij één zegening toe voor de vertrekkende priesterafdeling. Wat is die ene zegening? Rabbi Chelbo zei: de vertrekkende afdeling zegt tegen de binnenkomende afdeling: ‘Moge Hij die Zijn naam in dit huis heeft doen wonen, onder jullie liefde, broederschap, vrede en vriendschap doen wonen.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:12a:g4",
+      "locator": "Berakhot 12a · Gemara · g4",
+      "layer": "gemara",
+      "original": "מקום שאמרו להאריך:",
+      "nl": "Waar men heeft voorgeschreven lang te spreken.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:12a:g5",
+      "locator": "Berakhot 12a · Gemara · g5",
+      "layer": "gemara",
+      "original": "פשיטא היכא דקא נקיט כסא דחמרא בידיה וקסבר דשכרא הוא ופתח ומברך אדעתא דשכרא וסיים בדחמרא יצא דאי נמי אם אמר שהכל נהיה בדברו יצא דהא תנן על כולם אם אמר שהכל נהיה בדברו יצא אלא היכא דקא נקיט כסא דשכרא בידיה וקסבר דחמרא הוא פתח ובריך אדעתא דחמרא וסיים בדשכרא מאי בתר עיקר ברכה אזלינן או בתר חתימה אזלינן ת\"ש שחרית פתח ביוצר אור וסיים במעריב ערבים לא יצא פתח במעריב ערבים וסיים ביוצר אור יצא ערבית פתח במעריב ערבים וסיים ביוצר אור לא יצא פתח ביוצר אור וסיים במעריב ערבים יצא כללו של דבר הכל הולך אחר החתום שאני התם דקאמר ברוך יוצר המאורות הניחא לרב דאמר כל ברכה שאין בה הזכרת השם אינה ברכה שפיר אלא לר' יוחנן דאמר כל ברכה שאין בה מלכות אינה ברכה מאי איכא למימר אלא כיון דאמר רבה בר עולא כדי להזכיר מדת יום בלילה ומדת לילה ביום כי קאמר ברכה ומלכות מעיקרא אתרוייהו קאמר ת\"ש מסיפא כללו של דבר הכל הולך אחר החתום כללו של דבר לאתויי מאי לאו לאתויי הא דאמרן לא לאתויי נהמא ותמרי ה\"ד אילימא דאכל נהמא וקסבר דתמרי אכל ופתח אדעתא דתמרי וסיים בדנהמא היינו בעיין לא צריכא כגון דאכל תמרי וקסבר נהמא אכל ופתח בדנהמא וסיים בדתמרי [יצא] דאפילו סיים בדנהמא נמי יצא מאי טעמא דתמרי נמי מיזן זייני:",
+      "nl": "Het is duidelijk dat iemand aan zijn plicht heeft voldaan als hij een beker wijn vasthoudt, meent dat het bier is, de zegening begint met bier in gedachten en afsluit met de wijnzegening. Zelfs als hij had gezegd ‘door wiens woord alles is ontstaan’, had hij immers voldaan. Wij leerden: als men over al deze dingen ‘door wiens woord alles is ontstaan’ zegt, heeft men voldaan. Maar wat als iemand een beker bier vasthoudt, meent dat het wijn is, de zegening begint met wijn in gedachten en afsluit met de bierzegening? Volgen wij het begin van de zegening of de afsluiting? Kom en hoor: als iemand ’s morgens begint met ‘Die het licht vormt’ en eindigt met ‘Die de avonden doet vallen’, heeft hij niet voldaan. Begint hij met ‘Die de avonden doet vallen’ en eindigt hij met ‘Die het licht vormt’, dan heeft hij voldaan. ’s Avonds heeft hij niet voldaan als hij begint met ‘Die de avonden doet vallen’ en eindigt met ‘Die het licht vormt’; begint hij met ‘Die het licht vormt’ en eindigt hij met ‘Die de avonden doet vallen’, dan heeft hij voldaan. De algemene regel is: alles volgt de afsluiting. Daar is het anders, want hij zegt: ‘Gezegend, die de hemellichten vormt.’ Volgens Rav, die zegt dat een zegening zonder vermelding van de Naam geen zegening is, is dit begrijpelijk. Maar wat kunnen wij zeggen volgens rabbi Jochanan, die zegt dat een zegening zonder vermelding van het koningschap geen zegening is? Omdat Rabba bar Oella zei dat men ’s nachts het kenmerk van de dag en overdag het kenmerk van de nacht moet vermelden, heeft degene die aan het begin de zegening en het koningschap uitspreekt, beide bedoeld. Kom en hoor uit het slot: ‘De algemene regel is: alles volgt de afsluiting.’ Wat voegt ‘de algemene regel’ toe? Toch het geval dat wij bespraken? Nee, het voegt brood en dadels toe. Hoe dan? Als hij brood at, dacht dat hij dadels at, met dadels in gedachten begon en met de zegening voor brood eindigde, is dat precies onze vraag! Het gaat echter om iemand die dadels at, dacht dat hij brood at, begon met de zegening voor brood en eindigde met die voor dadels. [Hij heeft voldaan.] Zelfs als hij ook met de zegening voor brood was geëindigd, had hij voldaan. Waarom? Omdat ook dadels voeden.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De korte zegening voor bier is “door wiens woord alles is ontstaan”. Met de Naam wordt de goddelijke naam bedoeld; met het koningschap de vermelding van God als koning van de wereld."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:12a:g6",
+      "locator": "Berakhot 12a · Gemara · g6",
+      "layer": "gemara",
+      "original": "אמר רבה בר חיננא סבא משמיה דרב כל שלא אמר אמת ויציב שחרית ואמת ואמונה ערבית לא יצא ידי חובתו שנאמר (תהלים צב, ג) להגיד בבקר חסדך ואמונתך בלילות:",
+      "nl": "Rabba bar Chinana de Oudere zei namens Rav: wie ’s morgens niet ‘Waar en bestendig’ en ’s avonds niet ‘Waar en betrouwbaar’ heeft gezegd, heeft zijn plicht niet vervuld. Er staat immers: ‘Om in de ochtend Uw trouw te verkondigen en Uw betrouwbaarheid in de nachten’ (Psalm 92:3).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:12a:g7",
+      "locator": "Berakhot 12a · Gemara · g7",
+      "layer": "gemara",
+      "original": "ואמר רבה בר חיננא [סבא] משמיה דרב המתפלל כשהוא כורע כורע בברוך וכשהוא זוקף זוקף בשם אמר שמואל מאי טעמא דרב דכתיב (תהלים קמו, ח) ה' זוקף כפופים מיתיבי (מלאכי ב, ה) מפני שמי נחת הוא מי כתיב בשמי מפני שמי כתיב אמר ליה שמואל לחייא בר רב בר אוריאן תא ואימא לך מלתא מעלייתא דאמר אבוך הכי אמר אבוך כשהוא כורע כורע בברוך כשהוא זוקף זוקף בשם.",
+      "nl": "Rabba bar Chinana [de Oudere] zei verder namens Rav: wanneer iemand tijdens het gebed buigt, buigt hij bij ‘Gezegend’; wanneer hij zich opricht, richt hij zich op bij de Naam. Sjemoeël zei: wat is Ravs reden? Er staat: ‘De HEER richt gebogenen op’ (Psalm 146:8). Men werpt tegen: ‘Voor Mijn naam boog hij zich’ (Maleachi 2:5). Staat er dan ‘bij Mijn naam’? Er staat ‘vóór Mijn naam’. Sjemoeël zei tegen Chijja bar Rav: ‘Geleerde zoon, kom, dan zal ik je een voortreffelijk woord zeggen dat je vader heeft gezegd. Zo zei je vader: bij het buigen buigt men bij “Gezegend”, en bij het oprichten richt men zich op bij de Naam.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "Het antwoord leest het voorzetsel “voor” ruimtelijk of temporeel: de buiging vindt vóór het uitspreken van de Naam plaats."
+        }
+      ]
+    }
+  ]
+}

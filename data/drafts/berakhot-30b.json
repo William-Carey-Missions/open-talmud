@@ -1,0 +1,120 @@
+{
+  "id": "30b",
+  "title": "30b · Eerbied en vreugde bij het gebed",
+  "scope": "Volledige hoofdtekst van amud 30b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C_%D7%91&oldid=2851509",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:30b:g1",
+      "locator": "Berakhot 30b · Gemara · g1",
+      "layer": "gemara",
+      "original": "בנהרדעא לבר מההוא יומא דאתא פולמוסא דמלכא למתא ואטרידו רבנן ולא צלו וצלי לי ביחיד והואי יחיד שלא בחבר עיר יתיב רבי חנינא קרא קמיה דר' ינאי ויתיב וקאמר הלכה כר' יהודה שאמר משום ר' אלעזר בן עזריה א\"ל פוק קרא קראיך לברא דאין הלכה כרבי יהודה שאמר משום ראב\"ע א\"ר יוחנן אני ראיתי את רבי ינאי דצלי והדר צלי א\"ל רבי ירמיה לר' זירא ודילמא מעיקרא לא כוון דעתיה ולבסוף כוון דעתיה א\"ל חזי מאן גברא רבא דקמסהיד עליה:",
+      "nl": "in Nehardea, behalve op de dag dat het leger van de koning de stad binnenkwam. De wijzen waren toen afgeleid en baden niet, en ik bad alleen. Ik was toen een individu zonder stedelijke gebedsgemeenschap.’ Rabbi Chanina de Schriftlezer zat voor rabbi Jannai en zei: ‘De halacha volgt rabbi Jehoeda die namens rabbi Elazar ben Azarja sprak.’ Hij zei tegen hem: ‘Ga je Schriftteksten buiten lezen, want de halacha volgt rabbi Jehoeda namens rabbi Elazar ben Azarja niet.’ Rabbi Jochanan zei: ik heb rabbi Jannai zien bidden en daarna opnieuw zien bidden. Rabbi Jirmeja vroeg rabbi Zeïra: misschien had hij zich eerst niet geconcentreerd en deed hij dat de tweede keer wel? Hij antwoordde: kijk wie de grote man is die over hem getuigt!",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het herhaalde gebed van rabbi Jannai wordt aangevoerd als bewijs dat hij ook zonder gemeenschap het toegevoegde gebed bad. Het antwoord beroept zich op de betrouwbaarheid van rabbi Jochanans waarneming."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:30b:g2",
+      "locator": "Berakhot 30b · Gemara · g2",
+      "layer": "gemara",
+      "original": "ר' אמי ור' אסי אע\"ג דהוו להו תליסר בי כנישתא בטבריא לא הוו מצלו אלא ביני עמודי היכא דהוו גרסי איתמר רב יצחק בר אבדימי משום רבינו אמר הלכה כר' יהודה שאמר משום ראב\"ע ר' חייא בר אבא צלי והדר צלי א\"ל רבי זירא מאי טעמא עביד מר הכי אילימא משום דלא כוון מר דעתיה והאמר ר\"א לעולם ימוד אדם את עצמו אם יכול לכוין את לבו יתפלל ואם לאו אל יתפלל אלא דלא אדכר מר דריש ירחא והתניא טעה ולא הזכיר של ר\"ח בערבית אין מחזירין אותו מפני שיכול לאומרה בשחרית בשחרית אין מחזירין אותו מפני שיכול לאומרה במוספין במוספין אין מחזירין אותו מפני שיכול לאומרה במנחה א\"ל לאו איתמר עלה א\"ר יוחנן בצבור שנו:",
+      "nl": "Hoewel er in Tiberias dertien synagogen waren, baden rabbi Ammi en rabbi Assi alleen tussen de zuilen waar zij studeerden. Er is overgeleverd: Rav Jitschak bar Avdimi zei namens onze meester: de halacha volgt rabbi Jehoeda die namens rabbi Elazar ben Azarja sprak. Rabbi Chijja bar Abba bad en bad daarna opnieuw. Rabbi Zeïra vroeg hem: ‘Waarom doet de meester dat? Als het is omdat u zich niet concentreerde: rabbi Elazar zei toch dat men zichzelf moet beoordelen: als men zijn hart kan richten, moet men bidden, anders niet. Misschien hebt u de vermelding van nieuwemaan vergeten? Maar er is toch geleerd: wie die ’s avonds vergat, hoeft niet terug, omdat hij haar ’s morgens kan zeggen; wie haar ’s morgens vergat, niet, omdat hij haar in het toegevoegde gebed kan zeggen; wie haar daar vergat, niet, omdat hij haar in het middaggebed kan zeggen.’ Hij antwoordde: ‘Is daarover niet gezegd dat rabbi Jochanan zei: dit is geleerd bij de gemeenschap?’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:30b:g3",
+      "locator": "Berakhot 30b · Gemara · g3",
+      "layer": "gemara",
+      "original": "כמה ישהה בין תפלה לתפלה רב הונא ור\"ח חד אמר כדי שתתחונן דעתו עליו וחד אמר כדי שתתחולל דעתו עליו מאן דאמר כדי שתתחונן דעתו עליו דכתיב (דברים ג, כג) ואתחנן אל ה' ומ\"ד כדי שתתחולל דעתו עליו דכתיב (שמות לב, יא) ויחל משה אמר רב ענן אמר רב טעה ולא הזכיר של ר\"ח ערבית אין מחזירין אותו לפי שאין בית דין מקדשין את החדש אלא ביום אמר אמימר מסתברא מילתא דרב בחדש מלא אבל בחדש חסר מחזירין אותו א\"ל רב אשי לאמימר מכדי רב טעמא קאמר מה לי חסר ומה לי מלא אלא לא שנא:",
+      "nl": "Hoe lang wacht men tussen het ene gebed en het andere? Rav Hoena en Rav Chisda verschilden: de een zei totdat zijn geest weer tot smeken is bereid, de ander totdat zijn geest weer tot bidden is bewogen. Wie zegt ‘tot smeken bereid’ beroept zich op: ‘Ik smeekte de HEER’ (Deuteronomium 3:23); wie zegt ‘tot bidden bewogen’ op: ‘Mozes zocht het aangezicht’ (Exodus 32:11). Rav Anan zei namens Rav: wie ’s avonds de vermelding van nieuwemaan vergat, hoeft niet terug, omdat de rechtbank de maand alleen overdag heiligt. Amemar zei: Ravs uitspraak lijkt te gelden bij een volle maand; na een onvolledige maand moet hij terug. Rav Asji zei tegen Amemar: Rav geeft toch een reden! Welk verschil maakt vol of onvolledig? Er is dus geen verschil.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Een volle maand heeft dertig dagen, een onvolledige negenentwintig. Het eerste begin van een nieuwe maand wordt door een rechtbank vastgesteld."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:30b:m1",
+      "locator": "Berakhot 30b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין",
+      "nl": "Misjna.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m2",
+      "ref": "bavli:berakhot:30b:m2",
+      "locator": "Berakhot 30b · Misjna · m2",
+      "layer": "mishnah",
+      "original": "אין עומדין להתפלל אלא מתוך כובד ראש חסידים הראשונים היו שוהין שעה אחת ומתפללין כדי שיכוונו לבם לאביהם שבשמים אפי' המלך שואל בשלומו לא ישיבנו ואפי' נחש כרוך על עקבו לא יפסיק:",
+      "nl": "Men gaat alleen met ernstige eerbied staan om te bidden. De vroegere vromen wachtten een uur en baden dan, om hun hart naar hun Vader in de hemel te richten. Zelfs als de koning hem begroet, antwoordt hij niet; zelfs als een slang zich om zijn hiel heeft gewikkeld, onderbreekt hij niet.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:30b:g4",
+      "locator": "Berakhot 30b · Gemara · g4",
+      "layer": "gemara",
+      "original": "גמרא",
+      "nl": "Gemara.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:30b:g5",
+      "locator": "Berakhot 30b · Gemara · g5",
+      "layer": "gemara",
+      "original": "מנא ה\"מ א\"ר אלעזר דאמר קרא (שמואל א א, י) והיא מרת נפש ממאי דילמא חנה שאני דהות מרירא לבא טובא אלא א\"ר יוסי בר' חנינא מהכא (תהלים ה, ח) ואני ברב חסדך אבא ביתך אשתחוה אל היכל קדשך ביראתך ממאי דילמא דוד שאני דהוה מצער נפשיה ברחמי טובא אלא אמר ר' יהושע בן לוי מהכא (תהלים כט, ב) השתחוו לה' בהדרת קדש אל תקרי בהדרת אלא בחרדת ממאי דילמא לעולם אימא לך הדרת ממש כי הא דרב יהודה הוה מציין נפשיה והדר מצלי אלא א\"ר נחמן בר יצחק מהכא (תהלים ב, יא) עבדו את ה' ביראה וגילו ברעדה מאי וגילו ברעדה א\"ר אדא בר מתנא אמר רבה במקום גילה שם תהא רעדה אביי הוה יתיב קמיה דרבה חזייה דהוה קא בדח טובא אמר וגילו ברעדה כתיב א\"ל אנא תפילין מנחנא ר' ירמיה הוה יתיב קמיה דר' זירא חזייה דהוה קא בדח טובא אמר ליה (משלי יד, כג) בכל עצב יהיה מותר כתיב א\"ל אנא תפילין מנחנא מר בריה דרבינא עבד הלולא לבריה חזנהו לרבנן דהוו קבדחי טובא",
+      "nl": "Waaruit blijkt dit? Rabbi Elazar zei: de Schrift zegt ‘Zij was bitter van ziel’ (1 Samuël 1:10). Waaruit blijkt dat als algemene regel? Misschien was Hanna anders, omdat haar hart bijzonder bitter was! Rabbi Jose, zoon van rabbi Chanina, zei daarom: uit ‘Maar ik kom door Uw grote trouw Uw huis binnen; ik buig naar Uw heilige tempel in ontzag voor U’ (Psalm 5:8). Misschien was David anders, omdat hij zichzelf met veel smeken inspande! Rabbi Jehosjoea ben Levi zei daarom: uit ‘Buig voor de HEER in heilige pracht’ (Psalm 29:2). Lees niet ‘in pracht’, maar ‘met beven’. Misschien bedoelt het werkelijk pracht, zoals Rav Jehoeda zichzelf zorgvuldig kleedde en daarna bad! Rav Nachman bar Jitschak zei daarom: uit ‘Dien de HEER met ontzag en verheug je met beven’ (Psalm 2:11). Wat is ‘verheug je met beven’? Rav Adda bar Matna zei namens Rabba: waar vreugde is, moet ook beven zijn. Abbaje zat voor Rabba en deze zag dat hij bijzonder vrolijk was. Hij zei: ‘Er staat: verheug je met beven.’ Hij antwoordde: ‘Ik draag tefillien.’ Rabbi Jirmeja zat voor rabbi Zeïra en deze zag dat hij bijzonder vrolijk was. Hij zei: ‘Er staat: bij elke droefheid is winst’ (Spreuken 14:23). Hij antwoordde: ‘Ik draag tefillien.’ Mar, de zoon van Ravina, hield een bruiloft voor zijn zoon. Hij zag dat de wijzen bijzonder vrolijk waren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg verandert hadrat, “pracht”, in ḥerdat, “beven”. Het woord etsev uit Spreuken kan arbeid, moeite of droefheid aanduiden; de toepassing legt nadruk op ernst."
+        },
+        {
+          "type": "vervolg",
+          "text": "Het voorval bij de bruiloft gaat op 31a verder."
+        }
+      ]
+    }
+  ]
+}

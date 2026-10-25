@@ -1,0 +1,215 @@
+{
+  "id": "20b",
+  "title": "20b · Gebod, gebed en innerlijke recitatie",
+  "scope": "Volledige hoofdtekst van amud 20b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 20b — ongevocaliseerde Wikisource-editie, revisie 2851529; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B_%D7%91&oldid=2851529",
+  "passages": [
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:20b:m1",
+      "locator": "Berakhot 20b · Misjna · 1",
+      "layer": "mishnah",
+      "original": "ומן התפלין וחייבין בתפלה ובמזוזה ובברכת המזון:",
+      "nl": "...en van de tefillien; zij zijn wel verplicht tot het gebed, de mezoeza en het dankgebed na de maaltijd.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de Misjna die op 20a begint; geen nieuwe Misjna."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:20b:g2",
+      "locator": "Berakhot 20b · Gemara · 2",
+      "layer": "gemara",
+      "original": "גמ' ק\"ש פשיטא מצות עשה שהזמן גרמא הוא וכל מצות עשה שהזמן גרמא נשים פטורות מהו דתימא הואיל ואית בה מלכות שמים קמ\"ל:",
+      "nl": "Gemara. Het Sjema: dat is toch vanzelfsprekend? Het is een positief gebod dat aan een bepaalde tijd gebonden is, en vrouwen zijn vrijgesteld van ieder positief gebod dat aan een bepaalde tijd gebonden is! Je zou kunnen denken: omdat het de aanvaarding van het koningschap van de hemel bevat, geldt hier iets anders. Daarom leert de Misjna ons dit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:20b:g3",
+      "locator": "Berakhot 20b · Gemara · 3",
+      "layer": "gemara",
+      "original": "ומן התפלין:",
+      "nl": "“En van de tefillien.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:20b:g4",
+      "locator": "Berakhot 20b · Gemara · 4",
+      "layer": "gemara",
+      "original": "פשיטא מהו דתימא הואיל ואתקש למזוזה קמ\"ל:",
+      "nl": "Dat is toch vanzelfsprekend? Je zou kunnen denken: omdat tefillien in de Schrift met de mezoeza verbonden worden, geldt hier iets anders. Daarom leert zij ons dit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:20b:g5",
+      "locator": "Berakhot 20b · Gemara · 5",
+      "layer": "gemara",
+      "original": "וחייבין בתפלה:",
+      "nl": "“Zij zijn wel verplicht tot het gebed.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:20b:g6",
+      "locator": "Berakhot 20b · Gemara · 6",
+      "layer": "gemara",
+      "original": "דרחמי נינהו מהו דתימא הואיל וכתיב בה (תהלים נה, יח) ערב ובקר וצהרים כמצות עשה שהזמן גרמא דמי קמ\"ל:",
+      "nl": "Want het gebed is een smeekbede om ontferming. Je zou kunnen denken: omdat erover geschreven staat: “Avond, ochtend en middag” (Psalm 55:18), lijkt het op een positief gebod dat aan een bepaalde tijd gebonden is. Daarom leert zij ons dit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:20b:g7",
+      "locator": "Berakhot 20b · Gemara · 7",
+      "layer": "gemara",
+      "original": "ובמזוזה:",
+      "nl": "“En tot de mezoeza.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:20b:g8",
+      "locator": "Berakhot 20b · Gemara · 8",
+      "layer": "gemara",
+      "original": "פשיטא מהו דתימא הואיל ואתקש לתלמוד תורה קמשמע לן:",
+      "nl": "Dat is toch vanzelfsprekend? Je zou kunnen denken: omdat zij in de Schrift met de studie van de Tora verbonden wordt, geldt hier iets anders. Daarom leert zij ons dit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g9",
+      "ref": "bavli:berakhot:20b:g9",
+      "locator": "Berakhot 20b · Gemara · 9",
+      "layer": "gemara",
+      "original": "ובברכת המזון:",
+      "nl": "“En tot het dankgebed na de maaltijd.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 9,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g10",
+      "ref": "bavli:berakhot:20b:g10",
+      "locator": "Berakhot 20b · Gemara · 10",
+      "layer": "gemara",
+      "original": "פשיטא מהו דתימא הואיל וכתיב (שמות טז, ח) בתת ה' לכם בערב בשר לאכל ולחם בבקר לשבע כמצות עשה שהזמן גרמא דמי קמ\"ל:",
+      "nl": "Dat is toch vanzelfsprekend? Je zou kunnen denken: omdat er geschreven staat: “Wanneer de HEER u in de avond vlees te eten geeft en in de ochtend brood tot verzadiging” (Exodus 16:8), lijkt het op een positief gebod dat aan een bepaalde tijd gebonden is. Daarom leert zij ons dit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 10,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g11",
+      "ref": "bavli:berakhot:20b:g11",
+      "locator": "Berakhot 20b · Gemara · 11",
+      "layer": "gemara",
+      "original": "אמר רב אדא בר אהבה נשים חייבות בקדוש היום דבר תורה אמאי מצות עשה שהזמן גרמא הוא וכל מצות עשה שהזמן גרמא נשים פטורות אמר אביי מדרבנן א\"ל רבא והא דבר תורה קאמר ועוד כל מצות עשה נחייבינהו מדרבנן אלא אמר רבא אמר קרא (שמות כ, ז) זכור (דברים ה, יא) ושמור כל שישנו בשמירה ישנו בזכירה והני נשי הואיל ואיתנהו בשמירה איתנהו בזכירה",
+      "nl": "Rav Adda bar Ahava zei: vrouwen zijn volgens de Tora verplicht tot de heiliging van de dag. Waarom? Het is toch een positief gebod dat aan een bepaalde tijd gebonden is, en vrouwen zijn vrijgesteld van ieder positief gebod dat aan een bepaalde tijd gebonden is! Abbaje zei: de verplichting is van de wijzen. Rava zei tegen hem: hij zegt toch uitdrukkelijk “volgens de Tora”! Bovendien zouden wij hen dan volgens de wijzen tot alle positieve geboden moeten verplichten! Rava zei daarom: de Schrift zegt “Gedenk” (Exodus 20:7) en “Onderhoud” (Deuteronomium 5:11). Ieder die onder het onderhouden valt, valt ook onder het gedenken. Omdat deze vrouwen onder het onderhouden vallen, vallen zij ook onder het gedenken.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 11,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Heiliging van de dag is de kiddoesj van sjabbat. Gedenken en onderhouden verbinden de positieve kiddoesjplicht met de sjabbatverboden."
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "ref": "bavli:berakhot:20b:g12",
+      "locator": "Berakhot 20b · Gemara · 12",
+      "layer": "gemara",
+      "original": "א\"ל רבינא לרבא נשים בברכת המזון דאורייתא או דרבנן למאי נפקא מינה לאפוקי רבים ידי חובתן אי אמרת (בשלמא) דאורייתא אתי דאורייתא ומפיק דאורייתא (אלא אי) אמרת דרבנן הוי שאינו מחוייב בדבר וכל שאינו מחוייב בדבר אינו מוציא את הרבים ידי חובתן מאי ת\"ש באמת אמרו בן מברך לאביו ועבד מברך לרבו ואשה מברכת לבעלה אבל אמרו חכמים תבא מארה לאדם שאשתו ובניו מברכין לו אי אמרת בשלמא דאורייתא אתי דאורייתא ומפיק דאורייתא אלא אי אמרת דרבנן אתי דרבנן ומפיק דאורייתא ולטעמיך קטן בר חיובא הוא אלא הכי במאי עסקינן כגון שאכל שיעורא דרבנן דאתי דרבנן ומפיק דרבנן:",
+      "nl": "Ravina vroeg Rava: zijn vrouwen volgens de Tora of volgens de wijzen verplicht tot het dankgebed na de maaltijd? Wat maakt dat uit? Of zij anderen van hun verplichting kunnen kwijten. Als je zegt dat hun verplichting van de Tora is, komt iemand die volgens de Tora verplicht is en kwijt iemand die volgens de Tora verplicht is. Maar als je zegt dat hun verplichting van de wijzen is, geldt zij als iemand die niet tot deze zaak verplicht is; en ieder die niet tot een zaak verplicht is, kan anderen niet van hun verplichting kwijten. Hoe is het dus? Kom en hoor: naar waarheid hebben zij gezegd: een zoon spreekt de zegen voor zijn vader uit, een slaaf voor zijn meester en een vrouw voor haar man. Maar de wijzen hebben gezegd: vervloekt zij de man voor wie zijn vrouw en kinderen de zegen uitspreken! Als je zegt dat de verplichting van de Tora is, is dat begrijpelijk: een verplichting van de Tora kwijt een verplichting van de Tora. Maar als je zegt dat zij van de wijzen is, kan dan iemand die volgens de wijzen verplicht is iemand kwijten die volgens de Tora verplicht is? En volgens jouw redenering: is een minderjarige dan tot de verplichting gehouden? Nee, waarover gaat het hier? Over iemand die slechts de door de wijzen bepaalde hoeveelheid heeft gegeten; dan komt een verplichting van de wijzen en kwijt een verplichting van de wijzen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 12,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g13",
+      "ref": "bavli:berakhot:20b:g13",
+      "locator": "Berakhot 20b · Gemara · 13",
+      "layer": "gemara",
+      "original": "דרש רב עוירא זמנין אמר לה משמיה דר' אמי וזמנין אמר לה משמיה דר' אסי אמרו מלאכי השרת לפני הקב\"ה רבש\"ע כתוב בתורתך (דברים י, יז) אשר לא ישא פנים ולא יקח שחד והלא אתה נושא פנים לישראל דכתיב (במדבר ו, כו) ישא ה' פניו אליך אמר להם וכי לא אשא פנים לישראל שכתבתי להם בתורה (דברים ח, י) ואכלת ושבעת וברכת את ה' אלהיך והם מדקדקים [על] עצמם עד כזית ועד כביצה:",
+      "nl": "Rav Avira legde uit — soms zei hij het uit naam van rabbi Ammi en soms uit naam van rabbi Assi: de dienende engelen zeiden voor de Heilige, gezegend zij Hij: “Meester van de wereld, in uw Tora staat geschreven: ‘Die niemand voortrekt en geen geschenk aanneemt’ (Deuteronomium 10:17). Toch trekt U Israël voor, want er staat: ‘Moge de HEER zijn aangezicht tot u verheffen’ (Numeri 6:26).” Hij zei tegen hen: “Zou Ik Israël niet voortrekken? Ik heb hun in de Tora geschreven: ‘Je zult eten, verzadigd worden en de HEER, je God, zegenen’ (Deuteronomium 8:10), en zij zijn voor zichzelf al nauwgezet bij een hoeveelheid ter grootte van een olijf of een ei.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 13,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m14",
+      "ref": "bavli:berakhot:20b:m14",
+      "locator": "Berakhot 20b · Misjna · 14",
+      "layer": "mishnah",
+      "original": "מתני' בעל קרי מהרהר בלבו ואינו מברך לא לפניה ולא לאחריה ועל המזון מברך לאחריו ואינו מברך לפניו רבי יהודה אומר מברך לפניהם ולאחריהם:",
+      "nl": "Misjna. Iemand die een zaadlozing heeft gehad, overdenkt het Sjema in zijn hart en spreekt de zegeningen ervoor noch erna uit. Over voedsel spreekt hij de zegen erna uit, maar niet ervoor. Rabbi Jehoeda zegt: hij spreekt de zegeningen ervoor en erna uit.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 14,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g15",
+      "ref": "bavli:berakhot:20b:g15",
+      "locator": "Berakhot 20b · Gemara · 15",
+      "layer": "gemara",
+      "original": "גמ' אמר רבינא זאת אומרת הרהור כדבור דמי דאי סלקא דעתך לאו כדבור דמי למה מהרהר אלא מאי הרהור כדבור דמי יוציא בשפתיו כדאשכחן בסיני ורב חסדא אמר הרהור לאו כדבור דמי דאי סלקא דעתך הרהור כדבור דמי יוציא בשפתיו אלא מאי הרהור לאו כדבור דמי למה מהרהר אמר רבי אלעזר כדי שלא יהו כל העולם עוסקין בו והוא יושב ובטל ונגרוס בפרקא אחרינא אמר רב אדא בר אהבה בדבר שהצבור עוסקין בו",
+      "nl": "Gemara. Ravina zei: hieruit blijkt dat overdenken als spreken geldt. Want als je meent dat het niet als spreken geldt, waarom overdenkt hij het dan? Maar wat zeg je dan: overdenken geldt als spreken? Laat hij het dan met zijn lippen uitspreken! Het voorschrift volgt wat wij bij de Sinaï aantreffen. Rav Chisda zei: overdenken geldt niet als spreken. Want als je meent dat overdenken als spreken geldt, laat hij het dan met zijn lippen uitspreken! Maar wat zeg je dan: overdenken geldt niet als spreken? Waarom overdenkt hij het dan? Rabbi Elazar zei: opdat niet iedereen ermee bezig is terwijl hij er werkeloos bij zit. Laat hij dan een ander hoofdstuk leren! Rav Adda bar Ahava zei: hij moet bezig zijn met de zaak waarmee de gemeenschap bezig is.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "sourceParagraph": 15,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

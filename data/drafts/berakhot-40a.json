@@ -1,0 +1,183 @@
+{
+  "id": "40a",
+  "title": "40a · Onderbrekingen en een onjuiste zegenformule",
+  "scope": "Volledige hoofdtekst van amud 40a in de gekozen editie; Misjna en Gemara. De laatste zin loopt door op 40b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E_%D7%90&oldid=2851490",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:40a:g1",
+      "locator": "Berakhot 40a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אמר רב טול ברוך טול ברוך אינו צריך לברך הבא מלח הבא לפתן צריך לברך ור' יוחנן אמר אפי' הביאו מלח הביאו לפתן נמי א\"צ לברך גביל לתורי גביל לתורי צריך לברך ורב ששת אמר אפילו גביל לתורי נמי אינו צריך לברך דאמר רב יהודה אמר רב אסור לאדם שיאכל קודם שיתן מאכל לבהמתו שנא' (דברים יא, טו) ונתתי עשב בשדך לבהמתך והדר ואכלת ושבעת:",
+      "nl": "Rav zei: zegt hij “neem, de zegening is gezegd; neem, de zegening is gezegd”, dan hoeft hij niet opnieuw te zegenen. Zegt hij “breng zout, breng toespijs”, dan moet hij opnieuw zegenen. Rabbi Jochanan zei: ook bij “breng zout, breng toespijs” hoeft hij niet opnieuw te zegenen. Bij “meng voer voor de ossen, meng voer voor de ossen” moet hij opnieuw zegenen. Rav Sjesjet zei: zelfs bij “meng voer voor de ossen” hoeft hij niet opnieuw te zegenen, want rav Jehoeda zei namens Rav: het is iemand verboden te eten voordat hij zijn dier voedsel geeft, want er staat (Deuteronomium 11:15): “Ik zal gras geven op je veld voor je vee”, en daarna: “Je zult eten en verzadigd worden.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het gaat om spreken tussen de broodzegen en de eerste hap; voedselgerelateerde woorden kunnen als noodzakelijke voortzetting gelden."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:40a:g2",
+      "locator": "Berakhot 40a · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר רבא בר שמואל משום רבי חייא אין הבוצע רשאי לבצוע עד שיביאו מלח או לפתן לפני כל אחד ואחד רבא בר שמואל אקלע לבי ריש גלותא אפיקו ליה ריפתא ובצע להדיא אמרו ליה הדר מר משמעתיה אמר להו לית דין צריך בשש:",
+      "nl": "Rava bar Sjemoeël zei namens rabbi Chijja: wie het brood breekt, mag dat pas doen wanneer voor ieder zout of toespijs is gebracht. Rava bar Sjemoeël kwam in het huis van de ballingschapsleider. Men bracht hem brood en hij brak het meteen. Men vroeg hem: “Is de meester teruggekomen van zijn uitspraak?” Hij antwoordde: “Dit brood heeft geen uitstel nodig.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het aangeboden brood was geschikt om zonder zout of toespijs te eten."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:40a:g3",
+      "locator": "Berakhot 40a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ואמר רבא בר שמואל משום רבי חייא אין מי רגלים כלים אלא בישיבה אמר רב כהנא ובעפר תיחוח אפילו בעמידה ואי ליכא עפר תיחוח יעמוד במקום גבוה וישתין למקום מדרון:",
+      "nl": "Rava bar Sjemoeël zei verder namens rabbi Chijja: de urine loopt alleen volledig uit wanneer men zit. Rav Kahana zei: op losse aarde kan het ook staande. Is er geen losse aarde, laat hij dan op een hoge plaats staan en naar een helling urineren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:40a:g4",
+      "locator": "Berakhot 40a · Gemara · g4",
+      "layer": "gemara",
+      "original": "ואמר רבא בר שמואל משמיה דר' חייא אחר כל אכילתך אכול מלח ואחר כל שתייתך שתה מים ואי אתה נזוק תניא נמי הכי אחר כל אכילתך אכול מלח ואחר כל שתייתך שתה מים ואי אתה נזוק תניא אידך אכל כל מאכל ולא אכל מלח שתה כל משקין ולא שתה מים ביום ידאג מן ריח הפה ובלילה ידאג מפני אסכרה:",
+      "nl": "Rava bar Sjemoeël zei verder namens rabbi Chijja: eet na alles wat je eet zout en drink na alles wat je drinkt water, dan ondervind je geen schade. Zo is ook geleerd: eet na alles wat je eet zout en drink na alles wat je drinkt water, dan ondervind je geen schade. Er is ook geleerd: wie allerlei voedsel at maar geen zout, of allerlei dranken dronk maar geen water, moet overdag vrezen voor slechte adem en ’s nachts voor askara.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Askara is een verstikkende keelaandoening. De voedingsuitspraken geven de geneeskundige opvattingen van de overlevering weer."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:40a:g5",
+      "locator": "Berakhot 40a · Gemara · g5",
+      "layer": "gemara",
+      "original": "ת\"ר המקפה אכילתו במים אינו בא לידי חולי מעים וכמה אמר רב חסדא קיתון לפת אמר רב מרי א\"ר יוחנן הרגיל בעדשים אחת לשלשים יום מונע אסכרה מתוך ביתו אבל כל יומא לא מ\"ט משום דקשה לריח הפה ואמר רב מרי אמר רבי יוחנן הרגיל בחרדל אחת לשלשים יום מונע חלאים מתוך ביתו אבל כל יומא לא מ\"ט משום דקשה לחולשא דלבא אמר רב חייא בר אשי אמר רב הרגיל בדגים קטנים אינו בא לידי חולי מעים ולא עוד אלא שדגים קטנים מפרין ומרבין ומברין כל גופו של אדם א\"ר חמא ברבי חנינא הרגיל בקצח אינו בא לידי כאב לב מיתיבי רשב\"ג אומר קצח אחד מששים סמני המות הוא והישן למזרח גרנו דמו בראשו לא קשיא הא בריחו הא בטעמו אימיה דרבי ירמיה אפיא ליה ריפתא ומדבקא ליה ומקלפא ליה:",
+      "nl": "De wijzen leerden: wie zijn maaltijd met water laat doorstromen, krijgt geen darmziekte. Hoeveel? Rav Chisda zei: een kruik per brood. Rav Mari zei namens rabbi Jochanan: wie gewoonlijk eenmaal per dertig dagen linzen eet, houdt askara uit zijn huis. Maar niet elke dag! Waarom? Omdat het slecht is voor de adem. Rav Mari zei verder namens rabbi Jochanan: wie gewoonlijk eenmaal per dertig dagen mosterd eet, houdt ziekten uit zijn huis. Maar niet elke dag! Waarom? Omdat het zwakte van het hart veroorzaakt. Rav Chijja bar Asji zei namens Rav: wie gewoonlijk kleine vissen eet, krijgt geen darmziekte. Bovendien bevorderen kleine vissen de vruchtbaarheid en versterken zij het hele lichaam. Rabbi Chama, de zoon van rabbi Chanina, zei: wie gewoonlijk zwarte komijn eet, krijgt geen hartpijn. Men wierp tegen: Rabban Sjimon ben Gamaliël zegt: zwarte komijn is één zestigste van de doodsmiddelen; wie ten oosten van de hoop ervan slaapt, draagt de verantwoordelijkheid voor zijn dood! Er is geen moeilijkheid: het ene betreft de geur, het andere de smaak. De moeder van rabbi Jirmeja bakte brood voor hem, drukte het zaad erop en schraapte het daarna af.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:40a:g6",
+      "locator": "Berakhot 40a · Gemara · g6",
+      "layer": "gemara",
+      "original": "ר' יהודה אומר בורא מיני דשאים:",
+      "nl": "“Rabbi Jehoeda zegt: die soorten gewas schept.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:40a:g7",
+      "locator": "Berakhot 40a · Gemara · g7",
+      "layer": "gemara",
+      "original": "א\"ר זירא ואיתימא ר' חיננא בר פפא אין הלכה כרבי יהודה וא\"ר זירא ואיתימא ר' חיננא בר פפא מ\"ט דרבי יהודה אמר קרא (תהלים סח, כ) ברוך ה' יום יום וכי ביום מברכין אותו ובלילה אין מברכין אותו אלא לומר לך כל יום ויום תן לו מעין ברכותיו הכא נמי כל מין ומין תן לו מעין ברכותיו. וא\"ר זירא ואיתימא ר' חיננא בר פפא בא וראה שלא כמדת הקב\"ה מדת בשר ודם מדת בשר ודם כלי ריקן מחזיק מלא אינו מחזיק אבל הקב\"ה אינו כן מלא מחזיק ריקן אינו מחזיק שנאמר (שמות טו, כו) ויאמר אם שמוע תשמע אם שמוע תשמע ואם לאו לא תשמע ד\"א אם שמוע בישן תשמע בחדש ואם יפנה לבבך שוב לא תשמע:",
+      "nl": "Rabbi Zeira — volgens anderen rabbi Chinena bar Pappa — zei: de halacha volgt rabbi Jehoeda niet. Rabbi Zeira — volgens anderen rabbi Chinena bar Pappa — zei verder: wat is de reden van rabbi Jehoeda? De Schrift zegt (Psalmen 68:20): “Gezegend zij de Heer, dag aan dag.” Zegent men Hem dan overdag en ’s nachts niet? Het leert je: geef iedere dag zijn passende zegeningen. Zo ook hier: geef iedere soort haar passende zegening. Rabbi Zeira — volgens anderen rabbi Chinena bar Pappa — zei verder: kom en zie hoe de handelwijze van de Heilige, gezegend zij Hij, verschilt van die van mensen. Bij mensen kan een leeg vat iets bevatten, maar een vol vat niet. Bij de Heilige, gezegend zij Hij, is dat anders: een vol vat kan bevatten, een leeg vat niet, want er staat (Exodus 15:26): “Als je luisterend zult luisteren.” Als je hebt geluisterd, zul je verder horen; zo niet, dan zul je niet horen. Een andere uitleg: als je naar het oude luistert, zul je het nieuwe horen; maar als je hart zich afwendt, zul je niet meer horen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het volle vat verbeeldt iemand die al geleerd heeft en daardoor verder kan leren."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:40a:m1",
+      "locator": "Berakhot 40a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' בירך על פירות האילן בורא פרי האדמה יצא ועל פירות הארץ בורא פרי העץ לא יצא ועל כולם אם אמר שהכל נהיה בדברו יצא:",
+      "nl": "Misjna. Wie over boomvruchten “die de vrucht van de aarde schept” zei, heeft voldaan. Wie over aardvruchten “die de vrucht van de boom schept” zei, heeft niet voldaan. Als hij over een van alle “door wiens woord alles ontstond” zei, heeft hij voldaan.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:40a:g8",
+      "locator": "Berakhot 40a · Gemara · g8",
+      "layer": "gemara",
+      "original": "גמ' מאן תנא דעיקר אילן ארעא היא אמר רב נחמן בר יצחק ר' יהודה היא דתנן יבש המעין ונקצץ האילן מביא ואינו קורא ר' יהודה אומר מביא וקורא:",
+      "nl": "Gemara. Welke leraar meent dat de grond de oorsprong van de boom is? Rav Nachman bar Jitschak zei: rabbi Jehoeda. Wij leerden immers: als de bron uitdroogde of de boom werd omgehakt, brengt hij de eerstelingen maar reciteert hij niet. Rabbi Jehoeda zegt: hij brengt ze en reciteert.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 9,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het reciteren is de verklaring bij het brengen van eerstelingen, met de woorden over de grond die God heeft gegeven."
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "ref": "bavli:berakhot:40a:g9",
+      "locator": "Berakhot 40a · Gemara · g9",
+      "layer": "gemara",
+      "original": "על פירות הארץ וכו':",
+      "nl": "“Over aardvruchten”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 10,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g10",
+      "ref": "bavli:berakhot:40a:g10",
+      "locator": "Berakhot 40a · Gemara · g10",
+      "layer": "gemara",
+      "original": "פשיטא א\"ר נחמן בר יצחק לא נצרכה אלא לר' יהודה דאמר חטה מין אילן היא דתניא אילן שאכל ממנו אדם הראשון רבי מאיר אומר גפן היה שאין לך דבר שמביא יללה על האדם אלא יין שנאמר (בראשית ט, כא) וישת מן היין וישכר רבי נחמיה אומר תאנה היתה שבדבר שנתקלקלו בו נתקנו שנאמר (בראשית ג, ז) ויתפרו עלה תאנה ר\"י אומר חטה היתה שאין התינוק יודע לקרות אבא ואמא עד שיטעום טעם דגן. ס\"ד אמינא הואיל ואמר רבי יהודה חטה מין אילן היא ליברך עליה בורא פרי העץ קמשמע לן היכא מברכינן בורא פרי העץ היכא דכי שקלת ליה לפירי איתיה לגווזא והדר מפיק",
+      "nl": "Dat is toch vanzelfsprekend? Rav Nachman bar Jitschak zei: dit is alleen nodig volgens rabbi Jehoeda, die zegt dat tarwe een boomsoort is. Er is namelijk geleerd: welke boom was het waarvan de eerste mens at? Rabbi Meïr zegt: een wijnstok, want niets brengt zoveel gejammer over een mens als wijn, zoals er staat (Genesis 9:21): “Hij dronk van de wijn en werd dronken.” Rabbi Nechemja zegt: een vijgenboom, want waarmee zij in moeilijkheden kwamen, herstelden zij zich, zoals er staat (Genesis 3:7): “Zij naaiden vijgenbladeren aan elkaar.” Rabbi Jehoeda zegt: het was tarwe, want een kind kan pas vader en moeder zeggen nadat het graan heeft geproefd. Je zou denken: omdat rabbi Jehoeda tarwe een boomsoort noemt, zegt men er “die de vrucht van de boom schept” over. Daarom wordt geleerd: wanneer zegt men “die de vrucht van de boom schept”? Wanneer na het wegnemen van de vrucht de stam blijft bestaan en opnieuw vrucht voortbrengt",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "sourceParagraph": 11,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De tegenstelling met planten waarvan de stam niet blijft bestaan volgt op 40b."
+        }
+      ]
+    }
+  ]
+}

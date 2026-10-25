@@ -1,0 +1,132 @@
+{
+  "id": "26a",
+  "title": "26a · De tijden van de gebeden en het inhalen ervan",
+  "scope": "Volledige hoofdtekst van amud 26a in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 26a — ongevocaliseerde Wikisource-editie, revisie 2964868; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%95_%D7%90&oldid=2964868",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:26a:g1",
+      "locator": "Berakhot 26a · Gemara · 1",
+      "layer": "gemara",
+      "original": "אקמטרא ככלי בתוך כלי דמי. אמר רבי יהושע בן לוי ס\"ת צריך לעשות לו מחיצה עשרה מר זוטרא איקלע לבי רב אשי חזייה לדוכתיה דמר בר רב אשי דמנח ביה ספר תורה ועביד ליה מחיצה עשרה אמר ליה כמאן כרבי יהושע בן לוי אימר דאמר רבי יהושע בן לוי דלית ליה ביתא אחרינא מר הא אית ליה ביתא אחרינא אמר ליה לאו אדעתאי:",
+      "nl": "...over een kist geldt als een omhulsel binnen een omhulsel. Rabbi Jehosjoea ben Levi zei: voor een Torarol moet men een afscheiding van tien handbreedten maken. Mar Zoetra kwam in het huis van Rav Asji. Hij zag de plaats van Mar bar Rav Asji, waar een Torarol lag en waar hij een afscheiding van tien handbreedten voor had gemaakt. Hij zei tegen hem: “Volgens wie doe je dit? Volgens rabbi Jehosjoea ben Levi? Rabbi Jehosjoea ben Levi heeft het gezegd wanneer iemand geen andere kamer heeft; de meester heeft toch wel een andere kamer!” Hij antwoordde: “Dat was niet in mij opgekomen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:26a:g2",
+      "locator": "Berakhot 26a · Gemara · 2",
+      "layer": "gemara",
+      "original": "כמה ירחיק מהן ומן הצואה ארבע אמות:",
+      "nl": "“Hoe ver moet hij daarvan en van uitwerpselen wegblijven? Vier el.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:26a:g3",
+      "locator": "Berakhot 26a · Gemara · 3",
+      "layer": "gemara",
+      "original": "אמר רבא אמר רב סחורה אמר רב הונא לא שנו אלא לאחוריו אבל לפניו מרחיק מלא עיניו וכן לתפלה איני והא אמר רפרם בר פפא אמר רב חסדא עומד אדם כנגד בית הכסא ומתפלל הכא במאי עסקינן בבית הכסא שאין בו צואה איני והאמר רב יוסף בר חנינא בית הכסא שאמרו אע\"פ שאין בו צואה ובית המרחץ שאמרו אע\"פ שאין בו אדם אלא הכא במאי עסקינן בחדתי והא מיבעי ליה לרבינא הזמינו לבית הכסא מהו יש זימון או אין זימון כי קא מיבעי ליה לרבינא למיקם עליה לצלויי בגויה אבל כנגדו לא אמר רבא הני בתי כסאי דפרסאי אע\"ג דאית בהו צואה כסתומין דמו:",
+      "nl": "Rava zei uit naam van Rav Sechora, uit naam van Rav Hoena: dit is alleen geleerd voor wat achter hem ligt. Voor wat vóór hem ligt, gaat hij zo ver weg als zijn oog reikt. Hetzelfde geldt voor het gebed. Is dat zo? Rafram bar Pappa zei toch uit naam van Rav Chisda: een mens mag tegenover een privaat staan en bidden! Waarover gaat het hier? Over een privaat zonder uitwerpselen. Is dat zo? Rav Joseef bar Chanina zei toch: het privaat waarover zij spraken, is verboden ook als er geen uitwerpselen zijn; het badhuis waarover zij spraken, ook als er niemand is! Nee, het gaat hier over een nieuw privaat. Maar Ravina heeft toch juist gevraagd: als men een plaats als privaat heeft bestemd, hoe is het dan? Heeft bestemming betekenis of niet? Ravina’s vraag ging over erop staan om erin te bidden; niet over ertegenover staan. Rava zei: deze Perzische privaten gelden, ook wanneer er uitwerpselen in zijn, als afgesloten.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m4",
+      "ref": "bavli:berakhot:26a:m4",
+      "locator": "Berakhot 26a · Misjna · 4",
+      "layer": "mishnah",
+      "original": "מתני' זב שראה קרי ונדה שפלטה שכבת זרע והמשמשת שראתה נדה צריכין טבילה ורבי יהודה פוטר:",
+      "nl": "Misjna. Een zav die een zaadlozing zag, een menstruerende vrouw die zaad uitstootte en een vrouw die geslachtsgemeenschap had en daarna menstruatie zag, hebben onderdompeling nodig. Rabbi Jehoeda stelt hen vrij.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:26a:g5",
+      "locator": "Berakhot 26a · Gemara · 5",
+      "layer": "gemara",
+      "original": "גמ' איבעיא להו בעל קרי שראה זיבה לר' יהודה מהו כי פטר רבי יהודה התם בזב שראה קרי דמעיקרא לאו בר טבילה הוא אבל בעל קרי שראה זיבה דמעיקרא בר טבילה הוא מחייב או דילמא לא שנא תא שמע המשמשת וראתה נדה צריכה טבילה ורבי יהודה פוטר והא משמשת וראתה נדה כבעל קרי שראה זיבה דמיא וקא פטר רבי יהודה ש\"מ תני רבי חייא בהדיא בעל קרי שראה זיבה צריך טבילה ורבי יהודה פוטר:",
+      "nl": "Gemara. Men vroeg: hoe is volgens rabbi Jehoeda het geval van iemand die een zaadlozing had en daarna een vloeiing zag? Rabbi Jehoeda stelt daar een zav die een zaadlozing zag vrij, omdat hij van het begin af niet voor deze onderdompeling in aanmerking kwam. Maar iemand die eerst een zaadlozing had en daarna een vloeiing zag, kwam aanvankelijk wel voor onderdompeling in aanmerking; verplicht hij hem daarom? Of maakt het geen verschil? Kom en hoor: een vrouw die geslachtsgemeenschap had en daarna menstruatie zag, heeft onderdompeling nodig; rabbi Jehoeda stelt haar vrij. Een vrouw die geslachtsgemeenschap had en daarna menstruatie zag, lijkt toch op iemand die een zaadlozing had en daarna een vloeiing zag, en rabbi Jehoeda stelt haar vrij! Dat blijkt hieruit. Rabbi Chijja leerde het uitdrukkelijk: iemand die een zaadlozing had en daarna een vloeiing zag, heeft onderdompeling nodig; rabbi Jehoeda stelt hem vrij.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m6",
+      "ref": "bavli:berakhot:26a:m6",
+      "locator": "Berakhot 26a · Misjna · 6",
+      "layer": "mishnah",
+      "original": "מתניתין",
+      "nl": "Misjna.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m7",
+      "ref": "bavli:berakhot:26a:m7",
+      "locator": "Berakhot 26a · Misjna · 7",
+      "layer": "mishnah",
+      "original": "תפלת השחר עד חצות ר' יהודה אומר עד ד' שעות תפלת המנחה עד הערב רבי יהודה אומר עד פלג המנחה תפלת הערב אין לה קבע ושל מוספים כל היום (ר' יהודה אומר עד ז' שעות):",
+      "nl": "Het ochtendgebed kan tot de middag worden gebeden. Rabbi Jehoeda zegt: tot vier uur. Het middaggebed kan tot de avond worden gebeden. Rabbi Jehoeda zegt: tot het midden van de middagperiode. Het avondgebed heeft geen vaste grens. Het aanvullende gebed kan de hele dag worden gebeden. (Rabbi Jehoeda zegt: tot zeven uur.)",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Uren zijn hier daguren, gerekend vanaf het begin van de dag. Pelag ha-mincha, hier “het midden van de middagperiode”, wordt op 26b nader berekend; het is geen vast modern kloktijdstip."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:26a:g8",
+      "locator": "Berakhot 26a · Gemara · 8",
+      "layer": "gemara",
+      "original": "גמרא",
+      "nl": "Gemara.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g9",
+      "ref": "bavli:berakhot:26a:g9",
+      "locator": "Berakhot 26a · Gemara · 9",
+      "layer": "gemara",
+      "original": "ורמינהו מצותה עם הנץ החמה כדי שיסמוך גאולה לתפלה ונמצא מתפלל ביום כי תניא ההיא לותיקין דא\"ר יוחנן ותיקין היו גומרים אותה עם הנץ החמה וכ\"ע עד חצות ותו לא והאמר רב מרי בריה דרב הונא בריה דר' ירמיה בר אבא אמר רבי יוחנן טעה ולא התפלל ערבית מתפלל בשחרית שתים. שחרית מתפלל במנחה שתים. כולי יומא מצלי ואזיל עד חצות יהבי ליה שכר תפלה בזמנה מכאן ואילך שכר תפלה יהבי ליה שכר תפלה בזמנה לא יהבי ליה איבעיא להו טעה ולא התפלל מנחה מהו שיתפלל ערבית ב' את\"ל טעה ולא התפלל ערבית מתפלל שחרית ב' משום דחד יומא הוא דכתיב (בראשית א, ה) ויהי ערב ויהי בקר יום אחד אבל הכא תפלה במקום קרבן היא וכיון דעבר יומו בטל קרבנו או דילמא כיון דצלותא רחמי היא כל אימת דבעי מצלי ואזיל ת\"ש דאמר רב הונא בר יהודה א\"ר יצחק א\"ר יוחנן טעה ולא התפלל מנחה מתפלל ערבית ב' ואין בזה משום דעבר יומו בטל קרבנו. מיתיבי (קהלת א, טו) \"מעות לא יוכל לתקון וחסרון לא יוכל להמנות\"; \"מעות לא יוכל לתקון\" זה שבטל ק\"ש של ערבית וק\"ש של שחרית או תפלה של ערבית או תפלה של שחרית, \"וחסרון לא יוכל להמנות\" זה שנמנו חביריו לדבר מצוה ולא נמנה עמהם. א\"ר יצחק א\"ר יוחנן הכא במאי עסקינן שבטל במזיד. אמר רב אשי דיקא נמי דקתני בטל ולא קתני טעה ש\"מ:",
+      "nl": "Men stelde hiertegenover: het voorschrift is bij zonsopkomst te bidden, zodat hij de verlossingszegen direct met het gebed verbindt en overdag blijkt te bidden! Die overlevering is voor de nauwgezette mensen, want rabbi Jochanan zei: de nauwgezette mensen voltooiden het Sjema bij zonsopkomst. Volgens allen dus tot de middag, en daarna niet meer? Rav Mari, de zoon van Rav Hoena, de zoon van rabbi Jirmeja bar Abba, zei toch uit naam van rabbi Jochanan: wie zich vergist en het avondgebed niet heeft gebeden, bidt ’s ochtends tweemaal; heeft hij het ochtendgebed niet gebeden, dan bidt hij het middaggebed tweemaal. Hij kan inderdaad de hele dag blijven bidden. Tot de middag geeft men hem het loon voor een gebed op zijn tijd; daarna geeft men hem wel het loon voor een gebed, maar niet het loon voor een gebed op zijn tijd. Men vroeg: wie zich vergist en het middaggebed niet heeft gebeden, mag die het avondgebed tweemaal bidden? Als je zegt dat wie het avondgebed vergat, ’s ochtends tweemaal bidt, kan dat zijn omdat het één dag is, want er staat: “Het was avond en het was ochtend: één dag” (Genesis 1:5). Hier vervangt het gebed echter een offer, en zodra de dag voorbij is, vervalt het offer. Of geldt: omdat het gebed een smeekbede om ontferming is, mag hij blijven bidden wanneer hij wil? Kom en hoor: Rav Hoena bar Jehoeda zei uit naam van rabbi Jitschak, uit naam van rabbi Jochanan: wie zich vergist en het middaggebed niet heeft gebeden, bidt het avondgebed tweemaal. Daarbij geldt niet dat, wanneer de dag voorbij is, het offer vervalt. Men wierp tegen: “Wat krom is kan niet worden rechtgemaakt, en wat ontbreekt kan niet worden meegeteld” (Prediker 1:15). “Wat krom is kan niet worden rechtgemaakt”: dat is iemand die het avond-Sjema of ochtend-Sjema, of het avondgebed of ochtendgebed, heeft nagelaten. “Wat ontbreekt kan niet worden meegeteld”: dat is iemand wiens metgezellen zich voor een gebod hebben laten meetellen, terwijl hij zich niet bij hen liet meetellen. Rabbi Jitschak zei uit naam van rabbi Jochanan: waarover gaat het hier? Over iemand die het opzettelijk heeft nagelaten. Rav Asji zei: zo blijkt het ook uit de formulering: er staat “nagelaten” en niet “zich vergist”. Dat blijkt hieruit.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "sourceParagraph": 9,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

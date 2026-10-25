@@ -1,0 +1,93 @@
+{
+  "id": "44a",
+  "title": "44a · Hoofdzaak, bijzaak en de samenvattende dankzegging",
+  "scope": "Volledige hoofdtekst van amud 44a in de gekozen editie; Misjna en Gemara. De bespreking gaat verder op 44b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%93_%D7%90&oldid=2863967",
+  "passages": [
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:44a:m1",
+      "locator": "Berakhot 44a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' הביאו לפניו מליח תחלה ופת עמו מברך על המליח ופוטר את הפת שהפת טפלה לו זה הכלל כל שהוא עיקר ועמו טפלה מברך על העיקר ופוטר את הטפלה:",
+      "nl": "Misjna. Brengt men iemand eerst iets gezouts en brood erbij, dan zegent hij over het gezoutene en stelt het brood vrij, omdat het brood daarbij bijkomstig is. Dit is de regel: bij iedere hoofdzaak met iets bijkomstigs zegent men over de hoofdzaak en stelt het bijkomstige vrij.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-44a-r2863967",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:44a:g1",
+      "locator": "Berakhot 44a · Gemara · g1",
+      "layer": "gemara",
+      "original": "גמ' ומי איכא מידי דהוי מליח עיקר ופת טפלה אמר רב אחא בריה דרב עוירא אמר רב אשי באוכלי פירות גנוסר שנו אמר רבה בר בר חנה כי הוה אזלינן בתריה דרבי יוחנן למיכל פירות גנוסר כי הוינן בי מאה מנקטינן ליה לכל חד וחד עשרה עשרה וכי הוינן בי עשרה מנקטינן ליה כל חד וחד מאה מאה וכל מאה מינייהו הוה מחזיק להו צנא בר תלתא סאוי ואכיל להו ומשתבע דלא טעים זיונא זיונא ס\"ד אלא אימא מזונא רבי אבהו אכיל עד דהוה שריק ליה דודבא מאפותיה ורב אמי ורב אסי הוו אכלי עד דנתור מזייהו רשב\"ל הוה אכיל עד דמריד ואמר להו רבי יוחנן לדבי נשיאה והוה משדר ליה רבי יהודה נשיאה באלושי אבתריה ומייתי ליה לביתיה כי אתא רב דימי אמר עיר אחת היתה לו לינאי המלך בהר המלך שהיו מוציאים ממנה ששים רבוא ספלי טרית לקוצצי תאנים מע\"ש לע\"ש כי אתא רבין אמר אילן אחד היה לו לינאי המלך בהר המלך שהיו מורידים ממנו ארבעים סאה גוזלות משלש בריכות בחדש כי אתא ר' יצחק אמר עיר אחת היתה בארץ ישראל וגופנית שמה שהיו בה שמנים זוגות אחים כהנים נשואים לשמנים זוגות אחיות כהנות ובדקו רבנן מסורא ועד נהרדעא ולא אשכחו בר מבנתיה דרב חסדא דהוו נסיבן לרמי בר חמא ולמר עוקבא בר חמא ואע\"ג דאינהי הוו כהנתא אינהו לא הוו כהני אמר רב כל סעודה שאין בה מלח אינה סעודה אמר רבי חייא בר אבא א\"ר יוחנן כל סעודה שאין בה שריף אינה סעודה:",
+      "nl": "Gemara. Bestaat er iets waarbij het gezoutene de hoofdzaak is en brood bijkomstig? Rav Acha, de zoon van rav Avira, zei namens rav Asji: dit is geleerd over mensen die de vruchten van Ginnosar eten. Rabba bar bar Chana zei: wanneer wij achter rabbi Jochanan aan gingen om vruchten van Ginnosar te eten, plukten wij, als wij met honderd waren, ieder tien voor hem; waren wij met tien, dan ieder honderd. Van die vruchten pasten er honderd in een mand van drie sea. Hij at ze en zwoer dat hij geen zijoena had geproefd. Bedoel je zijoena? Zeg liever mezona. Rabbi Abbahoe at totdat een vlieg van zijn voorhoofd gleed. Rav Ammi en rav Assi aten totdat hun haar uitviel. Resj Lakisj at totdat hij buiten zichzelf raakte. Rabbi Jochanan meldde dit aan het huis van de nasi, waarna rabbi Jehoeda de nasi mensen achter hem aan stuurde en hem naar huis liet brengen. Toen rav Dimi kwam, zei hij: koning Jannai had een stad in het Koningsgebergte waaruit men iedere week, van de ene sjabbatvooravond tot de volgende, zeshonderdduizend kommen gezouten vis haalde voor de vijgenplukkers. Toen Ravin kwam, zei hij: koning Jannai had een boom in het Koningsgebergte waaruit men iedere maand veertig sea jonge duiven haalde, uit drie broedsels. Toen rabbi Jitschak kwam, zei hij: er was een stad in het land Israël, Gofnit genaamd, met tachtig paren priesterbroers die met tachtig paren priesterdochters waren getrouwd. De rabbijnen zochten van Soera tot Nehardea en vonden niets vergelijkbaars, behalve de dochters van rav Chisda, die met Rami bar Chama en Mar Oekva bar Chama getrouwd waren. Hoewel zij priesterdochters waren, waren hun mannen geen priesters. Rav zei: iedere maaltijd zonder zout is geen maaltijd. Rabbi Chijja bar Abba zei namens rabbi Jochanan: iedere maaltijd zonder soep is geen maaltijd.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-44a-r2863967",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Ginnosar is een vruchtbare streek bij het Meer van Galilea. Sea is een inhoudsmaat. Nasi is hier de titel van het hoofd van de Joodse gemeenschap."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De tekst corrigeert zijoena tot mezona; de woorden blijven getranslitereerd om de correctie zichtbaar te houden. Mezona duidt hier voedzaam basisvoedsel aan, tegenover de gegeten vruchten."
+        },
+        {
+          "type": "onzeker",
+          "text": "באלושי is hier als gestuurde mensen weergegeven; de precieze functienaam is onzeker. De uitzonderlijke hoeveelheden en lichamelijke gevolgen worden als overgeleverde vertelling behouden."
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "ref": "bavli:berakhot:44a:m2",
+      "locator": "Berakhot 44a · Misjna · m2",
+      "layer": "mishnah",
+      "original": "מתני' אכל ענבים ותאנים ורמונים מברך אחריהם שלש ברכות דברי רבן גמליאל וחכ\"א ברכה אחת (מעין שלש) ר\"ע אומר אפי' אכל שלק והוא מזונו מברך עליו ג' ברכות השותה מים לצמאו מברך שהכל נהיה בדברו ר' טרפון אומר בורא נפשות רבות וחסרונן:",
+      "nl": "Misjna. Wie druiven, vijgen en granaatappels at, zegt daarna drie zegeningen; dit zijn de woorden van Rabban Gamaliël. De wijzen zeggen: één zegening (die de drie samenvat). Rabbi Akiva zegt: zelfs als hij gekookte groenten at en die zijn maaltijd vormden, zegt hij er drie zegeningen over. Wie water drinkt vanwege zijn dorst, zegt “door wiens woord alles ontstond”. Rabbi Tarfon zegt: “die vele levende wezens schept en wat hun ontbreekt”.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-44a-r2863967",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De haakjes bij “die de drie samenvat” volgen de grondtekst."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:44a:g2",
+      "locator": "Berakhot 44a · Gemara · g2",
+      "layer": "gemara",
+      "original": "גמ' מ\"ט דר\"ג דכתיב (דברים ח, ח) ארץ חטה ושעורה וגו' וכתיב ארץ אשר לא במסכנות תאכל בה לחם וגו' וכתיב (דברים ח, י) ואכלת ושבעת וברכת את ה' אלהיך ורבנן ארץ הפסיק הענין ור\"ג נמי ארץ הפסיק הענין ההוא מבעי ליה . למעוטי הכוסס את החטה א\"ר יעקב בר אידי א\"ר חנינא כל שהוא מחמשת המינין בתחלה מברך עליו במ\"מ ולבסוף ברכה אחת מעין שלש אמר רבה בר מרי אריב\"ל כל שהוא משבעת המינין בתחלה מברך בורא פרי העץ ולבסוף ברכה אחת מעין שלש א\"ל אביי לרב דימי מאי ניהו ברכה אחת מעין שלש א\"ל אפירי דעץ על העץ ועל פרי העץ ועל תנובת השדה ועל ארץ חמדה טובה ורחבה שהנחלת לאבותינו לאכול מפריה ולשבוע מטובה רחם ה' אלהינו על ישראל עמך ועל ירושלים עירך ועל מקדשך ועל מזבחך ותבנה ירושלים עיר קדשך במהרה בימינו והעלנו לתוכה ושמחנו בה כי אתה טוב ומטיב לכל דחמשת המינין על המחיה ועל הכלכלה ועל תנובת השדה כו' וחותם על הארץ ועל המחיה מיחתם במאי חתים כי אתא רב דימי אמר רב חתים בר\"ח ברוך מקדש ישראל וראשי חדשים הכא מאי רב חסדא אמר על הארץ ועל פירותיה ור' יוחנן אמר על הארץ ועל הפירות א\"ר עמרם ולא פליגי הא לן והא להו מתקיף לה ר\"נ בר יצחק אינהו אכלי ואנן מברכין אלא איפוך רב חסדא אמר על הארץ ועל הפירות ר' יוחנן אמר על הארץ ועל פירותיה",
+      "nl": "Gemara. Wat is de reden van Rabban Gamaliël? Er staat (Deuteronomium 8:8): “Een land van tarwe en gerst”, enzovoort; er staat: “Een land waarin je niet in armoede brood zult eten”, enzovoort; en er staat (Deuteronomium 8:10): “Je zult eten en verzadigd worden en de HEER, je God, zegenen.” En de rabbijnen? Het woord “land” onderbreekt het verband. Ook voor Rabban Gamaliël onderbreekt “land” toch het verband? Hij heeft het nodig om iemand uit te sluiten die tarwekorrels kauwt. Rabbi Jaäkov bar Idi zei namens rabbi Chanina: over wat tot de vijf graansoorten behoort, zegt men vooraf “die soorten voedsel schept” en achteraf één zegening die de drie samenvat. Rabba bar Mari zei namens rabbi Jehosjoea ben Levi: over wat tot de zeven soorten behoort, zegt men vooraf “die de vrucht van de boom schept” en achteraf één zegening die de drie samenvat. Abaje vroeg rav Dimi: wat is die ene zegening die de drie samenvat? Hij antwoordde: voor boomvruchten: “Voor de boom en voor de vrucht van de boom, voor de opbrengst van het veld en voor het begeerlijke, goede en ruime land dat U onze voorouders als erfdeel gaf, om van zijn vrucht te eten en van zijn goedheid verzadigd te worden. Ontferm U, HEER, onze God, over Israël, uw volk, over Jeruzalem, uw stad, over uw heiligdom en uw altaar. Herbouw Jeruzalem, uw heilige stad, spoedig in onze dagen, breng ons erheen en verheug ons daarin, want U bent goed en doet allen goed.” Voor de vijf graansoorten: “Voor het levensonderhoud, voor de voeding en voor de opbrengst van het veld”, enzovoort. Hij sluit af met: “Voor het land en voor het levensonderhoud.” Waarmee sluit men bij vruchten af? Toen rav Dimi kwam, zei hij: Rav sloot op nieuwemaansdag af met: “Gezegend, die Israël en de nieuwemaansdagen heiligt.” Maar hier, waarmee sluit men af? Rav Chisda zei: “Voor het land en voor zijn vruchten.” Rabbi Jochanan zei: “Voor het land en voor de vruchten.” Rav Amram zei: zij verschillen niet; het ene geldt voor ons, het andere voor hen. Rav Nachman bar Jitschak wierp tegen: zij eten en wij zegenen? Draai het dus om: rav Chisda zei “voor het land en voor de vruchten”; rabbi Jochanan zei “voor het land en voor zijn vruchten”.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-44a-r2863967",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De vijf graansoorten staan tegenover de zeven soorten waarmee het land wordt geprezen. De aangehaalde boomvruchtzegen betreft de vruchten uit die groep. “Ons” en “hen” onderscheiden Babylonië en het land Israël."
+        },
+        {
+          "type": "toelichting",
+          "text": "Het tweede “land” in Deuteronomium onderbreekt volgens de rabbijnen het verband tussen de vruchten en het volledige dankgebed na brood. De uiteindelijke formulering “zijn vruchten” wordt aan het land Israël verbonden."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De tussenzin over de afsluiting op nieuwemaansdag staat in de gekozen bron en is integraal behouden."
+        }
+      ]
+    }
+  ]
+}

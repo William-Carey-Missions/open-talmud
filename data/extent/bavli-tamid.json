@@ -1,0 +1,484 @@
+{
+  "corpus": "bavli",
+  "tractate": "tamid",
+  "title": "Tamid",
+  "gemara": "gedeeltelijk-overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%AA%D7%9E%D7%99%D7%93",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&oldid=979281",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%99%D7%93&action=history",
+  "retrievedAt": "2026-10-25T16:50:03.324132+00:00",
+  "htmlSha256": "3d7dac125061aeb45e1eabed7e47ae988ee2dda6f0081ddda56e5960d668cbf6",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279238#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&oldid=979281",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&id=979281&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25AA%25D7%259E%25D7%2599%25D7%2593"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279238",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9E%D7%A2%D7%99%D7%9C%D7%94",
+      "title": "בבלי מסכת מעילה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "מסכת תמיד"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "בבלי מסכת נידה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "משנה מסכת תמיד",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "תוספתא/תמיד",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%9E%D7%99%D7%93&action=edit&redlink=1",
+      "title": "ירושלמי מסכת תמיד (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&action=edit&redlink=1",
+      "title": "ביאור:בבלי תמיד (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_-_%D7%9E%D7%A2%D7%95%D7%9E%D7%93&action=edit&redlink=1",
+      "title": "ביאור:בבלי תמיד - מעומד (הדף אינו קיים)",
+      "class": "new"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "w:מסכת תמיד",
+      "class": "extiw"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%90",
+      "title": "בבלי תמיד א",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%91",
+      "title": "בבלי תמיד ב",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%92",
+      "title": "בבלי תמיד ג",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%93",
+      "title": "בבלי תמיד ד",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%94",
+      "title": "בבלי תמיד ה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%95",
+      "title": "בבלי תמיד ו",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%96",
+      "title": "בבלי תמיד ז",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי תמיד פרק א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%94_%D7%91",
+      "title": "תמיד כה ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%95_%D7%90",
+      "title": "תמיד כו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%95_%D7%91",
+      "title": "תמיד כו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%96_%D7%90",
+      "title": "תמיד כז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%96_%D7%91",
+      "title": "תמיד כז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%97_%D7%90",
+      "title": "תמיד כח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%97_%D7%91",
+      "title": "תמיד כח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי תמיד פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%97_%D7%91",
+      "title": "תמיד כח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%98_%D7%90",
+      "title": "תמיד כט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9B%D7%98_%D7%91",
+      "title": "תמיד כט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C_%D7%90",
+      "title": "תמיד ל א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי תמיד פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C_%D7%90",
+      "title": "תמיד ל א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C_%D7%91",
+      "title": "תמיד ל ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי תמיד פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C_%D7%91",
+      "title": "תמיד ל ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%90_%D7%90",
+      "title": "תמיד לא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%90_%D7%91",
+      "title": "תמיד לא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%91_%D7%90",
+      "title": "תמיד לב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%91_%D7%91",
+      "title": "תמיד לב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי תמיד פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%91_%D7%91",
+      "title": "תמיד לב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%92_%D7%90",
+      "title": "תמיד לג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי תמיד פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%92_%D7%90",
+      "title": "תמיד לג א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי תמיד פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%99%D7%93_%D7%9C%D7%92_%D7%91",
+      "title": "תמיד לג ב"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_תמיד&oldid=979281"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%9E%D7%99%D7%93",
+      "title": "קטגוריה:מסכת תמיד"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%99%D7%93&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

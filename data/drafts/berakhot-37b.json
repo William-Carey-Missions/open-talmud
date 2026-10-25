@@ -1,0 +1,58 @@
+{
+  "id": "37b",
+  "title": "37b · Broodkruimels en bijzondere baksels",
+  "scope": "Volledige hoofdtekst van amud 37b in de gekozen editie; Gemara. De laatste zin loopt door op 38a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%96_%D7%91&oldid=2851495",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:37b:g1",
+      "locator": "Berakhot 37b · Gemara · g1",
+      "layer": "gemara",
+      "original": "ולא מין דגן הוא או מין דגן ולא עשאו פת ר\"ג אומר שלש ברכות וחכ\"א ברכה אחת כל שאינו לא משבעת המינין ולא מין דגן כגון פת אורז ודוחן ר\"ג אומר ברכה אחת מעין שלש וחכ\"א ולא כלום במאי אוקימתא כר\"ג אימא סיפא דרישא אם אין הפרוסות קיימות בתחלה מברך עליה בורא מיני מזונות ולבסוף מברך עליה ברכה אחת מעין שלש מני אי ר\"ג השתא אכותבות ואדייסא אמר ר\"ג ג' ברכות אם אין הפרוסות קיימות מיבעיא אלא פשיטא רבנן אי הכי קשיא דרבנן אדרבנן אלא לעולם רבנן ותני גבי אורז ולבסוף אינו מברך עליו ולא כלום:",
+      "nl": "maar geen graan is, of graan is waarvan men geen brood maakte: Rabban Gamaliël zegt drie zegeningen; de wijzen zeggen één zegening. Bij wat noch tot de zeven soorten noch tot het graan behoort, zoals rijstbrood en gierstbrood, zegt Rabban Gamaliël: één zegening die de drie samenvat; de wijzen zeggen: helemaal niets. Volgens wie heb je de eerdere overlevering uitgelegd? Volgens Rabban Gamaliël. Lees dan het laatste deel van het eerste gedeelte: als de stukken niet herkenbaar blijven, zegt men vooraf “die soorten voedsel schept” en achteraf één zegening die de drie samenvat. Van wie is dit? Als het Rabban Gamaliël is: hij schrijft zelfs voor dadels en pap drie zegeningen voor; dan zeker wanneer de broodstukken niet herkenbaar blijven! Het volgt dus duidelijk de rabbijnen. Maar dan spreken de rabbijnen zichzelf tegen! Het volgt inderdaad de rabbijnen; lees bij rijst: achteraf zegt men er helemaal geen zegening over.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-37b-r2851495",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de uitspraak van rabbi Jehoeda op 37a."
+        },
+        {
+          "type": "toelichting",
+          "text": "“Helemaal niets” staat hier in een discussie over de specifieke samenvattende nazegening; de algemene nazegening werd eerder afzonderlijk genoemd."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:37b:g2",
+      "locator": "Berakhot 37b · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר רבא האי ריהטא דחקלאי דמפשי ביה קמחא מברך במ\"מ מ\"ט דסמידא עיקר דמחוזא דלא מפשי ביה קמחא מברך עליו שהכל נהיה בדברו מ\"ט דובשא עיקר והדר אמר רבא אידי ואידי במ\"מ דרב ושמואל דאמרי תרוייהו כל שיש בו מחמשת המינים מברכין עליו בורא מיני מזונות א\"ר יוסף האי חביצא דאית ביה פרורין כזית בתחלה מברך עליו המוציא לחם מן הארץ ולבסוף מברך עליו שלש ברכות דלית ביה פרורין כזית בתחלה מברך עליו בורא מיני מזונות ולבסוף ברכה אחת מעין שלש אמר רב יוסף מנא אמינא לה דתניא היה עומד ומקריב מנחות בירושלים אומר ברוך שהחיינו וקימנו והגיענו לזמן הזה נטלן לאכלן מברך המוציא לחם מן הארץ ותני עלה וכולן פותתן כזית א\"ל אביי אלא מעתה לתנא דבי ר\"י דאמר פורכן עד שמחזירן לסלתן ה\"נ דלא בעי ברוכי המוציא לחם מן הארץ וכי תימא ה\"נ והתניא לקט מכולן כזית ואכלן אם חמץ הוא ענוש כרת ואם מצה הוא אדם יוצא בו ידי חובתו בפסח הכא במאי עסקינן בשערסן אי הכי אימא סיפא והוא שאכלן בכדי אכילת פרס ואי בשערסן האי שאכלן שאכלו מיבעי ליה הכא במאי עסקינן בבא מלחם גדול מאי הוה עלה אמר רב ששת האי חביצא אף על גב דלית ביה פרורין כזית מברך עליו המוציא לחם מן הארץ אמר רבא והוא דאיכא עליה תוריתא דנהמא טרוקנין חייבין בחלה וכי אתא רבין א\"ר יוחנן טרוקנין פטורין מן החלה מאי טרוקנין אמר אביי כובא דארעא ואמר אביי טריתא פטורה מן החלה מאי טריתא איכא דאמרי גביל מרתח ואיכא דאמרי נהמא דהנדקא ואיכא דאמרי לחם העשוי לכותח תני רבי חייא לחם העשוי לכותח פטור מן החלה והא תניא חייב בחלה התם כדקתני טעמא ר' יהודה אומר מעשיה מוכיחין עליה עשאן",
+      "nl": "Rava zei: over de zoete pap van de boeren, waarin zij veel meel doen, zegt men “die soorten voedsel schept”. Waarom? Omdat het fijne meel de hoofdzaak is. Over die van Mechoza, waarin zij weinig meel doen, zegt men “door wiens woord alles ontstond”. Waarom? Omdat de honing de hoofdzaak is. Later zei Rava: over beide zegt men “die soorten voedsel schept”, want Rav en Sjemoeël zeiden beiden: over alles waarin iets van de vijf graansoorten zit, zegt men “die soorten voedsel schept”. Rav Josef zei: over dit gerecht van verkruimeld brood, met kruimels ter grootte van een olijf, zegt men vooraf “die brood uit de aarde voortbrengt” en achteraf drie zegeningen. Heeft het geen kruimels ter grootte van een olijf, dan zegt men vooraf “die soorten voedsel schept” en achteraf één zegening die de drie samenvat. Rav Josef zei: waarop baseer ik dat? Er is geleerd: wie in Jeruzalem graanoffers staat te brengen, zegt: “Gezegend, die ons in leven hield, ons liet voortbestaan en ons deze tijd liet bereiken.” Neemt hij ervan om te eten, dan zegt hij “die brood uit de aarde voortbrengt”. Daarbij is geleerd: alle worden in stukken ter grootte van een olijf gebroken. Abaje zei tegen hem: volgens de leraar uit het leerhuis van rabbi Jisjmaël, die zegt dat men ze verbrokkelt totdat zij weer fijn meel worden, zou men dan geen “die brood uit de aarde voortbrengt” hoeven zeggen? En als je zegt: inderdaad — er is toch geleerd: als hij van al die stukken samen een olijfgrootte verzamelde en at, is hij bij gerezen brood strafbaar met uitroeiing, en vervult hij bij matsa daarmee zijn verplichting op Pesach. Waarover gaat het hier? Wanneer hij de kruimels samenkneedde. Maar lees dan het slot: mits hij ze at binnen de tijd om een halve broodportie te eten. Als hij ze samenkneedde, had er niet “ze at” maar “het at” moeten staan! Het gaat hier om stukken afkomstig van een groot brood. Wat is nu de uitkomst? Rav Sjesjet zei: over dit gerecht van broodkruimels zegt men “die brood uit de aarde voortbrengt”, ook als er geen kruimels ter grootte van een olijf in zitten. Rava zei: mits het er als brood uitziet. Troekenien vallen onder de verplichting van challa. Toen Ravin kwam, zei hij namens rabbi Jochanan: troekenien zijn vrijgesteld van challa. Wat zijn troekenien? Abaje zei: beslag gebakken in een kuiltje in de grond. Abaje zei verder: trita is vrijgesteld van challa. Wat is trita? Volgens sommigen beslag dat op een hete ondergrond wordt gegoten; volgens anderen Indiaas brood; volgens weer anderen brood dat voor koetach is gemaakt. Rabbi Chijja leerde: brood dat voor koetach is gemaakt, is vrijgesteld van challa. Er is toch geleerd dat het onder challa valt? Daar wordt de reden gegeven, zoals is geleerd: rabbi Jehoeda zegt: de manier waarop het gemaakt is, bewijst waarvoor het bestemd is. Maakte hij het",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-37b-r2851495",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Challa is het af te zonderen deegdeel. Koetach is een saus van onder meer melkbestanddelen en brood. Een olijfgrootte is een halachische maat; de tijd van een halve broodportie bepaalt wanneer afzonderlijke happen bij elkaar tellen."
+        },
+        {
+          "type": "onzeker",
+          "text": "De voedselnamen troekenien en trita en de omschrijving נהמא דהנדקא hebben geen volledig zekere moderne culinaire equivalenten."
+        },
+        {
+          "type": "vervolg",
+          "text": "De vormen van het voor koetach bestemde brood volgen op 38a."
+        }
+      ]
+    }
+  ]
+}

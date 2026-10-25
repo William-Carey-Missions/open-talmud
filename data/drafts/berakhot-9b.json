@@ -1,0 +1,129 @@
+{
+  "id": "9b",
+  "title": "9b · Het Sjema bij zonsopgang",
+  "scope": "Volledige hoofdtekst van amud 9b in de gekozen editie; Misjna en Gemara. De laatste uitspraak loopt door op 10a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98_%D7%91&oldid=2851551",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:9b:g1",
+      "locator": "Berakhot 9b · Gemara · g1",
+      "layer": "gemara",
+      "original": "אותו צדיק (בראשית טו, יג) ועבדום וענו אותם קיים בהם ואחרי כן יצאו ברכוש גדול לא קיים בהם אמרו לו ולואי שנצא בעצמנו משל לאדם שהיה חבוש בבית האסורים והיו אומרים לו בני אדם מוציאין אותך למחר מבית האסורין ונותנין לך ממון הרבה ואומר להם בבקשה מכם הוציאוני היום ואיני מבקש כלום:",
+      "nl": "die rechtvaardige: ‘“Zij zullen hen dienen en zij zullen hen onderdrukken” (Genesis 15:13) heeft Hij aan hen vervuld, maar “daarna zullen zij met grote rijkdom wegtrekken” heeft Hij niet aan hen vervuld.’” Zij zeiden tegen hem: “Als wij er zelf maar uitkomen!” Het is te vergelijken met iemand die gevangen zat. Mensen zeiden tegen hem: “Morgen halen ze je uit de gevangenis en geven ze je veel geld.” Hij antwoordde: “Ik verzoek jullie: haal mij er vandaag uit; verder vraag ik niets.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De eerste woorden voltooien Gods verzoek op 9a. “Die rechtvaardige” is Avraham, aan wie de uittocht met rijkdom beloofd was."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:9b:g2",
+      "locator": "Berakhot 9b · Gemara · g2",
+      "layer": "gemara",
+      "original": "(שמות יב, לו) וישאלום א\"ר אמי מלמד שהשאילום בעל כרחם איכא דאמרי בעל כרחם דמצרים וא\"ד בעל כרחם דישראל מ\"ד בעל כרחם דמצרים דכתיב (תהלים סח, יג) ונות בית תחלק שלל מ\"ד בעל כרחם דישראל משום משוי:",
+      "nl": "(Exodus 12:36): “Zij lieten hun nemen.” Rabbi Ammi zei: dit leert dat zij hun tegen hun wil gaven. Volgens sommigen tegen de wil van de Egyptenaren; volgens anderen tegen de wil van Israël. Wie zegt “tegen de wil van de Egyptenaren”, beroept zich op (Psalmen 68:13): “De bewoonster van het huis verdeelt buit.” Wie zegt “tegen de wil van Israël”, verklaart dit door de last die het dragen ervan meebracht.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "וישאלום gebruikt de stam vragen of lenen. De vertaling volgt de uitleg dat de Egyptenaren de gevraagde voorwerpen meegaven."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:9b:g3",
+      "locator": "Berakhot 9b · Gemara · g3",
+      "layer": "gemara",
+      "original": "(שמות יב, לו) וינצלו את מצרים א\"ר אמי מלמד שעשאוה כמצודה שאין בה דגן ור\"ל אמר עשאוה כמצולה שאין בה דגים:",
+      "nl": "(Exodus 12:36): “Zij maakten Egypte leeg.” Rabbi Ammi zei: dit leert dat zij het maakten als een vogelnet zonder graan. Resj Lakisj zei: zij maakten het als een waterdiepte zonder vissen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:9b:g4",
+      "locator": "Berakhot 9b · Gemara · g4",
+      "layer": "gemara",
+      "original": "(שמות ג, יד) אהיה אשר אהיה א\"ל הקב\"ה למשה לך אמור להם לישראל אני הייתי עמכם בשעבוד זה ואני אהיה עמכם בשעבוד מלכיות אמר לפניו רבש\"ע דיה לצרה בשעתה א\"ל הקב\"ה לך אמור להם (שמות ג, יד) אהיה שלחני אליכם:",
+      "nl": "(Exodus 3:14): “Ik zal zijn die Ik zal zijn.” De Heilige, gezegend zij Hij, zei tegen Mozes: “Ga en zeg tegen Israël: Ik was met jullie in deze onderdrukking en Ik zal met jullie zijn in de onderdrukking door de koninkrijken.” Hij zei voor Hem: “Heer van de wereld, het is genoeg de nood te noemen wanneer die er is.” De Heilige, gezegend zij Hij, zei tegen hem: “Ga en zeg tegen hen (Exodus 3:14): ‘Ik zal zijn heeft mij naar jullie gezonden.’”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:9b:g5",
+      "locator": "Berakhot 9b · Gemara · g5",
+      "layer": "gemara",
+      "original": "(מלכים א יח, לז) ענני ה' ענני א\"ר אבהו למה אמר אליהו ענני ב' פעמים מלמד שאמר אליהו לפני הקב\"ה רבש\"ע ענני שתרד אש מן השמים ותאכל כל אשר על המזבח וענני שתסיח דעתם כדי שלא יאמרו מעשה כשפים הם שנאמר (מלכים א יח, לז) ואתה הסבות את לבם אחורנית:",
+      "nl": "(1 Koningen 18:37): “Antwoord mij, HEER, antwoord mij.” Rabbi Abbahoe zei: waarom zei Elia tweemaal “antwoord mij”? Dit leert dat Elia voor de Heilige, gezegend zij Hij, zei: “Heer van de wereld, antwoord mij: laat vuur uit de hemel neerdalen en alles op het altaar verteren. En antwoord mij: wend hun gedachten af, zodat zij niet zeggen dat het toverij is.” Er staat immers (1 Koningen 18:37): “U hebt hun hart achterwaarts doen keren.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:9b:m1",
+      "locator": "Berakhot 9b · Misjna 1:2 · m1",
+      "layer": "mishnah",
+      "original": "מתני' מאימתי קורין את שמע בשחרית משיכיר בין תכלת ללבן ר' אליעזר אומר בין תכלת לכרתי (וגומרה) עד הנץ החמה ר' יהושע אומר עד שלש שעות שכן דרך מלכים לעמוד בשלש שעות הקורא מכאן ואילך לא הפסיד כאדם הקורא בתורה:",
+      "nl": "Misjna. Vanaf wanneer reciteert men ’s ochtends het Sjema? Vanaf het moment waarop men hemelsblauw van wit kan onderscheiden. Rabbi Eliëzer zegt: hemelsblauw van preigroen. (Men voltooit het) uiterlijk bij zonsopgang. Rabbi Jehosjoea zegt: tot drie uur, omdat koningen gewoonlijk om drie uur opstaan. Wie vanaf dat moment reciteert, heeft niets verloren: hij is als iemand die in de Tora leest.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Hemelsblauw vertaalt tekhelet, de blauwe kleurstof voor onder meer de tsietsietdraden. De uren zijn relatieve daguren."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De ronde haakjes bij “men voltooit het” volgen de grondtekst."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:9b:g6",
+      "locator": "Berakhot 9b · Gemara · g6",
+      "layer": "gemara",
+      "original": "גמ' מאי \"בין תכלת ללבן\"? אילימא בין גבבא דעמרא חיורא לגבבא דעמרא דתכלתא הא בליליא נמי מידע ידעי אלא בין תכלת שבה ללבן שבה. תניא רבי מאיר אומר משיכיר בין זאב לכלב ר\"ע אומר בין חמור לערוד ואחרים אומרים משיראה את חברו רחוק ד' אמות ויכירנו אמר רב הונא הלכה כאחרים אמר אביי לתפילין כאחרים לק\"ש כותיקין דאמר ר' יוחנן ותיקין היו גומרין אותה עם הנץ החמה תניא נמי הכי ותיקין היו גומרין אותה עם הנץ החמה כדי שיסמוך גאולה לתפלה ונמצא מתפלל ביום א\"ר זירא מאי קראה (תהלים עב, ה) ייראוך עם שמש ולפני ירח דור דורים העיד ר\"י בן אליקים משום קהלא קדישא דבירושלים כל הסומך גאולה לתפלה אינו נזוק כל היום כולו א\"ר זירא איני והא אנא סמכי ואיתזקי א\"ל במאי איתזקת דאמטיית אסא לבי מלכא התם נמי מבעי לך למיהב אגרא למחזי אפי מלכא דא\"ר יוחנן לעולם ישתדל אדם לרוץ לקראת מלכי ישראל ולא לקראת מלכי ישראל בלבד אלא אפילו לקראת מלכי עכו\"ם שאם יזכה יבחין בין מלכי ישראל למלכי עכו\"ם. אמר ליה רבי אלעא לעולא כי עיילת להתם שאיל בשלמא דרב ברונא אחי במעמד כל החבורה דאדם גדול הוא ושמח במצות זימנא חדא סמך גאולה לתפלה ולא פסיק חוכא מפומיה כוליה יומא. היכי מצי סמיך והא א\"ר יוחנן בתחלה הוא אומר ה' שפתי תפתח ולבסוף הוא אומר יהיו לרצון אמרי פי וגו' אמר ר' אלעזר תהא בתפלה של ערבית והא אמר ר' יוחנן איזהו בן העוה\"ב זהו הסומך גאולה של ערבית לתפלה של ערבית אלא א\"ר אלעזר תהא בתפלת המנחה רב אשי אמר אפי' תימא אכולהו וכיון דקבעוה רבנן בתפלה כתפלה אריכתא דמיא דאי לא תימא הכי ערבית היכי מצי סמיך והא בעי למימר השכיבנו אלא כיון דתקינו רבנן השכיבנו כגאולה אריכתא דמיא ה\"נ כיון דקבעוה רבנן בתפלה כתפלה אריכתא דמיא. מכדי האי יהיו לרצון אמרי פי משמע לבסוף ומשמע מעיקרא דבעינא למימר מ\"ט תקנוהו רבנן לאחר י\"ח ברכות לימרו מעיקרא א\"ר יהודה בריה דר' שמעון בן פזי הואיל ולא אמרו דוד אלא לאחר י\"ח פרשיות לפיכך תקינו רבנן לאחר י\"ח ברכות. הני י\"ח י\"ט הויין אשרי האיש ולמה רגשו גוים חדא פרשה היא דאמר ר' יהודה בריה דרבי שמעון בן פזי ק\"ג פרשיות אמר דוד ולא אמר הללויה עד שראה במפלתן של רשעים שנאמר (תהלים קד, לה) יתמו חטאים מן הארץ ורשעים עוד אינם ברכי נפשי את ה' הללויה הני ק\"ג ק\"ד הויין אלא שמע מינה אשרי האיש ולמה רגשו גוים חדא פרשה היא דאמר ר' שמואל בר נחמני אמר רבי יוחנן",
+      "nl": "Gemara. Wat betekent “hemelsblauw van wit”? Als het gaat om een prop witte wol tegenover een prop hemelsblauwe wol: dat is ook ’s nachts wel te zien! Het gaat dus om het hemelsblauw en wit in hetzelfde voorwerp. Er is geleerd: rabbi Meïr zegt: vanaf het moment waarop men een wolf van een hond kan onderscheiden. Rabbi Akiva zegt: een ezel van een wilde ezel. Anderen zeggen: vanaf het moment waarop men zijn metgezel op vier el afstand ziet en herkent. Rav Hoena zei: de halacha volgt de anderen. Abaje zei: voor tefillien volgt men de anderen; voor het Sjema de zorgvuldigen. Rabbi Jochanan zei namelijk: de zorgvuldigen voltooiden het bij zonsopgang. Zo is ook geleerd: de zorgvuldigen voltooiden het bij zonsopgang, om de verlossingszegen direct op het gebed te laten aansluiten en zo overdag te bidden. Rabbi Zeira zei: welke Schriftplaats ligt hieraan ten grondslag? (Psalmen 72:5): “Zij zullen U vrezen met de zon en vóór de maan, van geslacht op geslacht.” Rabbi Jose ben Eljakim getuigde namens de heilige gemeenschap in Jeruzalem: wie de verlossingszegen direct laat aansluiten op het gebed, ondervindt de hele dag geen schade. Rabbi Zeira zei: “Is dat zo? Ik deed dat en ondervond toch schade!” Men vroeg hem: “Welke schade ondervond je? Dat je mirte naar het paleis moest brengen? Zelfs daarvoor had je moeten betalen, om het gezicht van de koning te zien!” Rabbi Jochanan zei immers: laat iemand er steeds naar streven de koningen van Israël tegemoet te rennen, en niet alleen die van Israël, maar zelfs de koningen van de volken, opdat hij, als hij het verdient, het verschil tussen de koningen van Israël en die van de volken zal herkennen. Rabbi Ila zei tegen Oella: “Wanneer je daar komt, groet dan mijn broer rav Beroena in aanwezigheid van het hele gezelschap, want hij is een groot man die zich over de geboden verheugt. Eens liet hij de verlossingszegen direct aansluiten op het gebed en de glimlach week de hele dag niet van zijn mond.” Hoe kan men ze direct laten aansluiten? Rabbi Jochanan zei toch: aan het begin zegt men “Heer, open mijn lippen”, en aan het einde “Mogen de woorden van mijn mond welgevallig zijn”, enzovoort. Rabbi Elazar zei: laat dit op het avondgebed slaan. Maar rabbi Jochanan zei toch: wie behoort tot de komende wereld? Wie de verlossingszegen van de avond direct laat aansluiten op het avondgebed! Daarom zei rabbi Elazar: laat dit op het middaggebed slaan. Rav Asji zei: je kunt zelfs zeggen dat het voor alle gebeden geldt. Omdat de rabbijnen het als onderdeel van het gebed hebben vastgesteld, geldt het als een verlengd gebed. Anders zou men ’s avonds evenmin direct kunnen aansluiten: men moet toch “Laat ons neerliggen” zeggen! Omdat de rabbijnen “Laat ons neerliggen” instelden, geldt het als een verlengde verlossingszegen. Zo geldt ook hier: omdat de rabbijnen het als onderdeel van het gebed hebben vastgesteld, geldt het als een verlengd gebed. Nu kan “Mogen de woorden van mijn mond welgevallig zijn” slaan op wat al gezegd is én op wat ik nog wil zeggen. Waarom stelden de rabbijnen het dan na de achttien zegeningen in? Laat men het aan het begin zeggen! Rabbi Jehoeda, de zoon van rabbi Sjimon ben Pazi, zei: omdat David het pas na achttien afdelingen zei, stelden de rabbijnen het ook na achttien zegeningen in. Die achttien zijn er toch negentien? “Gelukkig de man” en “Waarom woelen de volken” vormen één afdeling. Rabbi Jehoeda, de zoon van rabbi Sjimon ben Pazi, zei namelijk: David sprak honderdendrie afdelingen uit en zei pas “halleluja” toen hij de val van de boosdoeners zag, want er staat (Psalmen 104:35): “Laat de zondaars van de aarde verdwijnen en de boosdoeners er niet meer zijn. Zegen de HEER, mijn ziel. Halleluja!” Die honderdendrie zijn er toch honderdvier? Daaruit blijkt dus dat “Gelukkig de man” en “Waarom woelen de volken” één afdeling vormen. Rabbi Sjemoeël bar Nachmani zei namelijk namens rabbi Jochanan:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De zorgvuldigen zijn de watikien, die de recitatie en het gebed nauwkeurig op zonsopgang afstemmen. De achttien zegeningen vormen het staande gebed. De afdelingen betreffen hier de psalmen."
+        },
+        {
+          "type": "vervolg",
+          "text": "De uitspraak over het begin en einde van de psalm volgt op 10a."
+        }
+      ]
+    }
+  ]
+}

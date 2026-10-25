@@ -1,0 +1,107 @@
+{
+  "id": "29b",
+  "title": "29b · Herstel van het gebed en het reisgebed",
+  "scope": "Volledige hoofdtekst van amud 29b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%98_%D7%91&oldid=2851511",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:29b:g1",
+      "locator": "Berakhot 29b · Gemara · g1",
+      "layer": "gemara",
+      "original": "הא דאדכר בתר שומע תפלה:",
+      "nl": "het andere wanneer hij het zich pas na ‘Die het gebed hoort’ herinnerde.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:29b:g2",
+      "locator": "Berakhot 29b · Gemara · g2",
+      "layer": "gemara",
+      "original": "אמר רבי תנחום אמר רב אסי אמר ר' יהושע בן לוי טעה ולא הזכיר של ר\"ח בעבודה חוזר לעבודה נזכר בהודאה חוזר לעבודה בשים שלום חוזר לעבודה ואם סיים חוזר לראש אמר רב פפא בריה דרב אחא בר אדא הא דאמרן סיים חוזר לראש לא אמרן אלא שעקר רגליו אבל לא עקר רגליו חוזר לעבודה א\"ל מנא לך הא א\"ל מאבא מרי שמיע לי ואבא מרי מרב . אמר רב נחמן בר יצחק הא דאמרן עקר רגליו חוזר לראש לא אמרן אלא שאינו רגיל לומר תחנונים אחר תפלתו אבל רגיל לומר תחנונים אחר תפלתו חוזר לעבודה איכא דאמרי אמר רב נחמן בר יצחק הא דאמרן כי לא עקר רגליו חוזר לעבודה לא אמרן אלא שרגיל לומר תחנונים אחר תפלתו אבל אם אינו רגיל לומר תחנונים אחר תפלתו חוזר לראש:",
+      "nl": "Rabbi Tanchoem zei namens Rav Assi, namens rabbi Jehosjoea ben Levi: wie zich vergist en de vermelding van nieuwemaan in de tempeldienstzegening overslaat, gaat terug naar die zegening. Herinnert hij het zich tijdens de dankzegging, dan gaat hij terug naar de tempeldienstzegening; tijdens ‘Schenk vrede’ eveneens. Als hij het gebed heeft voltooid, begint hij opnieuw. Rav Papa, de zoon van Rav Acha bar Adda, zei: wanneer wij zeggen dat hij na voltooiing opnieuw begint, geldt dit alleen als hij zijn voeten al heeft verplaatst. Heeft hij dat nog niet gedaan, dan gaat hij terug naar de tempeldienstzegening. Men vroeg hem: ‘Waar heb je dit vandaan?’ Hij antwoordde: ‘Ik heb het van mijn vader gehoord, en mijn vader van Rav.’ Rav Nachman bar Jitschak zei: wanneer wij zeggen dat hij na het verplaatsen van zijn voeten opnieuw begint, geldt dit alleen als hij niet gewend is na zijn gebed smeekbeden te zeggen. Is hij dat wel gewend, dan gaat hij terug naar de tempeldienstzegening. Volgens anderen zei Rav Nachman bar Jitschak: wanneer wij zeggen dat hij vóór het verplaatsen van zijn voeten teruggaat naar de tempeldienstzegening, geldt dit alleen als hij gewend is na zijn gebed smeekbeden te zeggen. Is hij dat niet gewend, dan begint hij opnieuw.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De tempeldienstzegening is het gedeelte dat begint met Retsee. “De voeten verplaatsen” verwijst naar de stappen achteruit waarmee men het staande gebed afsluit."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:29b:g3",
+      "locator": "Berakhot 29b · Gemara · g3",
+      "layer": "gemara",
+      "original": "ר' אליעזר אומר העושה תפלתו קבע וכו':",
+      "nl": "Rabbi Eliëzer zegt: wie zijn gebed tot een vaste last maakt, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:29b:g4",
+      "locator": "Berakhot 29b · Gemara · g4",
+      "layer": "gemara",
+      "original": "מאי קבע א\"ר יעקב בר אידי אמר רבי אושעיא כל שתפלתו דומה עליו כמשוי ורבנן אמרי כל מי שאינו אומרה בלשון תחנונים רבה ורב יוסף דאמרי תרוייהו כל שאינו יכול לחדש בה דבר א\"ר זירא אנא יכילנא לחדושי בה מילתא ומסתפינא דלמא מטרידנא אביי בר אבין ור' חנינא בר אבין דאמרי תרוייהו כל שאין מתפלל עם דמדומי חמה דא\"ר חייא בר אבא א\"ר יוחנן מצוה להתפלל עם דמדומי חמה וא\"ר זירא מאי קראה (תהלים עב, ה) ייראוך עם שמש ולפני ירח דור דורים לייטי עלה במערבא אמאן דמצלי עם דמדומי חמה מאי טעמא דלמא מיטרפא ליה שעתא:",
+      "nl": "Wat betekent ‘vast’? Rabbi Jaäkov bar Idi zei namens rabbi Hosjaja: iedereen voor wie zijn gebed als een last is. De wijzen zeggen: iedereen die het niet als een smeekbede uitspreekt. Rabba en Rav Josef zeiden beiden: iedereen die er niets nieuws aan kan toevoegen. Rabbi Zeïra zei: ‘Ik zou er iets nieuws aan kunnen toevoegen, maar ik vrees dat ik daardoor in de war raak.’ Abbaje bar Avin en rabbi Chanina bar Avin zeiden beiden: iedereen die niet bij het schemeren van de zon bidt. Rabbi Chijja bar Abba zei immers namens rabbi Jochanan: het is een gebod bij het schemeren van de zon te bidden. Rabbi Zeïra zei: welk vers zegt dit? ‘Mogen zij U vrezen met de zon en vóór de maan, van geslacht op geslacht’ (Psalm 72:5). In het westen vervloekte men echter wie bij het schemeren van de zon bad. Waarom? Misschien ontglipt hem het tijdstip.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het westen is het land Israël. Het schemeren van de zon duidt hier het tijdstip vlak rond het verdwijnen van het zonlicht aan."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:29b:g5",
+      "locator": "Berakhot 29b · Gemara · g5",
+      "layer": "gemara",
+      "original": "רבי יהושע אומר המהלך במקום סכנה מתפלל תפלה קצרה וכו' בכל פרשת העבור:",
+      "nl": "Rabbi Jehosjoea zegt: wie op een gevaarlijke plaats loopt, bidt een kort gebed, enzovoort: ‘bij elke overgang’.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:29b:g6",
+      "locator": "Berakhot 29b · Gemara · g6",
+      "layer": "gemara",
+      "original": "מאי פרשת העבור אמר רב חסדא אמר מר עוקבא אפי' בשעה שאתה מתמלא עליהם עברה כאשה עוברה יהיו כל צרכיהם לפניך איכא דאמרי אמר רב חסדא אמר מר עוקבא אפילו בשעה שהם עוברים על דברי תורה יהיו כל צרכיהם לפניך ת\"ר המהלך במקום גדודי חיה ולסטים מתפלל תפלה קצרה ואיזה היא תפלה קצרה ר' אליעזר אומר עשה רצונך בשמים ממעל ותן נחת רוח ליראיך מתחת והטוב בעיניך עשה בא\"י שומע תפלה ר' יהושע אומר שמע שועת עמך ישראל ועשה מהרה בקשתם בא\"י שומע תפלה רבי אלעזר ברבי צדוק אומר שמע צעקת עמך ישראל ועשה מהרה בקשתם בא\"י שומע תפלה אחרים אומרים צרכי עמך ישראל מרובין ודעתם קצרה יהי רצון מלפניך ה' אלהינו שתתן לכל אחד ואחד כדי פרנסתו ולכל גויה וגויה די מחסורה ברוך אתה ה' שומע תפלה אמר רב הונא הלכה כאחרים אמר ליה אליהו לרב יהודה אחוה דרב סלא חסידא לא תרתח ולא תחטי לא תרוי ולא תחטי וכשאתה יוצא לדרך המלך בקונך וצא מאי המלך בקונך וצא אמר רבי יעקב אמר רב חסדא זו תפלת הדרך ואמר רבי יעקב אמר רב חסדא כל היוצא לדרך צריך להתפלל תפלת הדרך מאי תפלת הדרך יהי רצון מלפניך ה' אלהי שתוליכני לשלום ותצעידני לשלום ותסמכני לשלום ותצילני מכף כל אויב ואורב בדרך ותשלח ברכה במעשי ידי ותתנני לחן לחסד ולרחמים בעיניך ובעיני כל רואי בא\"י שומע תפלה אמר אביי לעולם",
+      "nl": "Wat betekent ‘elke overgang’? Rav Chisda zei namens Mar Oekva: zelfs wanneer U vervuld raakt van toorn tegen hen als een zwangere vrouw, mogen al hun behoeften voor U zijn. Volgens anderen zei Rav Chisda namens Mar Oekva: zelfs wanneer zij de woorden van de Tora overtreden, mogen al hun behoeften voor U zijn. Onze meesters leerden: wie op een plaats met groepen wilde dieren of rovers loopt, bidt een kort gebed. Wat is dat korte gebed? Rabbi Eliëzer zegt: ‘Doe Uw wil in de hemel boven en schenk Uw vereerders rust beneden. Doe wat goed is in Uw ogen. Gezegend bent U, HEER, die het gebed hoort.’ Rabbi Jehosjoea zegt: ‘Hoor het hulpgeroep van Uw volk Israël en vervul spoedig hun verzoek. Gezegend bent U, HEER, die het gebed hoort.’ Rabbi Elazar, de zoon van rabbi Tsadok, zegt: ‘Hoor het geschreeuw van Uw volk Israël en vervul spoedig hun verzoek. Gezegend bent U, HEER, die het gebed hoort.’ Anderen zeggen: ‘De behoeften van Uw volk Israël zijn talrijk en hun inzicht is beperkt. Moge het Uw wil zijn, HEER, onze God, ieder voldoende voor zijn levensonderhoud te geven en elk lichaam wat het ontbreekt. Gezegend bent U, HEER, die het gebed hoort.’ Rav Hoena zei: de halacha volgt de anderen. Elia zei tegen Rav Jehoeda, de broer van Rav Sala de Vrome: ‘Word niet boos, dan zondig je niet; bedrink je niet, dan zondig je niet. En als je op reis gaat, vraag je Schepper om raad en vertrek dan.’ Wat betekent ‘vraag je Schepper om raad en vertrek’? Rabbi Jaäkov zei namens Rav Chisda: dit is het reisgebed. Rabbi Jaäkov zei verder namens Rav Chisda: iedereen die op reis gaat, moet het reisgebed bidden. Wat is het reisgebed? ‘Moge het Uw wil zijn, HEER, mijn God, mij in vrede te leiden, mijn schreden in vrede te richten, mij in vrede te steunen en mij onderweg te redden uit de hand van elke vijand en belager. Zend zegen in het werk van mijn handen en laat mij genade, gunst en ontferming vinden in Uw ogen en in de ogen van allen die mij zien. Gezegend bent U, HEER, die het gebed hoort.’ Abbaje zei: altijd...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg speelt met verwante klanken: ibboer, “zwangerschap/overgang”, evra, “toorn”, en overim, “overtreden”."
+        },
+        {
+          "type": "vervolg",
+          "text": "Abbajes aanwijzing wordt op 30a voltooid."
+        }
+      ]
+    }
+  ]
+}

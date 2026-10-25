@@ -21,3 +21,7 @@ Veranderingen: navigatie en hyperlinks verwijderd; de zes hoofdtekstalinea’s v
 De bronbewerking van Berakhot 3a is afkomstig van de bijdragers aan Hebreeuwse Wikisource, pagina ברכות ג א, [revisie 3006952](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&oldid=3006952), van 20 april 2026. De [paginageschiedenis](https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%92_%D7%90&action=history) vermeldt de bijdragers en wijzigingen. Hiervoor worden eveneens CC BY-SA 4.0 en de hierboven genoemde naamsvermelding gevolgd.
 
 Veranderingen: navigatie, hyperlinks en verwijzingssuperscripten verwijderd; de zes hoofdtekstalinea’s verdeeld in negentien lokale segmenten; haakjestekst behouden; rechtstreekse Nederlandse conceptvertaling en afzonderlijke toelichtingen toegevoegd.
+
+## Verdere amudim
+
+Voor iedere aanvullende amud staan de oorspronkelijke Wikisource-pagina, revisie, bijdragersgeschiedenis, CC BY-SA 4.0-verwijzing en de toegepaste extractiebewerkingen in data/sources.json en het bijbehorende lokale bronextract. De rechtstreekse Nederlandse conceptvertaling en toelichtingen worden onder dezelfde licentie gedeeld. Het structuurregister data/extent.json verantwoordt daarnaast Wikisource-bijdragers en Sefaria als afzonderlijke structuurgetuige; het importeert geen Sefaria-vertaling.

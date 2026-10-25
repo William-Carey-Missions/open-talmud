@@ -1,0 +1,90 @@
+{
+  "id": "5a",
+  "title": "5a · Torastudie en lijden uit liefde",
+  "scope": "Volledige hoofdtekst van amud 5a in de gekozen editie; Gemara. De laatste zin loopt door op 5b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%94_%D7%90&oldid=2851560",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:5a:g1",
+      "locator": "Berakhot 5a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אם תלמיד חכם הוא אין צריך אמר אביי אף תלמיד חכם מיבעי ליה למימר חד פסוקא דרחמי כגון (תהלים לא, ו) בידך אפקיד רוחי פדיתה אותי ה' אל אמת:",
+      "nl": "Als hij een Torakenner is, hoeft hij dat niet te doen. Abaje zei: ook een Torakenner moet één vers van smeekbede zeggen, bijvoorbeeld (Psalmen 31:6): “In uw hand leg ik mijn geest; U hebt mij verlost, HEER, trouwe God.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-5a-r2851560",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van Rav Nachmans uitspraak op 4b over het Sjema bij het slapengaan."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:5a:g2",
+      "locator": "Berakhot 5a · Gemara · g2",
+      "layer": "gemara",
+      "original": "א\"ר אמר רב/י לוי בר חמא אמר ר\"ש בן לקיש לעולם ירגיז אדם יצר טוב על יצר הרע שנא' (תהלים ד, ה) רגזו ואל תחטאו. אם נצחו מוטב ואם לאו יעסוק בתורה שנאמר אמרו בלבבכם אם נצחו מוטב ואם לאו יקרא קריאת שמע שנאמר על משכבכם אם נצחו מוטב ואם לאו יזכור לו יום המיתה שנאמר ודומו סלה. וא\"ר לוי בר חמא אמר ר' שמעון בן לקיש מאי דכתיב (שמות כד, יב) ואתנה לך את לוחות האבן והתורה והמצוה אשר כתבתי להורותם לוחות אלו עשרת הדברות תורה זה מקרא והמצוה זו משנה אשר כתבתי אלו נביאים וכתובים להורותם זה גמרא מלמד שכולם נתנו למשה מסיני:",
+      "nl": "Rabbi Levi bar Chama zei namens rabbi Sjimon ben Lakisj: laat iemand steeds zijn goede aandrift tegen zijn kwade aandrift opzetten, want er staat (Psalmen 4:5): “Beef en zondig niet.” Overwint hij haar, dan is het goed. Zo niet, laat hij zich met de Tora bezighouden, want er staat: “Spreek in uw hart.” Overwint hij haar, dan is het goed. Zo niet, laat hij het Sjema reciteren, want er staat: “op uw bed.” Overwint hij haar, dan is het goed. Zo niet, laat hij de sterfdag in herinnering roepen, want er staat: “en zwijg. Sela.” Rabbi Levi bar Chama zei verder namens rabbi Sjimon ben Lakisj: wat betekent wat geschreven staat (Exodus 24:12): “Ik zal je de stenen platen geven, de Tora en het gebod, die Ik geschreven heb om hen te onderrichten”? “De platen”: dat zijn de tien geboden. “De Tora”: dat is de Schrift. “Het gebod”: dat is de Misjna. “Die Ik geschreven heb”: dat zijn de Profeten en de Geschriften. “Om hen te onderrichten”: dat is de Gemara. Dit leert dat zij allemaal aan Mozes op de Sinai werden gegeven.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-5a-r2851560",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De bron toont bij א״ר de uitgeschreven vorm אמר רב/י. Dit is bij het grondtekstextract bewaard; de vertaling geeft de gebruikelijke inleidende formule weer."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:5a:g3",
+      "locator": "Berakhot 5a · Gemara · g3",
+      "layer": "gemara",
+      "original": "א\"ר אמר רב/י יצחק כל הקורא ק\"ש על מטתו כאלו אוחז חרב של שתי פיות בידו שנאמר (תהלים קמט, ו) רוממות אל בגרונם וחרב פיפיות בידם מאי משמע אמר מר זוטרא ואיתימא רב אשי מרישא דענינא דכתיב (תהלים קמט, ה) יעלזו חסידים בכבוד ירננו על משכבותם וכתיב בתריה רוממות אל בגרונם וחרב פיפיות בידם. ואמר רבי יצחק כל הקורא קריאת שמע על מטתו מזיקין בדילין הימנו שנאמר (איוב ה, ז) ובני רשף יגביהו עוף ואין עוף אלא תורה שנאמר (משלי כג, ה) התעיף עיניך בו ואיננו ואין רשף אלא מזיקין שנאמר (דברים לב, כד) מזי רעב ולחומי רשף וקטב מרירי. אמר רבי שמעון בן לקיש כל העוסק בתורה יסורין בדילין הימנו שנאמר ובני רשף יגביהו עוף ואין עוף אלא תורה שנאמר התעיף עיניך בו ואיננו ואין רשף אלא יסורין שנאמר מזי רעב ולחומי רשף אמר ליה רבי יוחנן הא אפילו תינוקות של בית רבן יודעין אותו שנאמר (שמות טו, כו) ויאמר אם שמוע תשמע לקול ה' אלהיך והישר בעיניו תעשה והאזנת למצותיו ושמרת כל חקיו כל המחלה אשר שמתי במצרים לא אשים עליך כי אני ה' רופאך אלא כל שאפשר לו לעסוק בתורה ואינו עוסק הקב\"ה מביא עליו יסורין מכוערין ועוכרין אותו שנא' (תהלים לט, ג) נאלמתי דומיה החשיתי מטוב וכאבי נעכר ואין טוב אלא תורה שנאמר (משלי ד, ב) כי לקח טוב נתתי לכם תורתי אל תעזובו. אמר רבי זירא ואיתימא רבי חנינא בר פפא בא וראה שלא כמדת הקב\"ה מדת בשר ודם מדת בשר ודם אדם מוכר חפץ לחבירו מוכר עצב ולוקח שמח אבל הקב\"ה אינו כן נתן להם תורה לישראל ושמח שנא' כי לקח טוב נתתי לכם תורתי אל תעזובו. אמר רבא ואיתימא רב חסדא אם רואה אדם שיסורין באין עליו יפשפש במעשיו שנא' (איכה ג, מ) נחפשה דרכינו ונחקורה ונשובה עד ה' פשפש ולא מצא יתלה בבטול תורה שנאמר (תהלים צד, יב) אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו ואם תלה ולא מצא בידוע שיסורין של אהבה הם שנאמר (משלי ג, יב) כי את אשר יאהב ה' יוכיח. אמר רבא אמר רב סחורה אמר רב הונא כל שהקב\"ה חפץ בו מדכאו ביסורין שנאמר (ישעיהו נג, י) וה' חפץ דכאו החלי יכול אפילו לא קבלם מאהבה תלמוד לומר (ישעיהו נג, י) אם תשים אשם נפשו מה אשם לדעת אף יסורין לדעת ואם קבלם מה שכרו (ישעיהו נג, י) יראה זרע יאריך ימים ולא עוד אלא שתלמודו מתקיים בידו שנא' (ישעיהו נג, י) וחפץ ה' בידו יצלח פליגי בה רבי יעקב בר אידי ורבי אחא בר חנינא חד אמר אלו הם יסורין של אהבה כל שאין בהן בטול תורה שנאמר אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו וחד אמר אלו הם יסורין של אהבה כל שאין בהן בטול תפלה שנאמר (תהלים סו, כ) ברוך אלהים אשר לא הסיר תפלתי וחסדו מאתי אמר להו רבי אבא בריה דר' חייא בר אבא הכי אמר ר' חייא בר אבא א\"ר יוחנן אלו ואלו יסורין של אהבה הן שנאמר כי את אשר יאהב ה' יוכיח אלא מה ת\"ל ומתורתך תלמדנו אל תקרי תלמדנו אלא תלמדנו דבר זה מתורתך תלמדנו ק\"ו משן ועין מה שן ועין שהן אחד מאבריו של אדם עבד יוצא בהן לחרות יסורין שממרקין כל גופו של אדם על אחת כמה וכמה והיינו דרבי שמעון בן לקיש דאמר רשב\"ל נאמר ברית במלח ונאמר ברית ביסורין נאמר ברית במלח דכתיב (ויקרא ב, יג) ולא תשבית מלח ברית ונאמר ברית ביסורין דכתיב (דברים כח, סט) אלה דברי הברית מה ברית האמור במלח מלח ממתקת את הבשר אף ברית האמור ביסורין יסורין ממרקין כל עונותיו של אדם:",
+      "nl": "Rabbi Jitschak zei: wie het Sjema op zijn bed reciteert, is alsof hij een tweesnijdend zwaard in zijn hand houdt, want er staat (Psalmen 149:6): “Gods lofverheffingen zijn in hun keel en een tweesnijdend zwaard in hun hand.” Hoe blijkt dat? Mar Zoetra — volgens anderen rav Asji — zei: uit het begin van de passage, waar staat (Psalmen 149:5): “Laten de vromen juichen in eer, jubelen op hun bedden.” Daarna staat: “Gods lofverheffingen zijn in hun keel en een tweesnijdend zwaard in hun hand.” Rabbi Jitschak zei verder: wie het Sjema op zijn bed reciteert, van hem blijven schadelijke geesten weg, want er staat (Job 5:7): “De zonen van de vonk verheffen hun vlucht.” “Vlucht” duidt uitsluitend de Tora aan, want er staat (Spreuken 23:5): “Laat je je ogen erheen vliegen, dan is het verdwenen.” “Vonk” duidt uitsluitend schadelijke geesten aan, want er staat (Deuteronomium 32:24): “Uitgeteerd door honger, verteerd door vonk en bitter verderf.” Rabbi Sjimon ben Lakisj zei: wie zich met de Tora bezighoudt, van hem blijft lijden weg, want er staat: “De zonen van de vonk verheffen hun vlucht.” “Vlucht” duidt uitsluitend de Tora aan, want er staat: “Laat je je ogen erheen vliegen, dan is het verdwenen.” “Vonk” duidt uitsluitend lijden aan, want er staat: “Uitgeteerd door honger, verteerd door vonk.” Rabbi Jochanan zei tegen hem: dat weten zelfs schoolkinderen, want er staat (Exodus 15:26): “Als je aandachtig luistert naar de stem van de HEER, je God, doet wat juist is in zijn ogen, zijn geboden ter harte neemt en al zijn bepalingen bewaart, zal Ik geen van de ziekten die Ik over Egypte bracht over jou brengen, want Ik ben de HEER, je genezer.” De uitspraak betekent dus: wie zich met de Tora kan bezighouden maar het niet doet, over hem brengt de Heilige, gezegend zij Hij, hevig lijden dat hem ontregelt. Er staat immers (Psalmen 39:3): “Ik was stom en stil, ik zweeg over het goede en mijn pijn werd opgewoeld.” “Het goede” duidt uitsluitend de Tora aan, want er staat (Spreuken 4:2): “Een goede leer heb Ik jullie gegeven; verlaat mijn Tora niet.” Rabbi Zeira — volgens anderen rabbi Chanina bar Pappa — zei: kom en zie hoe de handelwijze van de Heilige, gezegend zij Hij, verschilt van die van mensen. Bij mensen is de verkoper bedroefd en de koper blij als iemand iets aan een ander verkoopt. Bij de Heilige, gezegend zij Hij, is dat anders: Hij gaf Israël de Tora en verheugde zich, want er staat: “Een goede leer heb Ik jullie gegeven; verlaat mijn Tora niet.” Rava — volgens anderen rav Chisda — zei: als iemand ziet dat hem lijden treft, laat hij zijn daden onderzoeken, want er staat (Klaagliederen 3:40): “Laten wij onze wegen doorzoeken en onderzoeken en terugkeren tot de HEER.” Heeft hij onderzocht en niets gevonden, dan schrijft hij het toe aan verwaarlozing van de Torastudie, want er staat (Psalmen 94:12): “Gelukkig de man die U tuchtigt, HEER, en uit uw Tora onderricht.” Heeft hij dit onderzocht en niets gevonden, dan staat vast dat het lijden uit liefde is, want er staat (Spreuken 3:12): “Wie de HEER liefheeft, wijst Hij terecht.” Rava zei namens rav Sechora, namens rav Hoena: ieder in wie de Heilige, gezegend zij Hij, behagen heeft, verbrijzelt Hij met lijden, want er staat (Jesaja 53:10): “De HEER had behagen hem te verbrijzelen, hem ziek te maken.” Kan dit ook gelden als hij het niet uit liefde aanvaardt? De tekst leert: “Als zijn ziel een schuldoffer brengt.” Zoals een schuldoffer met instemming wordt gebracht, zo ook het lijden met instemming. En wat is zijn beloning als hij het aanvaardt? (Jesaja 53:10): “Hij zal nageslacht zien en zijn dagen verlengen.” Bovendien blijft zijn studie hem bij, want er staat (Jesaja 53:10): “Het welbehagen van de HEER zal door zijn hand slagen.” Rabbi Jaäkov bar Idi en rabbi Acha bar Chanina verschilden hierover. De een zei: lijden uit liefde is lijden dat de Torastudie niet verhindert, want er staat: “Gelukkig de man die U tuchtigt, HEER, en uit uw Tora onderricht.” De ander zei: lijden uit liefde is lijden dat het gebed niet verhindert, want er staat (Psalmen 66:20): “Gezegend zij God, die mijn gebed en zijn goedertierenheid niet van mij heeft weggenomen.” Rabbi Abba, de zoon van rabbi Chijja bar Abba, zei tegen hen: zo zei rabbi Chijja bar Abba namens rabbi Jochanan: beide zijn lijden uit liefde, want er staat: “Wie de HEER liefheeft, wijst Hij terecht.” Wat leert dan “en uit uw Tora onderricht”? Lees niet “U onderricht hem”, maar “U onderricht ons”: U leert ons deze zaak uit uw Tora, door een redenering van het lichtere naar het zwaardere geval, vanuit tand en oog. Als een slaaf al vrijuit gaat wegens een tand of een oog, die elk maar één lichaamsdeel zijn, hoeveel te meer geldt dat voor lijden dat het hele lichaam van een mens reinigt! Dit stemt overeen met rabbi Sjimon ben Lakisj, die zei: bij zout wordt een verbond genoemd en bij lijden wordt een verbond genoemd. Bij zout staat (Leviticus 2:13): “Laat het zout van het verbond niet ontbreken.” Bij lijden staat (Deuteronomium 28:69): “Dit zijn de woorden van het verbond.” Zoals bij het verbond van zout het zout het vlees smakelijk maakt, zo reinigt bij het verbond van lijden het lijden alle zonden van een mens.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-5a-r2851560",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De redenering rond “vlucht” en “vonk” verbindt Schriftplaatsen door gedeelde woorden. De vrije slaaf bij tand of oog verwijst naar Exodus 21:26–27."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De twee lezingen van תלמדנו verschillen in vocalisatie, die in de ongevocaliseerde grondtekst niet zichtbaar is."
+        },
+        {
+          "type": "toelichting",
+          "text": "De passage geeft meerdere rabbijnse opvattingen over lijden. “Lijden uit liefde” is de eigen theologische term van deze discussie."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:5a:g4",
+      "locator": "Berakhot 5a · Gemara · g4",
+      "layer": "gemara",
+      "original": "תניא רבי שמעון בן יוחאי אומר שלש מתנות טובות נתן הקדוש ברוך הוא לישראל וכולן לא נתנן אלא ע\"י יסורין אלו הן תורה וארץ ישראל והעולם הבא תורה מנין שנאמר אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו ארץ ישראל דכתיב (דברים ח, ה) כי כאשר ייסר איש את בנו ה' אלהיך מיסרך וכתיב בתריה כי ה' אלהיך מביאך אל ארץ טובה העולם הבא דכתיב (משלי ו, כג) כי נר מצוה ותורה אור ודרך חיים תוכחות מוסר. תני תנא קמיה דר' יוחנן כל העוסק בתורה ובגמילות חסדים",
+      "nl": "Er is geleerd: rabbi Sjimon ben Jochai zegt: de Heilige, gezegend zij Hij, gaf Israël drie goede gaven, en Hij gaf ze alle drie alleen door lijden. Het zijn de Tora, het land Israël en de komende wereld. Waaruit blijkt dit voor de Tora? Er staat: “Gelukkig de man die U tuchtigt, HEER, en uit uw Tora onderricht.” Voor het land Israël staat (Deuteronomium 8:5): “Zoals een man zijn zoon tuchtigt, zo tuchtigt de HEER, je God, jou.” Daarna staat: “Want de HEER, je God, brengt je naar een goed land.” Voor de komende wereld staat (Spreuken 6:23): “Het gebod is een lamp, de Tora een licht, en terechtwijzingen van tucht zijn de weg naar het leven.” Een overleveraar onderwees voor rabbi Jochanan: ieder die zich bezighoudt met de Tora en met daden van goedheid",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-5a-r2851560",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De uitspraak wordt voltooid op 5b."
+        }
+      ]
+    }
+  ]
+}

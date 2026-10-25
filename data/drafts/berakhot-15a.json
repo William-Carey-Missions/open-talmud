@@ -1,0 +1,72 @@
+{
+  "id": "15a",
+  "title": "15a · Wassen, hoorbaar reciteren en nauwkeurig uitspreken",
+  "scope": "Volledige hoofdtekst van amud 15a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%95_%D7%90&oldid=2851539",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:15a:g1",
+      "locator": "Berakhot 15a · Gemara · g1",
+      "layer": "gemara",
+      "original": "יפנה ויטול ידיו ויניח תפילין ויקרא ק\"ש ויתפלל וזו היא מלכות שמים שלמה א\"ר חייא בר אבא א\"ר יוחנן כל הנפנה ונוטל ידיו ומניח תפילין וקורא ק\"ש ומתפלל מעלה עליו הכתוב כאלו בנה מזבח והקריב עליו קרבן דכתיב (תהלים כו ו): \"ארחץ בנקיון כפי ואסובבה את מזבחך ה'\" א\"ל רבא לא סבר לה מר כאילו טבל דכתיב ארחץ [בנקיון] ולא כתב ארחיץ [כפי] א\"ל רבינא לרבא חזי מר האי צורבא מרבנן דאתא ממערבא ואמר מי שאין לו מים לרחוץ ידיו מקנח ידיו בעפר ובצרור ובקסמית א\"ל שפיר קאמר מי כתיב ארחץ במים בנקיון כתיב כל מידי דמנקי דהא רב חסדא לייט אמאן דמהדר אמיא בעידן צלותא והני מילי לק\"ש אבל לתפלה מהדר ועד כמה עד פרסה והנ\"מ לקמיה אבל לאחוריה אפילו מיל אינו חוזר [ומינה] מיל הוא דאינו חוזר הא פחות ממיל חוזר:",
+      "nl": "moet zijn behoefte doen, zijn handen wassen, tefillien aanleggen, het Sjema reciteren en bidden. Dit is het volledig aanvaarden van het koningschap van de hemel. Rabbi Chijja bar Abba zei namens rabbi Jochanan: wie zijn behoefte doet, zijn handen wast, tefillien aanlegt, het Sjema reciteert en bidt, wordt door de Schrift beschouwd alsof hij een altaar heeft gebouwd en daarop een offer heeft gebracht. Er staat: ‘Ik was mijn handen in reinheid en ga rond Uw altaar, HEER’ (Psalm 26:6). Rava zei tegen hem: meent de meester niet dat het is alsof hij zich geheel heeft ondergedompeld? Er staat immers ‘ik was mij [in reinheid]’, en niet ‘ik was [mijn handen]’. Ravina zei tegen Rava: ‘Kijk toch naar deze jonge geleerde die uit het westen komt. Hij zegt: wie geen water heeft om zijn handen te wassen, veegt zijn handen met aarde, een steentje of een splinter schoon.’ Hij antwoordde: ‘Hij zegt het goed. Staat er soms “ik was met water”? Er staat “in reinheid”: alles wat schoonmaakt.’ Rav Chisda vervloekte immers wie op de gebedstijd naar water ging zoeken. Dit geldt voor het Sjema; voor het gebed zoekt men wel water. Hoe ver? Tot een parasang. Dat geldt vooruit op zijn weg; terug gaat hij zelfs geen mijl. [En daaruit volgt:] een hele mijl gaat hij niet terug, maar minder dan een mijl wel.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-15a-r2851539",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Een parasang is een oude afstandsmaat van vier mijlen. Het gaat om een reisafstand; een moderne omrekening is hier niet gegeven."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg contrasteert de Hebreeuwse vormen erḥats en arḥits. De aanvullingen in vierkante haken staan in de grondtekst."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:15a:m1",
+      "locator": "Berakhot 15a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין הקורא את שמע ולא השמיע לאזנו יצא ר' יוסי אומר לא יצא קרא ולא דקדק באותיותיה ר' יוסי אומר יצא רבי יהודה אומר לא יצא הקורא למפרע לא יצא קרא וטעה יחזור למקום שטעה:",
+      "nl": "Misjna. Wie het Sjema reciteert zonder het zijn eigen oor te laten horen, heeft voldaan. Rabbi Jose zegt: hij heeft niet voldaan. Wie reciteert zonder de letters nauwkeurig uit te spreken: rabbi Jose zegt dat hij heeft voldaan; rabbi Jehoeda zegt dat hij niet heeft voldaan. Wie in omgekeerde volgorde reciteert, heeft niet voldaan. Wie tijdens de recitatie een fout maakt, gaat terug naar de plaats waar hij de fout maakte.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-15a-r2851539",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Teroema is het voor priesters bestemde deel van de oogst. De daaropvolgende Gemara bespreekt of de zegening hoorbaar moet zijn."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:15a:g2",
+      "locator": "Berakhot 15a · Gemara · g2",
+      "layer": "gemara",
+      "original": "גמ' מאי טעמא דר' יוסי משום דכתיב שמע השמע לאזנך מה שאתה מוציא מפיך ות\"ק סבר שמע בכל לשון שאתה שומע ור' יוסי תרתי שמע מינה . תנן התם חרש המדבר ואינו שומע לא יתרום ואם תרם תרומתו תרומה מאן תנא חרש המדבר ואינו שומע דיעבד אין לכתחלה לא אמר רב חסדא ר' יוסי היא דתנן הקורא את שמע ולא השמיע לאזנו יצא דברי רבי יהודה ר' יוסי אומר לא יצא עד כאן לא קאמר ר' יוסי לא יצא אלא גבי ק\"ש דאורייתא אבל תרומה משום ברכה הוא וברכה דרבנן ולא בברכה תליא מילתא וממאי דר' יוסי היא דילמא ר' יהודה היא ואמר גבי ק\"ש נמי דיעבד אין לכתחלה לא תדע דקתני הקורא דיעבד אין לכתחלה לא אמרי האי דקתני הקורא להודיעך כחו דר' יוסי דאמר דיעבד נמי לא דאי ר' יהודה אפי' לכתחלה נמי יצא במאי אוקימתא כר' יוסי ואלא הא דתניא לא יברך אדם בהמ\"ז בלבו ואם בירך יצא מני לא ר' יוסי ולא ר' יהודה דאי ר' יהודה הא אמר לכתחלה נמי יצא אי ר' יוסי דיעבד נמי לא אלא מאי ר' יהודה ודיעבד אין לכתחלה לא אלא הא דתני רבי יהודה בריה דרבי שמעון בן פזי חרש המדבר ואינו שומע תורם לכתחלה מני לא ר' יהודה ולא ר' יוסי אי ר' יהודה הא אמר דיעבד אין לכתחלה לא אי ר' יוסי הא אמר דיעבד נמי לא אלא לעולם רבי יהודה ואפי' לכתחלה נמי ולא קשיא הא דידיה הא דרביה דתנן רבי יהודה אומר משום ר' אלעזר בן עזריה הקורא את שמע צריך שישמיע לאזנו שנאמר (דברים ו, ד) שמע ישראל ה' אלהינו ה' אחד אמר ליה רבי מאיר הרי הוא אומר אשר אנכי מצוך היום על לבבך אחר כונת הלב הן הן הדברים השתא דאתית להכי אפילו תימא רבי יהודה כרביה סבירא ליה ולא קשיא הא רבי מאיר הא רבי יהודה. תנן התם הכל כשרים לקרות את המגילה חוץ מחרש שוטה וקטן ורבי יהודה מכשיר בקטן מאן תנא חרש דיעבד נמי לא אמר רב מתנה רבי יוסי היא דתנן הקורא את שמע ולא השמיע לאזנו יצא דברי ר' יהודה רבי יוסי אומר לא יצא ממאי דרבי יוסי היא ודיעבד נמי לא",
+      "nl": "Gemara. Wat is de reden van rabbi Jose? Omdat er ‘hoor’ staat: laat je oren horen wat je mond uitspreekt. De eerste leraar meent dat ‘hoor’ betekent: in elke taal die je verstaat. Rabbi Jose leidt er beide dingen uit af. Wij leerden daar: iemand die doof is maar wel spreekt, mag geen teroema afscheiden. Als hij het toch heeft gedaan, is zijn teroema geldig. Welke leraar zegt dat bij een dove die wel spreekt het achteraf geldig is, maar vooraf niet toegestaan? Rav Chisda zei: rabbi Jose. Wij leerden immers: wie het Sjema reciteert zonder het zijn eigen oor te laten horen, heeft voldaan; dit zijn de woorden van rabbi Jehoeda. Rabbi Jose zegt: hij heeft niet voldaan. Rabbi Jose zegt alleen bij het Sjema, dat uit de Tora verplicht is, dat hij niet heeft voldaan. Bij teroema gaat het echter om de zegening; die is een instelling van de meesters, en de geldigheid hangt niet van de zegening af. Waaruit blijkt dat het rabbi Jose is? Misschien is het rabbi Jehoeda, die ook bij het Sjema zegt: achteraf geldig, vooraf niet toegestaan. Kijk maar: er staat ‘wie reciteert’, dus achteraf wel, vooraf niet. Men antwoordt: ‘wie reciteert’ staat er om te laten zien hoe ver rabbi Jose gaat: zelfs achteraf niet geldig. Rabbi Jehoeda staat het daarentegen zelfs vooraf toe. Je hebt het nu als rabbi Jose uitgelegd. Maar van wie is dan de volgende leer: men moet de dankzegging na de maaltijd niet in zijn hart uitspreken, maar als men dit toch heeft gedaan, heeft men voldaan? Niet van rabbi Jose en niet van rabbi Jehoeda! Want rabbi Jehoeda zegt dat het zelfs vooraf mag, en rabbi Jose zegt dat het zelfs achteraf niet geldig is. Wat dan: rabbi Jehoeda, en alleen achteraf geldig, vooraf niet toegestaan? Maar van wie is dan wat rabbi Jehoeda, zoon van rabbi Sjimon ben Pazi, leerde: een dove die spreekt maar niet hoort, mag vooraf teroema afscheiden? Niet van rabbi Jehoeda en niet van rabbi Jose! Rabbi Jehoeda staat het alleen achteraf toe, en rabbi Jose zelfs achteraf niet. Het is inderdaad rabbi Jehoeda, die het zelfs vooraf toestaat. Er is geen tegenspraak: de ene uitspraak is zijn eigen opvatting, de andere die van zijn meester. Wij leerden immers: rabbi Jehoeda zegt namens rabbi Elazar ben Azarja: wie het Sjema reciteert, moet het zijn eigen oor laten horen. Er staat: ‘Hoor, Israël, de HEER is onze God, de HEER is één’ (Deuteronomium 6:4). Rabbi Meïr zei tegen hem: er staat toch ‘die ik je vandaag gebied, op je hart’: de woorden volgen de gerichtheid van het hart. Nu wij zover zijn gekomen, kun je zelfs zeggen dat rabbi Jehoeda zijn meester volgt. Er is dan geen tegenspraak: de ene uitspraak is van rabbi Meïr, de andere van rabbi Jehoeda. Wij leerden daar: allen zijn geschikt om de rol van Ester voor te lezen, behalve een dove, iemand zonder verstandelijk onderscheidingsvermogen en een minderjarige. Rabbi Jehoeda acht een minderjarige geschikt. Welke leraar zegt dat een dove zelfs achteraf niet geldig heeft gelezen? Rav Matna zei: rabbi Jose. Wij leerden immers: wie het Sjema reciteert zonder het zijn eigen oor te laten horen, heeft voldaan; dit zijn de woorden van rabbi Jehoeda. Rabbi Jose zegt: hij heeft niet voldaan. Waaruit blijkt dat het rabbi Jose is, en dat het zelfs achteraf ongeldig is?",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-15a-r2851539",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "“In zijn hart” kan hier een niet voor het eigen oor hoorbare uitspraak aanduiden. De hoofdtekst licht niet afzonderlijk toe of de lippen daarbij bewegen."
+        },
+        {
+          "type": "vervolg",
+          "text": "De mogelijke toeschrijving aan rabbi Jehoeda wordt op 15b onderzocht."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "13a",
+  "title": "13a · Namen, aandacht en de taal van het Sjema",
+  "scope": "Volledige hoofdtekst van amud 13a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%92_%D7%90&oldid=2851544",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:13a:g1",
+      "locator": "Berakhot 13a · Gemara · g1",
+      "layer": "gemara",
+      "original": "לא שיעקר יעקב ממקומו אלא ישראל עיקר ויעקב טפל לו וכן הוא אומר (ישעיהו מג, יח) אל תזכרו ראשונות וקדמוניות אל תתבוננו אל תזכרו ראשונות זה שעבוד מלכיות וקדמוניות אל תתבוננו זו יציאת מצרים (ישעיהו מג, יט) הנני עושה חדשה עתה תצמח תני רב יוסף זו מלחמת גוג ומגוג משל למה הדבר דומה לאדם שהיה מהלך בדרך ופגע בו זאב וניצל ממנו והיה מספר והולך מעשה זאב פגע בו ארי וניצל ממנו והיה מספר והולך מעשה ארי פגע בו נחש וניצל ממנו שכח מעשה שניהם והיה מספר והולך מעשה נחש אף כך ישראל צרות אחרונות משכחות את הראשונות:",
+      "nl": "Dat betekent niet dat Jakob geheel wordt verdrongen, maar dat Israël de hoofdnaam wordt en Jakob daarbij ondergeschikt. Zo staat er ook: ‘Denk niet aan de vroegere dingen en sla geen acht op wat vanouds was’ (Jesaja 43:18). ‘Denk niet aan de vroegere dingen’ is de onderwerping aan de koninkrijken; ‘sla geen acht op wat vanouds was’ is de uittocht uit Egypte. ‘Zie, Ik maak iets nieuws, nu komt het op’ (Jesaja 43:19). Rav Josef leerde: dat is de oorlog van Gog en Magog. Waarmee is dit te vergelijken? Met iemand die onderweg een wolf tegenkwam, eraan ontkwam en steeds over de wolf vertelde. Daarna kwam hij een leeuw tegen, ontkwam eraan en vertelde steeds over de leeuw. Daarna kwam hij een slang tegen en ontkwam eraan. Hij vergat de beide eerdere gebeurtenissen en vertelde steeds over de slang. Zo doen bij Israël de laatste benauwenissen de eerdere vergeten.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:13a:g2",
+      "locator": "Berakhot 13a · Gemara · g2",
+      "layer": "gemara",
+      "original": "(דברי הימים א א, כז) אברם הוא אברהם בתחלה נעשה אב לארם ולבסוף נעשה אב לכל העולם כולו שרי היא שרה בתחלה נעשית שרי לאומתה ולבסוף נעשית שרה לכל העולם כולו:",
+      "nl": "‘Abram, dat is Abraham’ (1 Kronieken 1:27). Eerst werd hij vader van Aram; uiteindelijk werd hij vader van de hele wereld. Sarai, dat is Sara: eerst werd zij vorstin van haar eigen volk; uiteindelijk werd zij vorstin van de hele wereld.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg hoort in de namen Avram en Avraham “vader van Aram” en “vader van de menigte”; bij Sarai en Sara wordt gespeeld met het woord voor vorstin."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:13a:g3",
+      "locator": "Berakhot 13a · Gemara · g3",
+      "layer": "gemara",
+      "original": "תני בר קפרא כל הקורא לאברהם אברם עובר בעשה שנאמר (בראשית יז, ה) והיה שמך אברהם רבי אליעזר אומר עובר בלאו שנאמר (בראשית יז, ה) ולא יקרא עוד [את] שמך אברם אלא מעתה הקורא לשרה שרי הכי נמי התם קודשא בריך הוא אמר לאברהם (בראשית יז, טו) שרי אשתך לא תקרא את שמה שרי כי שרה שמה אלא מעתה הקורא ליעקב יעקב ה\"נ שאני התם דהדר אהדריה קרא דכתיב (בראשית מו, ב) ויאמר אלהים לישראל במראות הלילה ויאמר יעקב יעקב מתיב רבי יוסי בר אבין ואיתימא רבי יוסי בר זבידא (נחמיה ט, ז) אתה הוא ה' האלהים אשר בחרת באברם אמר ליה התם נביא הוא דקא מסדר לשבחיה דרחמנא מאי דהוה מעיקרא:",
+      "nl": "Bar Kappara leerde: wie Abraham ‘Abram’ noemt, overtreedt een positief gebod, want er staat: ‘Je naam zal Abraham zijn’ (Genesis 17:5). Rabbi Eliëzer zegt: hij overtreedt een verbod, want er staat: ‘Je naam zal niet langer Abram worden genoemd’ (Genesis 17:5). Geldt dat dan ook voor wie Sara ‘Sarai’ noemt? Daar zei de Heilige, gezegend is Hij, tegen Abraham: ‘Sarai, je vrouw, haar naam moet jíj niet Sarai noemen, want Sara is haar naam’ (Genesis 17:15). Geldt dat dan ook voor wie Jakob ‘Jakob’ noemt? Daar is het anders, want de Schrift gebruikt die naam later opnieuw: ‘God zei tegen Israël in nachtelijke visioenen: Jakob, Jakob’ (Genesis 46:2). Rabbi Jose bar Avin, of volgens anderen rabbi Jose bar Zevida, wierp tegen: ‘U bent de HEER, de God die Abram heeft uitgekozen’ (Nehemia 9:7). Hij antwoordde: daar verhaalt de profeet de lof van de Barmhartige door te beschrijven wat er vroeger is gebeurd.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:13a:m1",
+      "locator": "Berakhot 13a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין",
+      "nl": "Misjna.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m2",
+      "ref": "bavli:berakhot:13a:m2",
+      "locator": "Berakhot 13a · Misjna · m2",
+      "layer": "mishnah",
+      "original": "היה קורא בתורה והגיע זמן המקרא אם כוון לבו יצא בפרקים שואל מפני הכבוד ומשיב ובאמצע שואל מפני היראה ומשיב דברי ר' מאיר ר' יהודה אומר באמצע שואל מפני היראה ומשיב מפני הכבוד ובפרקים שואל מפני הכבוד ומשיב שלום לכל אדם אלו הן בין הפרקים בין ברכה ראשונה לשניה בין שניה לשמע בין שמע לוהיה אם שמוע בין והיה אם שמוע לויאמר בין ויאמר לאמת ויציב ר' יהודה אומר בין ויאמר לאמת ויציב לא יפסיק אמר ר' יהושע בן קרחה למה קדמה פרשת שמע לוהיה אם שמוע כדי שיקבל עליו עול מלכות שמים תחלה ואחר כך מקבל עליו עול מצות והיה אם שמוע לויאמר שוהיה אם שמוע נוהג בין ביום ובין בלילה ויאמר אינו נוהג אלא ביום בלבד:",
+      "nl": "Als iemand in de Tora leest en de tijd voor de recitatie aanbreekt, heeft hij zijn plicht vervuld indien hij zijn hart richtte. Tussen de gedeelten mag hij uit eerbied een groet beginnen en een groet beantwoorden; midden in een gedeelte mag hij uit vrees een groet beginnen en een groet beantwoorden. Dit zijn de woorden van rabbi Meïr. Rabbi Jehoeda zegt: midden in een gedeelte mag hij uit vrees een groet beginnen en uit eerbied antwoorden. Tussen de gedeelten mag hij uit eerbied een groet beginnen en iedereen groeten ter beantwoording. Dit zijn de overgangen tussen de gedeelten: tussen de eerste en de tweede zegening; tussen de tweede zegening en ‘Hoor’; tussen ‘Hoor’ en ‘En het zal gebeuren als jullie luisteren’; tussen ‘En het zal gebeuren als jullie luisteren’ en ‘En Hij zei’; en tussen ‘En Hij zei’ en ‘Waar en bestendig’. Rabbi Jehoeda zegt: tussen ‘En Hij zei’ en ‘Waar en bestendig’ mag men niet onderbreken. Rabbi Jehosjoea ben Korcha zei: waarom staat ‘Hoor’ vóór ‘En het zal gebeuren als jullie luisteren’? Om eerst het juk van het koningschap van de hemel op zich te nemen en daarna het juk van de geboden. En waarom staat ‘En het zal gebeuren als jullie luisteren’ vóór ‘En Hij zei’? Omdat ‘En het zal gebeuren als jullie luisteren’ zowel overdag als ’s nachts van toepassing is, terwijl ‘En Hij zei’ alleen overdag van toepassing is.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het laatste gedeelte bevat het gebod van de tsietsiet, dat hier als een gebod voor overdag wordt beschouwd."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:13a:g4",
+      "locator": "Berakhot 13a · Gemara · g4",
+      "layer": "gemara",
+      "original": "גמרא ש\"מ מצות צריכות כוונה מאי אם כוון לבו לקרות לקרות והא קא קרי בקורא להגיה:",
+      "nl": "Gemara. Blijkt hieruit dat geboden een bewuste bedoeling vereisen? Wat betekent dan ‘indien hij zijn hart richtte’? Om te lezen. Om te lezen? Maar hij was toch al aan het lezen! Het gaat om iemand die leest om de tekst te corrigeren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Wie alleen controleert of de letters goed zijn geschreven, heeft niet noodzakelijk de bedoeling de woorden als recitatie te lezen."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:13a:g5",
+      "locator": "Berakhot 13a · Gemara · g5",
+      "layer": "gemara",
+      "original": "ת\"ר ק\"ש ככתבה דברי רבי וחכ\"א בכל לשון מ\"ט דרבי אמר קרא והיו בהוייתן יהו ורבנן מאי טעמייהו אמר קרא שמע בכל לשון שאתה שומע ולרבי נמי הא כתיב שמע ההוא מבעי ליה השמע לאזניך מה שאתה מוציא מפיך ורבנן סברי להו כמאן דאמר לא השמיע לאזנו יצא ולרבנן נמי הא כתיב והיו ההוא מבעי להו שלא יקרא למפרע ורבי שלא יקרא למפרע מנא ליה נפקא ליה מדברים הדברים ורבנן דברים הדברים לא דרשי למימרא דסבר רבי דכל התורה כולה בכל לשון נאמרה דאי סלקא דעתך בלשון הקודש נאמרה והיו דכתב רחמנא למה לי איצטריך משום דכתיב שמע למימרא דסברי רבנן דכל התורה כולה בלשון הקודש נאמרה דאי סלקא דעתך בכל לשון נאמרה שמע דכתב רחמנא למה לי איצטריך משום דכתיב והיו:",
+      "nl": "Onze meesters leerden: het Sjema moet worden gereciteerd zoals het geschreven is; dit zijn de woorden van Rabbi. De wijzen zeggen: in elke taal. Wat is Rabbi’s reden? De Schrift zegt ‘zij zullen zijn’: zij moeten blijven zoals zij zijn. Wat is de reden van de wijzen? De Schrift zegt ‘hoor’: in elke taal die je verstaat. Maar ook volgens Rabbi staat er toch ‘hoor’? Dat heeft hij nodig voor: laat je oren horen wat je mond uitspreekt. De wijzen volgen degene die zegt dat iemand ook heeft voldaan wanneer hij zijn eigen oren niet heeft laten horen. Maar ook volgens de wijzen staat er toch ‘zij zullen zijn’? Dat hebben zij nodig om te leren dat men niet in omgekeerde volgorde mag reciteren. Waaruit leidt Rabbi af dat men niet in omgekeerde volgorde mag reciteren? Uit ‘woorden’ tegenover ‘de woorden’. De wijzen leiden niets af uit ‘woorden’ tegenover ‘de woorden’. Betekent dit dat Rabbi meent dat de hele Tora in elke taal mag worden gezegd? Als je zou denken dat zij in de heilige taal moet worden gezegd, waarom schreef de Barmhartige dan ‘zij zullen zijn’? Dat was nodig vanwege ‘hoor’. Betekent dit dat de wijzen menen dat de hele Tora in de heilige taal moet worden gezegd? Als je zou denken dat zij in elke taal mag worden gezegd, waarom schreef de Barmhartige dan ‘hoor’? Dat was nodig vanwege ‘zij zullen zijn’.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "“De hele Tora ... gezegd” is compact: de precieze reikwijdte van de vereiste taal voor Torateksten blijft hier onuitgewerkt. De argumentatie onderzoekt wat men uit het extra woord kan afleiden."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:13a:g6",
+      "locator": "Berakhot 13a · Gemara · g6",
+      "layer": "gemara",
+      "original": "ת\"ר והיו שלא יקרא למפרע הדברים על לבבך יכול תהא כל הפרשה צריכה כוונה תלמוד לומר האלה עד כאן צריכה כוונה מכאן ואילך אין צריכה כוונה דברי ר' אליעזר א\"ל רבי עקיבא הרי הוא אומר",
+      "nl": "Onze meesters leerden: ‘zij zullen zijn’ leert dat men niet in omgekeerde volgorde mag reciteren. ‘De woorden ... op je hart’: zou het hele gedeelte gerichte aandacht vereisen? De Schrift zegt ‘deze’: tot hiertoe is gerichte aandacht nodig, daarna niet. Dit zijn de woorden van rabbi Eliëzer. Rabbi Akiva zei tegen hem: er staat toch:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Het geciteerde vers en het antwoord volgen op 13b."
+        }
+      ]
+    }
+  ]
+}

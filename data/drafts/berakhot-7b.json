@@ -1,0 +1,183 @@
+{
+  "id": "7b",
+  "title": "7b · Namen, rechtvaardigheid en gezamenlijk gebed",
+  "scope": "Volledige hoofdtekst van amud 7b in de gekozen editie; Gemara. De laatste uitspraak loopt door op 8a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%96_%D7%91&oldid=2851555",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:7b:g1",
+      "locator": "Berakhot 7b · Gemara · g1",
+      "layer": "gemara",
+      "original": "א\"ר יוחנן משום ר\"ש בן יוחי מיום שברא הקב\"ה את העולם לא היה אדם שקראו להקב\"ה אדון עד שבא אברהם וקראו אדון שנאמר (בראשית טו, ח) ויאמר אדני (אלהים) במה אדע כי אירשנה. אמר רב אף דניאל לא נענה אלא בשביל אברהם שנא' (דניאל ט, יז) ועתה שמע אלהינו אל תפלת עבדך ואל תחנוניו והאר פניך על מקדשך השמם למען אדני למענך מבעי ליה אלא למען אברהם שקראך אדון:",
+      "nl": "Rabbi Jochanan zei namens rabbi Sjimon ben Jochai: vanaf de dag dat de Heilige, gezegend zij Hij, de wereld schiep, was er niemand die Hem “Heer” noemde, totdat Avraham kwam en Hem “Heer” noemde, want er staat (Genesis 15:8): “Hij zei: Heer (GOD), waaraan zal ik weten dat ik het zal erven?” Rav zei: ook Daniël werd alleen ter wille van Avraham verhoord, want er staat (Daniël 9:17): “Nu dan, onze God, luister naar het gebed van uw dienaar en naar zijn smeekbeden; laat uw aangezicht over uw verwoeste heiligdom lichten ter wille van de Heer.” Er had toch “ter wille van Uzelf” moeten staan? Het betekent dus: ter wille van Avraham, die U “Heer” noemde.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:7b:g2",
+      "locator": "Berakhot 7b · Gemara · g2",
+      "layer": "gemara",
+      "original": "וא\"ר יוחנן משום ר\"ש בן יוחי מנין שאין מרצין לו לאדם בשעת כעסו שנאמר (שמות לג, יד) פני ילכו והנחותי לך:",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: waaruit blijkt dat men iemand niet tot bedaren brengt terwijl hij boos is? Er staat (Exodus 33:14): “Mijn aangezicht zal gaan en Ik zal je rust geven.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:7b:g3",
+      "locator": "Berakhot 7b · Gemara · g3",
+      "layer": "gemara",
+      "original": "ואמר ר\"י משום ר\"ש בן יוחי מיום שברא הקב\"ה את עולמו לא היה אדם שהודה להקב\"ה עד שבאתה לאה והודתו שנאמר (בראשית כט, לה) הפעם אודה את ה':",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: vanaf de dag dat de Heilige, gezegend zij Hij, zijn wereld schiep, was er niemand die Hem dankte, totdat Lea kwam en Hem dankte, want er staat (Genesis 29:35): “Ditmaal zal ik de HEER danken.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Lea spreekt deze dank uit bij de geboorte van Jehoeda; zijn naam wordt met het werkwoord danken verbonden."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:7b:g4",
+      "locator": "Berakhot 7b · Gemara · g4",
+      "layer": "gemara",
+      "original": "ראובן א\"ר אלעזר אמרה לאה ראו מה בין בני לבן חמי דאילו בן חמי אע\"ג דמדעתיה זבניה לבכירותיה דכתיב (בראשית כה, לג) וימכר את בכרתו ליעקב חזו מה כתיב ביה (בראשית כז, מא) וישטם עשו את יעקב וכתיב (בראשית כז, לו) ויאמר הכי קרא שמו יעקב ויעקבני זה פעמים וגו' ואילו בני אע\"ג דעל כרחיה שקליה יוסף לבכירותיה מניה דכתיב (דברי הימים א ה, א) ובחללו יצועי אביו נתנה בכורתו לבני יוסף אפי' הכי לא אקנא ביה דכתיב (בראשית לז, כא) וישמע ראובן ויצילהו מידם:",
+      "nl": "Reoeven: rabbi Elazar zei: Lea zei: “Zie het verschil tussen mijn zoon en de zoon van mijn schoonvader. De zoon van mijn schoonvader verkocht zijn eerstgeboorterecht vrijwillig, want er staat (Genesis 25:33): ‘Hij verkocht zijn eerstgeboorterecht aan Jaäkov.’ Kijk toch wat over hem geschreven staat (Genesis 27:41): ‘Esav haatte Jaäkov’, en (Genesis 27:36): ‘Hij zei: heet hij daarom Jaäkov, omdat hij mij nu tweemaal heeft verdrongen?’, enzovoort. Mijn zoon daarentegen: hoewel Josef hem tegen zijn wil het eerstgeboorterecht ontnam, want er staat (1 Kronieken 5:1): ‘Toen hij het bed van zijn vader ontheiligde, werd zijn eerstgeboorterecht aan de zonen van Josef gegeven’, was hij toch niet jaloers op hem, want er staat (Genesis 37:21): ‘Reoeven hoorde het en redde hem uit hun hand.’”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De naam Reoeven wordt verbonden met reoe, “zie”, en ben, “zoon”. De zoon van Lea’s schoonvader is Esav."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:7b:g5",
+      "locator": "Berakhot 7b · Gemara · g5",
+      "layer": "gemara",
+      "original": "רות מאי רות א\"ר יוחנן שזכתה ויצא ממנה דוד שריוהו להקב\"ה בשירות ותשבחות מנא לן דשמא גרים אמר רבי אליעזר דאמר קרא (תהלים מו, ט) לכו חזו מפעלות ה' אשר שם שמות בארץ אל תקרי שמות אלא שמות:",
+      "nl": "Roet: wat betekent Roet? Rabbi Jochanan zei: zij verdiende het dat David uit haar voortkwam, die de Heilige, gezegend zij Hij, verzadigde met liederen en lofzangen. Waaruit weten wij dat een naam invloed heeft? Rabbi Eliëzer zei: de Schrift zegt (Psalmen 46:9): “Kom, zie de werken van de HEER, die verwoestingen op aarde heeft aangericht.” Lees niet “verwoestingen”, maar “namen”.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De woordspeling op “verwoestingen” en “namen” gebruikt dezelfde medeklinkers שמות met verschillende vocalisatie. Roet wordt verbonden met het werkwoord verzadigen."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:7b:g6",
+      "locator": "Berakhot 7b · Gemara · g6",
+      "layer": "gemara",
+      "original": "וא\"ר יוחנן משום רבי שמעון בן יוחי קשה תרבות רעה בתוך ביתו של אדם יותר ממלחמת גוג ומגוג שנאמר (תהלים ג, א) מזמור לדוד בברחו מפני אבשלום בנו וכתיב בתריה (תהלים ג, ב) ה' מה רבו צרי רבים קמים עלי ואילו גבי מלחמת גוג ומגוג כתיב (תהלים ב, א) למה רגשו גוים ולאומים יהגו ריק ואילו מה רבו צרי לא כתיב:",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: slecht gedrag in iemands eigen huis is zwaarder dan de oorlog van Gog en Magog, want er staat (Psalmen 3:1): “Een psalm van David, toen hij vluchtte voor zijn zoon Avsjalom.” Daarna staat (Psalmen 3:2): “HEER, hoe talrijk zijn mijn tegenstanders; velen staan tegen mij op.” Bij de oorlog van Gog en Magog staat daarentegen (Psalmen 2:1): “Waarom woelen de volken en bedenken de naties wat leeg is?” Maar “hoe talrijk zijn mijn tegenstanders” staat daar niet.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:7b:g7",
+      "locator": "Berakhot 7b · Gemara · g7",
+      "layer": "gemara",
+      "original": "מזמור לדוד בברחו מפני אבשלום בנו מזמור לדוד קינה לדוד מיבעי ליה אמר ר' שמעון בן אבישלום משל למה הדבר דומה לאדם שיצא עליו שטר חוב קודם שפרעו היה עצב לאחר שפרעו שמח אף כן דוד כיון שאמר לו הקב\"ה (שמואל ב יב, יא) הנני מקים עליך רעה מביתך היה עצב אמר שמא עבד או ממזר הוא דלא חייס עלי כיון דחזא דאבשלום הוא שמח משום הכי אמר מזמור:",
+      "nl": "“Een psalm van David, toen hij vluchtte voor zijn zoon Avsjalom.” Een psalm van David? Er had toch “een klaaglied van David” moeten staan? Rabbi Sjimon ben Avisjalom zei: waarmee is dit te vergelijken? Met iemand tegen wie een schuldbewijs uitstaat. Voordat hij betaald heeft, is hij bedroefd; nadat hij betaald heeft, verheugt hij zich. Zo was ook David bedroefd toen de Heilige, gezegend zij Hij, tegen hem zei (2 Samuel 12:11): “Zie, Ik zal vanuit je eigen huis onheil tegen je doen opstaan.” Hij dacht: misschien is het een slaaf of een onwettige zoon die geen medelijden met mij heeft. Toen hij zag dat het Avsjalom was, verheugde hij zich. Daarom zei hij “een psalm”.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "“Onwettige zoon” vertaalt mamzer, een specifieke afstammingsstatus in de rabbijnse rechtsleer."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:7b:g8",
+      "locator": "Berakhot 7b · Gemara · g8",
+      "layer": "gemara",
+      "original": "וא\"ר יוחנן משום ר\"ש בן יוחי מותר להתגרות ברשעים בעולם הזה שנאמר (משלי כח, ד) עוזבי תורה יהללו רשע ושומרי תורה יתגרו בם תניא נמי הכי רבי דוסתאי בר' מתון אומר מותר להתגרות ברשעים בעוה\"ז שנא' עוזבי תורה יהללו רשע וגו' ואם לחשך אדם לומר והא כתיב (תהלים לז, א) אל תתחר במרעים אל תקנא בעושי עולה אמור לו מי שלבו נוקפו אומר כן אלא אל תתחר במרעים להיות כמרעים אל תקנא בעושי עולה להיות כעושי עולה ואומר (משלי כג, יז) אל יקנא לבך בחטאים כי אם ביראת ה' כל היום איני והאמר ר' יצחק אם ראית רשע שהשעה משחקת לו אל תתגרה בו שנאמר (תהלים י, ה) יחילו דרכיו בכל עת ולא עוד אלא שזוכה בדין שנאמר (תהלים י, ה) מרום משפטיך מנגדו ולא עוד אלא שרואה בצריו שנאמר (תהלים י, ה) כל צורריו יפיח בהם לא קשיא הא במילי דידיה הא במילי דשמיא ואיבעית אימא הא והא במילי דשמיא ולא קשיא הא ברשע שהשעה משחקת לו הא ברשע שאין השעה משחקת לו ואב\"א הא והא ברשע שהשעה משחקת לו ולא קשיא הא בצדיק גמור הא בצדיק שאינו גמור דאמר רב הונא מאי דכתיב (חבקוק א, יג) למה תביט בוגדים תחריש בבלע רשע צדיק ממנו וכי רשע בולע צדיק והא כתיב (תהלים לז, לג) ה' לא יעזבנו בידו וכתיב (משלי יב, כא) לא יאונה לצדיק כל און אלא צדיק ממנו בולע צדיק גמור אינו בולע ואב\"א שעה משחקת לו שאני:",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: het is toegestaan boosdoeners in deze wereld te bestrijden, want er staat (Spreuken 28:4): “Wie de Tora verlaten, prijzen de boosdoener; wie de Tora bewaren, strijden tegen hen.” Zo is ook geleerd: rabbi Dostai, de zoon van rabbi Mattoen, zegt: het is toegestaan boosdoeners in deze wereld te bestrijden, want er staat: “Wie de Tora verlaten, prijzen de boosdoener”, enzovoort. Als iemand je influistert: er staat toch (Psalmen 37:1): “Wedijver niet met kwaaddoeners, wees niet jaloers op wie onrecht doen”, zeg dan: iemand wiens hart hem verwijten maakt, zegt dat. Het betekent: wedijver niet met kwaaddoeners om zelf een kwaaddoener te worden; wees niet jaloers op wie onrecht doen om zelf onrecht te doen. Er staat ook (Spreuken 23:17): “Laat je hart niet jaloers zijn op zondaars, maar wees de hele dag in ontzag voor de HEER.” Is dat zo? Rabbi Jitschak zei toch: als je een boosdoener ziet die voorspoed heeft, bestrijd hem dan niet, want er staat (Psalmen 10:5): “Zijn wegen slagen te allen tijde.” Bovendien wint hij voor het gerecht, want er staat (Psalmen 10:5): “Uw oordelen staan hoog, buiten zijn bereik.” Bovendien ziet hij zijn tegenstanders ten val komen, want er staat (Psalmen 10:5): “Al zijn tegenstanders blaast hij weg.” Er is geen moeilijkheid: het ene betreft zijn eigen zaken, het andere zaken van de Hemel. Je kunt ook zeggen: beide betreffen zaken van de Hemel en er is geen moeilijkheid; het ene betreft een boosdoener die voorspoed heeft, het andere een boosdoener die geen voorspoed heeft. Je kunt ook zeggen: beide betreffen een boosdoener die voorspoed heeft en er is geen moeilijkheid; het ene betreft een volkomen rechtvaardige, het andere iemand die niet volkomen rechtvaardig is. Rav Hoena zei immers: wat betekent wat geschreven staat (Habakuk 1:13): “Waarom ziet U trouwelozen aan en zwijgt U wanneer een boosdoener iemand verslindt die rechtvaardiger is dan hij?” Kan een boosdoener dan een rechtvaardige verslinden? Er staat toch (Psalmen 37:33): “De HEER laat hem niet in zijn hand”, en (Spreuken 12:21): “Geen onheil treft de rechtvaardige.” Hij verslindt dus iemand die rechtvaardiger is dan hij, maar geen volkomen rechtvaardige. Je kunt ook zeggen: wanneer de boosdoener voorspoed heeft, is het anders.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g9",
+      "ref": "bavli:berakhot:7b:g9",
+      "locator": "Berakhot 7b · Gemara · g9",
+      "layer": "gemara",
+      "original": "וא\"ר יוחנן משום רבי שמעון בן יוחי כל הקובע מקום לתפלתו אויביו נופלים תחתיו שנאמר (שמואל ב ז, י) ושמתי מקום לעמי לישראל ונטעתיו ושכן תחתיו ולא ירגז עוד ולא יוסיפו בני עולה לענותו כאשר בראשונה רב הונא רמי כתיב לענותו וכתיב לכלותו בתחלה לענותו ולבסוף לכלותו:",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: wie een vaste plaats voor zijn gebed heeft, diens vijanden vallen onder hem, want er staat (2 Samuel 7:10): “Ik zal een plaats bestemmen voor mijn volk Israël en het planten, zodat het op zijn plaats woont en niet meer wordt opgeschrikt; boosdoeners zullen het niet meer kwellen zoals vroeger.” Rav Hoena wees op een verschil: er staat “het kwellen”, en er staat “het vernietigen”. Eerst ging het om kwellen en uiteindelijk om vernietigen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 9,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De tweede formulering komt uit de parallelle tekst in 1 Kronieken 17:9. De grondtekst geeft de korte tegenstelling zonder de verwijzing uit te schrijven."
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "ref": "bavli:berakhot:7b:g10",
+      "locator": "Berakhot 7b · Gemara · g10",
+      "layer": "gemara",
+      "original": "וא\"ר יוחנן משום רבי שמעון בן יוחי גדולה שמושה של תורה יותר מלמודה שנא' (מלכים ב ג, יא) פה אלישע בן שפט אשר יצק מים על ידי אליהו למד לא נאמר אלא יצק מלמד שגדולה שמושה יותר מלמודה:",
+      "nl": "Rabbi Jochanan zei verder namens rabbi Sjimon ben Jochai: het dienen van een Toraleraar is groter dan het leren van de Tora, want er staat (2 Koningen 3:11): “Hier is Elisja, de zoon van Sjafat, die water over Elia’s handen goot.” Er staat niet “die leerde”, maar “die water goot”. Dit leert dat het dienen groter is dan het leren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 10,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g11",
+      "ref": "bavli:berakhot:7b:g11",
+      "locator": "Berakhot 7b · Gemara · g11",
+      "layer": "gemara",
+      "original": "א\"ל רבי יצחק לרב נחמן מ\"ט לא אתי מר לבי כנישתא לצלויי אמר ליה לא יכילנא א\"ל לכנפי למר עשרה וליצלי אמר ליה טריחא לי מלתא ולימא ליה מר לשלוחא דצבורא בעידנא דמצלי צבורא ליתי ולודעיה למר א\"ל מאי כולי האי א\"ל דאמר ר' יוחנן משום ר\"ש בן יוחי",
+      "nl": "Rabbi Jitschak vroeg rav Nachman: “Waarom komt de meester niet naar de synagoge om te bidden?” Hij zei: “Ik kan het niet.” Hij zei: “Laat de meester dan tien mensen bijeenroepen en bidden.” Hij zei: “Dat is mij te veel moeite.” Hij zei: “Laat de meester dan de voorganger vragen op het tijdstip dat de gemeenschap bidt te komen en de meester daarvan op de hoogte te stellen.” Hij vroeg: “Waarom al die moeite?” Hij antwoordde: “Want rabbi Jochanan zei namens rabbi Sjimon ben Jochai:",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "sourceParagraph": 11,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Het aangehaalde gezegde volgt op 8a."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "corpus": "bavli",
+  "tractate": "niddah",
+  "title": "Nidda",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%A0%D7%99%D7%93%D7%94",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&oldid=747563",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%A0%D7%99%D7%93%D7%94&action=history",
+  "retrievedAt": "2026-10-25T16:50:02.214307+00:00",
+  "htmlSha256": "65c3c594fe4739cc34eab3aa9936a2f0367da645c1d6d6919681a8b2fc9ad4e9",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A0%D7%99%D7%93%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A0%D7%99%D7%93%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A0%D7%99%D7%93%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A0%D7%99%D7%93%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "#",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "#קישורים_חיצונים",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279237#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&oldid=747563",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&id=747563&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25A0%25D7%2599%25D7%2593%25D7%2594"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279237",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי נידה פרק א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%91_%D7%90",
+      "title": "נידה ב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%91_%D7%91",
+      "title": "נידה ב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%92_%D7%90",
+      "title": "נידה ג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%92_%D7%91",
+      "title": "נידה ג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%93_%D7%90",
+      "title": "נידה ד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%93_%D7%91",
+      "title": "נידה ד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%94_%D7%90",
+      "title": "נידה ה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%94_%D7%91",
+      "title": "נידה ה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%95_%D7%90",
+      "title": "נידה ו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%95_%D7%91",
+      "title": "נידה ו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%96_%D7%90",
+      "title": "נידה ז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%96_%D7%91",
+      "title": "נידה ז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%97_%D7%90",
+      "title": "נידה ח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%97_%D7%91",
+      "title": "נידה ח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98_%D7%90",
+      "title": "נידה ט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98_%D7%91",
+      "title": "נידה ט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99_%D7%90",
+      "title": "נידה י א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99_%D7%91",
+      "title": "נידה י ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%90_%D7%90",
+      "title": "נידה יא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%90_%D7%91",
+      "title": "נידה יא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%91_%D7%90",
+      "title": "נידה יב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%91_%D7%91",
+      "title": "נידה יב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי נידה פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%92_%D7%90",
+      "title": "נידה יג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%92_%D7%91",
+      "title": "נידה יג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%93_%D7%90",
+      "title": "נידה יד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%93_%D7%91",
+      "title": "נידה יד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98%D7%95_%D7%90",
+      "title": "נידה טו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98%D7%95_%D7%91",
+      "title": "נידה טו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98%D7%96_%D7%90",
+      "title": "נידה טז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%98%D7%96_%D7%91",
+      "title": "נידה טז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%96_%D7%90",
+      "title": "נידה יז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%96_%D7%91",
+      "title": "נידה יז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%97_%D7%90",
+      "title": "נידה יח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%97_%D7%91",
+      "title": "נידה יח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%98_%D7%90",
+      "title": "נידה יט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%99%D7%98_%D7%91",
+      "title": "נידה יט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B_%D7%90",
+      "title": "נידה כ א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B_%D7%91",
+      "title": "נידה כ ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%90_%D7%90",
+      "title": "נידה כא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי נידה פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%90_%D7%90",
+      "title": "נידה כא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%90_%D7%91",
+      "title": "נידה כא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%91_%D7%90",
+      "title": "נידה כב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%91_%D7%91",
+      "title": "נידה כב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%92_%D7%90",
+      "title": "נידה כג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%92_%D7%91",
+      "title": "נידה כג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%93_%D7%90",
+      "title": "נידה כד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%93_%D7%91",
+      "title": "נידה כד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%94_%D7%90",
+      "title": "נידה כה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%94_%D7%91",
+      "title": "נידה כה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%95_%D7%90",
+      "title": "נידה כו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%95_%D7%91",
+      "title": "נידה כו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%96_%D7%90",
+      "title": "נידה כז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%96_%D7%91",
+      "title": "נידה כז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%97_%D7%90",
+      "title": "נידה כח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%97_%D7%91",
+      "title": "נידה כח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%98_%D7%90",
+      "title": "נידה כט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9B%D7%98_%D7%91",
+      "title": "נידה כט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C_%D7%90",
+      "title": "נידה ל א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C_%D7%91",
+      "title": "נידה ל ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%90_%D7%90",
+      "title": "נידה לא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%90_%D7%91",
+      "title": "נידה לא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי נידה פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%90_%D7%91",
+      "title": "נידה לא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%91_%D7%90",
+      "title": "נידה לב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%91_%D7%91",
+      "title": "נידה לב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%92_%D7%90",
+      "title": "נידה לג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%92_%D7%91",
+      "title": "נידה לג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%93_%D7%90",
+      "title": "נידה לד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%93_%D7%91",
+      "title": "נידה לד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%94_%D7%90",
+      "title": "נידה לה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%94_%D7%91",
+      "title": "נידה לה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%95_%D7%90",
+      "title": "נידה לו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%95_%D7%91",
+      "title": "נידה לו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%96_%D7%90",
+      "title": "נידה לז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%96_%D7%91",
+      "title": "נידה לז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%97_%D7%90",
+      "title": "נידה לח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%97_%D7%91",
+      "title": "נידה לח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%98_%D7%90",
+      "title": "נידה לט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9C%D7%98_%D7%91",
+      "title": "נידה לט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי נידה פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E_%D7%90",
+      "title": "נידה מ א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E_%D7%91",
+      "title": "נידה מ ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%90_%D7%90",
+      "title": "נידה מא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%90_%D7%91",
+      "title": "נידה מא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%91_%D7%90",
+      "title": "נידה מב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%91_%D7%91",
+      "title": "נידה מב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%92_%D7%90",
+      "title": "נידה מג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%92_%D7%91",
+      "title": "נידה מג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%93_%D7%90",
+      "title": "נידה מד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%93_%D7%91",
+      "title": "נידה מד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%94_%D7%90",
+      "title": "נידה מה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%94_%D7%91",
+      "title": "נידה מה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%95_%D7%90",
+      "title": "נידה מו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%95_%D7%91",
+      "title": "נידה מו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%96_%D7%90",
+      "title": "נידה מז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%96_%D7%91",
+      "title": "נידה מז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%97_%D7%90",
+      "title": "נידה מח א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי נידה פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%97_%D7%90",
+      "title": "נידה מח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%97_%D7%91",
+      "title": "נידה מח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%98_%D7%90",
+      "title": "נידה מט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%9E%D7%98_%D7%91",
+      "title": "נידה מט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0_%D7%90",
+      "title": "נידה נ א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0_%D7%91",
+      "title": "נידה נ ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%90_%D7%90",
+      "title": "נידה נא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%90_%D7%91",
+      "title": "נידה נא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%91_%D7%90",
+      "title": "נידה נב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%91_%D7%91",
+      "title": "נידה נב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%92_%D7%90",
+      "title": "נידה נג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%92_%D7%91",
+      "title": "נידה נג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%93_%D7%90",
+      "title": "נידה נד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%93_%D7%91",
+      "title": "נידה נד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי נידה פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%93_%D7%91",
+      "title": "נידה נד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%94_%D7%90",
+      "title": "נידה נה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%94_%D7%91",
+      "title": "נידה נה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%95_%D7%90",
+      "title": "נידה נו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%95_%D7%91",
+      "title": "נידה נו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%96_%D7%90",
+      "title": "נידה נז א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי נידה פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%96_%D7%91",
+      "title": "נידה נז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%97_%D7%90",
+      "title": "נידה נח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%97_%D7%91",
+      "title": "נידה נח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%98_%D7%90",
+      "title": "נידה נט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%98",
+      "title": "בבלי נידה פרק ט"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A0%D7%98_%D7%91",
+      "title": "נידה נט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1_%D7%90",
+      "title": "נידה ס א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1_%D7%91",
+      "title": "נידה ס ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%90_%D7%90",
+      "title": "נידה סא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%90_%D7%91",
+      "title": "נידה סא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%91_%D7%90",
+      "title": "נידה סב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%91_%D7%91",
+      "title": "נידה סב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%92_%D7%90",
+      "title": "נידה סג א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%92_%D7%91",
+      "title": "נידה סג ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%93_%D7%90",
+      "title": "נידה סד א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%93_%D7%91",
+      "title": "נידה סד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94_%D7%A4%D7%A8%D7%A7_%D7%99",
+      "title": "בבלי נידה פרק י"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%93_%D7%91",
+      "title": "נידה סד ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%94_%D7%90",
+      "title": "נידה סה א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%94_%D7%91",
+      "title": "נידה סה ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%95_%D7%90",
+      "title": "נידה סו א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%95_%D7%91",
+      "title": "נידה סו ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%96_%D7%90",
+      "title": "נידה סז א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%96_%D7%91",
+      "title": "נידה סז ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%97_%D7%90",
+      "title": "נידה סח א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%97_%D7%91",
+      "title": "נידה סח ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%98_%D7%90",
+      "title": "נידה סט א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A1%D7%98_%D7%91",
+      "title": "נידה סט ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2_%D7%90",
+      "title": "נידה ע א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2_%D7%91",
+      "title": "נידה ע ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2%D7%90_%D7%90",
+      "title": "נידה עא א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2%D7%90_%D7%91",
+      "title": "נידה עא ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2%D7%91_%D7%90",
+      "title": "נידה עב א"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2%D7%91_%D7%91",
+      "title": "נידה עב ב"
+    },
+    {
+      "href": "/wiki/%D7%A0%D7%99%D7%93%D7%94_%D7%A2%D7%92_%D7%90",
+      "title": "נידה עג א"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&action=edit&section=1",
+      "title": "עריכת פסקה: \"קישורים חיצונים\""
+    },
+    {
+      "href": "http://beta.hebrewbooks.org/14311",
+      "class": "external text"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/PDF",
+      "title": "קובץ PDF"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_נידה&oldid=747563"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A0%D7%99%D7%93%D7%94&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

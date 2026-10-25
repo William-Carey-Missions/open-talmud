@@ -1,0 +1,49 @@
+{
+  "id": "21b",
+  "title": "21b · Gemeenschappelijk gebed en woorden van Tora",
+  "scope": "Volledige hoofdtekst van amud 21b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 21b — ongevocaliseerde Wikisource-editie, revisie 2851527; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%90_%D7%91&oldid=2851527",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:21b:g1",
+      "locator": "Berakhot 21b · Gemara · 1",
+      "layer": "gemara",
+      "original": "או צבור וצבור אבל יחיד לגבי צבור כמאן דלא צלי דמי קמ\"ל ואי אשמעינן הכא משום דלא אתחיל בה אבל התם דאתחיל בה אימא לא צריכא אמר רב הונא הנכנס לבית הכנסת ומצא צבור שמתפללין אם יכול להתחיל ולגמור עד שלא יגיע ש\"ץ למודים יתפלל ואם לאו אל יתפלל ריב\"ל אמר אם יכול להתחיל ולגמור עד שלא יגיע ש\"צ לקדושה יתפלל ואם לאו אל יתפלל במאי קא מפלגי מר סבר יחיד אומר קדושה ומר סבר אין יחיד אומר קדושה וכן אמר רב אדא בר אהבה מנין שאין היחיד אומר קדושה שנאמר (ויקרא כב, לב) ונקדשתי בתוך בני ישראל כל דבר שבקדושה לא יהא פחות מעשרה מאי משמע דתני רבנאי אחוה דרבי חייא בר אבא אתיא תוך תוך כתיב הכא ונקדשתי בתוך בני ישראל וכתיב התם (במדבר טז, כא) הבדלו מתוך העדה הזאת מה להלן עשרה אף כאן עשרה ודכולי עלמא מיהת מפסק לא פסיק איבעיא להו מהו להפסיק ליהא שמו הגדול מבורך כי אתא רב דימי אמר ר' יהודה ור\"ש תלמידי דרבי יוחנן אמרי לכל אין מפסיקין חוץ מן יהא שמו הגדול מבורך שאפילו עוסק במעשה מרכבה פוסק ולית הלכתא כותיה:",
+      "nl": "...of wanneer hij met een gemeenschap bad en opnieuw met een gemeenschap bidt. Maar iemand die alleen heeft gebeden, zou tegenover een gemeenschap gelden alsof hij niet had gebeden. Daarom leert hij ons dit. En als hij ons alleen het tweede geval had geleerd, zouden wij kunnen denken: daar geldt het omdat hij nog niet begonnen is, maar in het eerste geval, waarin hij al begonnen is, misschien niet. Daarom zijn beide uitspraken nodig. Rav Hoena zei: wie de synagoge binnengaat en een biddende gemeenschap aantreft, bidt als hij kan beginnen en eindigen voordat de voorganger bij “Wij danken” komt; anders bidt hij niet. Rabbi Jehosjoea ben Levi zei: als hij kan beginnen en eindigen voordat de voorganger bij de kedoesja komt, bidt hij; anders niet. Waarover verschillen zij? De ene meent dat een enkeling de kedoesja kan zeggen; de andere meent van niet. Zo zei ook Rav Adda bar Ahava: waaruit blijkt dat een enkeling de kedoesja niet zegt? Er staat: “Ik zal geheiligd worden te midden van de kinderen van Israël” (Leviticus 22:32). Voor iedere aangelegenheid van heiliging zijn ten minste tien personen nodig. Hoe volgt dat eruit? Ravnai, de broer van rabbi Chijja bar Abba, leerde: het woord “midden” wordt met “midden” verbonden. Hier staat “Ik zal geheiligd worden te midden van de kinderen van Israël” en daar: “Zonder jullie af uit het midden van deze gemeenschap” (Numeri 16:21). Zoals het daar om tien gaat, zo hier om tien. Allen zijn het er in elk geval over eens dat men zijn gebed hiervoor niet onderbreekt. Men vroeg: mag men onderbreken voor “Moge zijn grote naam gezegend zijn”? Toen Rav Dimi kwam, zei hij: rabbi Jehoeda en rabbi Sjimon, leerlingen van rabbi Jochanan, zeggen: men onderbreekt nergens voor, behalve voor “Moge zijn grote naam gezegend zijn”, want daarvoor onderbreekt zelfs iemand die zich met het werk van de hemelse wagen bezighoudt. De halakha volgt hem hierin niet.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21b-r2851527",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:21b:g2",
+      "locator": "Berakhot 21b · Gemara · 2",
+      "layer": "gemara",
+      "original": "ר' יהודה אומר מברך לפניהם ולאחריהם:",
+      "nl": "“Rabbi Jehoeda zegt: hij spreekt de zegeningen ervoor en erna uit.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21b-r2851527",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:21b:g3",
+      "locator": "Berakhot 21b · Gemara · 3",
+      "layer": "gemara",
+      "original": "למימרא דקסבר רבי יהודה בעל קרי מותר בדברי תורה והאמר ריב\"ל מנין לבעל קרי שאסור בדברי תורה שנאמר (דברים ד, ט) והודעתם לבניך ולבני בניך וסמיך ליה יום אשר עמדת וגו' מה להלן בעלי קריין אסורין אף כאן בעלי קריין אסורין וכי תימא רבי יהודה לא דריש סמוכים והאמר רב יוסף אפילו מאן דלא דריש סמוכים בכל התורה במשנה תורה דריש דהא רבי יהודה לא דריש סמוכין בכל התורה כולה ובמשנה תורה דריש ובכל התורה כולה מנא לן דלא דריש דתניא בן עזאי אומר נאמר (שמות כב, יז) מכשפה לא תחיה ונאמר כל שוכב עם בהמה מות יומת סמכו ענין לו לומר מה שוכב עם בהמה בסקילה אף מכשפה נמי בסקילה אמר ליה ר' יהודה וכי מפני שסמכו ענין לו נוציא לזה לסקילה אלא אוב וידעוני בכלל כל המכשפים היו ולמה יצאו להקיש להן ולומר לך מה אוב וידעוני בסקילה אף מכשפה בסקילה ובמשנה תורה מנא לן דדריש דתניא רבי אליעזר אומר נושא אדם אנוסת אביו ומפותת אביו אנוסת בנו ומפותת בנו ר' יהודה אוסר באנוסת אביו ובמפותת אביו ואמר רב גידל אמר רב מאי טעמא דר' יהודה דכתיב (דברים כג, א) לא יקח איש את אשת אביו ולא יגלה (את) כנף אביו כנף שראה אביו לא יגלה וממאי דבאנוסת אביו כתיב דסמיך ליה ונתן האיש השוכב עמה וגו' אמרי אין במשנה תורה דריש והני סמוכין מבעי ליה לאידך דריב\"ל דאמר ריב\"ל כל המלמד לבנו תורה מעלה עליו הכתוב כאלו קבלה מהר חורב שנאמר (דברים ד, ט) והודעתם לבניך ולבני בניך וכתיב בתריה יום אשר עמדת לפני ה' אלהיך בחורב תנן זב שראה קרי ונדה שפלטה שכבת זרע המשמשת וראתה דם צריכין טבילה ורבי יהודה פוטר עד כאן לא פטר רבי יהודה אלא בזב שראה קרי דמעיקרא לאו בר טבילה הוא אבל בעל קרי גרידא מחייב וכי תימא ה\"ה דאפילו בעל קרי גרידא נמי פטר רבי יהודה והאי דקא מפלגי בזב שראה קרי להודיעך כחן דרבנן אימא סיפא המשמשת וראתה דם צריכה טבילה למאן קתני לה אילימא לרבנן פשיטא השתא ומה זב שראה קרי דמעיקרא לאו בר טבילה הוא מחייבי רבנן המשמשת וראתה דם דמעיקרא בת טבילה היא לא כל שכן אלא לאו ר' יהודה היא ודוקא קתני לה",
+      "nl": "Betekent dit dat rabbi Jehoeda meent dat iemand die een zaadlozing heeft gehad, woorden van de Tora mag spreken? Rabbi Jehosjoea ben Levi heeft toch gezegd: waaruit blijkt dat woorden van de Tora voor iemand die een zaadlozing heeft gehad verboden zijn? Er staat: “Maak ze bekend aan je kinderen en je kleinkinderen” (Deuteronomium 4:9), en direct daarnaast: “De dag waarop je stond...” Zoals daar degenen die een zaadlozing hadden gehad uitgesloten waren, zo zijn zij ook hier uitgesloten. Mocht je zeggen dat rabbi Jehoeda niet uitlegt op grond van naast elkaar staande teksten: Rav Joseef heeft toch gezegd dat zelfs wie dat in de hele Tora niet doet, het in Deuteronomium wel doet! Rabbi Jehoeda doet het immers in de hele Tora niet, maar in Deuteronomium wel. Waaruit blijkt dat hij het in de hele Tora niet doet? Er is geleerd: Ben Azzai zegt: er staat “Een tovenares mag je niet laten leven” (Exodus 22:17), en er staat: “Ieder die met een dier ligt, zal zeker gedood worden.” De onderwerpen zijn naast elkaar gezet om te zeggen: zoals iemand die met een dier ligt door steniging sterft, zo ook een tovenares. Rabbi Jehoeda zei tegen hem: zouden wij iemand ter steniging uitleveren omdat de onderwerpen naast elkaar zijn gezet? Nee, de bezweerder en de waarzegger vielen onder alle tovenaars; waarom zijn zij afzonderlijk genoemd? Om de anderen met hen te vergelijken en je te zeggen: zoals de bezweerder en de waarzegger door steniging sterven, zo ook een tovenares. En waaruit blijkt dat hij in Deuteronomium wel zo uitlegt? Er is geleerd: rabbi Eliëzer zegt: een man mag trouwen met een vrouw die zijn vader heeft verkracht of verleid, of die zijn zoon heeft verkracht of verleid. Rabbi Jehoeda verbiedt het bij een vrouw die zijn vader heeft verkracht of verleid. Rav Giddel zei uit naam van Rav: wat is rabbi Jehoeda’s reden? Er staat: “Een man mag de vrouw van zijn vader niet nemen en de mantelvleugel van zijn vader niet ontbloten” (Deuteronomium 23:1). De mantelvleugel die zijn vader heeft gezien, mag hij niet ontbloten. Waaruit blijkt dat dit over de door zijn vader verkrachte vrouw geschreven staat? Omdat het naast “De man die met haar gelegen heeft, zal geven...” staat. Men antwoordt: inderdaad legt hij in Deuteronomium zo uit, maar deze naast elkaar staande teksten heeft hij nodig voor de andere uitspraak van rabbi Jehosjoea ben Levi. Die zei: ieder die zijn zoon Tora onderwijst, rekent de Schrift het toe alsof hij haar van de berg Chorev had ontvangen. Er staat: “Maak ze bekend aan je kinderen en je kleinkinderen”, en daarna: “De dag waarop je voor de HEER, je God, stond bij de Chorev.” Wij hebben geleerd: een zav die een zaadlozing zag, een menstruerende vrouw die zaad uitstootte en een vrouw die geslachtsgemeenschap had en daarna bloed zag, hebben onderdompeling nodig; rabbi Jehoeda stelt hen vrij. Rabbi Jehoeda stelt alleen de zav die een zaadlozing zag vrij, omdat hij vooraf al niet voor deze onderdompeling in aanmerking kwam; iemand met alleen een zaadlozing verplicht hij echter wel. Mocht je zeggen dat rabbi Jehoeda ook iemand met alleen een zaadlozing vrijstelt en dat zij juist over een zav die een zaadlozing zag verschillen om te tonen hoe ver de wijzen gaan: lees dan het slot. Een vrouw die geslachtsgemeenschap had en daarna bloed zag, heeft onderdompeling nodig. Voor wie wordt dit geleerd? Als je zegt: voor de wijzen, is het vanzelfsprekend. Als zij zelfs een zav die een zaadlozing zag verplichten, terwijl hij vooraf niet voor deze onderdompeling in aanmerking kwam, hoeveel te meer dan een vrouw die geslachtsgemeenschap had en daarna bloed zag, die vooraf wel in aanmerking kwam! Moet het dan niet rabbi Jehoeda zijn? Het geval is nauwkeurig geformuleerd...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21b-r2851527",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

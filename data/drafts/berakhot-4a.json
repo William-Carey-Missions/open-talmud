@@ -1,0 +1,107 @@
+{
+  "id": "4a",
+  "title": "4a · Davids vroomheid en de vrees voor zonde",
+  "scope": "Volledige hoofdtekst van amud 4a in de gekozen editie; Gemara. De discussie gaat verder op 4b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%93_%D7%90&oldid=2851562",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:4a:g1",
+      "locator": "Berakhot 4a · Gemara · g1",
+      "layer": "gemara",
+      "original": "בניהו בן יהוידע זה סנהדרין ואביתר אלו אורים ותומים וכן הוא אומר (שמואל ב כ כג): \"ובניהו בן יהוידע על הכרתי ועל הפלתי\" ולמה נקרא שמם כרתי ופלתי כרתי שכורתים דבריהם פלתי שמופלאים בדבריהם ואח\"כ שר צבא למלך יואב אמר רב יצחק בר אדא ואמרי לה אמר רב יצחק בריה דרב אידי מאי קרא (תהלים נז ט): \"עורה כבודי עורה הנבל וכינור אעירה שחר\". רבי זירא אמר משה לעולם הוה ידע ודוד נמי הוה ידע וכיון דדוד הוה ידע כנור למה ליה לאתעורי משנתיה וכיון דמשה הוה ידע למה ליה למימר כחצות משה קסבר שמא יטעו אצטגניני פרעה ויאמרו משה בדאי הוא דאמר מר למד לשונך לומר איני יודע שמא תתבדה ותאחז רב אשי אמר בפלגא אורתא דתליסר נגהי ארבסר הוה קאי והכי קאמר משה לישראל אמר הקב\"ה למחר כחצות הלילה כי האידנא אני יוצא בתוך מצרים:",
+      "nl": "Benajahu, de zoon van Jehojada, duidt het Sanhedrin aan; Evjatar duidt de oeriem en toemmiem aan. Zo staat er ook (2 Samuel 20:23): “Benajahu, de zoon van Jehojada, stond over de Keretieten en Peletieten.” Waarom heten zij Keretieten en Peletieten? Keretieten omdat zij hun uitspraken beslissend vaststellen; Peletieten omdat hun uitspraken wonderbaarlijk zijn. Daarna volgt: “Joav was de legerbevelhebber van de koning.” Rav Jitschak bar Adda zei — volgens anderen was het rav Jitschak, de zoon van rav Idi —: welke Schriftplaats ligt hieraan ten grondslag? (Psalmen 57:9): “Ontwaak, mijn eer; ontwaak, harp en lier; ik wil de dageraad wekken.” Rabbi Zeira zei: Mozes wist het wel degelijk, en David wist het eveneens. Als David het wist, waarvoor had hij de lier nodig? Om hem uit zijn slaap te wekken. Als Mozes het wist, waarom zei hij dan “omstreeks middernacht”? Mozes dacht: misschien vergissen de sterrenwichelaars van de farao zich en zeggen ze dat Mozes een leugenaar is. De meester heeft immers gezegd: wen je tong eraan te zeggen: “Ik weet het niet”, opdat je niet wordt gelogenstraft en betrapt. Rav Asji zei: Mozes stond om middernacht in de nacht van de dertiende op de veertiende. Zo zei Mozes tegen Israël: “De Heilige, gezegend zij Hij, zei: morgen, omstreeks middernacht zoals nu, ga Ik door Egypte.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de namenverklaring op 3b. De woordspelingen op Keretieten en Peletieten verbinden de namen met beslissen en uitzonderlijke kennis."
+        },
+        {
+          "type": "begrip",
+          "text": "De dertiende en veertiende zijn dagen van de maand Nisan; de uittocht volgt op de nacht van de veertiende op de vijftiende."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:4a:g2",
+      "locator": "Berakhot 4a · Gemara · g2",
+      "layer": "gemara",
+      "original": "(תהלים פו ב): \"לדוד שמרה נפשי כי חסיד אני\" לוי ור' יצחק חד אמר כך אמר דוד לפני הקב\"ה רבונו של עולם לא חסיד אני שכל מלכי מזרח ומערב ישנים עד שלש שעות ואני (תהלים קיט סב): \"חצות לילה אקום להודות לך\" ואידך כך אמר דוד לפני הקב\"ה רבונו של עולם לא חסיד אני שכל מלכי מזרח ומערב יושבים אגודות אגודות בכבודם ואני ידי מלוכלכות בדם ובשפיר ובשליא כדי לטהר אשה לבעלה ולא עוד אלא כל מה שאני עושה אני נמלך במפיבשת רבי ואומר לו מפיבשת רבי יפה דנתי יפה חייבתי יפה זכיתי יפה טהרתי יפה טמאתי ולא בושתי א\"ר יהושע בריה דרב אידי מאי קרא (תהלים קיט מו): \"ואדברה בעדותיך נגד מלכים ולא אבוש\" תנא לא מפיבשת שמו אלא איש בשת שמו ולמה נקרא שמו מפיבשת שהיה מבייש פני דוד בהלכה לפיכך זכה דוד ויצא ממנו כלאב וא\"ר יוחנן לא כלאב שמו אלא דניאל שמו ולמה נקרא שמו כלאב שהיה מכלים פני מפיבשת בהלכה ועליו אמר שלמה בחכמתו (משלי כג טו): \"בני אם חכם לבך ישמח לבי גם אני\" ואומר (משלי כז יא): \"חכם בני ושמח לבי ואשיבה חורפי דבר\".",
+      "nl": "(Psalmen 86:2): “Van David. Behoed mijn leven, want ik ben vroom.” Levi en rabbi Jitschak verschilden hierover. De een zei: zo sprak David voor de Heilige, gezegend zij Hij: “Heer van de wereld, ben ik niet vroom? Alle koningen van het oosten en het westen slapen tot drie uur, maar ik: ‘Midden in de nacht sta ik op om U te danken’” (Psalmen 119:62). De ander zei: zo sprak David voor de Heilige, gezegend zij Hij: “Heer van de wereld, ben ik niet vroom? Alle koningen van het oosten en het westen zitten in groepen in hun waardigheid, maar mijn handen zijn vuil van bloed, vruchtzak en nageboorte, om een vrouw rein te verklaren voor haar man. Bovendien raadpleeg ik bij alles wat ik doe Mefivosjet, mijn leraar. Ik vraag hem: ‘Mefivosjet, mijn leraar, heb ik juist geoordeeld, terecht schuldig verklaard, terecht vrijgesproken, terecht rein verklaard, terecht onrein verklaard?’ Ik schaamde mij daar niet voor.” Rabbi Jehosjoea, de zoon van rav Idi, zei: welke Schriftplaats ligt hieraan ten grondslag? (Psalmen 119:46): “Ik spreek over uw getuigenissen tegenover koningen en schaam mij niet.” Er is geleerd: zijn naam was niet Mefivosjet, maar Isj-Bosjet. Waarom werd hij Mefivosjet genoemd? Omdat hij David door zijn halachische kennis beschaamd deed staan. Daarom verdiende David het dat Kilav uit hem voortkwam. Rabbi Jochanan zei: zijn naam was niet Kilav, maar Daniël. Waarom werd hij Kilav genoemd? Omdat hij Mefivosjet in de halacha beschaamd deed staan. Over hem zei Salomo in zijn wijsheid (Spreuken 23:15): “Mijn zoon, als jouw hart wijs is, verheugt ook mijn hart zich.” En er staat (Spreuken 27:11): “Wees wijs, mijn zoon, en verheug mijn hart, dan kan ik antwoorden wie mij hoont.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Halacha is de rabbijnse rechtsleer. Bloed, vruchtzak en nageboorte worden onderzocht om de rituele status na bloedverlies of bevalling vast te stellen."
+        },
+        {
+          "type": "toelichting",
+          "text": "De passage verklaart de namen Mefivosjet en Kilav door woordspelingen op beschamen."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:4a:g3",
+      "locator": "Berakhot 4a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ודוד מי קרי לנפשיה חסיד והכתיב (תהלים כז יג): \"לולא האמנתי לראות בטוב ה׳ בארץ חיים\" ותנא משמיה דרבי יוסי למה נקוד על לולא אמר דוד לפני הקב\"ה רבש\"ע מובטח אני בך שאתה משלם שכר טוב לצדיקים לעתיד לבוא אבל איני יודע אם יש לי חלק ביניהם אם לאו שמא יגרום החטא כדר' יעקב בר אידי דר' יעקב בר אידי רמי כתיב (בראשית כח טו): \"והנה אנכי עמך ושמרתיך בכל אשר תלך\" וכתיב (בראשית לב ח): \"וירא יעקב מאד\" אמר שמא יגרום החטא כדתניא (שמות טו טז): \"עד יעבר עמך ה׳ עד יעבר עם זו קנית\" עד יעבור עמך ה' זו ביאה ראשונה עד יעבור עם זו קנית זו ביאה שנייה מכאן אמרו חכמים ראוים היו ישראל ליעשות להם נס בימי עזרא כדרך שנעשה להם בימי יהושע בן נון אלא שגרם החטא:",
+      "nl": "Noemde David zichzelf dan vroom? Er staat toch geschreven (Psalmen 27:13): “Als ik niet had geloofd het goede van de HEER te zien in het land van de levenden.” Er is namens rabbi Jose geleerd: waarom staan er punten bij het woord “als niet”? David zei voor de Heilige, gezegend zij Hij: “Heer van de wereld, ik vertrouw erop dat U de rechtvaardigen in de komende wereld goed beloont, maar ik weet niet of ik tot hen behoor.” Misschien zal de zonde het verhinderen. Zo wees rabbi Jaäkov bar Idi op een tegenspraak: er staat (Genesis 28:15): “Zie, Ik ben met je en zal je behoeden overal waar je gaat”; maar er staat ook (Genesis 32:8): “Jaäkov werd zeer bang.” Hij dacht: misschien zal de zonde het verhinderen. Zo is geleerd (Exodus 15:16): “Tot uw volk voorbijtrekt, HEER, tot het volk dat U verwierf voorbijtrekt.” “Tot uw volk voorbijtrekt, HEER”: dat is de eerste intocht. “Tot het volk dat U verwierf voorbijtrekt”: dat is de tweede intocht. Hieruit zeiden de wijzen: Israël had het verdiend dat in de dagen van Ezra een wonder voor hen werd gedaan, zoals voor hen gedaan was in de dagen van Jehosjoea, de zoon van Noen. Maar de zonde verhinderde het.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De punten horen bij de traditionele bijzondere schrifttekens boven het woord לולא in de psalm."
+        },
+        {
+          "type": "toelichting",
+          "text": "De eerste intocht is die onder Jehosjoea; de tweede de terugkeer onder Ezra."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:4a:g4",
+      "locator": "Berakhot 4a · Gemara · g4",
+      "layer": "gemara",
+      "original": "וחכ\"א עד חצות:",
+      "nl": "“De wijzen zeggen: tot middernacht.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:4a:g5",
+      "locator": "Berakhot 4a · Gemara · g5",
+      "layer": "gemara",
+      "original": "חכמים כמאן סבירא להו אי כרבי אליעזר סבירא להו לימרו כרבי אליעזר",
+      "nl": "Welke opvatting volgen de wijzen? Als zij de opvatting van rabbi Eliëzer volgen, laten zij dan hetzelfde zeggen als rabbi Eliëzer!",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De vraag wordt vervolgd op 4b."
+        }
+      ]
+    }
+  ]
+}

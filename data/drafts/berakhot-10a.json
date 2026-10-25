@@ -1,0 +1,130 @@
+{
+  "id": "10a",
+  "title": "10a · Inkeer, de ziel en hoop op ontferming",
+  "scope": "Volledige hoofdtekst van amud 10a in de gekozen editie; Gemara. De bespreking van Chizkia gaat verder op 10b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99_%D7%90&oldid=2851550",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:10a:g1",
+      "locator": "Berakhot 10a · Gemara · g1",
+      "layer": "gemara",
+      "original": "כל פרשה שהיתה חביבה על דוד פתח בה באשרי וסיים בה באשרי פתח באשרי דכתיב (תהלים א, א) אשרי האיש וסיים באשרי דכתיב (תהלים ב, יב) אשרי כל חוסי בו:",
+      "nl": "Iedere afdeling die David dierbaar was, begon hij met “gelukkig” en eindigde hij met “gelukkig”. Hij begon met “gelukkig”, want er staat (Psalmen 1:1): “Gelukkig de man”; en hij eindigde met “gelukkig”, want er staat (Psalmen 2:12): “Gelukkig allen die bij Hem schuilen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de uitspraak aan het einde van 9b over Psalmen 1 en 2 als één afdeling."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:10a:g2",
+      "locator": "Berakhot 10a · Gemara · g2",
+      "layer": "gemara",
+      "original": "הנהו בריוני דהוו בשבבותיה דר\"מ והוו קא מצערו ליה טובא הוה קא בעי ר' מאיר רחמי עלויהו כי היכי דלימותו אמרה לי' ברוריא דביתהו מאי דעתך משום דכתיב (תהלים קד, לה) יתמו חטאים מי כתיב חוטאים חטאים כתיב ועוד שפיל לסיפיה דקרא ורשעים עוד אינם כיון דיתמו חטאים ורשעים עוד אינם אלא בעי רחמי עלויהו דלהדרו בתשובה ורשעים עוד אינם בעא רחמי עלויהו והדרו בתשובה:",
+      "nl": "Er waren gewelddadige mannen in de buurt van rabbi Meïr die hem erg lastigvielen. Rabbi Meïr bad om ontferming over hen, opdat zij zouden sterven. Beroerja, zijn vrouw, zei tegen hem: “Waarop baseer je dat? Op wat geschreven staat (Psalmen 104:35): ‘Laat de zonden verdwijnen’? Staat er soms ‘zondaars’? Er staat ‘zonden’! Kijk bovendien naar het slot van het vers: ‘En de boosdoeners zijn er niet meer.’ Wanneer de zonden verdwijnen, zijn de boosdoeners er niet meer. Bid dus om ontferming over hen, opdat zij tot inkeer komen; dan zijn de boosdoeners er niet meer.” Hij bad om ontferming over hen en zij kwamen tot inkeer.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "Beroerja onderscheidt חטאים, hier “zonden”, van חוטאים, “zondaars”. De ongevocaliseerde schrijfwijze en de andere duidingen van hetzelfde psalmvers maken dit tot een uitleggende lezing."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:10a:g3",
+      "locator": "Berakhot 10a · Gemara · g3",
+      "layer": "gemara",
+      "original": "אמר לה ההוא צדוקי לברוריא כתיב (ישעיהו נד, א) רני עקרה לא ילדה משום דלא ילדה רני אמרה ליה שטיא שפיל לסיפיה דקרא דכתיב כי רבים בני שוממה מבני בעולה אמר ה' אלא מאי עקרה לא ילדה רני כנסת ישראל שדומה לאשה עקרה שלא ילדה בנים לגיהנם כותייכו:",
+      "nl": "Een sadducee zei tegen Beroerja: “Er staat (Jesaja 54:1): ‘Jubel, onvruchtbare, die niet gebaard heeft.’ Moet zij jubelen omdat zij niet gebaard heeft?” Zij zei tegen hem: “Dwaas, kijk naar het slot van het vers, want er staat: ‘Want de kinderen van de verlatene zijn talrijker dan die van de gehuwde, zegt de HEER.’ Wat betekent dan ‘onvruchtbare, die niet gebaard heeft’? Jubel, gemeenschap van Israël, die lijkt op een onvruchtbare vrouw, omdat zij geen kinderen voor Gehinnom heeft gebaard zoals jullie.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Gehinnom is de plaats van bestraffing in de rabbijnse voorstelling. De felle aanspreekvorm en vergelijking behoren tot de polemische vertelling."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:10a:g4",
+      "locator": "Berakhot 10a · Gemara · g4",
+      "layer": "gemara",
+      "original": "א\"ל ההוא צדוקי לר' אבהו כתיב (תהלים ג, א) מזמור לדוד בברחו מפני אבשלום בנו וכתיב (תהלים נז, א) לדוד מכתם בברחו מפני שאול במערה הי מעשה הוה ברישא מכדי מעשה שאול הוה ברישא לכתוב ברישא אמר ליה אתון דלא דרשיתון סמוכין קשיא לכו אנן דדרשינן סמוכים לא קשיא לן דא\"ר יוחנן סמוכין מן התורה מנין שנא' (תהלים קיא, ח) סמוכים לעד לעולם עשוים באמת וישר למה נסמכה פרשת אבשלום לפרשת גוג ומגוג שאם יאמר לך אדם כלום יש עבד שמורד ברבו אף אתה אמור לו כלום יש בן שמורד באביו אלא הוה הכא נמי הוה:",
+      "nl": "Een sadducee zei tegen rabbi Abbahoe: “Er staat (Psalmen 3:1): ‘Een psalm van David, toen hij vluchtte voor zijn zoon Avsjalom’; en er staat (Psalmen 57:1): ‘Van David, een michtam, toen hij voor Sjaoel vluchtte in de grot.’ Welke gebeurtenis kwam eerst? Die met Sjaoel kwam toch eerst? Laat die dan eerst worden geschreven!” Hij antwoordde: “Voor jullie, die aangrenzende passages niet uitleggen, is dat een moeilijkheid. Voor ons, die ze wel uitleggen, is het geen moeilijkheid.” Rabbi Jochanan zei immers: waaruit blijkt dat aangrenzende passages in de Tora betekenis hebben? Er staat (Psalmen 111:8): “Voor altijd en eeuwig aaneengevoegd, gemaakt in trouw en oprechtheid.” Waarom grenst de afdeling over Avsjalom aan de afdeling over Gog en Magog? Als iemand tegen je zegt: “Bestaat er soms een dienaar die tegen zijn heer in opstand komt?”, antwoord hem dan: “Bestaat er soms een zoon die tegen zijn vader in opstand komt?” Toch gebeurde dat; zo zal ook het andere gebeuren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Een michtam is een psalmopschrift waarvan de precieze betekenis onzeker is. Semoechien is uitleg op grond van de plaatsing van passages naast elkaar."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:10a:g5",
+      "locator": "Berakhot 10a · Gemara · g5",
+      "layer": "gemara",
+      "original": "אמר ר' יוחנן משום רבי שמעון בן יוחי מאי דכתיב (משלי לא, כו) פיה פתחה בחכמה ותורת חסד על לשונה כנגד מי אמר שלמה מקרא זה לא אמרו אלא כנגד דוד אביו שדר בחמשה עולמים ואמר שירה דר במעי אמו ואמר שירה שנאמר (תהלים קג, א) ברכי נפשי את ה' וכל קרבי את שם קדשו יצא לאויר העולם ונסתכל בכוכבים ומזלות ואמר שירה שנאמר (תהלים קג, כ) ברכו ה' מלאכיו גבורי כח עושי דברו לשמוע בקול דברו ברכו ה' כל צבאיו וגו' ינק משדי אמו ונסתכל בדדיה ואמר שירה שנאמר (תהלים קג, ב) ברכי נפשי את ה' ואל תשכחי כל גמוליו מאי כל גמוליו אמר ר' אבהו שעשה לה דדים במקום בינה טעמא מאי אמר (רבי) [רב] יהודה כדי שלא יסתכל במקום ערוה רב מתנא אמר כדי שלא יינק ממקום הטנופת ראה במפלתן של רשעים ואמר שירה שנאמר (תהלים קד, לה) יתמו חטאים מן הארץ ורשעים עוד אינם ברכי נפשי את ה' הללויה נסתכל ביום המיתה ואמר שירה שנאמר (תהלים קד, א) ברכי נפשי את ה' ה' אלהי גדלת מאד הוד והדר לבשת מאי משמע דעל יום המיתה נאמר אמר רבה בר רב שילא מסיפא דעניינא דכתיב (תהלים קד, כט) תסתיר פניך יבהלון תוסף רוחם יגועון וגו' רב שימי בר עוקבא ואמרי לה מר עוקבא הוה שכיח קמיה דר' שמעון בן פזי והוה מסדר אגדתא קמיה דר' יהושע בן לוי אמר ליה מאי דכתיב (תהלים קג, א) ברכי נפשי את ה' וכל קרבי את שם קדשו אמר ליה בא וראה שלא כמדת הקדוש ברוך הוא מדת בשר ודם מדת בשר ודם צר צורה על גבי הכותל ואינו יכול להטיל בה רוח ונשמה קרבים ובני מעים והקב\"ה אינו כן צר צורה בתוך צורה ומטיל בה רוח ונשמה קרבים ובני מעים והיינו דאמרה חנה (שמואל א ב, ב) אין קדוש כה' כי אין בלתך ואין צור כאלהינו. מאי אין צור כאלהינו אין צייר כאלהינו מאי כי אין בלתך אמר ר' יהודה בר מנסיא אל תקרי כי אין בלתך אלא אין לבלותך שלא כמדת הקדוש ברוך הוא מדת בשר ודם מדת בשר ודם מעשה ידיו מבלין אותו והקב\"ה מבלה מעשיו א\"ל אנא הכי קא אמינא לך הני חמשה ברכי נפשי כנגד מי אמרן דוד לא אמרן אלא כנגד הקב\"ה וכנגד נשמה מה הקב\"ה מלא כל העולם אף נשמה מלאה את כל הגוף מה הקדוש ברוך הוא רואה ואינו נראה אף נשמה רואה ואינה נראית מה הקב\"ה זן את כל העולם כלו אף נשמה זנה את כל הגוף מה הקב\"ה טהור אף נשמה טהורה מה הקב\"ה יושב בחדרי חדרים אף נשמה יושבת בחדרי חדרים יבא מי שיש בו חמשה דברים הללו וישבח למי שיש בו חמשה דברים הללו:",
+      "nl": "Rabbi Jochanan zei namens rabbi Sjimon ben Jochai: wat betekent wat geschreven staat (Spreuken 31:26): “Zij opent haar mond met wijsheid en een leer van goedheid ligt op haar tong”? Over wie zei Salomo dit vers? Uitsluitend over zijn vader David, die in vijf werelden verbleef en een lied zong. Hij verbleef in de buik van zijn moeder en zong een lied, want er staat (Psalmen 103:1): “Zegen de HEER, mijn ziel, en al wat in mij is zijn heilige naam.” Hij kwam in de wereld, keek naar de sterren en sterrenbeelden en zong een lied, want er staat (Psalmen 103:20): “Zegen de HEER, zijn engelen, machtige helden die zijn woord doen en luisteren naar de stem van zijn woord”; “Zegen de HEER, al zijn legermachten”, enzovoort. Hij dronk aan de borsten van zijn moeder, keek naar haar borsten en zong een lied, want er staat (Psalmen 103:2): “Zegen de HEER, mijn ziel, en vergeet niet al zijn weldaden.” Wat betekent “al zijn weldaden”? Rabbi Abbahoe zei: dat Hij haar borsten maakte op de plaats van het inzicht. Waarom? (Rabbi) [Rav] Jehoeda zei: opdat hij niet naar de geslachtsdelen zou kijken. Rav Matna zei: opdat hij niet zou drinken uit de plaats van vuil. Hij zag de val van de boosdoeners en zong een lied, want er staat (Psalmen 104:35): “Laat de zondaars van de aarde verdwijnen en de boosdoeners er niet meer zijn. Zegen de HEER, mijn ziel. Halleluja!” Hij dacht na over de sterfdag en zong een lied, want er staat (Psalmen 104:1): “Zegen de HEER, mijn ziel. HEER, mijn God, U bent zeer groot; U hebt U met luister en pracht bekleed.” Waaruit blijkt dat dit over de sterfdag is gezegd? Rabba bar Rav Sjila zei: uit het slot van de passage, waar staat (Psalmen 104:29): “Verbergt U uw aangezicht, dan worden zij verschrikt; neemt U hun geest weg, dan sterven zij”, enzovoort. Rav Sjimi bar Oekva — volgens anderen Mar Oekva — was vaak bij rabbi Sjimon ben Pazi, die de aggada voor rabbi Jehosjoea ben Levi ordende. Hij vroeg hem: “Wat betekent wat geschreven staat (Psalmen 103:1): ‘Zegen de HEER, mijn ziel, en al wat in mij is zijn heilige naam’?” Hij antwoordde: “Kom en zie hoe de handelwijze van de Heilige, gezegend zij Hij, verschilt van die van mensen. Een mens vormt een afbeelding op een muur, maar kan daar geen geest en ziel, ingewanden en darmen in leggen. De Heilige, gezegend zij Hij, doet dat anders: Hij vormt een gestalte binnen een gestalte en legt daarin geest en ziel, ingewanden en darmen. Dat is wat Channa zei (1 Samuel 2:2): ‘Niemand is heilig als de HEER, want er is niemand buiten U, en geen rots is als onze God.’ Wat betekent ‘geen rots is als onze God’? Geen vormgever is als onze God. Wat betekent ‘want er is niemand buiten U’? Rabbi Jehoeda bar Menasja zei: lees niet ‘niemand buiten U’, maar ‘niemand doet U vergaan’. De handelwijze van de Heilige, gezegend zij Hij, verschilt van die van mensen. Bij mensen overleven de werken van hun handen hen; de Heilige, gezegend zij Hij, overleeft zijn werken.” Hij zei tegen hem: “Dit is wat ik je vraag: over wie sprak David die vijf uitspraken ‘Zegen, mijn ziel’?” Hij sprak ze uitsluitend over de Heilige, gezegend zij Hij, en over de ziel. Zoals de Heilige, gezegend zij Hij, de hele wereld vult, zo vult de ziel het hele lichaam. Zoals de Heilige, gezegend zij Hij, ziet en niet gezien wordt, zo ziet de ziel en wordt zij niet gezien. Zoals de Heilige, gezegend zij Hij, de hele wereld voedt, zo voedt de ziel het hele lichaam. Zoals de Heilige, gezegend zij Hij, rein is, zo is de ziel rein. Zoals de Heilige, gezegend zij Hij, in de diepste binnenkamers woont, zo woont de ziel in de diepste binnenkamers. Laat degene die deze vijf eigenschappen heeft komen en Hem loven die deze vijf eigenschappen heeft.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Aggada is verhalende en uitleggende rabbijnse overlevering. De vijf werelden zijn hier vijf levenssituaties of beschouwde werkelijkheden. De plaats van inzicht is de borststreek tegenover het hart."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "“Rots” en “vormgever” spelen met tsoer en tsajjar. “Buiten U” en “U doen vergaan” verbinden verschillende lezingen van בלתך. (Rabbi) [Rav] volgt de bronvariant."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:10a:g6",
+      "locator": "Berakhot 10a · Gemara · g6",
+      "layer": "gemara",
+      "original": "אמר רב המנונא מאי דכתיב (קהלת ח, א) מי כהחכם ומי יודע פשר דבר מי כהקדוש ברוך הוא שיודע לעשות פשרה בין שני צדיקים בין חזקיהו לישעיהו חזקיהו אמר ליתי ישעיהו גבאי דהכי אשכחן באליהו דאזל לגבי אחאב (שנאמר (מלכים א יח, ב) וילך אליהו להראות אל אחאב ישעיהו אמר ליתי חזקיהו גבאי דהכי אשכחן ביהורם בן אחאב דאזל לגבי אלישע מה עשה הקב\"ה הביא יסורים על חזקיהו ואמר לו לישעיהו לך ובקר את החולה שנאמר (מלכים ב כ, א) בימים ההם חלה חזקיהו למות ויבא אליו ישעיהו בן אמוץ הנביא ויאמר אליו כה אמר ה' (צבאות) צו לביתך כי מת אתה ולא תחיה וגו' מאי כי מת אתה ולא תחיה מת אתה בעולם הזה ולא תחיה לעולם הבא אמר ליה מאי כולי האי אמר ליה משום דלא עסקת בפריה ורביה א\"ל משום דחזאי לי ברוח הקדש דנפקי מינאי בנין דלא מעלו א\"ל בהדי כבשי דרחמנא למה לך מאי דמפקדת איבעי לך למעבד ומה דניחא קמיה קודשא בריך הוא לעביד אמר ליה השתא הב לי ברתך אפשר דגרמא זכותא דידי ודידך ונפקי מנאי בנין דמעלו א\"ל כבר נגזרה עליך גזירה א\"ל בן אמוץ כלה נבואתך וצא כך מקובלני מבית אבי אבא אפי' חרב חדה מונחת על צוארו של אדם אל ימנע עצמו מן הרחמים אתמר נמי רבי יוחנן ורבי (אליעזר) [אלעזר] דאמרי תרוייהו אפילו חרב חדה מונחת על צוארו של אדם אל ימנע עצמו מן הרחמים שנא' (איוב יג, טו) הן יקטלני לו איחל:",
+      "nl": "Rav Hamnoena zei: wat betekent wat geschreven staat (Prediker 8:1): “Wie is als de wijze, en wie kent de uitleg van een zaak?” Wie is als de Heilige, gezegend zij Hij, die een verzoening weet te bewerken tussen twee rechtvaardigen, tussen Chizkia en Jesaja? Chizkia zei: “Laat Jesaja naar mij komen, want wij vinden dat Elia naar Achav ging” (zoals er staat (1 Koningen 18:2): “Elia ging om zich aan Achav te vertonen.” Jesaja zei: “Laat Chizkia naar mij komen, want wij vinden dat Jehoram, de zoon van Achav, naar Elisja ging.” Wat deed de Heilige, gezegend zij Hij? Hij bracht lijden over Chizkia en zei tegen Jesaja: “Ga en bezoek de zieke”, want er staat (2 Koningen 20:1): “In die dagen werd Chizkia dodelijk ziek. De profeet Jesaja, de zoon van Amots, kwam bij hem en zei tegen hem: zo zegt de HEER (van de legermachten): regel de zaken van je huis, want je zult sterven en niet leven”, enzovoort. Wat betekent “je zult sterven en niet leven”? Je zult sterven in deze wereld en niet leven in de komende wereld. Hij vroeg: “Waarom zo zwaar?” Hij antwoordde: “Omdat je je niet hebt beziggehouden met vruchtbaar zijn en talrijk worden.” Hij zei: “Omdat ik door de heilige geest heb gezien dat er slechte kinderen uit mij zullen voortkomen.” Hij antwoordde: “Wat heb jij te maken met de verborgenheden van de Barmhartige? Je moet doen wat je is opgedragen; laat de Heilige, gezegend zij Hij, doen wat Hem behaagt.” Hij zei: “Geef mij dan nu uw dochter; misschien zorgen mijn verdienste en die van u ervoor dat er goede kinderen uit mij voortkomen.” Hij antwoordde: “Het vonnis over u is al geveld.” Hij zei: “Zoon van Amots, beëindig uw profetie en ga weg. Zo heb ik uit het huis van mijn voorvader ontvangen: zelfs als een scherp zwaard op iemands hals ligt, mag hij zich niet van het smeken om ontferming afhouden.” Zo is ook overgeleverd: rabbi Jochanan en rabbi (Eliëzer) [Elazar] zeiden beiden: zelfs als een scherp zwaard op iemands hals ligt, mag hij zich niet van het smeken om ontferming afhouden, want er staat (Job 13:15): “Al doodt Hij mij, toch hoop ik op Hem.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het gebod vruchtbaar te zijn en talrijk te worden is de opdracht tot voortplanting. De Barmhartige is een goddelijke benaming."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De bron heeft bij “zoals er staat” een openingshaakje zonder sluiting; dit is in original exact bewaard. De varianten (van de legermachten) en (Eliëzer) [Elazar] blijven zichtbaar."
+        },
+        {
+          "type": "vervolg",
+          "text": "De discussie en Chizkia’s gebed gaan verder op 10b."
+        }
+      ]
+    }
+  ]
+}

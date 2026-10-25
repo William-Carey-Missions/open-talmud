@@ -1,0 +1,581 @@
+{
+  "corpus": "bavli",
+  "tractate": "taanit",
+  "title": "Taanit",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&oldid=3005482",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:49:51.737873+00:00",
+  "htmlSha256": "9621a67cd4a55e024d606ba69b6fa656a2d895143b2241da3bf62362f940628a",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "#",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "#קישורים_חיצוניים",
+      "class": "vector-toc-link"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279157#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&oldid=3005482",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&id=3005482&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25AA%25D7%25A2%25D7%25A0%25D7%2599%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279157",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי תענית פרק א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%90",
+      "title": "תענית ב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%91_%D7%91",
+      "title": "תענית ב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%90",
+      "title": "תענית ג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%92_%D7%91",
+      "title": "תענית ג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%90",
+      "title": "תענית ד א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%93_%D7%91",
+      "title": "תענית ד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%94_%D7%90",
+      "title": "תענית ה א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%94_%D7%91",
+      "title": "תענית ה ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%95_%D7%90",
+      "title": "תענית ו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%95_%D7%91",
+      "title": "תענית ו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%96_%D7%90",
+      "title": "תענית ז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%96_%D7%91",
+      "title": "תענית ז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%97_%D7%90",
+      "title": "תענית ח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%97_%D7%91",
+      "title": "תענית ח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98_%D7%90",
+      "title": "תענית ט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98_%D7%91",
+      "title": "תענית ט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99_%D7%90",
+      "title": "תענית י א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99_%D7%91",
+      "title": "תענית י ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "תענית יא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "תענית יא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "תענית יב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "תענית יב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "תענית יג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "תענית יג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "תענית יד א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%93_%D7%91",
+      "title": "תענית יד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "תענית טו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי תענית פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "תענית טו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "תענית טו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98%D7%96_%D7%90",
+      "title": "תענית טז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%98%D7%96_%D7%91",
+      "title": "תענית טז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%96_%D7%90",
+      "title": "תענית יז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "תענית יז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%97_%D7%90",
+      "title": "תענית יח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "תענית יח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי תענית פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "תענית יח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%98_%D7%90",
+      "title": "תענית יט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "תענית יט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B_%D7%90",
+      "title": "תענית כ א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B_%D7%91",
+      "title": "תענית כ ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%90_%D7%90",
+      "title": "תענית כא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%90_%D7%91",
+      "title": "תענית כא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%91_%D7%90",
+      "title": "תענית כב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%91_%D7%91",
+      "title": "תענית כב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%92_%D7%90",
+      "title": "תענית כג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%92_%D7%91",
+      "title": "תענית כג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%93_%D7%90",
+      "title": "תענית כד א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%93_%D7%91",
+      "title": "תענית כד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%94_%D7%90",
+      "title": "תענית כה א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%94_%D7%91",
+      "title": "תענית כה ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "תענית כו א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי תענית פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "תענית כו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%95_%D7%91",
+      "title": "תענית כו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%96_%D7%90",
+      "title": "תענית כז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%96_%D7%91",
+      "title": "תענית כז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%97_%D7%90",
+      "title": "תענית כח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%97_%D7%91",
+      "title": "תענית כח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%98_%D7%90",
+      "title": "תענית כט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9B%D7%98_%D7%91",
+      "title": "תענית כט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9C_%D7%90",
+      "title": "תענית ל א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9C_%D7%91",
+      "title": "תענית ל ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA_%D7%9C%D7%90_%D7%90",
+      "title": "תענית לא א"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&action=edit&section=1",
+      "title": "עריכת פסקה: \"קישורים חיצוניים\""
+    },
+    {
+      "href": "http://www.otniel.org/community/all.asp?id=5",
+      "class": "external text"
+    },
+    {
+      "href": "http://www.hashefa.co.il/home/doc.aspx?mCatID=68338&mCatID2=68311",
+      "class": "external text"
+    },
+    {
+      "href": "https://web.archive.org/web/20140223005338/http://www.hashefa.co.il/home/doc.aspx?mCatID=68338&mCatID2=68311",
+      "class": "external text"
+    },
+    {
+      "href": "/wiki/Wayback_Machine",
+      "title": "Wayback Machine",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_תענית&oldid=3005482"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "title": "קטגוריה:מסכת תענית"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A7%D7%99%D7%A9%D7%95%D7%A8%D7%99_wayback_%D7%9E%D7%AA%D7%91%D7%A0%D7%99%D7%AA_Webarchive",
+      "title": "קטגוריה:קישורי wayback מתבנית Webarchive"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%A2%D7%A0%D7%99%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

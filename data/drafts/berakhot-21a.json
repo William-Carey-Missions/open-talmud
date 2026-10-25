@@ -1,0 +1,75 @@
+{
+  "id": "21a",
+  "title": "21a · Twijfel over recitatie en herhaling van het gebed",
+  "scope": "Volledige hoofdtekst van amud 21a in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 21a — ongevocaliseerde Wikisource-editie, revisie 2851528; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9B%D7%90_%D7%90&oldid=2851528",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:21a:g1",
+      "locator": "Berakhot 21a · Gemara · 1",
+      "layer": "gemara",
+      "original": "והרי תפלה דדבר שהצבור עסוקין בו ותנן היה עומד בתפלה ונזכר שהוא בעל קרי לא יפסיק אלא יקצר טעמא דאתחיל הא לא אתחיל לא יתחיל שאני תפלה דלית בה מלכות שמים והרי ברכת המזון לאחריו דלית בה מלכות שמים ותנן על המזון מברך לאחריו ואינו מברך לפניו אלא ק\"ש וברכת המזון דאורייתא ותפלה דרבנן:",
+      "nl": "Maar het gebed is toch ook iets waarmee de gemeenschap bezig is, en wij hebben geleerd: als iemand in gebed staat en zich herinnert dat hij een zaadlozing heeft gehad, onderbreekt hij niet, maar verkort hij het gebed. De reden is dus dat hij al begonnen is; als hij niet begonnen was, zou hij niet beginnen. Het gebed is anders, omdat het geen aanvaarding van het koningschap van de hemel bevat. Maar het dankgebed na de maaltijd bevat die aanvaarding evenmin, en wij hebben geleerd: over voedsel spreekt hij de zegen erna uit, maar niet ervoor! Nee, het onderscheid is: het Sjema en het dankgebed na de maaltijd zijn van de Tora, terwijl het gebed een instelling van de wijzen is.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:21a:g2",
+      "locator": "Berakhot 21a · Gemara · 2",
+      "layer": "gemara",
+      "original": "אמר רב יהודה מנין לברכת המזון לאחריה מן התורה שנאמר (דברים ח, י) ואכלת ושבעת וברכת מנין לברכת התורה לפניה מן התורה שנאמר (דברים לב, ג) כי שם ה' אקרא הבו גדל לאלהינו אמר ר' יוחנן למדנו ברכת התורה לאחריה מן ברכת המזון מקל וחומר וברכת המזון לפניה מן ברכת התורה מקל וחומר ברכת התורה לאחריה מן ברכת המזון מקל וחומר ומה מזון שאין טעון לפניו טעון לאחריו תורה שטעונה לפניה אינו דין שטעונה לאחריה וברכת המזון לפניה מן ברכת התורה מק\"ו ומה תורה שאין טעונה לאחריה טעונה לפניה מזון שהוא טעון לאחריו אינו דין שיהא טעון לפניו איכא למפרך מה למזון שכן נהנה ומה לתורה שכן חיי עולם ועוד תנן על המזון מברך לאחריו ואינו מברך לפניו תיובתא:",
+      "nl": "Rav Jehoeda zei: waaruit blijkt dat het dankgebed na de maaltijd uit de Tora voortkomt? Er staat: “Je zult eten, verzadigd worden en zegenen” (Deuteronomium 8:10). Waaruit blijkt dat de zegen vóór de Torastudie uit de Tora voortkomt? Er staat: “Wanneer ik de naam van de HEER uitroep, geef dan grootheid aan onze God” (Deuteronomium 32:3). Rabbi Jochanan zei: wij leren de zegen na de Torastudie met een redenering van licht naar zwaar uit het dankgebed na de maaltijd, en de zegen vóór de maaltijd met een redenering van licht naar zwaar uit de Torazegen. De zegen na de Torastudie uit het dankgebed: voedsel vereist geen zegen vooraf maar wel achteraf; moet de Tora, die er vooraf één vereist, er dan niet des te meer achteraf één vereisen? En de zegen vóór de maaltijd uit de Torazegen: de Tora vereist er achteraf geen maar vooraf wel; moet voedsel, dat er achteraf één vereist, er dan niet des te meer vooraf één vereisen? Hiertegen valt in te brengen: bij voedsel is er immers lichamelijk genot; en bij de Tora is er immers eeuwig leven! Bovendien hebben wij geleerd: over voedsel spreekt hij de zegen erna uit, maar niet ervoor. Dit is een weerlegging.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:21a:g3",
+      "locator": "Berakhot 21a · Gemara · 3",
+      "layer": "gemara",
+      "original": "אמר רב יהודה ספק קרא קריאת שמע ספק לא קרא אינו חוזר וקורא ספק אמר אמת ויציב ספק לא אמר חוזר ואומר אמת ויציב מאי טעמא קריאת שמע דרבנן אמת ויציב דאורייתא מתיב רב יוסף (דברים ו, ז) ובשכבך ובקומך אמר ליה אביי ההוא בדברי תורה כתיב תנן בעל קרי מהרהר בלבו ואינו מברך לא לפניה ולא לאחריה ועל המזון מברך לאחריו ואינו מברך לפניו ואי ס\"ד אמת ויציב דאורייתא לברוך לאחריה מאי טעמא מברך אי משום יציאת מצרים הא אדכר ליה בקריאת שמע ונימא הא ולא לבעי הא קריאת שמע עדיפא דאית בה תרתי ור' אלעזר אמר ספק קרא קריאת שמע ספק לא קרא חוזר וקורא ק\"ש ספק התפלל ספק לא התפלל אינו חוזר ומתפלל ורבי יוחנן אמר ולואי שיתפלל אדם כל היום כולו:",
+      "nl": "Rav Jehoeda zei: wie twijfelt of hij het Sjema heeft gereciteerd, reciteert het niet opnieuw. Wie twijfelt of hij “Waar en vast” heeft gezegd, zegt “Waar en vast” opnieuw. Waarom? Het Sjema is een instelling van de wijzen; “Waar en vast” is van de Tora. Rav Joseef wierp tegen: er staat toch “wanneer je neerligt en wanneer je opstaat” (Deuteronomium 6:7)! Abbaje zei tegen hem: dat is over woorden van de Tora geschreven. Wij hebben geleerd: iemand die een zaadlozing heeft gehad, overdenkt het in zijn hart en spreekt de zegeningen ervoor noch erna uit; over voedsel spreekt hij de zegen erna uit, maar niet ervoor. Als je meent dat “Waar en vast” van de Tora is, laat hij dan de zegen erna uitspreken! Waarom zou hij die zegen uitspreken? Als het om de uittocht uit Egypte gaat: die heeft hij in het Sjema al vermeld! Laat hij dan deze zegen zeggen en het Sjema achterwege laten! Het Sjema verdient de voorkeur, want het bevat beide zaken. Rabbi Elazar zei: wie twijfelt of hij het Sjema heeft gereciteerd, reciteert het opnieuw. Wie twijfelt of hij heeft gebeden, bidt niet opnieuw. Rabbi Jochanan zei: was het maar zo dat een mens de hele dag zou bidden!",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:21a:g4",
+      "locator": "Berakhot 21a · Gemara · 4",
+      "layer": "gemara",
+      "original": "ואמר רב יהודה אמר שמואל היה עומד בתפלה ונזכר שהתפלל פוסק ואפילו באמצע ברכה איני והאמר רב נחמן כי הוינן בי רבה בר אבוה בען מיניה הני בני בי רב דטעו ומדכרי דחול בשבת מהו שיגמרו ואמר לן גומרין כל אותה ברכה הכי השתא התם גברא בר חיובא הוא ורבנן הוא דלא אטרחוהו משום כבוד שבת אבל הכא הא צלי ליה:",
+      "nl": "Rav Jehoeda zei ook uit naam van Sjmoeël: wie in gebed staat en zich herinnert dat hij al gebeden heeft, houdt op, zelfs midden in een zegen. Is dat zo? Rav Nachman heeft toch gezegd: toen wij bij Rabba bar Avoeha waren, vroegen wij hem of leerlingen die zich vergisten en op sjabbat het weekdaggebed begonnen te vermelden, de betreffende zegen mochten afmaken. Hij zei ons: zij maken die hele zegen af. Hoe kun je die gevallen vergelijken? Daar is de man in beginsel tot dat gebed verplicht, maar de wijzen hebben hem de moeite bespaard ter ere van de sjabbat. Hier heeft hij echter al gebeden.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:21a:g5",
+      "locator": "Berakhot 21a · Gemara · 5",
+      "layer": "gemara",
+      "original": "ואמר רב יהודה אמר שמואל התפלל ונכנס לביהכ\"נ ומצא צבור שמתפללין אם יכול לחדש בה דבר יחזור ויתפלל ואם לאו אל יחזור ויתפלל וצריכא דאי אשמעינן קמייתא ה\"מ יחיד ויחיד",
+      "nl": "Rav Jehoeda zei ook uit naam van Sjmoeël: als iemand heeft gebeden, de synagoge binnengaat en een gemeenschap aantreft die bidt, mag hij opnieuw bidden als hij er iets nieuws aan kan toevoegen; anders bidt hij niet opnieuw. Beide uitspraken zijn nodig. Want als hij ons alleen de eerste had geleerd, zouden wij kunnen denken: dit geldt wanneer iemand alleen bad en opnieuw alleen bidt...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

@@ -6,6 +6,9 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
 const base = new URL('../', import.meta.url);
+const progress = JSON.parse(await readFile(new URL('data/progress.json',base),'utf8'));
+const library = JSON.parse(await readFile(new URL('data/library.json',base),'utf8'));
+const latest = library.works[0].chapters.at(-1);
 const types = {html:'text/html',js:'text/javascript',json:'application/json',css:'text/css',woff2:'font/woff2',svg:'image/svg+xml'};
 let server, browser, origin;
 test.before(async () => {
@@ -90,9 +93,9 @@ test('volgend gedeelte opent 2b met eigen bron en actuele voortgang', async () =
   assert.doesNotMatch(await page.locator('#reader-status').innerText(),/Alleen Berakhot 2a/);
   await page.goto(origin+'/#inventaris');
   await page.locator('#inventory-bavli').waitFor();
-  assert.match(await page.locator('#inventory-summary').innerText(),/49 segmenten/);
-  assert.match(await page.locator('#inventory-next').innerText(),/Volgende passage: Berakhot 3b/);
-  assert.match(await page.locator('#inventory-bavli tbody tr').first().innerText(),/49 segmenten/);
+  assert.match(await page.locator('#inventory-summary').innerText(),new RegExp(progress.translatedSegments+' segmenten'));
+  assert.match(await page.locator('#inventory-next').innerText(),new RegExp('Volgende passage: '+progress.nextLabel));
+  assert.match(await page.locator('#inventory-bavli tbody tr').first().innerText(),new RegExp(progress.translatedSegments+' segmenten'));
  } finally {await page.close();}
 });
 
@@ -117,9 +120,34 @@ test('3a is navigeerbaar en gebruikt zijn eigen bronrevisie', async () => {
   assert.match(await page.locator('#passage-g11').innerText(),/Elia/);
   assert.match(await page.locator('#passage-g19').innerText(),/instortingsgevaar/);
   assert.ok((await page.locator('#reader-source a').first().getAttribute('href')).includes('oldid=3006952'));
-  assert.ok(await page.locator('#next').isDisabled());
+  assert.equal(await page.locator('#next').isDisabled(), latest.id==='3a');
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+1));
   await page.locator('#previous').click();
   await page.waitForURL('**/#lezen/bavli-berakhot/2b');
  } finally {await page.close();}
+});
+
+test('inventaris toont een herleidbaar percentage met de vaste noemer',async()=>{
+ const page=await browser.newPage();
+ try {
+  await page.goto(origin+'/#inventaris');
+  await page.locator('#inventory-bavli').waitFor();
+  const status=await page.locator('#extent-status').innerText();
+  assert.match(status,/8.445/);
+  assert.match(status,/85/);
+  assert.match(status,/drukzijden/);
+  assert.match(status,/woordpercentage/);
+ }finally{await page.close();}
+});
+
+test('laatste geïntegreerde zijde toont alle segmenten en de juiste navigatiegrens',async()=>{
+ const page=await browser.newPage({viewport:{width:390,height:844}});
+ try{
+  await page.goto(origin+'/#lezen/bavli-berakhot/'+latest.id);
+  await page.locator('.passage').first().waitFor();
+  assert.equal(await page.locator('.passage').count(),latest.passages.length);
+  assert.equal(await page.locator('#reader-source a').first().getAttribute('href'),latest.sourceUrl);
+  assert.ok(await page.locator('#next').isDisabled());
+  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
+ }finally{await page.close();}
 });

@@ -2,14 +2,14 @@
   "version": 1,
   "updatedAt": "2026-10-25",
   "corpusComplete": false,
-  "translatedSegments": 49,
+  "translatedSegments": 504,
   "independentlyReviewedSegments": 0,
   "totalSegments": null,
   "completeTractates": 0,
-  "translatedUnits": 3,
-  "totalAcquiredUnits": 3,
-  "nextRef": "bavli:berakhot:3b",
-  "remaining": "Berakhot 3b–64a (122 amudim), alle overige Babylonische tractaten en de gehele Jeruzalemse Talmoed. Overige Misjna-teksten en alle onafhankelijke controles staan nog open. De volledige segmentinventaris buiten 2a–3a moet nog worden verworven.",
+  "translatedUnits": 85,
+  "totalAcquiredUnits": 85,
+  "nextRef": "bavli:berakhot:44b",
+  "remaining": "Berakhot 44b–64a (40 amudim), de overige Babylonische tractaten, de gehele Jeruzalemse Talmoed en de overige zelfstandige Misjna-teksten. Onafhankelijke inhoudelijke eindcontrole staat nog open.",
   "units": [
     {
       "ref": "bavli:berakhot:2a",
@@ -59,7 +59,1247 @@
         "Aansluiting op 2b en de open vraag voor 3b gemarkeerd."
       ],
       "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:3b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-3b-r2866878",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 3b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "9d7ed5292d160de340ae3d9c42e1fec03641c70d9174b5431b28a4e216475647",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:4a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-4a-r2851562",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 4a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "4f11e7b477ebdad331f7dfd4b5f6aee7e0157325be264e9a14fd63c92b7a16bc",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:4b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-4b-r2851561",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 4b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "9f0afb9f4f1ed9c314fc68c95ab0278361ff4646e6526529c2f9cdfcbaa0682e",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:5a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-5a-r2851560",
+      "segments": 4,
+      "mishnahSegments": 0,
+      "gemaraSegments": 4,
+      "sourceCoverage": "Volledige hoofdtekst van 5a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "47219e960acdf4774fe81ea7082f2a17fe5c35f6283a8cbe7283505e912cca10",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:5b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-5b-r2851559",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 5b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "c4157b7ed510cb3c0038b0b9eab6cee40214897ec5d8e58ccd7c0b7a09cd1329",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:6a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-6a-r2851558",
+      "segments": 4,
+      "mishnahSegments": 0,
+      "gemaraSegments": 4,
+      "sourceCoverage": "Volledige hoofdtekst van 6a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "fa8b1136ecffaf8174d995b0f9a8d609a5e8d3c5b3b518da99163450171eb458",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:6b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-6b-r2851557",
+      "segments": 9,
+      "mishnahSegments": 0,
+      "gemaraSegments": 9,
+      "sourceCoverage": "Volledige hoofdtekst van 6b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "fef4bc4c4da1715c16dd1c9bbcb74c345add61fac288469cf656aa3899f25434",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:7a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-7a-r2851556",
+      "segments": 7,
+      "mishnahSegments": 0,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 7a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "7e16f2da641c192deba3837e0c612fe7e6a26254284df86d23f8acffe0d6bdc0",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:7b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-7b-r2851555",
+      "segments": 11,
+      "mishnahSegments": 0,
+      "gemaraSegments": 11,
+      "sourceCoverage": "Volledige hoofdtekst van 7b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "e2383ce40c114a0168430fda5d2482859c99c4e8cc97fa43d1170253b1484cc4",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:8a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-8a-r2996444",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 8a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "9fa88ee47f8c49acc6266d5bbeadccafd35284bd8ee1d6f6a797464d865d9391",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:8b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-8b-r2851553",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 8b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "537ffbd6d4671696a1858121e797499c7f5d94006bf0d6973dd292dd742a6e30",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:9a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "segments": 8,
+      "mishnahSegments": 0,
+      "gemaraSegments": 8,
+      "sourceCoverage": "Volledige hoofdtekst van 9a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "20807425d53dbff5074c9de53c7a5bfd428222932928cd8c3026e64a8614578c",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:9b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-9b-r2851551",
+      "segments": 7,
+      "mishnahSegments": 1,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 9b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "ab13d7b1a4473c444c0d5a821165245c3f6e09c8e72cd4ffac456371919611d8",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:10a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-10a-r2851550",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 10a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "12c78cdb296215643f71859bf9cfc4c8ce024a1c7dffd385e58bccc4bab3cf2f",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:10b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "segments": 8,
+      "mishnahSegments": 1,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 10b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "828b137771597ac0f066351a4dac684d0513c49d248e8721abf81857da273081",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:11a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-11a-r2851548",
+      "segments": 4,
+      "mishnahSegments": 1,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 11a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "8b476d5031e2463b379620b9f8ccf2ae7d36a9ef83448fdd3e57bf576278bcb5",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:11b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-11b-r3007762",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 11b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "0ef8698fd4a4139422a918ac6d090d5a22714b4412e14fbb4f96c10322900c74",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:12a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-12a-r2851546",
+      "segments": 7,
+      "mishnahSegments": 0,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 12a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "eae2b9432964497dc7c28013ab9ba8a23bd38a4ca77e3b91bec4c5d8f8e0338b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:12b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-12b-r2851545",
+      "segments": 6,
+      "mishnahSegments": 1,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 12b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "48e1c371171c173f4a2c2a9d4ed206a8eb020c8914e49c0fd3d0073a9d6b3274",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:13a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-13a-r2851544",
+      "segments": 8,
+      "mishnahSegments": 2,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 13a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "b2fcd051b66b853567c494ee440b6f09e7878601ddde9db74ac595bebf8a489c",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:13b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-13b-r2851543",
+      "segments": 7,
+      "mishnahSegments": 0,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 13b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "97cf3b269ef3fc9facae6692a32158da28d6e28011d06373e6d55c49ff2df860",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:14a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-14a-r2851542",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 14a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "b62fa8461ad900d772579f09bace620b37cafd9c509b2c2ac2bf48e91caabf33",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:14b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-14b-r2851541",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 14b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "20ede3611357a25fad204475b645ac8bc56a1e4ad19622afca8593e543108e53",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:15a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-15a-r2851539",
+      "segments": 3,
+      "mishnahSegments": 1,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 15a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "b597e395db77186b6107f08860b13ff97fa1b23568ff46a9366bbb7ad3d3642b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:15b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-15b-r2851540",
+      "segments": 7,
+      "mishnahSegments": 0,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 15b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "247f675ba0839dd8e3d6aa6adf55e1d5f1c0daf601d29e9de1471b917510354b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:16a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-16a-r2851538",
+      "segments": 7,
+      "mishnahSegments": 1,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 16a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "ce40626b4ee9a90789d7164e3cee0525c278ecb2b9a5f38c9125f02050bd4438",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:16b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "segments": 8,
+      "mishnahSegments": 1,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 16b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "1b95aea80084a1ba37baca0a0e4e6c9076fbd0516f7b725de17498c83ca100df",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:17a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-17a-r2851536",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 17a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "63f1d3d5298e6f32304b432c129bfc9c9c2dd5ed6162546944d6c54dbf5f6e65",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:17b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "segments": 6,
+      "mishnahSegments": 1,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 17b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "b4ae323339a43932ebf057c569fa27d2c9eedee8d7d57c1f0a57f494432f4dc1",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:18a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 18a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "95532df505de4593da664908cf47207158b154d312a03fc46cb08ec6bacd2672",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:18b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-18b-r2851533",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 18b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "7363d3431492790919752850b1390b254f3695c0d3a6c58a715fbd0fc9d4a4bd",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:19a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-19a-r2851532",
+      "segments": 8,
+      "mishnahSegments": 0,
+      "gemaraSegments": 8,
+      "sourceCoverage": "Volledige hoofdtekst van 19a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "bd805debe838464e54bc59aae620d88c08b4f53fdb123c1f77f9cd3679d031b6",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:19b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-19b-r2851531",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 19b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "250334518e533b1350e31fd22286dc281c2f26dc636d1a3d95ea34470ee445d8",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:20a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-20a-r2851530",
+      "segments": 4,
+      "mishnahSegments": 1,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 20a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "8eff354746e585d23077a2ae08523cd22721630df13131ab05a7efa83dcde544",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:20b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-20b-r2851529",
+      "segments": 15,
+      "mishnahSegments": 2,
+      "gemaraSegments": 13,
+      "sourceCoverage": "Volledige hoofdtekst van 20b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "356653369c91c5e2155090dfc4d27fec993c66f20bdb9e67d7385bff62582d2a",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:21a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-21a-r2851528",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 21a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "506be915188c43b083b1be838d070d6bce7fc9573daaaabad87062d6b0fb6164",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:21b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-21b-r2851527",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 21b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "2f2962ee3372d34663a2dc8a59c5a94aedeee2fd8793c14f8643cb00cb911136",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:22a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-22a-r2851526",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 22a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "a162118540ea9a6a19e8f454b944033b521a39cbb57594b0f4718b2c8e3d8e94",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:22b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-22b-r2851525",
+      "segments": 5,
+      "mishnahSegments": 1,
+      "gemaraSegments": 4,
+      "sourceCoverage": "Volledige hoofdtekst van 22b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "dcff10d99c1049586d9ab31f8ad99415d47918305bf9bc823a73858a6e49b259",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:23a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-23a-r2851524",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 23a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "9140af36ebc746afa65e3bd9786125691be523bb56dfbcaa93c1a15b12ff5fbe",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:23b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-23b-r2851523",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 23b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "85341b22174d9e934b4d03f00e1d953fdaedc2cb3d47f5aef5e38711eb153a58",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:24a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-24a-r2851522",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 24a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "7437eaeb67a3b1cd5c3792da4f37bfe580aaae783b63b0c6785e0131dc0fcb9b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:24b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-24b-r2851521",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 24b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "cf2bbe0f93e678d6a60e4ca4365808f3f87ad825f42f83d92081cdd59c6ed47f",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:25a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-25a-r2851520",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 25a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "52ad1dabc5ed70b5047b3bbcded24a37b3884547b2f3bb2a7a9d5fd572beff02",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:25b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-25b-r2851519",
+      "segments": 8,
+      "mishnahSegments": 0,
+      "gemaraSegments": 8,
+      "sourceCoverage": "Volledige hoofdtekst van 25b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "f91e8df514c557b85a8eb608ff7414221bd9afa7e5b2e5709410e8add2e9d2c7",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:26a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-26a-r2964868",
+      "segments": 9,
+      "mishnahSegments": 3,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 26a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "e933a17ab24a447d661d44d9d1fd33b9d45d5931ee351ae44844c8c4edfe100b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:26b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-26b-r2851517",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 26b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "ccd45426c2ce47ac9569c82c9ce5421c0ad2ef28c10b015c10c1ee96c1673dc4",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:27a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-27a-r2851516",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 27a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "530fb242b5e31e92ebf1e3a2cd759d7ab583485713d620afd01726d199ac3726",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:27b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-27b-r2851515",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 27b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "1984572a6e011bbcebb36df54b788b5bfb540b5b63e9db5bd99bf04f3f54a3cc",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:28a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-28a-r2851514",
+      "segments": 4,
+      "mishnahSegments": 0,
+      "gemaraSegments": 4,
+      "sourceCoverage": "Volledige hoofdtekst van 28a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "903f0eeda8f8b643bc82b52113db1fd13189c3d21e8bf4caff5309baf031d206",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:28b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-28b-r2896326",
+      "segments": 7,
+      "mishnahSegments": 2,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 28b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "5938dde495c6301221f96a3c9b6318bd0813c405b1da2842446ccb4d123fe484",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:29a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-29a-r2851512",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 29a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "6448cdd3a0dd7e8402d4d4405c8bb6b13209f67b9892d184124004173756de8e",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:29b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-29b-r2851511",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 29b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "2d2be847f0d80077f5de4e52fd34bde3557ccf901fc226b8486e6f8066bae0c2",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:30a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-30a-r2851510",
+      "segments": 7,
+      "mishnahSegments": 1,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 30a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "cfd6b8023b674f5f4ac30f5c5f14295f9eb02d120e3feacd9a4d9a1a2de88837",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:30b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-30b-r2851509",
+      "segments": 7,
+      "mishnahSegments": 2,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 30b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "5a827b1ac9ae5bcfac7cd6702634524ffa89019a003d60565868daa408f1ac66",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:31a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-31a-r2851508",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 31a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "3de5e57e12e8628c8f0ca95c581c1ed3ffa8858cdb1382ab1894087928c27d67",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:31b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-31b-r2851507",
+      "segments": 10,
+      "mishnahSegments": 0,
+      "gemaraSegments": 10,
+      "sourceCoverage": "Volledige hoofdtekst van 31b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "358910265478fffb1bb0469d84675a631526f8f48c8da51b57ce3ec461497ce8",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:32a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-32a-r2851506",
+      "segments": 10,
+      "mishnahSegments": 0,
+      "gemaraSegments": 10,
+      "sourceCoverage": "Volledige hoofdtekst van 32a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "4346675f5837d8f804216676929e5f174e896206ac3fd1ebe6e4ef1f4e733566",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:32b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-32b-r2851505",
+      "segments": 11,
+      "mishnahSegments": 0,
+      "gemaraSegments": 11,
+      "sourceCoverage": "Volledige hoofdtekst van 32b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "87500e0ba14b9f23188da6f9468f6ea1eeb1976d89871b8f44506a8820d68aad",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:33a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-33a-r2851504",
+      "segments": 7,
+      "mishnahSegments": 1,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 33a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "72798a642c3c299f928cd02495919708f77315719819fcd91668c94ad4de753c",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:33b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-33b-r2851503",
+      "segments": 8,
+      "mishnahSegments": 1,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 33b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "2a7526e5952015996cfc905774aca6c4b17d986ef6608751f6a2aa1bbd75f841",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:34a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-34a-r2851502",
+      "segments": 4,
+      "mishnahSegments": 1,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 34a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "b61c2f2449be08c9a659b8281fc22c8fc33b5300d031dd729e6ee79292f333d3",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:34b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "segments": 8,
+      "mishnahSegments": 1,
+      "gemaraSegments": 7,
+      "sourceCoverage": "Volledige hoofdtekst van 34b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "4c5ed3f1cdd0c1eda05201cea9a2a2cc1ae198a1e9132e672341dfa6bb07c5ed",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:35a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-35a-r2851500",
+      "segments": 3,
+      "mishnahSegments": 1,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 35a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "65a83efc6c1cc9e7ce01c287d21993aa5ae963a6b4ac4bdadc49a223c9f6e398",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:35b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-35b-r2851499",
+      "segments": 6,
+      "mishnahSegments": 0,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 35b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "949ec389b8c7c6800cff74340a53badfa6c9daee8a698dda25a8a99399cb6416",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:36a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-36a-r2851498",
+      "segments": 4,
+      "mishnahSegments": 0,
+      "gemaraSegments": 4,
+      "sourceCoverage": "Volledige hoofdtekst van 36a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "053faa64a9ba83161a38876adfe58926cfb2e16d1c9ad740dc668e190889058f",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:36b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-36b-r2851497",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 36b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "1b1ce0c14a0738ddd03f19bb94fbb83e972a2d4b87ee69d9ec8f0b05766f4ac8",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:37a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-37a-r2851496",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 37a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "74fdceca8f446af3984164cb39c32e9967417d6edaddf2ee21670bda76406b27",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:37b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-37b-r2851495",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 37b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "4c3a51cec4427f7c0195ff5cac308f6a0d0c840d9e4be1f734802a21118b80f4",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:38a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-38a-r2851494",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 38a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "dd437949e2d0a054feb6c65a2da557a74022e9773fd4bec8c1c7c2be826236bb",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:38b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-38b-r2851493",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 38b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "c293fdcf5434e7961067b9c2308beb6b22bbe29a71d116c67ace2d1442de5cd2",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:39a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-39a-r2851492",
+      "segments": 1,
+      "mishnahSegments": 0,
+      "gemaraSegments": 1,
+      "sourceCoverage": "Volledige hoofdtekst van 39a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "5da72e7f0770e9d3b4506bdd49934ed9397ce507dedb1824357122781f97cc91",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:39b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-39b-r2851491",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 39b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "f2e45cd0b5fad7c233e0b1ccb32556beee12a4679d28a91fa2f21122082c5e0c",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:40a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-40a-r2851490",
+      "segments": 11,
+      "mishnahSegments": 1,
+      "gemaraSegments": 10,
+      "sourceCoverage": "Volledige hoofdtekst van 40a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "50253a8d575ee15d0d8a34d0ab1c3d3538d544feee82c0f761e9205a8e152ce3",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:40b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-40b-r2851488",
+      "segments": 7,
+      "mishnahSegments": 1,
+      "gemaraSegments": 6,
+      "sourceCoverage": "Volledige hoofdtekst van 40b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "a9be8f6ef642cd51a6c5009914c5bbd4a8d03823e4d564fd2e53edfa22218ef4",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:41a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-41a-r2851486",
+      "segments": 3,
+      "mishnahSegments": 0,
+      "gemaraSegments": 3,
+      "sourceCoverage": "Volledige hoofdtekst van 41a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "2c4fca6a330d060b960874bd041a9e5c6ed3a537b7ab2e071759b6ffaa69158b",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:41b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-41b-r2851485",
+      "segments": 2,
+      "mishnahSegments": 0,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 41b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "614b3d8d677b1d71480052fa3e48b5b4cdb84b505cadfc3bbdc4a2987c26438e",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:42a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-42a-r2851484",
+      "segments": 3,
+      "mishnahSegments": 1,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 42a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "9ad9c7166f4ee06d06a2e1016bec60dd51de642c76ac856251926966c420071f",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:42b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "segments": 6,
+      "mishnahSegments": 1,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 42b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "7ce314d4bc658f8b0f2aea8fd08ffd2ee9a96a6135ca0f759e5693816ab7a2a4",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:43a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-43a-r2851482",
+      "segments": 8,
+      "mishnahSegments": 0,
+      "gemaraSegments": 8,
+      "sourceCoverage": "Volledige hoofdtekst van 43a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "fbdc958921dba8cc967f9c2f30c991b2ee0a584b8ab891e4819df9bcba2e9d45",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:43b",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-43b-r2851481",
+      "segments": 5,
+      "mishnahSegments": 0,
+      "gemaraSegments": 5,
+      "sourceCoverage": "Volledige hoofdtekst van 43b in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "258eda3bc2b798177a2f9663780f5b73a26e672b1107eb91b8c8c7fe62c96628",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
+    },
+    {
+      "ref": "bavli:berakhot:44a",
+      "status": "concept",
+      "sourceId": "wikisource-berakhot-44a-r2863967",
+      "segments": 4,
+      "mishnahSegments": 2,
+      "gemaraSegments": 2,
+      "sourceCoverage": "Volledige hoofdtekst van 44a in de gekozen editie; geen latere commentaren.",
+      "translationSha256": "93d5da07baeb0ff4cbba74a3715dce46e78a8ba4c3ebb74afc56b9f8cb769765",
+      "checks": [
+        "Volledige bronalinea’s gekoppeld aan Nederlandse conceptvertaling.",
+        "Brondekking, unieke verwijzingen en rechten technisch gecontroleerd."
+      ],
+      "independentReview": null
     }
   ],
-  "nextLabel": "Berakhot 3b"
+  "nextLabel": "Berakhot 44b",
+  "extent": {
+    "manifest": "data/extent.json",
+    "unit": "edition-index-amud-slot",
+    "denominator": 8445,
+    "translatedWholeUnits": 85,
+    "percent": 1.0065127294256957,
+    "onePercentThreshold": 85,
+    "targetReached": true,
+    "limitation": "Percentage vastgezette editiegebonden amudplaatsen van beide Talmoeds; geen woordpercentage en geen afzonderlijke Misjna-telling."
+  }
 }

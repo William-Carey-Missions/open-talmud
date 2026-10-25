@@ -120,3 +120,6 @@ body.alternate-font .prose { font-family: var(--font-body); }
 
 #content section { scroll-margin-top: 90px; }
 @media (max-width: 900px) { #content section { scroll-margin-top: 180px; } }
+
+.reader-controls label { min-width: 0; max-width: 100%; }
+.reader-controls select { min-width: 0; width: 100%; }

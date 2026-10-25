@@ -1,0 +1,108 @@
+{
+  "id": "42b",
+  "title": "42b · Wijn en een gezamenlijke maaltijd",
+  "scope": "Volledige hoofdtekst van amud 42b in de gekozen editie; Misjna en Gemara. De laatste vertelling loopt door op 43a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9E%D7%91_%D7%91&oldid=2851483",
+  "passages": [
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:42b:m1",
+      "locator": "Berakhot 42b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "בא להם יין בתוך המזון כל אחד ואחד מברך לעצמו אחר המזון אחד מברך לכולם והוא אומר על המוגמר ואע\"פ שאין מביאין את המוגמר אלא לאחר סעודה:",
+      "nl": "Brengt men hun wijn tijdens het eten, dan zegent ieder voor zichzelf; na het eten zegent één voor allen. Diezelfde persoon spreekt ook de zegening over het reukwerk uit, hoewel men het reukwerk pas na de maaltijd brengt.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de Misjna op 42a. De zegening over reukwerk behoort aan degene die voor allen over de wijn zegende."
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:42b:g1",
+      "locator": "Berakhot 42b · Gemara · g1",
+      "layer": "gemara",
+      "original": "גמ' אמר רבה בר בר חנה א\"ר יוחנן לא שנו אלא בשבתות וימים טובים הואיל ואדם קובע סעודתו על היין אבל בשאר ימות השנה מברך על כל כוס וכוס אתמר נמי אמר רבה בר מרי א\"ר יהושע בן לוי לא שנו אלא בשבתות וימים טובים ובשעה שאדם יוצא מבית המרחץ ובשעת הקזת דם הואיל ואדם קובע סעודתו על היין אבל בשאר ימות השנה מברך על כל כוס וכוס רבה בר מרי איקלע לבי רבא בחול חזייה דבריך לפני המזון והדר בריך לאחר המזון א\"ל יישר וכן אמר ריב\"ל רב יצחק בר יוסף איקלע לבי אביי בי\"ט חזייה דבריך אכל כסא וכסא א\"ל לא סבר לה מר להא דריב\"ל א\"ל נמלך אנא איבעיא להו בא להם יין בתוך המזון מהו שיפטור את היין שלאחר המזון אם תימצי לומר ברך על היין שלפני המזון פוטר את היין שלאחר המזון משום דזה לשתות וזה לשתות אבל הכא דזה לשתות וזה לשרות לא או דילמא לא שנא רב אמר פוטר ורב כהנא אמר אינו פוטר רב נחמן אמר פוטר ורב ששת אמר אינו פוטר רב הונא ורב יהודה וכל תלמידי דרב אמרי אינו פוטר איתיביה רבא לרב נחמן בא להם יין בתוך המזון כל אחד ואחד מברך לעצמו לאחר המזון אחד מברך לכולם א\"ל הכי קאמר אם לא בא להם יין בתוך המזון אלא לאחר המזון אחד מברך לכולם:",
+      "nl": "Gemara. Rabba bar bar Chana zei namens rabbi Jochanan: dit is alleen geleerd over sjabbat en feestdagen, omdat iemand dan zijn maaltijd op wijn afstemt. Op de overige dagen van het jaar zegent hij over iedere beker. Zo is ook overgeleverd: Rabba bar Mari zei namens rabbi Jehosjoea ben Levi: dit is alleen geleerd over sjabbat en feestdagen, wanneer iemand uit het badhuis komt en bij aderlating, omdat hij dan zijn maaltijd op wijn afstemt. Op de overige dagen van het jaar zegent hij over iedere beker. Rabba bar Mari kwam op een doordeweekse dag bij Rava. Hij zag dat hij vóór het eten zegende en na het eten opnieuw. Hij zei: “Juist! Zo zei ook rabbi Jehosjoea ben Levi.” Rav Jitschak bar Josef kwam op een feestdag bij Abaje. Hij zag dat hij over iedere beker zegende. Hij vroeg: “Aanvaardt de meester de uitspraak van rabbi Jehosjoea ben Levi niet?” Hij antwoordde: “Ik besluit telkens opnieuw.” Men vroeg: als hun tijdens het eten wijn wordt gebracht, stelt die dan de wijn na het eten vrij? Ook als je zegt dat wijn vóór het eten de wijn na het eten vrijstelt omdat beide voor het drinken zijn: misschien geldt het hier niet, omdat de ene voor het drinken is en de andere om het voedsel door te spoelen. Of maakt dat geen verschil? Rav zei: hij stelt vrij. Rav Kahana zei: niet. Rav Nachman zei: hij stelt vrij. Rav Sjesjet zei: niet. Rav Hoena, rav Jehoeda en alle leerlingen van Rav zeiden: hij stelt niet vrij. Rava wierp rav Nachman tegen: wordt tijdens het eten wijn gebracht, dan zegent ieder voor zichzelf; na het eten zegent één voor allen. Hij antwoordde: dit betekent: als hun tijdens het eten geen wijn werd gebracht maar pas erna, zegent één voor allen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Bij iedere beker opnieuw beslissen betekent dat de eerdere zegening niet op een later voorgenomen beker gericht was. De vraag onderscheidt wijn als zelfstandige drank van wijn ter ondersteuning van het eten."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:42b:g2",
+      "locator": "Berakhot 42b · Gemara · g2",
+      "layer": "gemara",
+      "original": "ברך על הפת פטר את הפרפרת על הפרפרת לא פטר את הפת ב\"ש אומרים אף לא מעשה קדרה:",
+      "nl": "“Wie over het brood zegende, stelde de bijspijs vrij; over de bijspijs stelde hij het brood niet vrij. Het huis van Sjammai zegt: zelfs geen gekookt gerecht.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:42b:g3",
+      "locator": "Berakhot 42b · Gemara · g3",
+      "layer": "gemara",
+      "original": "איבעיא להו ב\"ש ארישא פליגי או דילמא אסיפא פליגי דקאמר תנא קמא ברך על הפת פטר את הפרפרת וכ\"ש מעשה קדרה ואתי ב\"ש למימר לא מיבעיא פרפרת דלא פטרה להו פת אלא אפילו מעשה קדרה נמי לא פטרה או דילמא אסיפא פליגי דקתני ברך על הפרפרת לא פטר את הפת פת הוא דלא פטר אבל מעשה קדרה פטר ואתו ב\"ש למימר ואפי' מעשה קדרה נמי לא פטר תיקו.",
+      "nl": "Men vroeg: verschilt het huis van Sjammai over het eerste of over het laatste deel? De eerste leraar zegt: wie over het brood zegende, stelde de bijspijs vrij, en zeker een gekookt gerecht. Komt het huis van Sjammai dan zeggen: niet alleen stelt brood de bijspijs niet vrij, het stelt zelfs een gekookt gerecht niet vrij? Of verschillen zij over het laatste deel: wie over de bijspijs zegende, stelde het brood niet vrij — wel een gekookt gerecht — waarna het huis van Sjammai zegt: zelfs een gekookt gerecht stelt hij niet vrij? Het blijft onbeslist.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Teikoe, hier “blijft onbeslist”, markeert de onopgeloste vraag."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:42b:g4",
+      "locator": "Berakhot 42b · Gemara · g4",
+      "layer": "gemara",
+      "original": "היו יושבין כל אחד ואחד כו':",
+      "nl": "“Zaten zij bijeen, dan ieder”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:42b:g5",
+      "locator": "Berakhot 42b · Gemara · g5",
+      "layer": "gemara",
+      "original": "הסבו אין לא הסבו לא ורמינהו עשרה שהיו הולכים בדרך אע\"פ שכולם אוכלים מככר אחד כל אחד ואחד מברך לעצמו ישבו לאכול אע\"פ שכל אחד ואחד אוכל מככרו אחד מברך לכולם קתני ישבו אע\"פ שלא הסבו אמר רב נחמן בר יצחק כגון דאמרי ניזיל וניכול לחמא בדוך פלן כי נח נפשיה דרב אזלו תלמידיו בתריה כי הדרי אמרי ניזיל וניכול לחמא אנהר דנק בתר דכרכי יתבי וקא מיבעיא להו הסבו דוקא תנן אבל ישבו לא או דילמא כיון דאמרי ניזיל וניכול ריפתא בדוכתא פלניתא כי הסבו דמי לא הוה בידייהו קם רב אדא בר אהבה",
+      "nl": "Dus wel als zij aanlagen, maar niet als zij niet aanlagen. Stel daartegenover: tien mensen die onderweg waren, zegenen ieder voor zichzelf, ook als allen van één brood eten. Gingen zij zitten om te eten, dan zegent één voor allen, ook als ieder van zijn eigen brood eet. Er staat “gingen zij zitten”, ook zonder aanliggen! Rav Nachman bar Jitschak zei: zij hadden bijvoorbeeld gezegd: “Laten wij op die bepaalde plaats brood gaan eten.” Toen Rav stierf, gingen zijn leerlingen achter zijn baar aan. Bij hun terugkeer zeiden zij: “Laten wij brood eten bij de rivier Danak.” Nadat zij gegeten hadden, zaten zij en vroegen zich af: hebben wij specifiek aanliggen geleerd, en is zitten niet genoeg? Of geldt het als aanliggen omdat zij zeiden: “Laten wij op die bepaalde plaats brood eten”? Zij wisten het niet. Rav Adda bar Ahava stond op",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-42b-r2851483",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "De handeling en conclusie van rav Adda bar Ahava volgen op 43a."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "9a",
+  "title": "9a · Recitatietijd en de nacht van de uittocht",
+  "scope": "Volledige hoofdtekst van amud 9a in de gekozen editie; Gemara. De laatste zin loopt door op 9b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98_%D7%90&oldid=2851552",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:9a:g1",
+      "locator": "Berakhot 9a · Gemara · g1",
+      "layer": "gemara",
+      "original": "לא לעולם יממא הוא והאי דקרו ליה ליליא דאיכא אינשי דגנו בההיא שעתא אמר רבי אחא ברבי חנינא אמר רבי יהושע בן לוי הלכה כר\"ש שאמר משום רבי עקיבא. אמר רבי זירא ובלבד שלא יאמר השכיבנו. כי אתא רב יצחק בר יוסף אמר הא דרבי אחא ברבי חנינא אמר ריב\"ל לאו בפירוש איתמר אלא מכללא איתמר דההוא זוגא דרבנן דאשתכור בהלולא דבריה דר' יהושע בן לוי אתו לקמיה דריב\"ל אמר כדאי הוא ר\"ש לסמוך עליו בשעת הדחק:",
+      "nl": "Nee, het is inderdaad dag. Dat zij het “nacht” noemen, is omdat er mensen zijn die op dat tijdstip nog slapen. Rabbi Acha, de zoon van rabbi Chanina, zei namens rabbi Jehosjoea ben Levi: de halacha volgt rabbi Sjimon, die namens rabbi Akiva sprak. Rabbi Zeira zei: op voorwaarde dat hij “Laat ons neerliggen” niet zegt. Toen rav Jitschak bar Josef kwam, zei hij: deze uitspraak van rabbi Acha, de zoon van rabbi Chanina, namens rabbi Jehosjoea ben Levi, is niet uitdrukkelijk gezegd, maar uit een geval afgeleid. Twee rabbijnen waren dronken geworden op de bruiloft van de zoon van rabbi Jehosjoea ben Levi. Zij kwamen voor rabbi Jehosjoea ben Levi en hij zei: “Rabbi Sjimon is gezaghebbend genoeg om in een noodsituatie op hem te steunen.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Het antwoord vervolgt de tegenspraak op 8b over reciteren vóór zonsopgang."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:9a:g2",
+      "locator": "Berakhot 9a · Gemara · g2",
+      "layer": "gemara",
+      "original": "מעשה שבאו בניו וכו':",
+      "nl": "“Eens kwamen zijn zonen”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:9a:g3",
+      "locator": "Berakhot 9a · Gemara · g3",
+      "layer": "gemara",
+      "original": "ועד השתא לא שמיע להו הא דר\"ג הכי קאמרי ליה רבנן פליגי עילווך ויחיד ורבים הלכה כרבים או דלמא רבנן כוותך סבירא להו והאי דקאמרי עד חצות כדי להרחיק אדם מן העבירה אמר להו רבנן כוותי סבירא להו וחייבין אתם והאי דקאמרי עד חצות כדי להרחיק אדם מן העבירה:",
+      "nl": "Hadden zij de opvatting van Rabban Gamaliël dan tot dan toe niet gehoord? Zij vroegen hem dit: “Verschillen de rabbijnen met u van mening, zodat bij een enkeling tegenover velen de halacha de velen volgt? Of delen de rabbijnen uw opvatting en zeggen zij alleen ‘tot middernacht’ om de mens ver van overtreding te houden?” Hij zei tegen hen: “De rabbijnen delen mijn opvatting en jullie zijn verplicht te reciteren. Dat zij ‘tot middernacht’ zeggen, dient om de mens ver van overtreding te houden.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:9a:g4",
+      "locator": "Berakhot 9a · Gemara · g4",
+      "layer": "gemara",
+      "original": "ולא זו בלבד אמרו אלא וכו':",
+      "nl": "“Dit zeiden zij niet alleen hierover”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:9a:g5",
+      "locator": "Berakhot 9a · Gemara · g5",
+      "layer": "gemara",
+      "original": "ור\"ג מי קאמר עד חצות דקתני ולא זו בלבד אמרו הכי קאמר להו ר\"ג לבניה אפילו לרבנן דקאמרי עד חצות מצותה עד שיעלה עמוד השחר והאי דקא אמרי עד חצות כדי להרחיק אדם מן העבירה:",
+      "nl": "Zei Rabban Gamaliël dan “tot middernacht”, dat hij onderwijst: “Dit zeiden zij niet alleen hierover”? Zo sprak Rabban Gamaliël tegen zijn zonen: “Zelfs volgens de rabbijnen, die ‘tot middernacht’ zeggen, kan het gebod worden vervuld totdat de dageraad aanbreekt. Dat zij ‘tot middernacht’ zeggen, dient om de mens ver van overtreding te houden.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:9a:g6",
+      "locator": "Berakhot 9a · Gemara · g6",
+      "layer": "gemara",
+      "original": "הקטר חלבים וכו':",
+      "nl": "“Het verbranden van vetstukken”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:9a:g7",
+      "locator": "Berakhot 9a · Gemara · g7",
+      "layer": "gemara",
+      "original": "ואילו אכילת פסחים לא קתני ורמינהי ק\"ש ערבית והלל בלילי פסחים ואכילת פסח מצותן עד שיעלה עמוד השחר אמר רב יוסף לא קשיא הא ר' אלעזר בן עזריה הא רבי עקיבא דתניא (שמות יב, ח) ואכלו את הבשר בלילה הזה רבי אלעזר בן עזריה אומר נאמר כאן בלילה הזה ונאמר להלן (שמות יב, יב) ועברתי בארץ מצרים בלילה הזה מה להלן עד חצות אף כאן עד חצות אמר ליה ר' עקיבא והלא כבר נאמר (שמות יב, יא) בחפזון עד שעת חפזון א\"כ מה תלמוד לומר בלילה יכול יהא נאכל כקדשים ביום תלמוד לומר בלילה בלילה הוא נאכל ולא ביום בשלמא לר' אלעזר בן עזריה דאית ליה גזירה שוה אצטריך למכתב ליה הזה אלא לר' עקיבא האי הזה מאי עביד ליה למעוטי לילה אחר הוא דאתא סד\"א הואיל ופסח קדשים קלים ושלמים קדשים קלים מה שלמים נאכלין לשני ימים ולילה אחד אף פסח נאכל שתי לילות במקום ב' ימים ויהא נאכל לב' לילות ויום אחד קמ\"ל בלילה הזה בלילה הזה הוא נאכל ואינו נאכל בלילה אחר ור' אלעזר בן עזריה (שמות יב, י) מלא תותירו עד בקר נפקא ורבי עקיבא אי מהתם הוה אמינא מאי בקר בקר שני ורבי אלעזר אמר לך כל בקר בקר ראשון הוא. והני תנאי כהני תנאי דתניא (דברים טז, ו) שם תזבח את הפסח בערב כבוא השמש מועד צאתך ממצרים ר' אליעזר אומר בערב אתה זובח וכבוא השמש אתה אוכל ומועד צאתך ממצרים אתה שורף רבי יהושע אומר בערב אתה זובח כבוא השמש אתה אוכל ועד מתי אתה אוכל והולך עד מועד צאתך ממצרים א\"ר אבא הכל מודים כשנגאלו ישראל ממצרים לא נגאלו אלא בערב שנאמר (דברים טז, א) הוציאך ה' אלהיך ממצרים לילה וכשיצאו לא יצאו אלא ביום שנא' (במדבר לג, ג) ממחרת הפסח יצאו בני ישראל ביד רמה על מה נחלקו על שעת חפזון ר' אלעזר בן עזריה סבר מאי חפזון חפזון דמצרים ורבי עקיבא סבר מאי חפזון חפזון דישראל תנ\"ה הוציאך ה' אלהיך ממצרים לילה וכי בלילה יצאו והלא לא יצאו אלא ביום שנא' ממחרת הפסח יצאו בני ישראל ביד רמה אלא מלמד שהתחילה להם גאולה מבערב:",
+      "nl": "Het eten van het pesachoffer noemt hij echter niet. Stel daartegenover wat is geleerd: het avond-Sjema, het Hallel op de pesachnachten en het eten van het pesachoffer kunnen worden verricht totdat de dageraad aanbreekt. Rav Josef zei: er is geen moeilijkheid; het ene volgt rabbi Elazar ben Azarja, het andere rabbi Akiva. Er is namelijk geleerd (Exodus 12:8): “Zij zullen het vlees eten in deze nacht.” Rabbi Elazar ben Azarja zegt: hier staat “in deze nacht”, en verderop staat (Exodus 12:12): “Ik zal door Egypte gaan in deze nacht.” Zoals het daar tot middernacht betreft, zo ook hier tot middernacht. Rabbi Akiva zei tegen hem: er staat toch al (Exodus 12:11): “In haast” — tot het tijdstip van de haast. Wat leert “in de nacht” dan? Je zou kunnen denken dat het net als andere heilige offers overdag gegeten mag worden. Daarom leert de tekst “in de nacht”: ’s nachts wordt het gegeten en niet overdag. Voor rabbi Elazar ben Azarja, die de overeenkomstige formuleringen verbindt, is het begrijpelijk dat “deze” geschreven moest worden. Maar waarvoor gebruikt rabbi Akiva dit woord “deze”? Het sluit een andere nacht uit. Je zou kunnen denken: het pesachoffer is een offer van lichtere heiligheid en het vredeoffer ook. Zoals vredeoffers twee dagen en één nacht gegeten mogen worden, zo mag het pesachoffer twee nachten in plaats van twee dagen worden gegeten, dus twee nachten en één dag. Daarom leert de tekst: “in deze nacht” — in deze nacht wordt het gegeten, niet in een andere nacht. Rabbi Elazar ben Azarja leidt dat af uit (Exodus 12:10): “Laat er niets van over tot de ochtend.” En rabbi Akiva? Als het alleen daaruit kwam, zou ik kunnen zeggen: welke ochtend? De tweede ochtend. Rabbi Elazar zou je antwoorden: iedere onbepaald genoemde ochtend is de eerste ochtend. Deze leraren verschillen zoals de volgende leraren, want er is geleerd (Deuteronomium 16:6): “Daar zul je het pesachoffer slachten, in de avond, bij zonsondergang, op het tijdstip van je uittocht uit Egypte.” Rabbi Eliëzer zegt: in de avond slacht je; bij zonsondergang eet je; op het tijdstip van je uittocht uit Egypte verbrand je het. Rabbi Jehosjoea zegt: in de avond slacht je, bij zonsondergang eet je. Tot wanneer blijf je eten? Tot het tijdstip van je uittocht uit Egypte. Rabbi Abba zei: allen zijn het erover eens dat Israël ’s avonds uit Egypte verlost werd, want er staat (Deuteronomium 16:1): “De HEER, je God, leidde je ’s nachts uit Egypte.” Toen zij vertrokken, vertrokken zij uitsluitend overdag, want er staat (Numeri 33:3): “Op de dag na het pesachoffer trokken de kinderen van Israël met opgeheven hand uit.” Waarover verschillen zij? Over het tijdstip van de haast. Rabbi Elazar ben Azarja meent: welke haast? De haast van de Egyptenaren. Rabbi Akiva meent: welke haast? De haast van Israël. Zo is ook geleerd: “De HEER, je God, leidde je ’s nachts uit Egypte.” Vertrokken zij dan ’s nachts? Zij vertrokken toch uitsluitend overdag, want er staat: “Op de dag na het pesachoffer trokken de kinderen van Israël met opgeheven hand uit.” Dit leert dus dat hun verlossing al ’s avonds begon.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Hallel is de lofzang van psalmen bij feestdagen. De gezera sjawa verbindt passages met dezelfde woorden. Lichtere heiligheid is een offercategorie met ruimere eetregels."
+        },
+        {
+          "type": "toelichting",
+          "text": "De haast van de Egyptenaren wordt verbonden met middernacht; die van Israël met het vertrek bij de ochtend. De rabbijnse uitspraak over het verbranden bepaalt hier het einde van de toegestane eettijd."
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "ref": "bavli:berakhot:9a:g8",
+      "locator": "Berakhot 9a · Gemara · g8",
+      "layer": "gemara",
+      "original": "(שמות יא, ב) דבר נא באזני העם וגו' אמרי דבי רבי ינאי אין נא אלא לשון בקשה אמר ליה הקב\"ה למשה בבקשה ממך לך ואמור להם לישראל בבקשה מכם שאלו ממצרים כלי כסף וכלי זהב שלא יאמר",
+      "nl": "(Exodus 11:2): “Spreek toch ten aanhoren van het volk”, enzovoort. In het leerhuis van rabbi Jannai zeiden zij: na, “toch”, drukt uitsluitend een verzoek uit. De Heilige, gezegend zij Hij, zei tegen Mozes: “Ik verzoek je: ga en zeg tegen Israël: ik verzoek jullie, vraag de Egyptenaren om zilveren en gouden voorwerpen, opdat niet zal zeggen",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-9a-r2851552",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Wie dit zou kunnen zeggen en de rest van het verzoek volgen op 9b."
+        }
+      ]
+    }
+  ]
+}

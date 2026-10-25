@@ -1,0 +1,868 @@
+{
+  "corpus": "yerushalmi",
+  "tractate": "ketubot",
+  "title": "Ketoebot",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99%20%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&oldid=513920",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:51:23.911359+00:00",
+  "htmlSha256": "8e42aaeb0f911a8332e9af9878241ef65e16929436450c06c9253b6510ce6ed3",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:NewItem?site=hewikisource&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&oldid=513920",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&id=513920&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2599%25D7%25A8%25D7%2595%25D7%25A9%25D7%259C%25D7%259E%25D7%2599_%25D7%259B%25D7%25AA%25D7%2595%25D7%2591%25D7%2595%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "תלמוד ירושלמי"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%99%D7%91%D7%9E%D7%95%D7%AA",
+      "title": "ירושלמי מסכת יבמות",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מסכת כתובות"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%A0%D7%93%D7%A8%D7%99%D7%9D",
+      "title": "ירושלמי מסכת נדרים",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90",
+      "title": "ירושלמי כתובות א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%90",
+      "title": "ירושלמי כתובות א א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%91",
+      "title": "ירושלמי כתובות א ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%92",
+      "title": "ירושלמי כתובות א ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%93",
+      "title": "ירושלמי כתובות א ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%94",
+      "title": "ירושלמי כתובות א ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%95",
+      "title": "ירושלמי כתובות א ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%96",
+      "title": "ירושלמי כתובות א ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%97",
+      "title": "ירושלמי כתובות א ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%98",
+      "title": "ירושלמי כתובות א ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%90_%D7%99",
+      "title": "ירושלמי כתובות א י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91",
+      "title": "ירושלמי כתובות ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%90",
+      "title": "ירושלמי כתובות ב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%91",
+      "title": "ירושלמי כתובות ב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%92",
+      "title": "ירושלמי כתובות ב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%93",
+      "title": "ירושלמי כתובות ב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%94",
+      "title": "ירושלמי כתובות ב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%95",
+      "title": "ירושלמי כתובות ב ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%96",
+      "title": "ירושלמי כתובות ב ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%97",
+      "title": "ירושלמי כתובות ב ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%98",
+      "title": "ירושלמי כתובות ב ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%99",
+      "title": "ירושלמי כתובות ב י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92",
+      "title": "ירושלמי כתובות ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%90",
+      "title": "ירושלמי כתובות ג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%91",
+      "title": "ירושלמי כתובות ג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%92",
+      "title": "ירושלמי כתובות ג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%93",
+      "title": "ירושלמי כתובות ג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%94",
+      "title": "ירושלמי כתובות ג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%95",
+      "title": "ירושלמי כתובות ג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%96",
+      "title": "ירושלמי כתובות ג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%97",
+      "title": "ירושלמי כתובות ג ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%98",
+      "title": "ירושלמי כתובות ג ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%99",
+      "title": "ירושלמי כתובות ג י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93",
+      "title": "ירושלמי כתובות ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%90",
+      "title": "ירושלמי כתובות ד א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%91",
+      "title": "ירושלמי כתובות ד ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%92",
+      "title": "ירושלמי כתובות ד ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%93",
+      "title": "ירושלמי כתובות ד ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%94",
+      "title": "ירושלמי כתובות ד ה",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%95",
+      "title": "ירושלמי כתובות ד ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%96",
+      "title": "ירושלמי כתובות ד ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%97",
+      "title": "ירושלמי כתובות ד ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%98",
+      "title": "ירושלמי כתובות ד ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%99",
+      "title": "ירושלמי כתובות ד י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%99%D7%90",
+      "title": "ירושלמי כתובות ד יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%99%D7%91",
+      "title": "ירושלמי כתובות ד יב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%99%D7%92",
+      "title": "ירושלמי כתובות ד יג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%99%D7%93",
+      "title": "ירושלמי כתובות ד יד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94",
+      "title": "ירושלמי כתובות ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%90",
+      "title": "ירושלמי כתובות ה א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%91",
+      "title": "ירושלמי כתובות ה ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%92",
+      "title": "ירושלמי כתובות ה ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%93",
+      "title": "ירושלמי כתובות ה ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%94",
+      "title": "ירושלמי כתובות ה ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%95",
+      "title": "ירושלמי כתובות ה ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%96",
+      "title": "ירושלמי כתובות ה ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%97",
+      "title": "ירושלמי כתובות ה ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%98",
+      "title": "ירושלמי כתובות ה ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%99",
+      "title": "ירושלמי כתובות ה י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%99%D7%90",
+      "title": "ירושלמי כתובות ה יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95",
+      "title": "ירושלמי כתובות ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%90",
+      "title": "ירושלמי כתובות ו א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%91",
+      "title": "ירושלמי כתובות ו ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%92",
+      "title": "ירושלמי כתובות ו ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%93",
+      "title": "ירושלמי כתובות ו ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%94",
+      "title": "ירושלמי כתובות ו ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%95",
+      "title": "ירושלמי כתובות ו ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%96",
+      "title": "ירושלמי כתובות ו ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96",
+      "title": "ירושלמי כתובות ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%90",
+      "title": "ירושלמי כתובות ז א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%91",
+      "title": "ירושלמי כתובות ז ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%92",
+      "title": "ירושלמי כתובות ז ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%93",
+      "title": "ירושלמי כתובות ז ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%94",
+      "title": "ירושלמי כתובות ז ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%95",
+      "title": "ירושלמי כתובות ז ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%96",
+      "title": "ירושלמי כתובות ז ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%97",
+      "title": "ירושלמי כתובות ז ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%98",
+      "title": "ירושלמי כתובות ז ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97",
+      "title": "ירושלמי כתובות ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%90",
+      "title": "ירושלמי כתובות ח א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%91",
+      "title": "ירושלמי כתובות ח ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%92",
+      "title": "ירושלמי כתובות ח ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%93",
+      "title": "ירושלמי כתובות ח ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%94",
+      "title": "ירושלמי כתובות ח ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%95",
+      "title": "ירושלמי כתובות ח ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%96",
+      "title": "ירושלמי כתובות ח ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%97",
+      "title": "ירושלמי כתובות ח ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%98",
+      "title": "ירושלמי כתובות ח ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%99",
+      "title": "ירושלמי כתובות ח י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%99%D7%90",
+      "title": "ירושלמי כתובות ח יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98",
+      "title": "ירושלמי כתובות ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%90",
+      "title": "ירושלמי כתובות ט א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%91",
+      "title": "ירושלמי כתובות ט ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%92",
+      "title": "ירושלמי כתובות ט ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%93",
+      "title": "ירושלמי כתובות ט ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%94",
+      "title": "ירושלמי כתובות ט ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%95",
+      "title": "ירושלמי כתובות ט ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%96",
+      "title": "ירושלמי כתובות ט ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%97",
+      "title": "ירושלמי כתובות ט ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%98",
+      "title": "ירושלמי כתובות ט ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%99",
+      "title": "ירושלמי כתובות ט י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99",
+      "title": "ירושלמי כתובות י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%90",
+      "title": "ירושלמי כתובות י א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%91",
+      "title": "ירושלמי כתובות י ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%92",
+      "title": "ירושלמי כתובות י ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%93",
+      "title": "ירושלמי כתובות י ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%94",
+      "title": "ירושלמי כתובות י ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%95",
+      "title": "ירושלמי כתובות י ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90",
+      "title": "ירושלמי כתובות יא"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "ירושלמי כתובות יא א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "ירושלמי כתובות יא ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%92",
+      "title": "ירושלמי כתובות יא ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%93",
+      "title": "ירושלמי כתובות יא ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%94",
+      "title": "ירושלמי כתובות יא ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%95",
+      "title": "ירושלמי כתובות יא ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%96",
+      "title": "ירושלמי כתובות יא ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91",
+      "title": "ירושלמי כתובות יב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "ירושלמי כתובות יב א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "ירושלמי כתובות יב ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%92",
+      "title": "ירושלמי כתובות יב ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%93",
+      "title": "ירושלמי כתובות יב ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%94",
+      "title": "ירושלמי כתובות יב ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92",
+      "title": "ירושלמי כתובות יג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "ירושלמי כתובות יג א"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "ירושלמי כתובות יג ב"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%92",
+      "title": "ירושלמי כתובות יג ג"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%93",
+      "title": "ירושלמי כתובות יג ד"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%94",
+      "title": "ירושלמי כתובות יג ה"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%95",
+      "title": "ירושלמי כתובות יג ו"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%96",
+      "title": "ירושלמי כתובות יג ז"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%97",
+      "title": "ירושלמי כתובות יג ח"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%98",
+      "title": "ירושלמי כתובות יג ט"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%99",
+      "title": "ירושלמי כתובות יג י"
+    },
+    {
+      "href": "/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%99%D7%90",
+      "title": "ירושלמי כתובות יג יא"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "משנה מסכת כתובות",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "תוספתא/כתובות"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "בבלי מסכת כתובות",
+      "class": "mw-redirect"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%90%D7%99%D7%A8/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "ביאור:ירושלמי מאיר/מסכת כתובות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%95%D7%91%D7%A5:100_percent.svg",
+      "title": "שלימות: 100%",
+      "class": "mw-file-description"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "w:עמוד ראשי",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "w:מסכת כתובות",
+      "class": "extiw"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=ירושלמי_כתובות&oldid=513920"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "קטגוריה:ירושלמי מסכת כתובות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9E%D7%A1%D7%9B%D7%AA_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "קטגוריה:מסכת כתובות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99",
+      "title": "קטגוריה:תלמוד ירושלמי"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%9E%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

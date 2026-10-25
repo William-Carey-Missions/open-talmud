@@ -815,8 +815,8 @@
           "gemara": "overgeleverd",
           "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
           "translationStatus": "concept-deel",
-          "importedSegments": 49,
-          "translatedSegments": 49,
+          "importedSegments": 504,
+          "translatedSegments": 504,
           "independentlyReviewedSegments": 0,
           "segmentTotal": null,
           "units": [
@@ -851,738 +851,738 @@
               "id": "3b",
               "ref": "bavli:berakhot:3b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%92%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "4a",
               "ref": "bavli:berakhot:4a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%93%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "4b",
               "ref": "bavli:berakhot:4b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%93%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "5a",
               "ref": "bavli:berakhot:5a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%94%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "5b",
               "ref": "bavli:berakhot:5b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%94%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "6a",
               "ref": "bavli:berakhot:6a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%95%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "6b",
               "ref": "bavli:berakhot:6b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%95%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 9,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "7a",
               "ref": "bavli:berakhot:7a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%96%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "7b",
               "ref": "bavli:berakhot:7b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%96%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 11,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "8a",
               "ref": "bavli:berakhot:8a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%97%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "8b",
               "ref": "bavli:berakhot:8b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%97%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "9a",
               "ref": "bavli:berakhot:9a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "9b",
               "ref": "bavli:berakhot:9b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "10a",
               "ref": "bavli:berakhot:10a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "10b",
               "ref": "bavli:berakhot:10b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "11a",
               "ref": "bavli:berakhot:11a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%90%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "11b",
               "ref": "bavli:berakhot:11b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%90%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "12a",
               "ref": "bavli:berakhot:12a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%91%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "12b",
               "ref": "bavli:berakhot:12b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%91%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "13a",
               "ref": "bavli:berakhot:13a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%92%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "13b",
               "ref": "bavli:berakhot:13b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%92%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "14a",
               "ref": "bavli:berakhot:14a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%93%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "14b",
               "ref": "bavli:berakhot:14b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%93%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "15a",
               "ref": "bavli:berakhot:15a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%D7%95%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "15b",
               "ref": "bavli:berakhot:15b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%D7%95%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "16a",
               "ref": "bavli:berakhot:16a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%D7%96%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "16b",
               "ref": "bavli:berakhot:16b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%98%D7%96%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "17a",
               "ref": "bavli:berakhot:17a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%96%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "17b",
               "ref": "bavli:berakhot:17b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%96%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "18a",
               "ref": "bavli:berakhot:18a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%97%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "18b",
               "ref": "bavli:berakhot:18b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%97%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "19a",
               "ref": "bavli:berakhot:19a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%98%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "19b",
               "ref": "bavli:berakhot:19b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%99%D7%98%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "20a",
               "ref": "bavli:berakhot:20a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "20b",
               "ref": "bavli:berakhot:20b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 15,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "21a",
               "ref": "bavli:berakhot:21a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%90%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "21b",
               "ref": "bavli:berakhot:21b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%90%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "22a",
               "ref": "bavli:berakhot:22a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%91%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "22b",
               "ref": "bavli:berakhot:22b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%91%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "23a",
               "ref": "bavli:berakhot:23a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%92%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "23b",
               "ref": "bavli:berakhot:23b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%92%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "24a",
               "ref": "bavli:berakhot:24a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%93%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "24b",
               "ref": "bavli:berakhot:24b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%93%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "25a",
               "ref": "bavli:berakhot:25a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%94%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "25b",
               "ref": "bavli:berakhot:25b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%94%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "26a",
               "ref": "bavli:berakhot:26a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%95%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 9,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "26b",
               "ref": "bavli:berakhot:26b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%95%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "27a",
               "ref": "bavli:berakhot:27a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%96%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "27b",
               "ref": "bavli:berakhot:27b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%96%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "28a",
               "ref": "bavli:berakhot:28a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%97%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "28b",
               "ref": "bavli:berakhot:28b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%97%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "29a",
               "ref": "bavli:berakhot:29a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%98%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "29b",
               "ref": "bavli:berakhot:29b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9B%D7%98%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "30a",
               "ref": "bavli:berakhot:30a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "30b",
               "ref": "bavli:berakhot:30b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "31a",
               "ref": "bavli:berakhot:31a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%90%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "31b",
               "ref": "bavli:berakhot:31b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%90%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 10,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "32a",
               "ref": "bavli:berakhot:32a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%91%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 10,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "32b",
               "ref": "bavli:berakhot:32b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%91%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 11,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "33a",
               "ref": "bavli:berakhot:33a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%92%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "33b",
               "ref": "bavli:berakhot:33b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%92%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "34a",
               "ref": "bavli:berakhot:34a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%93%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "34b",
               "ref": "bavli:berakhot:34b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%93%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "35a",
               "ref": "bavli:berakhot:35a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%94%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "35b",
               "ref": "bavli:berakhot:35b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%94%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "36a",
               "ref": "bavli:berakhot:36a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%95%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "36b",
               "ref": "bavli:berakhot:36b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%95%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "37a",
               "ref": "bavli:berakhot:37a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%96%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "37b",
               "ref": "bavli:berakhot:37b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%96%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "38a",
               "ref": "bavli:berakhot:38a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%97%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "38b",
               "ref": "bavli:berakhot:38b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%97%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "39a",
               "ref": "bavli:berakhot:39a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%98%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 1,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "39b",
               "ref": "bavli:berakhot:39b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9C%D7%98%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "40a",
               "ref": "bavli:berakhot:40a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 11,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "40b",
               "ref": "bavli:berakhot:40b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 7,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "41a",
               "ref": "bavli:berakhot:41a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%90%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "41b",
               "ref": "bavli:berakhot:41b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%90%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 2,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "42a",
               "ref": "bavli:berakhot:42a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%91%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 3,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "42b",
               "ref": "bavli:berakhot:42b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%91%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 6,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "43a",
               "ref": "bavli:berakhot:43a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%92%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 8,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "43b",
               "ref": "bavli:berakhot:43b",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%92%20%D7%91",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 5,
               "independentlyReviewedSegments": 0
             },
             {
               "id": "44a",
               "ref": "bavli:berakhot:44a",
               "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%A8%D7%9B%D7%95%D7%AA%20%D7%9E%D7%93%20%D7%90",
-              "sourceStatus": "niet-verworven",
-              "translationStatus": "niet-begonnen",
-              "translatedSegments": 0,
+              "sourceStatus": "verworven",
+              "translationStatus": "concept",
+              "translatedSegments": 4,
               "independentlyReviewedSegments": 0
             },
             {
@@ -1946,7 +1946,8 @@
               "independentlyReviewedSegments": 0
             }
           ],
-          "unitInventorySource": "https://he.wikisource.org/w/index.php?oldid=2953405&title=%D7%91%D7%91%D7%9C%D7%99%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA"
+          "unitInventorySource": "https://he.wikisource.org/w/index.php?oldid=2953405&title=%D7%91%D7%91%D7%9C%D7%99%20%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+          "extentSlots": 125
         },
         {
           "id": "peah",
@@ -2111,7 +2112,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 312
         },
         {
           "id": "eruvin",
@@ -2126,7 +2128,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 207
         },
         {
           "id": "pesachim",
@@ -2141,7 +2144,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 240
         },
         {
           "id": "shekalim",
@@ -2172,7 +2176,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 173
         },
         {
           "id": "sukkah",
@@ -2187,7 +2192,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 110
         },
         {
           "id": "beitzah",
@@ -2202,7 +2208,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 78
         },
         {
           "id": "rosh-hashanah",
@@ -2217,7 +2224,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 67
         },
         {
           "id": "taanit",
@@ -2232,7 +2240,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 59
         },
         {
           "id": "megillah",
@@ -2247,7 +2256,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 61
         },
         {
           "id": "moed-katan",
@@ -2262,7 +2272,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 55
         },
         {
           "id": "chagigah",
@@ -2277,7 +2288,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 51
         },
         {
           "id": "yevamot",
@@ -2292,7 +2304,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 242
         },
         {
           "id": "ketubot",
@@ -2307,7 +2320,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 222
         },
         {
           "id": "nedarim",
@@ -2322,7 +2336,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 180
         },
         {
           "id": "nazir",
@@ -2337,7 +2352,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 130
         },
         {
           "id": "sotah",
@@ -2352,7 +2368,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 96
         },
         {
           "id": "gittin",
@@ -2367,7 +2384,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 178
         },
         {
           "id": "kiddushin",
@@ -2382,7 +2400,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 162
         },
         {
           "id": "bava-kamma",
@@ -2397,7 +2416,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 236
         },
         {
           "id": "bava-metzia",
@@ -2412,7 +2432,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 235
         },
         {
           "id": "bava-batra",
@@ -2427,7 +2448,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 350
         },
         {
           "id": "sanhedrin",
@@ -2442,7 +2464,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 224
         },
         {
           "id": "makkot",
@@ -2457,7 +2480,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 46
         },
         {
           "id": "shevuot",
@@ -2472,7 +2496,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 96
         },
         {
           "id": "eduyot",
@@ -2502,7 +2527,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 150
         },
         {
           "id": "avot",
@@ -2532,7 +2558,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 25
         },
         {
           "id": "zevachim",
@@ -2547,7 +2574,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 238
         },
         {
           "id": "menachot",
@@ -2562,7 +2590,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 217
         },
         {
           "id": "chullin",
@@ -2577,7 +2606,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 281
         },
         {
           "id": "bekhorot",
@@ -2592,7 +2622,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 119
         },
         {
           "id": "arakhin",
@@ -2607,7 +2638,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 65
         },
         {
           "id": "temurah",
@@ -2622,7 +2654,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 65
         },
         {
           "id": "keritot",
@@ -2637,7 +2670,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 54
         },
         {
           "id": "meilah",
@@ -2652,7 +2686,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 41
         },
         {
           "id": "tamid",
@@ -2668,7 +2703,8 @@
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
           "segmentTotal": null,
-          "note": "Gemara bij slechts een deel van de Misjna-hoofdstukken; hoofdstukgrenzen vóór integrale verwerving controleren."
+          "note": "Gemara bij slechts een deel van de Misjna-hoofdstukken; hoofdstukgrenzen vóór integrale verwerving controleren.",
+          "extentSlots": 17
         },
         {
           "id": "middot",
@@ -2803,7 +2839,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 143
         },
         {
           "id": "makhshirin",
@@ -2901,7 +2938,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 135
         },
         {
           "id": "peah",
@@ -2916,7 +2954,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 74
         },
         {
           "id": "demai",
@@ -2931,7 +2970,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 67
         },
         {
           "id": "kilayim",
@@ -2946,7 +2986,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 88
         },
         {
           "id": "sheviit",
@@ -2961,7 +3002,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 61
         },
         {
           "id": "terumot",
@@ -2976,7 +3018,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 117
         },
         {
           "id": "maasrot",
@@ -2991,7 +3034,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 52
         },
         {
           "id": "maaser-sheni",
@@ -3006,7 +3050,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 66
         },
         {
           "id": "challah",
@@ -3021,7 +3066,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 56
         },
         {
           "id": "orlah",
@@ -3036,7 +3082,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 40
         },
         {
           "id": "bikkurim",
@@ -3051,7 +3098,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 25
         },
         {
           "id": "shabbat",
@@ -3066,7 +3114,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 184
         },
         {
           "id": "eruvin",
@@ -3081,7 +3130,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 130
         },
         {
           "id": "pesachim",
@@ -3096,7 +3146,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 142
         },
         {
           "id": "shekalim",
@@ -3111,7 +3162,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 66
         },
         {
           "id": "yoma",
@@ -3126,7 +3178,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 84
         },
         {
           "id": "sukkah",
@@ -3141,7 +3194,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 52
         },
         {
           "id": "beitzah",
@@ -3156,7 +3210,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 44
         },
         {
           "id": "rosh-hashanah",
@@ -3171,7 +3226,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 44
         },
         {
           "id": "taanit",
@@ -3186,7 +3242,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 52
         },
         {
           "id": "megillah",
@@ -3201,7 +3258,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 67
         },
         {
           "id": "moed-katan",
@@ -3216,7 +3274,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 38
         },
         {
           "id": "chagigah",
@@ -3231,7 +3290,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 44
         },
         {
           "id": "yevamot",
@@ -3246,7 +3306,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 169
         },
         {
           "id": "ketubot",
@@ -3261,7 +3322,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 143
         },
         {
           "id": "nedarim",
@@ -3276,7 +3338,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 79
         },
         {
           "id": "nazir",
@@ -3291,7 +3354,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 94
         },
         {
           "id": "sotah",
@@ -3306,7 +3370,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 93
         },
         {
           "id": "gittin",
@@ -3321,7 +3386,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 108
         },
         {
           "id": "kiddushin",
@@ -3336,7 +3402,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 96
         },
         {
           "id": "bava-kamma",
@@ -3351,7 +3418,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 88
         },
         {
           "id": "bava-metzia",
@@ -3366,7 +3434,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 73
         },
         {
           "id": "bava-batra",
@@ -3381,7 +3450,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 67
         },
         {
           "id": "sanhedrin",
@@ -3396,7 +3466,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 114
         },
         {
           "id": "makkot",
@@ -3412,7 +3483,8 @@
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
           "segmentTotal": null,
-          "note": "Onvolledig overgeleverd; ontbrekende delen niet met Babylonische tekst aanvullen."
+          "note": "Onvolledig overgeleverd; ontbrekende delen niet met Babylonische tekst aanvullen.",
+          "extentSlots": 18
         },
         {
           "id": "shevuot",
@@ -3427,7 +3499,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 88
         },
         {
           "id": "eduyot",
@@ -3457,7 +3530,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 74
         },
         {
           "id": "avot",
@@ -3487,7 +3561,8 @@
           "importedSegments": 0,
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
-          "segmentTotal": null
+          "segmentTotal": null,
+          "extentSlots": 38
         },
         {
           "id": "zevachim",
@@ -3758,7 +3833,8 @@
           "translatedSegments": 0,
           "independentlyReviewedSegments": 0,
           "segmentTotal": null,
-          "note": "Alleen een deel van het tractaat is overgeleverd; het ontbrekende vervolg kan niet worden vertaald."
+          "note": "Alleen een deel van het tractaat is overgeleverd; het ontbrekende vervolg kan niet worden vertaald.",
+          "extentSlots": 25
         },
         {
           "id": "makhshirin",

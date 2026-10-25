@@ -1,0 +1,90 @@
+{
+  "id": "36a",
+  "title": "36a · Meel, palmhart en de delen van de kapperstruik",
+  "scope": "Volledige hoofdtekst van amud 36a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%95_%D7%90&oldid=2851498",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:36a:g1",
+      "locator": "Berakhot 36a · Gemara · g1",
+      "layer": "gemara",
+      "original": "דכולהו שלקי א\"כ הוה ליה אניגרון עיקר ושמן טפל ותנן זה הכלל כל שהוא עיקר ועמו טפלה מברך על העיקר ופוטר את הטפלה הכא במאי עסקינן בחושש בגרונו דתניא החושש בגרונו לא יערענו בשמן תחלה בשבת אבל נותן שמן הרבה לתוך אניגרון ובולע פשיטא מהו דתימא כיון דלרפואה קא מכוין לא לבריך עליה כלל קמ\"ל כיון דאית ליה הנאה מיניה בעי ברוכי:",
+      "nl": "van alle gekookte groenten. Dan is de anigron toch hoofdzaak en de olie bijzaak! Wij leerden: dit is de regel: als er een hoofdzaak met een bijzaak is, zegt men de zegening over de hoofdzaak en stelt daarmee de bijzaak vrij. Waarover gaat het hier? Over iemand met keelpijn. Er is immers geleerd: wie keelpijn heeft, mag op sjabbat niet eerst met olie gorgelen, maar mag veel olie in anigron doen en die doorslikken. Dat is toch vanzelfsprekend! Je zou kunnen zeggen: omdat hij genezing bedoelt, hoeft hij er helemaal geen zegening over te zeggen. Daarom leert het: omdat hij ervan geniet, moet hij zegenen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-36a-r2851498",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De regel over sjabbat onderscheidt een herkenbare geneeskundige handeling van het innemen als onderdeel van voedsel. Het gaat hier om de zegening op de olie als beoogd hoofdbestanddeel."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:36a:g2",
+      "locator": "Berakhot 36a · Gemara · g2",
+      "layer": "gemara",
+      "original": "קמחא דחיטי רב יהודה אמר בורא פרי האדמה ורב נחמן אמר שהכל נהיה בדברו א\"ל רבא לרב נחמן לא תפלוג עליה דרב יהודה דר' יוחנן ושמואל קיימי כוותיה דאמר רב יהודה אמר שמואל וכן א\"ר יצחק א\"ר יוחנן שמן זית מברכין עליו בורא פרי העץ אלמא אע\"ג דאשתני במלתיה קאי ה\"נ אע\"ג דאשתני במלתיה קאי מי דמי התם לית ליה עלויא אחרינא הכא אית ליה עלויא אחרינא בפת וכי אית ליה עלויא אחרינא לא מברכינן עליה בורא פרי האדמה אלא שהכל והא\"ר זירא אמר רב מתנא אמר שמואל אקרא חייא וקמחא דשערי מברכינן עלייהו שהכל נהיה בדברו מאי לאו דחיטי בורא פרי האדמה לא דחיטי נמי שהכל נהיה בדברו ולשמעינן דחיטי וכ\"ש דשערי אי אשמעינן דחיטי הוה אמינא ה\"מ דחיטי אבל דשערי לא לבריך עליה כלל קמ\"ל ומי גרע ממלח וזמית דתנן על המלח ועל הזמית אומר שהכל נהיה בדברו אצטריך סד\"א מלח וזמית עביד אינש דשדי לפומיה אבל קמחא דשערי הואיל וקשה לקוקיאני לא לבריך עליה כלל קמ\"ל כיון דאית ליה הנאה מיניה בעי ברוכי:",
+      "nl": "Over tarwemeel zei Rav Jehoeda: ‘Die de vrucht van de aarde schept.’ Rav Nachman zei: ‘Door wiens woord alles is ontstaan.’ Rava zei tegen Rav Nachman: ‘Verschil niet van Rav Jehoeda, want rabbi Jochanan en Sjemoeël staan aan zijn kant. Rav Jehoeda zei immers namens Sjemoeël, en zo ook rabbi Jitschak namens rabbi Jochanan: over olijfolie zegt men “Die de vrucht van de boom schept”. Blijkbaar blijft zij, ondanks de verandering, bij haar oorspronkelijke zegening. Zo ook hier.’ Is dat vergelijkbaar? Daar is er geen verdere verbetering mogelijk; hier wel, als brood. En omdat er nog verbetering mogelijk is, zeggen wij niet ‘Die de vrucht van de aarde schept’, maar ‘Door wiens woord alles is ontstaan’? Rabbi Zeïra zei toch namens Rav Matna, namens Sjemoeël: over rauwe pompoen en gerstemeel zeggen wij ‘Door wiens woord alles is ontstaan’. Betekent dit niet dat men over tarwemeel ‘Die de vrucht van de aarde schept’ zegt? Nee, ook daar ‘Door wiens woord alles is ontstaan’. Laat hij dan tarwemeel noemen, en hoeveel te meer gerstemeel! Als hij tarwemeel had genoemd, had ik gedacht: dat geldt voor tarwe, maar over gerstemeel hoeft men helemaal niet te zegenen. Daarom leert hij dit. Is het dan minder dan zout en zamiet? Wij leerden toch: over zout en zamiet zegt men ‘Door wiens woord alles is ontstaan’. Het was nodig: je zou kunnen zeggen dat iemand zout en zamiet wel in zijn mond doet, maar over gerstemeel helemaal niet hoeft te zegenen omdat het schadelijk is bij ingewandswormen. Daarom leert hij: omdat hij ervan geniet, moet hij zegenen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-36a-r2851498",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "Zamiet is een voedselbereiding die gewoonlijk als pekel of een soort bouillon wordt verklaard. Kookijanee wordt als ingewandswormen opgevat; de precieze oude medische aanduiding is niet nader gespecificeerd."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:36a:g3",
+      "locator": "Berakhot 36a · Gemara · g3",
+      "layer": "gemara",
+      "original": "קורא רב יהודה אמר בורא פרי האדמה ושמואל אמר שהכל נהיה בדברו רב יהודה אמר בורא פרי האדמה פירא הוא ושמואל אמר שהכל נהיה בדברו הואיל וסופו להקשות אמר ליה שמואל לרב יהודה שיננא כוותך מסתברא דהא צנון סופו להקשות ומברכינן עליה בורא פרי האדמה ולא היא צנון נטעי אינשי אדעתא דפוגלא דקלא לא נטעי אינשי אדעתא דקורא וכל היכא דלא נטעי אינשי אדעתא דהכי לא מברכינן עליה והרי צלף דנטעי אינשי אדעתא דפרחא ותנן על מיני נצפה על העלין ועל התמרות אומר בורא פרי האדמה ועל האביונות ועל הקפריסין אומר בורא פרי העץ אמר רב נחמן בר יצחק צלף נטעי אינשי אדעתא דשותא דקלא לא נטעי אינשי אדעתא דקורא ואע\"ג דקלסיה שמואל לרב יהודה הלכתא כותיה דשמואל:",
+      "nl": "Over palmhart zei Rav Jehoeda: ‘Die de vrucht van de aarde schept.’ Sjemoeël zei: ‘Door wiens woord alles is ontstaan.’ Rav Jehoeda zegt ‘Die de vrucht van de aarde schept’, omdat het een vrucht is. Sjemoeël zegt ‘Door wiens woord alles is ontstaan’, omdat het uiteindelijk hard wordt. Sjemoeël zei tegen Rav Jehoeda: ‘Scherpzinnige, jouw opvatting lijkt juist. Ook een radijs wordt uiteindelijk hard en toch zeggen wij daarover “Die de vrucht van de aarde schept”.’ Maar zo is het niet: mensen planten radijs met het oog op de radijs; een palm planten zij niet met het oog op het palmhart. Zegenen wij dan niet op de gebruikelijke wijze over iets waarvoor men niet plant? Bij de kapperstruik planten mensen toch met het oog op de bloem, en wij leerden: over de bladeren en jonge scheuten van soorten kapperstruiken zegt men ‘Die de vrucht van de aarde schept’; over de bessen en de kappertjes ‘Die de vrucht van de boom schept’. Rav Nachman bar Jitschak zei: mensen planten een kapperstruik met het oog op alle eetbare delen, maar een palm niet met het oog op het palmhart. Hoewel Sjemoeël Rav Jehoeda prees, volgt de halacha Sjemoeël.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-36a-r2851498",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Palmhart is het zachte jonge groeideel van een palm. Bij de kapperstruik worden avijjonot als de rijpe bessen en kafrisin als de bloemknoppen of omhulsels aangeduid; de precieze identificatie van alle eetbare delen is niet overal gelijk."
+        },
+        {
+          "type": "onzeker",
+          "text": "Sjoeta is letterlijk een algemene benaming van de struik of zijn delen. De vertaling kiest op grond van het argument “alle eetbare delen”."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:36a:g4",
+      "locator": "Berakhot 36a · Gemara · g4",
+      "layer": "gemara",
+      "original": "אמר רב יהודה אמר רב צלף של ערלה בחוצה לארץ זורק את האביונות ואוכל את הקפריסין למימרא דאביונות פירי וקפריסין לאו פירי ורמינהו על מיני נצפה על העלים ועל התמרות אומר בורא פרי האדמה ועל האביונות ועל הקפריסין אומר בורא פרי העץ הוא דאמר כר\"ע דתנן רבי אליעזר אומר צלף מתעשר תמרות ואביונות וקפריסין ר\"ע אומר אין מתעשר אלא אביונות בלבד מפני שהוא פרי ונימא הלכה כרבי עקיבא אי אמר הלכה כרבי עקיבא הוה אמינא אפי' בארץ קמ\"ל כל המיקל בארץ הלכה כמותו בחוצה לארץ אבל בארץ לא ונימא הלכה כרבי עקיבא בחוצה לארץ דכל המיקל בארץ הלכה כמותו בח\"ל אי אמר הכי הוה אמינא הנ\"מ גבי מעשר אילן דבארץ גופא מדרבנן אבל גבי ערלה דבארץ מדאורייתא אימא בח\"ל נמי נגזור קמ\"ל רבינא אשכחיה למר בר רב אשי דקא זריק אביונות וקאכיל קפריסין א\"ל מאי דעתך כר' עקיבא דמיקל ולעביד מר כב\"ש דמקילי טפי דתנן צלף ב\"ש אומרים כלאים בכרם וב\"ה אומרים אין כלאים בכרם אלו ואלו מודים שחייב בערלה הא גופא קשיא אמרת צלף ב\"ש אומרים כלאים בכרם אלמא מין ירק הוא והדר תני אלו ואלו מודים שחייב בערלה אלמא מין אילן הוא הא לא קשיא ב\"ש ספוקי מספקא להו ועבדי הכא לחומרא והכא לחומרא מ\"מ לב\"ש הוה ליה ספק ערלה ותנן ספק ערלה בא\"י אסור ובסוריא מותר ובח\"ל יורד",
+      "nl": "Rav Jehoeda zei namens Rav: bij een kapperstruik die buiten het land onder het verbod van de eerste drie jaren valt, gooit men de bessen weg en eet men de kappertjes. Betekent dit dat de bessen vruchten zijn en de kappertjes niet? Men werpt tegen: over de bladeren en jonge scheuten van soorten kapperstruiken zegt men ‘Die de vrucht van de aarde schept’, en over de bessen en kappertjes ‘Die de vrucht van de boom schept’. Hij volgt rabbi Akiva. Wij leerden immers: rabbi Eliëzer zegt: bij een kapperstruik zijn scheuten, bessen en kappertjes aan de tiende onderworpen. Rabbi Akiva zegt: alleen de bessen, omdat die de vrucht zijn. Laat hij dan zeggen: de halacha volgt rabbi Akiva! Als hij dat zei, had ik gedacht: zelfs in het land. Daarom leert hij: bij elke soepele opvatting in het land volgt de halacha die buiten het land; in het land zelf niet. Laat hij dan zeggen: de halacha volgt rabbi Akiva buiten het land, omdat bij elke soepele opvatting in het land de halacha die buiten het land volgt. Als hij het zo zei, had ik gedacht: dit geldt alleen voor de tiende van boomvruchten, die in het land zelf een instelling van de meesters is; maar bij het verbod van de eerste drie jaren, dat daar uit de Tora geldt, zouden wij ook buiten het land een verbod moeten instellen. Daarom leert hij dit. Ravina trof Mar bar Rav Asji aan terwijl hij de bessen weggooide en de kappertjes at. Hij vroeg: ‘Wat is je opvatting? Volg je rabbi Akiva, die soepel is? Laat de meester dan het huis van Sjammai volgen, dat nog soepeler is! Wij leerden: het huis van Sjammai zegt dat een kapperstruik een verboden menggewas in een wijngaard is; het huis van Hillel zegt van niet. Beide erkennen dat het verbod van de eerste drie jaren erop rust.’ Dit spreekt zichzelf tegen: het huis van Sjammai noemt het een verboden menggewas in de wijngaard, dus een groentesoort; daarna erkent het het verbod van de eerste drie jaren, dus een boomsoort! Dat is geen moeilijkheid: het huis van Sjammai twijfelt en handelt hier streng en daar streng. Toch is het volgens het huis van Sjammai een twijfelgeval van het verbod van de eerste drie jaren. Wij leerden: zo’n twijfelgeval is in het land Israël verboden, in Syrië toegestaan; en buiten het land mag men afdalen...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-36a-r2851498",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Orla is het verbod op de vruchten van de eerste drie jaren na aanplant. Kilajim betreft verboden vermenging van gewassen. Het verbod op gemengde teelt in een wijngaard wordt hier onderscheiden van de regels voor boomvruchten."
+        },
+        {
+          "type": "vervolg",
+          "text": "De zin over kopen of nemen bij een twijfelgeval buiten het land wordt op 36b voltooid."
+        }
+      ]
+    }
+  ]
+}

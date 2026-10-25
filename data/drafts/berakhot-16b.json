@@ -1,0 +1,143 @@
+{
+  "id": "16b",
+  "title": "16b · Rouw, eerbetoon en persoonlijke gebeden",
+  "scope": "Volledige hoofdtekst van amud 16b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%98%D7%96_%D7%91&oldid=2851537",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:16b:g1",
+      "locator": "Berakhot 16b · Gemara · g1",
+      "layer": "gemara",
+      "original": "אי הכי מאי איריא הכונס את הבתולה אפי' כונס את האלמנה נמי הכא טריד והכא לא טריד אי משום טרדא אפילו טבעה ספינתו בים נמי אלמה אמר רבי אבא בר זבדא אמר רב אבל חייב בכל מצות האמורות בתורה חוץ מן התפילין שהרי נאמר בהן פאר שנאמר (יחזקאל כד, יז) פארך חבוש עליך וגו' אמרי התם טרדא דרשות הכא טרדא דמצוה:",
+      "nl": "Als dat zo is, waarom noemen wij dan juist iemand die met een maagd trouwt? Ook iemand die met een weduwe trouwt, zou vrijgesteld moeten zijn! De een is in gedachten bezet en de ander niet. Als het om bezorgdheid gaat, dan ook iemand wiens schip op zee is gezonken! Waarom zei rabbi Abba bar Zavda dan namens Rav dat een rouwende verplicht is tot alle geboden die in de Tora genoemd worden, behalve de tefillien? Die worden immers ‘sieraad’ genoemd, zoals er staat: ‘Bind je sieraad om’ (Ezechiël 24:17). Men antwoordt: daar betreft de bezorgdheid een eigen aangelegenheid; hier betreft zij een gebod.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:16b:m1",
+      "locator": "Berakhot 16b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין רחץ לילה הראשון שמתה אשתו אמרו לו תלמידיו למדתנו רבינו שאבל אסור לרחוץ אמר להם איני כשאר בני אדם אסטניס אני וכשמת טבי עבדו קבל עליו תנחומין אמרו לו תלמידיו למדתנו רבינו שאין מקבלין תנחומין על העבדים אמר להם אין טבי עבדי כשאר כל העבדים כשר היה חתן אם רוצה לקרות קרית שמע לילה הראשון קורא רבן שמעון בן גמליאל אומר לא כל הרוצה ליטול את השם יטול:",
+      "nl": "Misjna. Hij waste zich op de eerste nacht na de dood van zijn vrouw. Zijn leerlingen zeiden tegen hem: ‘Onze meester, u hebt ons geleerd dat een rouwende zich niet mag wassen.’ Hij antwoordde: ‘Ik ben niet als andere mensen; ik ben lichamelijk overgevoelig.’ Toen zijn slaaf Tavi stierf, nam hij over hem troostbetuigingen in ontvangst. Zijn leerlingen zeiden tegen hem: ‘Onze meester, u hebt ons geleerd dat men over slaven geen troostbetuigingen in ontvangst neemt.’ Hij antwoordde: ‘Mijn slaaf Tavi was niet als alle andere slaven; hij was rechtschapen.’ Als een bruidegom op de eerste nacht het Sjema wil reciteren, mag hij reciteren. Rabban Sjimon ben Gamaliël zegt: niet ieder die zich die naam wil toe-eigenen, mag dat doen.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Met “die naam” bedoelt de Misjna de reputatie van iemand die uitzonderlijk vroom is en zijn aandacht ondanks de huwelijksnacht op het Sjema kan richten. De “hij” aan het begin is Rabban Gamaliël uit de voorgaande Misjna."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:16b:g2",
+      "locator": "Berakhot 16b · Gemara · g2",
+      "layer": "gemara",
+      "original": "גמ' מ\"ט דרבן (שמעון בן) גמליאל קסבר אנינות לילה דרבנן דכתיב (עמוס ח, י) ואחריתה כיום מר ובמקום אסטניס לא גזרו ביה רבנן:",
+      "nl": "Gemara. Wat is de reden van Rabban (Sjimon ben) Gamaliël? Hij meent dat de eerste rouw ’s nachts een instelling van de meesters is, want er staat: ‘Het einde ervan als een bittere dag’ (Amos 8:10). Voor een lichamelijk overgevoelige hebben de meesters hun verbod niet ingesteld.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De bron zet “Sjimon ben” tussen haakjes, hoewel de bespreking van het wassen aansluit bij Rabban Gamaliël uit de eerdere Misjna. De afwijking is zichtbaar behouden."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:16b:g3",
+      "locator": "Berakhot 16b · Gemara · g3",
+      "layer": "gemara",
+      "original": "וכשמת טבי עבדו וכו':",
+      "nl": "En toen zijn slaaf Tavi stierf, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:16b:g4",
+      "locator": "Berakhot 16b · Gemara · g4",
+      "layer": "gemara",
+      "original": "ת\"ר עבדים ושפחות אין עומדין עליהם בשורה ואין אומרים עליהם ברכת אבלים ותנחומי אבלים מעשה ומתה שפחתו של רבי אליעזר נכנסו תלמידיו לנחמו כיון שראה אותם עלה לעלייה ועלו אחריו נכנס לאנפילון נכנסו אחריו נכנס לטרקלין נכנסו אחריו אמר להם כמדומה אני שאתם נכוים בפושרים עכשיו אי אתם נכוים אפילו בחמי חמין לא כך שניתי לכם עבדים ושפחות אין עומדין עליהם בשורה ואין אומרים עליהם ברכת אבלים ולא תנחומי אבלים אלא מה אומרים עליהם כשם שאומרים לו לאדם על שורו ועל חמורו שמתו המקום ימלא לך חסרונך כך אומרים לו על עבדו ועל שפחתו המקום ימלא לך חסרונך תניא אידך עבדים ושפחות אין מספידין אותן ר' יוסי אומר אם עבד כשר הוא אומרים עליו הוי איש טוב ונאמן ונהנה מיגיעו אמרו לו אם כן מה הנחת לכשרים:",
+      "nl": "Onze meesters leerden: voor slaven en slavinnen stelt men zich niet in een rij op en zegt men niet de zegeningen en troostwoorden voor rouwenden. Eens stierf een slavin van rabbi Eliëzer. Zijn leerlingen kwamen hem troosten. Toen hij hen zag, ging hij naar het bovenvertrek; zij gingen hem achterna. Hij ging een kleine kamer in; zij gingen hem achterna. Hij ging de ontvangstzaal in; zij gingen hem achterna. Hij zei tegen hen: ‘Ik dacht dat jullie je al aan lauw water brandden; nu blijken jullie je zelfs niet aan gloeiend heet water te branden! Heb ik jullie niet zo onderwezen: voor slaven en slavinnen stelt men zich niet in een rij op en zegt men niet de zegeningen en troostwoorden voor rouwenden? Wat zegt men dan wel over hen? Zoals men tegen iemand wiens rund of ezel is gestorven zegt: “Moge de Alomtegenwoordige je verlies aanvullen”, zo zegt men over zijn slaaf of slavin: “Moge de Alomtegenwoordige je verlies aanvullen.”’ Elders is geleerd: men houdt geen rouwrede over slaven en slavinnen. Rabbi Jose zegt: als het een rechtschapen slaaf is, zegt men over hem: ‘Ach, een goed en trouw man, die van zijn eigen arbeid genoot!’ Zij zeiden tegen hem: als dat zo is, wat heb je dan nog overgelaten voor de rechtschapenen?",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De beelden van lauw en heet water doelen op het begrijpen van eerst een subtiele, daarna een steeds duidelijker aanwijzing. De passage weerspiegelt de juridische statusverschillen van de beschreven samenleving."
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:16b:g5",
+      "locator": "Berakhot 16b · Gemara · g5",
+      "layer": "gemara",
+      "original": "ת\"ר אין קורין אבות אלא לשלשה ואין קורין אמהות אלא לארבע אבות מאי טעמא אילימא משום דלא ידעינן אי מראובן קא אתינן אי משמעון קא אתינן אי הכי אמהות נמי לא ידעינן אי מרחל קא אתינן אי מלאה קא אתינן אלא עד הכא חשיבי טפי לא חשיבי תניא אידך עבדים ושפחות אין קורין אותם אבא פלוני ואמא פלונית ושל ר\"ג היו קורים אותם אבא פלוני ואמא פלונית מעשה לסתור משום דחשיבי:",
+      "nl": "Onze meesters leerden: men noemt slechts drie personen ‘vaders’ en slechts vier ‘moeders’. Waarom maar drie vaders? Als het is omdat wij niet weten of wij van Ruben of van Simeon afstammen, weten wij bij de moeders toch evenmin of wij van Rachel of van Lea afstammen! Het is veeleer omdat hun aanzien tot hiertoe reikt, en niet verder. Elders is geleerd: slaven en slavinnen noemt men niet ‘vader die-en-die’ en ‘moeder die-en-die’. Maar die van Rabban Gamaliël werden wel ‘vader die-en-die’ en ‘moeder die-en-die’ genoemd. Een geval dat de regel weerlegt? Dat was vanwege hun aanzien.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De drie aartsvaders zijn Abraham, Isaak en Jakob; de vier aartsmoeders Sara, Rebekka, Rachel en Lea. “Vader” en “moeder” zijn in het tweede deel beleefdheidstitels."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:16b:g6",
+      "locator": "Berakhot 16b · Gemara · g6",
+      "layer": "gemara",
+      "original": "א\"ר אלעזר מאי דכתיב (תהלים סג, ה) כן אברכך בחיי בשמך אשא כפי כן אברכך בחיי זו ק\"ש בשמך אשא כפי זו תפלה ואם עושה כן עליו הכתוב אומר (תהלים סג, ו) כמו חלב ודשן תשבע נפשי ולא עוד אלא שנוחל שני עולמים העוה\"ז והעולם הבא שנאמר (תהלים סג, ו) ושפתי רננות יהלל פי:",
+      "nl": "Rabbi Elazar zei: wat betekent ‘Zo zal ik U zegenen bij mijn leven; in Uw naam hef ik mijn handen op’ (Psalm 63:5)? ‘Zo zal ik U zegenen bij mijn leven’ is het Sjema; ‘in Uw naam hef ik mijn handen op’ is het gebed. Over wie zo handelt, zegt de Schrift: ‘Als met vet en overvloed wordt mijn ziel verzadigd’ (Psalm 63:6). Bovendien ontvangt hij twee werelden als erfdeel: deze wereld en de komende wereld. Er staat immers: ‘Met jubelende lippen zal mijn mond U loven’ (Psalm 63:6).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:16b:g7",
+      "locator": "Berakhot 16b · Gemara · g7",
+      "layer": "gemara",
+      "original": "ר' אלעזר בתר דמסיים צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו שתשכן בפורינו אהבה ואחוה ושלום וריעות ותרבה גבולנו בתלמידים ותצליח סופנו אחרית ותקוה ותשים חלקנו בגן עדן ותקננו בחבר טוב ויצר טוב בעולמך ונשכים ונמצא יחול לבבנו ליראה את שמך ותבא לפניך קורת נפשנו לטובה. רבי יוחנן בתר דמסיים צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו שתציץ בבשתנו ותביט ברעתנו ותתלבש ברחמיך ותתכסה בעזך ותתעטף בחסידותך ותתאזר בחנינותך ותבא לפניך מדת טובך וענותנותך. ר' זירא בתר דמסיים צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו שלא נחטא ולא נבוש ולא נכלם מאבותינו ר' חייא בתר דמצלי אמר הכי יהי רצון מלפניך ה' אלהינו שתהא תורתך אומנותנו ואל ידוה לבנו ואל יחשכו עינינו. רב בתר צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו שתתן לנו חיים ארוכים חיים של שלום חיים של טובה חיים של ברכה חיים של פרנסה חיים של חלוץ עצמות חיים שיש בהם יראת חטא חיים שאין בהם בושה וכלימה חיים של עושר וכבוד חיים שתהא בנו אהבת תורה ויראת שמים חיים שתמלא לנו את כל משאלות לבנו לטובה. רבי בתר צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו ואלהי אבותינו שתצילנו מעזי פנים ומעזות פנים מאדם רע ומפגע רע מיצר רע מחבר רע משכן רע ומשטן המשחית ומדין קשה ומבעל דין קשה בין שהוא בן ברית בין שאינו בן ברית ואע\"ג דקיימי קצוצי עליה דרבי. רב ספרא בתר צלותיה אמר הכי יהי רצון מלפניך ה' אלהינו שתשים שלום",
+      "nl": "Wanneer rabbi Elazar zijn gebed had voltooid, zei hij: ‘Moge het Uw wil zijn, HEER, onze God, in ons lot liefde, broederschap, vrede en vriendschap te doen wonen; onze kring met leerlingen uit te breiden; ons aan het einde toekomst en hoop te schenken; ons een aandeel in de tuin van Eden te geven; ons in Uw wereld toe te rusten met een goede vriend en een goede neiging. Mogen wij vroeg opstaan en ontdekken dat ons hart ernaar verlangt Uw naam te vrezen, en moge onze innerlijke voldoening ten goede voor U verschijnen.’ Rabbi Jochanan zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God, naar onze schaamte om te zien, onze ellende te aanschouwen, U met Uw ontferming te bekleden, U met Uw kracht te bedekken, U met Uw trouw te omhullen en U met Uw genade te omgorden. Moge Uw goedheid en Uw zachtmoedigheid voor U verschijnen.’ Rabbi Zeïra zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God, dat wij niet zondigen, ons niet schamen en onze voorouders niet tot schande zijn.’ Rabbi Chijja zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God, dat Uw Tora ons werk is, dat ons hart niet ziek wordt en onze ogen niet verduisteren.’ Rav zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God, ons een lang leven te geven: een leven van vrede, goedheid, zegen en levensonderhoud; een leven met sterke beenderen; een leven waarin vrees voor zonde is; een leven zonder schaamte en schande; een leven van rijkdom en eer; een leven waarin liefde voor de Tora en ontzag voor de hemel in ons zijn; een leven waarin U alle verlangens van ons hart ten goede vervult.’ Rabbi zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God en God van onze voorouders, ons te redden van brutale mensen en van brutaliteit, van een slecht mens en een kwade gebeurtenis, van een slechte neiging, een slechte vriend, een slechte buur en de vernietigende aanklager, van een hard oordeel en een harde tegenpartij, of die nu tot het verbond behoort of niet.’ En dat ondanks dat er bewakers bij Rabbi stonden. Rav Safra zei na zijn gebed: ‘Moge het Uw wil zijn, HEER, onze God, vrede te stichten...’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-16b-r2851537",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "“In ons lot” vertaalt befoerenoe, een moeilijk en ongewoon woord; het wordt ook op huiselijke of echtelijke verhoudingen betrokken. Qetsotsee duidt vermoedelijk bewakers aan, maar het woord wordt uiteenlopend verklaard."
+        },
+        {
+          "type": "vervolg",
+          "text": "Het gebed van Rav Safra gaat op 17a verder."
+        }
+      ]
+    }
+  ]
+}

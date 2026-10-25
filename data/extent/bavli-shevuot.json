@@ -1,0 +1,724 @@
+{
+  "corpus": "bavli",
+  "tractate": "shevuot",
+  "title": "Sjevoeot",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&oldid=1390508",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:49:57.034819+00:00",
+  "htmlSha256": "4af6a368891e4725678b9554f5b83d51b8a9a0ee6a331c66a98bec80456f7892",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279226#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&oldid=1390508",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&id=1390508&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25A9%25D7%2591%25D7%2595%25D7%25A2%25D7%2595%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279226",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי שבועות פרק א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%91_%D7%90",
+      "title": "שבועות ב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%91_%D7%91",
+      "title": "שבועות ב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%92_%D7%90",
+      "title": "שבועות ג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%92_%D7%91",
+      "title": "שבועות ג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%93_%D7%90",
+      "title": "שבועות ד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%93_%D7%91",
+      "title": "שבועות ד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%94_%D7%90",
+      "title": "שבועות ה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%94_%D7%91",
+      "title": "שבועות ה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%95_%D7%90",
+      "title": "שבועות ו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%95_%D7%91",
+      "title": "שבועות ו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%96_%D7%90",
+      "title": "שבועות ז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%96_%D7%91",
+      "title": "שבועות ז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%97_%D7%90",
+      "title": "שבועות ח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%97_%D7%91",
+      "title": "שבועות ח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98_%D7%90",
+      "title": "שבועות ט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98_%D7%91",
+      "title": "שבועות ט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99_%D7%90",
+      "title": "שבועות י א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99_%D7%91",
+      "title": "שבועות י ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "שבועות יא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "שבועות יא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "שבועות יב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "שבועות יב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "שבועות יג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "שבועות יג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "שבועות יד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי שבועות פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "שבועות יד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%93_%D7%91",
+      "title": "שבועות יד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "שבועות טו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "שבועות טו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98%D7%96_%D7%90",
+      "title": "שבועות טז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%98%D7%96_%D7%91",
+      "title": "שבועות טז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%96_%D7%90",
+      "title": "שבועות יז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "שבועות יז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%97_%D7%90",
+      "title": "שבועות יח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "שבועות יח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%98_%D7%90",
+      "title": "שבועות יט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "שבועות יט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי שבועות פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "שבועות יט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B_%D7%90",
+      "title": "שבועות כ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B_%D7%91",
+      "title": "שבועות כ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%90_%D7%90",
+      "title": "שבועות כא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%90_%D7%91",
+      "title": "שבועות כא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%91_%D7%90",
+      "title": "שבועות כב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%91_%D7%91",
+      "title": "שבועות כב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%92_%D7%90",
+      "title": "שבועות כג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%92_%D7%91",
+      "title": "שבועות כג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%93_%D7%90",
+      "title": "שבועות כד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%93_%D7%91",
+      "title": "שבועות כד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%94_%D7%90",
+      "title": "שבועות כה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%94_%D7%91",
+      "title": "שבועות כה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "שבועות כו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%95_%D7%91",
+      "title": "שבועות כו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%96_%D7%90",
+      "title": "שבועות כז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%96_%D7%91",
+      "title": "שבועות כז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%97_%D7%90",
+      "title": "שבועות כח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%97_%D7%91",
+      "title": "שבועות כח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%98_%D7%90",
+      "title": "שבועות כט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9B%D7%98_%D7%91",
+      "title": "שבועות כט ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי שבועות פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C_%D7%90",
+      "title": "שבועות ל א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C_%D7%91",
+      "title": "שבועות ל ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%90_%D7%90",
+      "title": "שבועות לא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%90_%D7%91",
+      "title": "שבועות לא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%91_%D7%90",
+      "title": "שבועות לב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%91_%D7%91",
+      "title": "שבועות לב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%92_%D7%90",
+      "title": "שבועות לג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%92_%D7%91",
+      "title": "שבועות לג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%93_%D7%90",
+      "title": "שבועות לד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%93_%D7%91",
+      "title": "שבועות לד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%94_%D7%90",
+      "title": "שבועות לה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%94_%D7%91",
+      "title": "שבועות לה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%95_%D7%90",
+      "title": "שבועות לו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "שבועות לו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי שבועות פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "שבועות לו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%96_%D7%90",
+      "title": "שבועות לז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%96_%D7%91",
+      "title": "שבועות לז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%97_%D7%90",
+      "title": "שבועות לח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%97_%D7%91",
+      "title": "שבועות לח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי שבועות פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%97_%D7%91",
+      "title": "שבועות לח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%98_%D7%90",
+      "title": "שבועות לט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9C%D7%98_%D7%91",
+      "title": "שבועות לט ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E_%D7%90",
+      "title": "שבועות מ א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E_%D7%91",
+      "title": "שבועות מ ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%90_%D7%90",
+      "title": "שבועות מא א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%90_%D7%91",
+      "title": "שבועות מא ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%91_%D7%90",
+      "title": "שבועות מב א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%91_%D7%91",
+      "title": "שבועות מב ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%92_%D7%90",
+      "title": "שבועות מג א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%92_%D7%91",
+      "title": "שבועות מג ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%93_%D7%90",
+      "title": "שבועות מד א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%93_%D7%91",
+      "title": "שבועות מד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי שבועות פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%93_%D7%91",
+      "title": "שבועות מד ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%94_%D7%90",
+      "title": "שבועות מה א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%94_%D7%91",
+      "title": "שבועות מה ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%95_%D7%90",
+      "title": "שבועות מו א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%95_%D7%91",
+      "title": "שבועות מו ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%96_%D7%90",
+      "title": "שבועות מז א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%96_%D7%91",
+      "title": "שבועות מז ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%97_%D7%90",
+      "title": "שבועות מח א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%97_%D7%91",
+      "title": "שבועות מח ב"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%98_%D7%90",
+      "title": "שבועות מט א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי שבועות פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%98_%D7%90",
+      "title": "שבועות מט א"
+    },
+    {
+      "href": "/wiki/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_%D7%9E%D7%98_%D7%91",
+      "title": "שבועות מט ב"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_שבועות&oldid=1390508"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%93%D7%A8_%D7%A0%D7%96%D7%99%D7%A7%D7%99%D7%9F",
+      "title": "קטגוריה:בבלי סדר נזיקין"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

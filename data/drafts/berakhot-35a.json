@@ -1,0 +1,67 @@
+{
+  "id": "35a",
+  "title": "35a · De oorsprong van zegeningen over voedsel",
+  "scope": "Volledige hoofdtekst van amud 35a in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%94_%D7%90&oldid=2851500",
+  "passages": [
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:35a:m1",
+      "locator": "Berakhot 35a · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתניתין כיצד מברכין על הפירות על פירות האילן הוא אומר בורא פרי העץ חוץ מן היין שעל היין הוא אומר בורא פרי הגפן ועל פירות הארץ הוא אומר בורא פרי האדמה חוץ מן הפת שעל הפת הוא אומר המוציא לחם מן הארץ ועל הירקות הוא אומר בורא פרי האדמה רבי יהודה אומר בורא מיני דשאים:",
+      "nl": "Misjna. Hoe spreekt men de zegeningen over vruchten uit? Over boomvruchten zegt men: ‘Die de vrucht van de boom schept’, behalve over wijn; daarover zegt men: ‘Die de vrucht van de wijnstok schept.’ Over vruchten van de grond zegt men: ‘Die de vrucht van de aarde schept’, behalve over brood; daarover zegt men: ‘Die brood uit de aarde voortbrengt.’ Over groenten zegt men: ‘Die de vrucht van de aarde schept.’ Rabbi Jehoeda zegt: ‘Die soorten gewassen schept.’",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-35a-r2851500",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:35a:g1",
+      "locator": "Berakhot 35a · Gemara · g1",
+      "layer": "gemara",
+      "original": "גמ' מנא ה\"מ דתנו רבנן (ויקרא יט, כד) קדש הלולים לה' מלמד שטעונים ברכה לפניהם ולאחריהם מכאן אמר ר\"ע אסור לאדם שיטעום כלום קודם שיברך והאי קדש הלולים להכי הוא דאתא האי מיבעי ליה חד דאמר רחמנא אחליה והדר אכליה ואידך דבר הטעון שירה טעון חלול ושאינו טעון שירה אין טעון חלול וכדר' שמואל בר נחמני א\"ר יונתן דאמר ר' שמואל בר נחמני א\"ר יונתן מנין שאין אומרים שירה אלא על היין שנאמר (שופטים ט, יג) ותאמר להם הגפן החדלתי את תירושי המשמח אלהים ואנשים אם אנשים משמח אלהים במה משמח מכאן שאין אומרים שירה אלא על היין הניחא למאן דתני נטע רבעי אלא למאן דתני כרם רבעי מאי איכא למימר דאתמר ר' חייא ור' שמעון ברבי חד תני כרם רבעי וחד תני נטע רבעי ולמאן דתני כרם רבעי הניחא אי יליף ג\"ש דתניא ר' אומר נאמר כאן (ויקרא יט, כה) להוסיף לכם תבואתו ונאמר להלן (דברים כב, ט) ותבואת הכרם מה להלן כרם אף כאן כרם אייתר ליה חד הלול לברכה ואי לא יליף גזרה שוה ברכה מנא ליה ואי נמי יליף גזרה שוה אשכחן לאחריו לפניו מנין הא לא קשיא דאתיא בקל וחומר כשהוא שבע מברך כשהוא רעב לא כל שכן אשכחן כרם שאר מינין מנין דיליף מכרם מה כרם דבר שנהנה וטעון ברכה אף כל דבר שנהנה טעון ברכה איכא למפרך מה לכרם שכן חייב בעוללות קמה תוכיח מה לקמה שכן חייבת בחלה כרם יוכיח וחזר הדין לא ראי זה כראי זה ולא ראי זה כראי זה הצד השוה שבהן דבר שנהנה וטעון ברכה אף כל דבר שנהנה טעון ברכה מה להצד השוה שבהן שכן יש בו צד מזבח ואתי נמי זית דאית ביה צד מזבח וזית מצד מזבח אתי והא בהדיא כתיב ביה כרם דכתיב (שופטים טו, ה) ויבער מגדיש ועד קמה ועד כרם זית אמר רב פפא כרם זית אקרי כרם סתמא לא אקרי מ\"מ קשיא מה להצד השוה שבהן שכן יש בהן צד מזבח אלא דיליף לה משבעת המינין מה שבעת המינין דבר שנהנה וטעון ברכה אף כל דבר שנהנה טעון ברכה מה לשבעת המינין שכן חייבין בבכורים ועוד התינח לאחריו לפניו מנין הא לא קשיא דאתי בקל וחומר כשהוא שבע מברך כשהוא רעב לכ\"ש ולמאן דתני נטע רבעי הא תינח כל דבר נטיעה דלאו בר נטיעה כגון בשר ביצים ודגים מנא ליה אלא סברא הוא אסור לו לאדם שיהנה מן העולם הזה בלא ברכה:",
+      "nl": "Gemara. Waaruit blijkt dit? Onze meesters leerden: ‘Heilig, tot lof voor de HEER’ (Leviticus 19:24) leert dat zij vóór en na het eten een zegening vereisen. Hieruit zei rabbi Akiva: men mag niets proeven voordat men een zegening heeft uitgesproken. Is ‘heilig, tot lof’ daarvoor bedoeld? Het is toch nodig voor twee andere dingen: de Barmhartige zegt met de ene lofvermelding dat men het eerst moet vrijlossen en dan eten; de andere leert dat wat een lied vereist, vrijlossing vereist, en wat geen lied vereist, geen vrijlossing vereist. Dit volgt rabbi Sjemoeël bar Nachmani namens rabbi Jonatan: waaruit blijkt dat men alleen over wijn een lied zingt? Er staat: ‘De wijnstok zei: zou ik mijn most opgeven, die God en mensen verheugt?’ (Rechters 9:13). Mensen verheugt hij, maar waarmee verheugt hij God? Hieruit blijkt dat men alleen over wijn een lied zingt. Voor wie leert dat het om een aanplant in het vierde jaar gaat, is dit begrijpelijk. Maar wat kan men zeggen volgens wie leert dat het om een wijngaard in het vierde jaar gaat? Rabbi Chijja en rabbi Sjimon, de zoon van Rabbi, verschilden immers: de een leerde ‘wijngaard in het vierde jaar’, de ander ‘aanplant in het vierde jaar’. Voor wie ‘wijngaard’ leert, is het begrijpelijk als hij een overeenkomst van woorden toepast. Er is immers geleerd: Rabbi zegt dat hier staat ‘om de opbrengst ervan voor jullie te vermeerderen’ (Leviticus 19:25), en elders ‘de opbrengst van de wijngaard’ (Deuteronomium 22:9). Zoals het daar een wijngaard is, zo ook hier. Dan blijft één lofvermelding over voor de zegening. Maar als hij deze woordovereenkomst niet toepast, waaruit leidt hij de zegening af? En zelfs als hij haar wel toepast, hebben wij een zegening achteraf gevonden, maar waaruit vooraf? Dat is geen moeilijkheid: het volgt met des te meer reden. Als hij verzadigd is, zegent hij; hoeveel te meer als hij hongerig is! Wij hebben het voor een wijngaard gevonden; waaruit voor andere soorten? Laat men het uit de wijngaard afleiden: zoals de wijngaard iets geeft waarvan men geniet en dat een zegening vereist, zo vereist alles waarvan men geniet een zegening. Men kan tegenwerpen: de wijngaard is bijzonder omdat hij tot het laten staan van naleestrossen verplicht. Staand graan bewijst dat dit niet beslissend is. Maar graan is bijzonder omdat het tot het deegoffer verplicht! De wijngaard bewijst dat dit niet beslissend is. De redenering keert terug: geen van beide is als het andere. Hun gemeenschappelijke kenmerk is dat men ervan geniet en een zegening vereist is; zo ook alles waarvan men geniet. Maar hun gemeenschappelijke kenmerk omvat ook een betrekking op het altaar! Dan volgt ook de olijf, die zo’n betrekking heeft. Wordt de olijf vanwege het altaar afgeleid? Hij heet toch uitdrukkelijk een wijngaard: ‘Hij verbrandde van korenhoop tot staand graan en tot olijfwijngaard’ (Rechters 15:5)! Rav Papa zei: hij heet ‘olijfwijngaard’, niet zonder meer ‘wijngaard’. Toch blijft de moeilijkheid dat beide een betrekking op het altaar hebben. Laat men het dan uit de zeven soorten afleiden: zoals de zeven soorten iets geven waarvan men geniet en dat een zegening vereist, zo ook alles waarvan men geniet. Maar de zeven soorten zijn bijzonder omdat zij tot eerstelingen verplichten. Bovendien verklaart dit achteraf; waaruit vooraf? Dat is geen moeilijkheid: als hij verzadigd is zegent hij, hoeveel te meer hongerig. En voor wie ‘aanplant in het vierde jaar’ leert: dat verklaart alles wat wordt geplant; maar waaruit niet-geplante dingen, zoals vlees, eieren en vis? Het is daarom een redelijke grondregel: men mag niet zonder zegening van deze wereld genieten.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-35a-r2851500",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De vruchten van het vierde jaar na aanplant hebben een bijzondere heilige status. Vrijlossing draagt die status op geld over. De woordafleiding verbindt hilloeliem, “lof”, met ḥilloel, “vrijlossing”."
+        },
+        {
+          "type": "begrip",
+          "text": "De zeven soorten van het land Israël zijn tarwe, gerst, druiven, vijgen, granaatappels, olijven en dadels. Druiven en graan hebben door wijn en meeloffers een betrekking op het altaar; olijven door olie. Eerstelingen zijn de eerste vruchten die naar de tempel worden gebracht."
+        },
+        {
+          "type": "toelichting",
+          "text": "De opeenvolgende tegenwerpingen tonen waarom een gemeenschappelijk kenmerk van enkele voedingsmiddelen nog geen afleiding voor alle voedsel oplevert."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:35a:g2",
+      "locator": "Berakhot 35a · Gemara · g2",
+      "layer": "gemara",
+      "original": "ת\"ר אסור לו לאדם שיהנה מן העוה\"ז בלא ברכה וכל הנהנה מן העוה\"ז בלא ברכה מעל מאי תקנתיה ילך אצל חכם ילך אצל חכם מאי עביד ליה הא עביד ליה איסורא אלא אמר רבא ילך אצל חכם מעיקרא וילמדנו ברכות כדי שלא יבא לידי מעילה אמר רב יהודה אמר שמואל כל הנהנה מן העוה\"ז בלא ברכה כאילו נהנה מקדשי שמים שנא' (תהלים כד, א) לה' הארץ ומלואה ר' לוי רמי כתיב לה' הארץ ומלואה וכתיב (תהלים קטו, טז) השמים שמים לה' והארץ נתן לבני אדם לא קשיא כאן קודם ברכה",
+      "nl": "Onze meesters leerden: men mag niet zonder zegening van deze wereld genieten. Wie zonder zegening van deze wereld geniet, heeft gewijd bezit ontwijd. Wat is zijn herstel? Laat hij naar een wijze gaan. Wat kan een wijze dan voor hem doen? Hij heeft de overtreding toch al begaan! Rava zei daarom: laat hij vooraf naar een wijze gaan en zich de zegeningen laten leren, zodat hij niet tot ontwijding komt. Rav Jehoeda zei namens Sjemoeël: wie zonder zegening van deze wereld geniet, is alsof hij van aan de hemel gewijde zaken geniet. Er staat: ‘Van de HEER is de aarde en alles wat haar vult’ (Psalm 24:1). Rabbi Levi stelde een tegenspraak: er staat ‘Van de HEER is de aarde en alles wat haar vult’, en er staat ‘De hemel is de hemel van de HEER, maar de aarde heeft Hij aan de mensen gegeven’ (Psalm 115:16). Geen moeilijkheid: het ene is vóór de zegening,",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-35a-r2851500",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Het antwoord wordt op 35b voltooid."
+        }
+      ]
+    }
+  ]
+}

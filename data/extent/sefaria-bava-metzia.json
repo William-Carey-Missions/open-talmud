@@ -1,0 +1,225 @@
+{
+  "sourceUrl": "https://www.sefaria.org/api/v2/raw/index/Jerusalem_Talmud_Bava_Metzia",
+  "retrievedAt": "2026-10-25T16:52:15.363151+00:00",
+  "responseSha256": "a538c0efd3ea06fde7472aee01df42fef259b9c968d45449449729ab92cad226",
+  "tractate": "bava-metzia",
+  "edition": "Vilna",
+  "nodes": [
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 1:1:1-8:4",
+      "startingAddress": "1a",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 1:1:1-2",
+        "Jerusalem Talmud Bava Metzia 1:1:2-3",
+        "Jerusalem Talmud Bava Metzia 1:1:3-3:2",
+        "Jerusalem Talmud Bava Metzia 1:3:2-4:2",
+        "Jerusalem Talmud Bava Metzia 1:4:2",
+        "Jerusalem Talmud Bava Metzia 1:4:2-5:1",
+        "Jerusalem Talmud Bava Metzia 1:5:1-6:2",
+        "Jerusalem Talmud Bava Metzia 1:6:2-3",
+        "Jerusalem Talmud Bava Metzia 1:6:3-7:3",
+        "Jerusalem Talmud Bava Metzia 1:7:3-8:2",
+        "Jerusalem Talmud Bava Metzia 1:8:2-4"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 2:1:1-11:5",
+      "startingAddress": "6a",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 2:1:1-3",
+        "Jerusalem Talmud Bava Metzia 2:1:3-3:2",
+        "Jerusalem Talmud Bava Metzia 2:3:2-4:3",
+        "Jerusalem Talmud Bava Metzia 2:4:3-5:2",
+        "Jerusalem Talmud Bava Metzia 2:5:2-7",
+        "Jerusalem Talmud Bava Metzia 2:5:7-8:2",
+        "Jerusalem Talmud Bava Metzia 2:8:2-10:2",
+        "Jerusalem Talmud Bava Metzia 2:10:2-11:4",
+        "Jerusalem Talmud Bava Metzia 2:11:4-5"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 3:1:1-9:3",
+      "startingAddress": "10a",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 3:1:1-2",
+        "Jerusalem Talmud Bava Metzia 3:1:2-2:1",
+        "Jerusalem Talmud Bava Metzia 3:2:1-3:2",
+        "Jerusalem Talmud Bava Metzia 3:3:2-4:2",
+        "Jerusalem Talmud Bava Metzia 3:4:2-6:2",
+        "Jerusalem Talmud Bava Metzia 3:6:2-7:1",
+        "Jerusalem Talmud Bava Metzia 3:7:1-9:3",
+        "Jerusalem Talmud Bava Metzia 3:9:3"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 4:1:1-7:2",
+      "startingAddress": "13b",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 4:1:1-2",
+        "Jerusalem Talmud Bava Metzia 4:1:2-5",
+        "Jerusalem Talmud Bava Metzia 4:1:5-2:1",
+        "Jerusalem Talmud Bava Metzia 4:2:1-4",
+        "Jerusalem Talmud Bava Metzia 4:2:4-7",
+        "Jerusalem Talmud Bava Metzia 4:2:7-3:2",
+        "Jerusalem Talmud Bava Metzia 4:3:2-4",
+        "Jerusalem Talmud Bava Metzia 4:3:4-5:1",
+        "Jerusalem Talmud Bava Metzia 4:5:1-6:1",
+        "Jerusalem Talmud Bava Metzia 4:6:1-7:2",
+        "Jerusalem Talmud Bava Metzia 4:7:2"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 5:1:1-8:2",
+      "startingAddress": "18b",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 5:1:1-3",
+        "Jerusalem Talmud Bava Metzia 5:1:3-7",
+        "Jerusalem Talmud Bava Metzia 5:1:7-2:2",
+        "Jerusalem Talmud Bava Metzia 5:2:2-3:1",
+        "Jerusalem Talmud Bava Metzia 5:3:1-7",
+        "Jerusalem Talmud Bava Metzia 5:3:7-8",
+        "Jerusalem Talmud Bava Metzia 5:3:8-4:7",
+        "Jerusalem Talmud Bava Metzia 5:4:7-5:4",
+        "Jerusalem Talmud Bava Metzia 5:5:4-9",
+        "Jerusalem Talmud Bava Metzia 5:5:9-6:2",
+        "Jerusalem Talmud Bava Metzia 5:6:2-4",
+        "Jerusalem Talmud Bava Metzia 5:6:4-7:1",
+        "Jerusalem Talmud Bava Metzia 5:7:1-8:2"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 6:1:1-6:2",
+      "startingAddress": "25a",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 6:1:1-3",
+        "Jerusalem Talmud Bava Metzia 6:1:3-2:2",
+        "Jerusalem Talmud Bava Metzia 6:2:2-3:3",
+        "Jerusalem Talmud Bava Metzia 6:3:3-4:2",
+        "Jerusalem Talmud Bava Metzia 6:4:2-6:2",
+        "Jerusalem Talmud Bava Metzia 6:6:2"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 7:1:1-7:3",
+      "startingAddress": "27b",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 7:1:1-4",
+        "Jerusalem Talmud Bava Metzia 7:1:4-3:1",
+        "Jerusalem Talmud Bava Metzia 7:3:1-6:1",
+        "Jerusalem Talmud Bava Metzia 7:6:1-7:2",
+        "Jerusalem Talmud Bava Metzia 7:7:2-3"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 8:1:1-9:2",
+      "startingAddress": "29b",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 8:1:1-2:1",
+        "Jerusalem Talmud Bava Metzia 8:2:1-3:2",
+        "Jerusalem Talmud Bava Metzia 8:3:2-4:2",
+        "Jerusalem Talmud Bava Metzia 8:4:2-7:1",
+        "Jerusalem Talmud Bava Metzia 8:7:1-9:2",
+        "Jerusalem Talmud Bava Metzia 8:9:2"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 9:1:1-13:3",
+      "startingAddress": "32a",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 9:1:1-3:1",
+        "Jerusalem Talmud Bava Metzia 9:3:1-5:2",
+        "Jerusalem Talmud Bava Metzia 9:5:2-7:2",
+        "Jerusalem Talmud Bava Metzia 9:7:2-8:2",
+        "Jerusalem Talmud Bava Metzia 9:8:2-10:2",
+        "Jerusalem Talmud Bava Metzia 9:10:2-12:2",
+        "Jerusalem Talmud Bava Metzia 9:12:2-13:2",
+        "Jerusalem Talmud Bava Metzia 9:13:2-3"
+      ]
+    },
+    {
+      "wholeRef": "Jerusalem Talmud Bava Metzia 10:1:1-6:3",
+      "startingAddress": "35b",
+      "refs": [
+        "Jerusalem Talmud Bava Metzia 10:1:1-2:1",
+        "Jerusalem Talmud Bava Metzia 10:2:1-4:1",
+        "Jerusalem Talmud Bava Metzia 10:4:1-5:2",
+        "Jerusalem Talmud Bava Metzia 10:5:2-6:3"
+      ]
+    }
+  ],
+  "amudim": [
+    "1a",
+    "1b",
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b",
+    "13a",
+    "13b",
+    "14a",
+    "14b",
+    "15a",
+    "15b",
+    "16a",
+    "16b",
+    "17a",
+    "17b",
+    "18a",
+    "18b",
+    "19a",
+    "19b",
+    "20a",
+    "20b",
+    "21a",
+    "21b",
+    "22a",
+    "22b",
+    "23a",
+    "23b",
+    "24a",
+    "24b",
+    "25a",
+    "25b",
+    "26a",
+    "26b",
+    "27a",
+    "27b",
+    "28a",
+    "28b",
+    "29a",
+    "29b",
+    "30a",
+    "30b",
+    "31a",
+    "31b",
+    "32a",
+    "32b",
+    "33a",
+    "33b",
+    "34a",
+    "34b",
+    "35a",
+    "35b",
+    "36a",
+    "36b",
+    "37a"
+  ]
+}

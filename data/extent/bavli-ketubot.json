@@ -1,0 +1,1260 @@
+{
+  "corpus": "bavli",
+  "tractate": "ketubot",
+  "title": "Ketoebot",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&oldid=1390531",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+  "retrievedAt": "2026-10-25T16:49:53.824051+00:00",
+  "htmlSha256": "655554c59075debba912a897fe0f6bbf4aa6ea8041fdac413c6291cbc8b59dda",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279189#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&oldid=1390531",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&id=1390531&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%259B%25D7%25AA%25D7%2595%25D7%2591%25D7%2595%25D7%25AA"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279189",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי כתובות פרק א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%90",
+      "title": "כתובות ב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%91_%D7%91",
+      "title": "כתובות ב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%90",
+      "title": "כתובות ג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%92_%D7%91",
+      "title": "כתובות ג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%90",
+      "title": "כתובות ד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%93_%D7%91",
+      "title": "כתובות ד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%90",
+      "title": "כתובות ה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%94_%D7%91",
+      "title": "כתובות ה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%90",
+      "title": "כתובות ו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%95_%D7%91",
+      "title": "כתובות ו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%90",
+      "title": "כתובות ז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%96_%D7%91",
+      "title": "כתובות ז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%90",
+      "title": "כתובות ח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%97_%D7%91",
+      "title": "כתובות ח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%90",
+      "title": "כתובות ט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98_%D7%91",
+      "title": "כתובות ט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%90",
+      "title": "כתובות י א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99_%D7%91",
+      "title": "כתובות י ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%90",
+      "title": "כתובות יא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%90_%D7%91",
+      "title": "כתובות יא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%90",
+      "title": "כתובות יב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%91_%D7%91",
+      "title": "כתובות יב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%90",
+      "title": "כתובות יג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%92_%D7%91",
+      "title": "כתובות יג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%93_%D7%90",
+      "title": "כתובות יד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%93_%D7%91",
+      "title": "כתובות יד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98%D7%95_%D7%90",
+      "title": "כתובות טו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "כתובות טו ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי כתובות פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98%D7%95_%D7%91",
+      "title": "כתובות טו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98%D7%96_%D7%90",
+      "title": "כתובות טז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%98%D7%96_%D7%91",
+      "title": "כתובות טז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%96_%D7%90",
+      "title": "כתובות יז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%96_%D7%91",
+      "title": "כתובות יז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%97_%D7%90",
+      "title": "כתובות יח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%97_%D7%91",
+      "title": "כתובות יח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%98_%D7%90",
+      "title": "כתובות יט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%98_%D7%91",
+      "title": "כתובות יט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B_%D7%90",
+      "title": "כתובות כ א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B_%D7%91",
+      "title": "כתובות כ ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%90_%D7%90",
+      "title": "כתובות כא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%90_%D7%91",
+      "title": "כתובות כא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%91_%D7%90",
+      "title": "כתובות כב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%91_%D7%91",
+      "title": "כתובות כב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%92_%D7%90",
+      "title": "כתובות כג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%92_%D7%91",
+      "title": "כתובות כג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%93_%D7%90",
+      "title": "כתובות כד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%93_%D7%91",
+      "title": "כתובות כד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%94_%D7%90",
+      "title": "כתובות כה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%94_%D7%91",
+      "title": "כתובות כה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%95_%D7%90",
+      "title": "כתובות כו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%95_%D7%91",
+      "title": "כתובות כו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%96_%D7%90",
+      "title": "כתובות כז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%96_%D7%91",
+      "title": "כתובות כז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%97_%D7%90",
+      "title": "כתובות כח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%97_%D7%91",
+      "title": "כתובות כח ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי כתובות פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%98_%D7%90",
+      "title": "כתובות כט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9B%D7%98_%D7%91",
+      "title": "כתובות כט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C_%D7%90",
+      "title": "כתובות ל א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C_%D7%91",
+      "title": "כתובות ל ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%90_%D7%90",
+      "title": "כתובות לא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%90_%D7%91",
+      "title": "כתובות לא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%91_%D7%90",
+      "title": "כתובות לב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%91_%D7%91",
+      "title": "כתובות לב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%92_%D7%90",
+      "title": "כתובות לג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%92_%D7%91",
+      "title": "כתובות לג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%93_%D7%90",
+      "title": "כתובות לד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%93_%D7%91",
+      "title": "כתובות לד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%94_%D7%90",
+      "title": "כתובות לה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%94_%D7%91",
+      "title": "כתובות לה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%95_%D7%90",
+      "title": "כתובות לו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%95_%D7%91",
+      "title": "כתובות לו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%96_%D7%90",
+      "title": "כתובות לז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%96_%D7%91",
+      "title": "כתובות לז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%97_%D7%90",
+      "title": "כתובות לח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%97_%D7%91",
+      "title": "כתובות לח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%98_%D7%90",
+      "title": "כתובות לט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9C%D7%98_%D7%91",
+      "title": "כתובות לט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E_%D7%90",
+      "title": "כתובות מ א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E_%D7%91",
+      "title": "כתובות מ ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%90_%D7%90",
+      "title": "כתובות מא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%90_%D7%91",
+      "title": "כתובות מא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי כתובות פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%90_%D7%91",
+      "title": "כתובות מא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%91_%D7%90",
+      "title": "כתובות מב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%91_%D7%91",
+      "title": "כתובות מב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%92_%D7%90",
+      "title": "כתובות מג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%92_%D7%91",
+      "title": "כתובות מג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%93_%D7%90",
+      "title": "כתובות מד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%93_%D7%91",
+      "title": "כתובות מד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%94_%D7%90",
+      "title": "כתובות מה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%94_%D7%91",
+      "title": "כתובות מה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%95_%D7%90",
+      "title": "כתובות מו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%95_%D7%91",
+      "title": "כתובות מו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%96_%D7%90",
+      "title": "כתובות מז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%96_%D7%91",
+      "title": "כתובות מז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%97_%D7%90",
+      "title": "כתובות מח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%97_%D7%91",
+      "title": "כתובות מח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%98_%D7%90",
+      "title": "כתובות מט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%9E%D7%98_%D7%91",
+      "title": "כתובות מט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0_%D7%90",
+      "title": "כתובות נ א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0_%D7%91",
+      "title": "כתובות נ ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%90_%D7%90",
+      "title": "כתובות נא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%90_%D7%91",
+      "title": "כתובות נא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%91_%D7%90",
+      "title": "כתובות נב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%91_%D7%91",
+      "title": "כתובות נב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%92_%D7%90",
+      "title": "כתובות נג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%92_%D7%91",
+      "title": "כתובות נג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%93_%D7%90",
+      "title": "כתובות נד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%93_%D7%91",
+      "title": "כתובות נד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי כתובות פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%93_%D7%91",
+      "title": "כתובות נד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%94_%D7%90",
+      "title": "כתובות נה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%94_%D7%91",
+      "title": "כתובות נה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%95_%D7%90",
+      "title": "כתובות נו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%95_%D7%91",
+      "title": "כתובות נו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%96_%D7%90",
+      "title": "כתובות נז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%96_%D7%91",
+      "title": "כתובות נז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%97_%D7%90",
+      "title": "כתובות נח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%97_%D7%91",
+      "title": "כתובות נח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%98_%D7%90",
+      "title": "כתובות נט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A0%D7%98_%D7%91",
+      "title": "כתובות נט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1_%D7%90",
+      "title": "כתובות ס א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1_%D7%91",
+      "title": "כתובות ס ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%90_%D7%90",
+      "title": "כתובות סא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%90_%D7%91",
+      "title": "כתובות סא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%91_%D7%90",
+      "title": "כתובות סב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%91_%D7%91",
+      "title": "כתובות סב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%92_%D7%90",
+      "title": "כתובות סג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%92_%D7%91",
+      "title": "כתובות סג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%93_%D7%90",
+      "title": "כתובות סד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%93_%D7%91",
+      "title": "כתובות סד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%94_%D7%90",
+      "title": "כתובות סה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%94_%D7%91",
+      "title": "כתובות סה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי כתובות פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%94_%D7%91",
+      "title": "כתובות סה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%95_%D7%90",
+      "title": "כתובות סו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%95_%D7%91",
+      "title": "כתובות סו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%96_%D7%90",
+      "title": "כתובות סז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%96_%D7%91",
+      "title": "כתובות סז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%97_%D7%90",
+      "title": "כתובות סח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%97_%D7%91",
+      "title": "כתובות סח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%98_%D7%90",
+      "title": "כתובות סט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A1%D7%98_%D7%91",
+      "title": "כתובות סט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2_%D7%90",
+      "title": "כתובות ע א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי כתובות פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2_%D7%90",
+      "title": "כתובות ע א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2_%D7%91",
+      "title": "כתובות ע ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%90_%D7%90",
+      "title": "כתובות עא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%90_%D7%91",
+      "title": "כתובות עא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%91_%D7%90",
+      "title": "כתובות עב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%91_%D7%91",
+      "title": "כתובות עב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%92_%D7%90",
+      "title": "כתובות עג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%92_%D7%91",
+      "title": "כתובות עג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%93_%D7%90",
+      "title": "כתובות עד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%93_%D7%91",
+      "title": "כתובות עד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%94_%D7%90",
+      "title": "כתובות עה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%94_%D7%91",
+      "title": "כתובות עה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%95_%D7%90",
+      "title": "כתובות עו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%95_%D7%91",
+      "title": "כתובות עו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%96_%D7%90",
+      "title": "כתובות עז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%96_%D7%91",
+      "title": "כתובות עז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%97",
+      "title": "בבלי כתובות פרק ח"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%97_%D7%90",
+      "title": "כתובות עח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%97_%D7%91",
+      "title": "כתובות עח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%98_%D7%90",
+      "title": "כתובות עט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A2%D7%98_%D7%91",
+      "title": "כתובות עט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4_%D7%90",
+      "title": "כתובות פ א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4_%D7%91",
+      "title": "כתובות פ ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%90_%D7%90",
+      "title": "כתובות פא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%90_%D7%91",
+      "title": "כתובות פא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%91_%D7%90",
+      "title": "כתובות פב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%91_%D7%91",
+      "title": "כתובות פב ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%98",
+      "title": "בבלי כתובות פרק ט"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%92_%D7%90",
+      "title": "כתובות פג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%92_%D7%91",
+      "title": "כתובות פג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%93_%D7%90",
+      "title": "כתובות פד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%93_%D7%91",
+      "title": "כתובות פד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%94_%D7%90",
+      "title": "כתובות פה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%94_%D7%91",
+      "title": "כתובות פה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%95_%D7%90",
+      "title": "כתובות פו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%95_%D7%91",
+      "title": "כתובות פו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%96_%D7%90",
+      "title": "כתובות פז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%96_%D7%91",
+      "title": "כתובות פז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%97_%D7%90",
+      "title": "כתובות פח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%97_%D7%91",
+      "title": "כתובות פח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%98_%D7%90",
+      "title": "כתובות פט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%98_%D7%91",
+      "title": "כתובות פט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6_%D7%90",
+      "title": "כתובות צ א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99",
+      "title": "בבלי כתובות פרק י"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6_%D7%90",
+      "title": "כתובות צ א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6_%D7%91",
+      "title": "כתובות צ ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%90_%D7%90",
+      "title": "כתובות צא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%90_%D7%91",
+      "title": "כתובות צא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%91_%D7%90",
+      "title": "כתובות צב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%91_%D7%91",
+      "title": "כתובות צב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%92_%D7%90",
+      "title": "כתובות צג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%92_%D7%91",
+      "title": "כתובות צג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%93_%D7%90",
+      "title": "כתובות צד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%93_%D7%91",
+      "title": "כתובות צד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%94_%D7%90",
+      "title": "כתובות צה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%94_%D7%91",
+      "title": "כתובות צה ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%90",
+      "title": "בבלי כתובות פרק יא"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%94_%D7%91",
+      "title": "כתובות צה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%95_%D7%90",
+      "title": "כתובות צו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%95_%D7%91",
+      "title": "כתובות צו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%96_%D7%90",
+      "title": "כתובות צז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%96_%D7%91",
+      "title": "כתובות צז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%97_%D7%90",
+      "title": "כתובות צח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%97_%D7%91",
+      "title": "כתובות צח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%98_%D7%90",
+      "title": "כתובות צט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A6%D7%98_%D7%91",
+      "title": "כתובות צט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7_%D7%90",
+      "title": "כתובות ק א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7_%D7%91",
+      "title": "כתובות ק ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%90_%D7%90",
+      "title": "כתובות קא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%90_%D7%91",
+      "title": "כתובות קא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%91",
+      "title": "בבלי כתובות פרק יב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%90_%D7%91",
+      "title": "כתובות קא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%91_%D7%90",
+      "title": "כתובות קב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%91_%D7%91",
+      "title": "כתובות קב ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%92_%D7%90",
+      "title": "כתובות קג א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%92_%D7%91",
+      "title": "כתובות קג ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%93_%D7%90",
+      "title": "כתובות קד א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%93_%D7%91",
+      "title": "כתובות קד ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A4%D7%A8%D7%A7_%D7%99%D7%92",
+      "title": "בבלי כתובות פרק יג"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%93_%D7%91",
+      "title": "כתובות קד ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%94_%D7%90",
+      "title": "כתובות קה א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%94_%D7%91",
+      "title": "כתובות קה ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%95_%D7%90",
+      "title": "כתובות קו א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%95_%D7%91",
+      "title": "כתובות קו ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%96_%D7%90",
+      "title": "כתובות קז א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%96_%D7%91",
+      "title": "כתובות קז ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%97_%D7%90",
+      "title": "כתובות קח א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%97_%D7%91",
+      "title": "כתובות קח ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%98_%D7%90",
+      "title": "כתובות קט א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%98_%D7%91",
+      "title": "כתובות קט ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99_%D7%90",
+      "title": "כתובות קי א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99_%D7%91",
+      "title": "כתובות קי ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99%D7%90_%D7%90",
+      "title": "כתובות קיא א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99%D7%90_%D7%91",
+      "title": "כתובות קיא ב"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99%D7%91_%D7%90",
+      "title": "כתובות קיב א"
+    },
+    {
+      "href": "/wiki/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA_%D7%A7%D7%99%D7%91_%D7%91",
+      "title": "כתובות קיב ב"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_כתובות&oldid=1390531"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%A1%D7%93%D7%A8_%D7%A0%D7%A9%D7%99%D7%9D",
+      "title": "קטגוריה:בבלי סדר נשים"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

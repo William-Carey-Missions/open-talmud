@@ -1,0 +1,66 @@
+{
+  "id": "18b",
+  "title": "18b · Wat weten de doden?",
+  "scope": "Volledige hoofdtekst van amud 18b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 18b — ongevocaliseerde Wikisource-editie, revisie 2851533; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%97_%D7%91&oldid=2851533",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:18b:g1",
+      "locator": "Berakhot 18b · Gemara · 1",
+      "layer": "gemara",
+      "original": "בן איש חי אטו כולי עלמא בני מתי נינהו אלא בן איש חי שאפי' במיתתו קרוי חי רב פעלים מקבצאל שריבה וקבץ פועלים לתורה והוא הכה את שני אריאל מואב שלא הניח כמותו לא במקדש ראשון ולא במקדש שני והוא ירד והכה את הארי בתוך הבור ביום השלג איכא דאמרי דתבר גזיזי דברדא ונחת וטבל איכא דאמרי דתנא סיפרא דבי רב ביומא דסיתוא. והמתים אינם יודעים מאומה אלו רשעים שבחייהן קרויין מתים שנאמר (יחזקאל כא, ל) ואתה חלל רשע נשיא ישראל ואי בעית אימא מהכא (דברים יז, ו) על פי שנים עדים או (על פי) שלשה עדים יומת המת חי הוא אלא המת מעיקרא:",
+      "nl": "“Zoon van een levende man”: zijn alle andere mensen dan zonen van doden? Het betekent: zoon van een man die zelfs na zijn dood levend wordt genoemd. “Rijk aan daden, uit Kavtseël”: hij vermeerderde en verzamelde mensen die zich voor de Tora inzetten. “Hij versloeg de twee Ariëls van Moab”: noch in de eerste tempel, noch in de tweede tempel liet hij zijn gelijke na. “Hij daalde af en versloeg de leeuw midden in de kuil op een sneeuwdag”: sommigen zeggen dat hij stukken ijs brak, afdaalde en zich onderdompelde. Anderen zeggen dat hij op een winterdag de Sifra van de school van Rav bestudeerde. “De doden weten niets”: dat zijn de goddelozen, die tijdens hun leven al dood worden genoemd. Er staat immers: “En jij, ontwijde, goddeloze vorst van Israël” (Ezechiël 21:30). Je kunt het ook hieruit afleiden: “Op de verklaring van twee getuigen of (op die van) drie getuigen zal de dode ter dood worden gebracht” (Deuteronomium 17:6). Hij leeft toch nog? Het betekent dus: degene die al tevoren dood was.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18b-r2851533",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van het citaat en de uitleg aan het einde van 18a."
+        },
+        {
+          "type": "begrip",
+          "text": "De uitleg verbindt woorden uit de naam Kavtseël met vermeerderen en verzamelen. De twee alternatieve verklaringen van de sneeuwdag zijn apart behouden."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De bron bevat (op die van) tussen haakjes in het Deuteronomiumcitaat. De woordkeuze “de dode” is nodig om de aansluitende uitleg te kunnen volgen."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:18b:g2",
+      "locator": "Berakhot 18b · Gemara · 2",
+      "layer": "gemara",
+      "original": "בני ר' חייא נפוק לקרייתא אייקר להו תלמודייהו הוו קא מצערי לאדכוריה א\"ל חד לחבריה ידע אבון בהאי צערא א\"ל אידך מנא ידע והא כתיב (איוב יד, כא) יכבדו בניו ולא ידע א\"ל אידך ולא ידע והא כתיב (איוב יד, כב) אך בשרו עליו יכאב ונפשו עליו תאבל ואמר רבי יצחק קשה רמה למת כמחט בבשר החי אמרי בצערא דידהו ידעי בצערא דאחרינא לא ידעי ולא והתניא מעשה בחסיד אחד שנתן דינר לעני בערב ר\"ה בשני בצורת והקניטתו אשתו והלך ולן בבית הקברות ושמע שתי רוחות שמספרות זו לזו אמרה חדא לחברתה חברתי בואי ונשוט בעולם ונשמע מאחורי הפרגוד מה פורענות בא לעולם אמרה לה חברתה איני יכולה שאני קבורה במחצלת של קנים אלא לכי את ומה שאת שומעת אמרי לי הלכה היא ושטה ובאה ואמרה לה חברתה חברתי מה שמעת מאחורי הפרגוד אמרה לה שמעתי שכל הזורע ברביעה ראשונה ברד מלקה אותו הלך הוא וזרע ברביעה שניה של כל העולם כולו לקה שלו לא לקה לשנה האחרת הלך ולן בבית הקברות ושמע אותן שתי רוחות שמספרות זו עם זו אמרה חדא לחברתה בואי ונשוט בעולם ונשמע מאחורי הפרגוד מה פורענות בא לעולם אמרה לה חברתי לא כך אמרתי לך איני יכולה שאני קבורה במחצלת של קנים אלא לכי את ומה שאת שומעת בואי ואמרי לי הלכה ושטה ובאה ואמרה לה חברתה חברתי מה שמעת מאחורי הפרגוד אמרה לה שמעתי שכל הזורע ברביעה שניה שדפון מלקה אותו הלך וזרע ברביעה ראשונה של כל העולם כולו נשדף ושלו לא נשדף אמרה לו אשתו מפני מה אשתקד של כל העולם כולו לקה ושלך לא לקה ועכשיו של כל העולם כולו נשדף ושלך לא נשדף סח לה כל הדברים הללו אמרו לא היו ימים מועטים עד שנפלה קטטה בין אשתו של אותו חסיד ובין אמה של אותה ריבה אמרה לה לכי ואראך בתך שהיא קבורה במחצלת של קנים לשנה האחרת הלך ולן בבית הקברות ושמע אותן רוחות שמספרות זו עם זו אמרה לה חברתי בואי ונשוט בעולם ונשמע מאחורי הפרגוד מה פורענות בא לעולם אמרה לה חברתי הניחני דברים שביני לבינך כבר נשמעו בין החיים אלמא ידעי דילמא איניש אחרינא שכיב ואזיל ואמר להו ת\"ש דזעירי הוה מפקיד זוזי גבי אושפזיכתיה עד דאתי ואזיל לבי רב שכיבה אזל בתרה לחצר מות אמר לה זוזי היכא אמרה ליה זיל שקלינהו מתותי בצנורא דדשא בדוך פלן ואימא לה לאימא תשדר לי מסרקאי וגובתאי דכוחלא בהדי פלניתא דאתיא למחר אלמא ידעי [דלמא] דומה קדים ומכריז להו ת\"ש דאבוה דשמואל הוו קא מפקדי גביה זוזי דיתמי כי נח נפשיה לא הוה שמואל גביה הוו קא קרו ליה בר אכיל זוזי דיתמי אזל אבתריה לחצר מות אמר להו בעינא אבא אמרו ליה אבא טובא איכא הכא אמר להו בעינא אבא בר אבא אמרו ליה אבא בר אבא נמי טובא איכא הכא אמר להו בעינא אבא בר אבא אבוה דשמואל היכא אמרו ליה סליק למתיבתא דרקיעא אדהכי חזייה ללוי דיתיב אבראי אמר ליה אמאי יתבת אבראי מאי טעמא לא סלקת אמר ליה דאמרי לי כל כי הנך שני דלא סליקת למתיבתא דרבי אפס ואחלישתיה לדעתיה לא מעיילינן לך למתיבתא דרקיעא אדהכי והכי אתא אבוה חזייה דהוה קא בכי ואחיך אמר ליה מאי טעמא קא בכית אמר ליה דלעגל קא אתית מאי טעמא אחיכת דחשיבת בהאי עלמא טובא אמר ליה אי חשיבנא נעיילוה ללוי ועיילוהו ללוי אמר ליה זוזי דיתמי היכא אמר ליה זיל שקלינהו באמתא דרחיא עילאי ותתאי דידן ומיצעי דיתמי אמר ליה מאי טעמא עבדת הכי אמר ליה אי גנובי גנבי מגנבו מדידן אי אכלה ארעא אכלה מדידן אלמא דידעי דילמא שאני שמואל כיון דחשיב קדמי ומכרזי פנו מקום . ואף ר' יונתן הדר ביה דאמר רבי שמואל בר נחמני אמר ר' יונתן מנין למתים שמספרים זה עם זה שנאמר (דברים לד, ד) ויאמר ה' אליו זאת הארץ אשר נשבעתי לאברהם ליצחק וליעקב לאמר מאי לאמר אמר הקדוש ברוך הוא למשה לך אמור להם לאברהם ליצחק וליעקב שבועה שנשבעתי לכם כבר קיימתיה לבניכם",
+      "nl": "De zonen van rabbi Chijja trokken naar het platteland. Hun studie werd moeilijk voor hen en zij deden moeite om zich die te herinneren. De een vroeg de ander: “Weet onze vader van dit verdriet?” De ander zei: “Hoe zou hij het weten? Er staat toch: ‘Zijn zonen worden geëerd en hij weet het niet’” (Job 14:21). De eerste antwoordde: “Weet hij het niet? Er staat toch: ‘Maar zijn vlees doet hem pijn en zijn ziel treurt om hem’” (Job 14:22). Rabbi Jitschak heeft gezegd: “Een worm doet de dode evenveel pijn als een naald in het vlees van een levende.” Zij zeiden: van hun eigen pijn weten zij, van het verdriet van anderen weten zij niet.\n\nIs dat werkelijk zo? Er is toch onderwezen: eens gaf een vrome man op de vooravond van nieuwjaar in een jaar van schaarste een dinar aan een arme. Zijn vrouw maakte hem verwijten. Hij ging weg en bracht de nacht op de begraafplaats door. Hij hoorde twee geesten met elkaar spreken. De een zei: “Vriendin, kom, laten wij de wereld rondgaan en achter het voorhangsel horen welk onheil de wereld te wachten staat.” De ander antwoordde: “Ik kan niet, want ik ben in een rieten mat begraven. Ga jij maar en vertel mij wat je hoort.” Zij ging rond en kwam terug. Haar vriendin vroeg: “Vriendin, wat heb je achter het voorhangsel gehoord?” Zij zei: “Ik heb gehoord dat al wie bij de eerste regenperiode zaait, door hagel getroffen zal worden.” Hij ging bij de tweede regenperiode zaaien. De gewassen van de hele wereld werden getroffen, maar de zijne niet.\n\nHet volgende jaar bracht hij weer de nacht op de begraafplaats door. Hij hoorde dezelfde twee geesten met elkaar spreken. De een zei: “Kom, laten wij de wereld rondgaan en achter het voorhangsel horen welk onheil de wereld te wachten staat.” Haar vriendin zei: “Vriendin, heb ik je niet gezegd dat ik niet kan, omdat ik in een rieten mat begraven ben? Ga jij maar, en kom mij vertellen wat je hoort.” Zij ging rond en kwam terug. Haar vriendin vroeg: “Vriendin, wat heb je achter het voorhangsel gehoord?” Zij zei: “Ik heb gehoord dat al wie bij de tweede regenperiode zaait, door verschroeiing getroffen zal worden.” Hij ging bij de eerste regenperiode zaaien. De gewassen van de hele wereld verschroeiden, maar de zijne niet. Zijn vrouw vroeg: “Hoe komt het dat vorig jaar de gewassen van iedereen getroffen werden en de jouwe niet, en dat nu de gewassen van iedereen verschroeid zijn en de jouwe niet?” Hij vertelde haar alles.\n\nMen vertelt dat het niet lang duurde voordat zijn vrouw ruzie kreeg met de moeder van dat meisje. Zij zei tegen haar: “Kom, dan zal ik je je dochter laten zien, die in een rieten mat begraven ligt.” Het volgende jaar ging hij weer op de begraafplaats overnachten. Hij hoorde de geesten met elkaar spreken. De een zei: “Vriendin, kom, laten wij de wereld rondgaan en achter het voorhangsel horen welk onheil de wereld te wachten staat.” De ander zei: “Laat mij met rust: wat tussen jou en mij besproken is, is al onder de levenden bekend geworden.” Blijkbaar weten zij het dus! Misschien was iemand anders gestorven die het hun is gaan vertellen.\n\nKom en hoor: Zeïri had geld bij zijn gastvrouw in bewaring gegeven. Terwijl hij naar het leerhuis ging en terugkwam, stierf zij. Hij ging haar achterna naar de verblijfplaats van de doden en vroeg: “Waar is het geld?” Zij zei: “Ga het onder de holte bij de deur halen, op die en die plaats. Zeg ook tegen mijn moeder dat zij mijn kam en mijn koker voor oogverf meestuurt met die vrouw die morgen hier komt.” Blijkbaar weten zij het dus! [Misschien] kondigt Doema het hun vooraf aan.\n\nKom en hoor: bij de vader van Sjmoeël was geld van wezen in bewaring gegeven. Toen hij stierf, was Sjmoeël niet bij hem. Men noemde hem daarom: “Zoon van de man die het geld van wezen opeet.” Hij ging zijn vader achterna naar de verblijfplaats van de doden en zei: “Ik zoek Abba.” Zij zeiden: “Er zijn hier veel Abba’s.” Hij zei: “Ik zoek Abba bar Abba.” Zij antwoordden: “Ook daarvan zijn er hier veel.” Hij zei: “Waar is Abba bar Abba, de vader van Sjmoeël?” Zij zeiden: “Hij is naar de hemelse leerschool gegaan.” Ondertussen zag hij Levi buiten zitten. Hij vroeg: “Waarom zit je buiten? Waarom ga je niet naar binnen?” Hij antwoordde: “Men heeft mij gezegd: al die jaren dat je niet naar de leerschool van rabbi Afes bent gegaan en hem daarmee hebt gekrenkt, laten wij je niet toe tot de hemelse leerschool.”\n\nToen kwam zijn vader. Sjmoeël zag dat hij huilde en lachte. Hij vroeg: “Waarom huilt u?” Hij antwoordde: “Omdat je spoedig hier zult komen.” “Waarom lacht u?” “Omdat je in deze wereld hoog in aanzien staat.” Hij zei: “Als ik aanzien heb, laat men Levi dan binnen.” Men liet Levi binnen. Hij vroeg: “Waar is het geld van de wezen?” Zijn vader zei: “Ga het bij de molengoot halen. De bovenste en onderste laag zijn van ons; de middelste is van de wezen.” Hij vroeg: “Waarom hebt u het zo gedaan?” Hij antwoordde: “Als dieven het stelen, stelen zij van ons; als de aarde het aantast, tast zij dat van ons aan.” Blijkbaar weten zij het dus! Misschien is Sjmoeël een uitzondering: omdat hij aanzien heeft, wordt vooraf aangekondigd: “Maak plaats!”\n\nOok rabbi Jonatan kwam op zijn eerdere opvatting terug. Rabbi Sjmoeël bar Nachmani zei namelijk in naam van rabbi Jonatan: waaruit blijkt dat de doden met elkaar spreken? Er staat: “De HEER zei tegen hem: dit is het land dat Ik aan Abraham, Isaak en Jakob onder ede heb beloofd, zeggende” (Deuteronomium 34:4). Wat betekent “zeggende”? De Heilige, gezegend zij Hij, zei tegen Mozes: “Ga tegen Abraham, Isaak en Jakob zeggen: de eed die Ik jullie heb gezworen, heb Ik voor jullie kinderen vervuld.”",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18b-r2851533",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De opeenvolgende verhalen worden als argumenten over kennis na de dood aangevoerd. “Achter het voorhangsel” duidt binnen deze voorstellingswereld op hemelse besluiten; Doema is een bij de doden betrokken gestalte."
+        },
+        {
+          "type": "onzeker",
+          "text": "De precieze plaatsnaam voor de verblijfplaats van de doden en de bergplaats bij de deur laten verschillende concrete voorstellingen toe. De vertaling kiest brede termen. “De aarde aantasten” duidt in de laatste vertelling op aantasting van de buitenste geldlagen."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "[Misschien] staat ook in de grondtekst tussen vierkante haken. De alinea is alleen voor leesbaarheid in afzonderlijke verhaaleenheden verdeeld; de bronkoppeling blijft één alinea."
+        },
+        {
+          "type": "vervolg",
+          "text": "De bewijsvoering en mogelijke tegenwerpingen lopen verder op 19a."
+        }
+      ]
+    }
+  ]
+}

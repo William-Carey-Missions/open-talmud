@@ -1,0 +1,50 @@
+{
+  "id": "38b",
+  "title": "38b · De zegening over gekookte groenten",
+  "scope": "Volledige hoofdtekst van amud 38b in de gekozen editie; Gemara. De laatste vraag loopt door op 39a.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%97_%D7%91&oldid=2851493",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:38b:g1",
+      "locator": "Berakhot 38b · Gemara · g1",
+      "layer": "gemara",
+      "original": "אשמעינן טעמא ואשמעינן דהלכתא כרבנן אלא דאמר מוציא מאי קמ\"ל ואיהו דעבד לאפוקי נפשיה מפלוגתא והלכתא המוציא לחם מן הארץ דקי\"ל כרבנן דאמרי דאפיק משמע:",
+      "nl": "had hij ons de reden geleerd en geleerd dat de halacha de rabbijnen volgt. Maar door motsi te zeggen, wat leert hij ons dan?” Zelf deed hij dit om buiten het geschil te blijven. De halacha is: “Hamotsi lechem min haärets”, want wij volgen de rabbijnen, die zeggen dat het ook kan betekenen dat Hij het al heeft voortgebracht.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-38b-r2851493",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van rabbi Zeira’s beoordeling op 38a. Hamotsi is de vastgestelde broodzegen met het lidwoord."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:38b:g2",
+      "locator": "Berakhot 38b · Gemara · g2",
+      "layer": "gemara",
+      "original": "ועל הירקות אומר וכו'. קתני ירקות דומיא דפת מה פת שנשתנה ע\"י האור אף ירקות נמי שנשתנו ע\"י האור אמר רבנאי משמיה דאביי זאת אומרת שלקות מברכין עליהן בורא פרי האדמה (ממאי מדקתני ירקות דומיא דפת) דרש רב חסדא משום רבינו ומנו רב שלקות מברכין עליהם בורא פרי האדמה ורבותינו היורדין מארץ ישראל ומנו עולא משמיה דר' יוחנן אמר שלקות מברכין עליהן שהכל נהיה בדברו ואני אומר כל שתחלתו בורא פרי האדמה שלקו שהכל נהיה בדברו וכל שתחלתו שהכל נהיה בדברו שלקו בורא פרי האדמה בשלמא כל שתחלתו שהכל נהיה בדברו שלקו בפה\"א משכחת לה בכרבא וסלקא וקרא אלא כל שתחלתו בפה\"א שלקו שהכל היכי משכחת לה א\"ר נחמן בר יצחק משכחת לה בתומי וכרתי דרש רב נחמן משום רבינו ומנו שמואל שלקות מברכין עליהם בפה\"א וחברינו היורדים מארץ ישראל ומנו עולא משמיה דר' יוחנן אמר שלקות מברכין עליהן שהכל נהיה בדברו ואני אומר במחלוקת שנויה דתניא יוצאין ברקיק השרוי ובמבושל שלא נמוח דברי ר\"מ ור' יוסי אומר יוצאים ברקיק השרוי אבל לא במבושל אע\"פ שלא נמוח ולא היא דכ\"ע שלקות מברכין עליהן בפה\"א ועד כאן לא קאמר ר' יוסי התם אלא משום דבעינן טעם מצה וליכא אבל הכא אפי' רבי יוסי מודה אמר ר' חייא בר אבא א\"ר יוחנן שלקות מברכין עליהם בפה\"א ור' בנימין בר יפת א\"ר יוחנן שלקות מברכין עליהם שהכל נהיה בדברו א\"ר נחמן בר יצחק קבע עולא לשבשתיה כר' בנימין בר יפת תהי בה ר' זירא וכי מה ענין ר' בנימין בר יפת אצל ר' חייא בר אבא ר' חייא בר אבא דייק וגמיר שמעתא מרבי יוחנן רביה ורבי בנימין בר יפת לא דייק ועוד רבי חייא בר אבא כל תלתין יומין מהדר תלמודיה קמיה דר' יוחנן רביה ור' בנימין בר יפת לא מהדר ועוד בר מן דין ובר מן דין דההוא תורמסא דשלקי ליה שבע זמנין בקדרה ואכלי ליה בקנוח סעודה אתו ושאלו לר' יוחנן ואמר להו מברכין עלויה בורא פרי האדמה ועוד אמר ר' חייא בר אבא אני ראיתי את ר' יוחנן שאכל זית מליח ובריך עליו תחלה וסוף אי אמרת בשלמא שלקות במילתייהו קיימי בתחלה מברך עליו בורא פרי העץ ולבסוף מברך עליו ברכה אחת מעין שלש אלא אי אמרת שלקות לאו במילתייהו קיימי בשלמא בתחלה מברך עליו שהכל נהיה בדברו אלא לבסוף מאי מברך דילמא בורא נפשות רבות וחסרונן על כל מה שברא מתיב רב יצחק בר שמואל ירקות שאדם יוצא בהן ידי חובתו בפסח יוצא בהן ובקלח שלהן אבל לא כבושין ולא שלוקין ולא מבושלין ואי ס\"ד במילתייהו קאי שלוקין אמאי לא שאני התם דבעינן טעם מרור וליכא אמר ליה רבי ירמיה לרבי זירא רבי יוחנן היכי מברך על זית מליח כיון דשקילא לגרעיניה",
+      "nl": "“Over groenten zegt hij”, enzovoort. Hij noemt groenten naar analogie van brood: zoals brood door vuur veranderd is, zo ook groenten die door vuur veranderd zijn. Ravnai zei namens Abaje: dit leert dat men over gekookte groenten “die de vrucht van de aarde schept” zegt. (Waaruit? Doordat groenten naar analogie van brood worden genoemd.) Rav Chisda onderwees namens onze leraar — wie is dat? Rav —: over gekookte groenten zegt men “die de vrucht van de aarde schept”. Onze leraren die uit het land Israël kwamen — wie is dat? Oella namens rabbi Jochanan — zeiden: over gekookte groenten zegt men “door wiens woord alles ontstond”. Zelf zeg ik: over alles waarover men oorspronkelijk “die de vrucht van de aarde schept” zegt, zegt men na koken “door wiens woord alles ontstond”; over alles waarover men oorspronkelijk “door wiens woord alles ontstond” zegt, zegt men na koken “die de vrucht van de aarde schept”. Dat laatste is begrijpelijk: het geldt voor kool, snijbiet en pompoen. Maar waar vind je iets waarover men eerst “die de vrucht van de aarde schept” zegt en na koken “door wiens woord alles ontstond”? Rav Nachman bar Jitschak zei: bij knoflook en prei. Rav Nachman onderwees namens onze leraar — wie is dat? Sjemoeël —: over gekookte groenten zegt men “die de vrucht van de aarde schept”. Onze metgezellen die uit het land Israël kwamen — Oella namens rabbi Jochanan — zeiden: “door wiens woord alles ontstond”. Zelf zeg ik: dit is een geschil tussen leraren. Er is namelijk geleerd: men vervult de verplichting met een geweekte dunne matsa en met een gekookte die niet uiteengevallen is; dit zegt rabbi Meïr. Rabbi Jose zegt: wel met een geweekte dunne matsa, maar niet met een gekookte, ook als zij niet uiteengevallen is. Dat is echter geen bewijs: allen menen dat men over gekookte groenten “die de vrucht van de aarde schept” zegt. Rabbi Jose zegt het daar alleen omdat de smaak van matsa vereist is en ontbreekt. Hier stemt ook rabbi Jose ermee in. Rabbi Chijja bar Abba zei namens rabbi Jochanan: over gekookte groenten zegt men “die de vrucht van de aarde schept”. Rabbi Binjamin bar Jefet zei namens rabbi Jochanan: “door wiens woord alles ontstond”. Rav Nachman bar Jitschak zei: Oella heeft zijn onjuiste overlevering vastgehouden, zoals rabbi Binjamin bar Jefet. Rabbi Zeira verwonderde zich: hoe kan men rabbi Binjamin bar Jefet met rabbi Chijja bar Abba vergelijken? Rabbi Chijja bar Abba leerde de uitspraken van zijn leraar rabbi Jochanan nauwkeurig; rabbi Binjamin bar Jefet was niet nauwkeurig. Bovendien herhaalde rabbi Chijja bar Abba zijn leer iedere dertig dagen voor zijn leraar rabbi Jochanan; rabbi Binjamin bar Jefet deed dat niet. Nog afgezien daarvan: men vroeg rabbi Jochanan over lupine die men zevenmaal in een pot kookte en na de maaltijd at. Hij antwoordde: men zegt er “die de vrucht van de aarde schept” over. Bovendien zei rabbi Chijja bar Abba: ik zag rabbi Jochanan een gezouten olijf eten en ervoor en erna zegenen. Als gekookt voedsel zijn aard behoudt, is dit begrijpelijk: vooraf zegt hij “die de vrucht van de boom schept” en achteraf één zegening die de drie samenvat. Maar als gekookt voedsel zijn aard niet behoudt: vooraf zegt hij dan wel “door wiens woord alles ontstond”, maar wat zegt hij achteraf? Misschien “die vele levende wezens schept en wat hun ontbreekt, voor alles wat Hij geschapen heeft”. Rav Jitschak bar Sjemoeël wierp tegen: met de groenten waarmee men op Pesach de verplichting vervult, kan men die vervullen met de groenten zelf en hun stengels, maar niet als zij ingelegd, doorgekookt of gekookt zijn. Als zij hun aard behouden, waarom dan niet doorgekookt? Daar is het anders, omdat de smaak van het bittere kruid vereist is en ontbreekt. Rabbi Jirmeja vroeg rabbi Zeira: hoe kon rabbi Jochanan over een gezouten olijf zegenen? Zodra de pit verwijderd is,",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-38b-r2851493",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De verplichting bij matsa en bittere kruiden betreft de pesachmaaltijd. De verschillende bereidingswijzen worden onderscheiden naar hun invloed op smaak en herkenbare voedselvorm."
+        },
+        {
+          "type": "vervolg",
+          "text": "De vraag over de maat van de ontpitte olijf wordt op 39a voltooid."
+        }
+      ]
+    }
+  ]
+}

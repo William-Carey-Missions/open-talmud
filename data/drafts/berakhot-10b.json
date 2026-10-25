@@ -1,0 +1,128 @@
+{
+  "id": "10b",
+  "title": "10b · Gebed, gastvrijheid en de houding bij het Sjema",
+  "scope": "Volledige hoofdtekst van amud 10b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99_%D7%91&oldid=2916015",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:10b:g1",
+      "locator": "Berakhot 10b · Gemara · g1",
+      "layer": "gemara",
+      "original": "א\"ר חנן אפי' בעל החלומות אומר לו לאדם למחר הוא מת אל ימנע עצמו מן הרחמים שנאמר (קהלת ה, ו) כי ברוב חלומות והבלים ודברים הרבה כי את האלהים ירא מיד (ישעיהו לח, ב) ויסב חזקיהו פניו אל הקיר ויתפלל אל ה' מאי קיר אמר רשב\"ל מקירות לבו שנא' (ירמיהו ד, יט) מעי מעי אוחילה קירות לבי וגו' ר' לוי אמר על עסקי הקיר אמר לפניו רבונו של עולם ומה שונמית שלא עשתה אלא קיר אחת קטנה החיית את בנה אבי אבא שחפה את ההיכל כולו בכסף ובזהב על אחת כמה וכמה (ישעיהו לח, ג) זכר נא את אשר התהלכתי לפניך באמת ובלב שלם והטוב בעיניך עשיתי מאי והטוב בעיניך עשיתי א\"ר יהודה אמר רב שסמך גאולה לתפלה ר' לוי אמר שגנז ספר רפואות תנו רבנן ששה דברים עשה חזקיהו המלך על ג' הודו לו ועל ג' לא הודו לו על ג' הודו לו גנז ספר רפואות והודו לו כתת נחש הנחשת והודו לו גירר עצמות אביו על מטה של חבלים והודו לו ועל ג' לא הודו לו סתם מי גיחון ולא הודו לו קצץ דלתות היכל ושגרם למלך אשור ולא הודו לו עבר ניסן בניסן ולא הודו לו ומי לית ליה לחזקיהו (שמות יב, ב) החדש הזה לכם ראש חדשים זה ניסן ואין אחר ניסן אלא טעה בדשמואל דאמר שמואל אין מעברין את השנה ביום שלשים של אדר הואיל וראוי לקובעו ניסן סבר הואיל וראוי לא אמרינן:",
+      "nl": "Rabbi Chanan zei: zelfs als de meester van de dromen iemand zegt: ‘Morgen sterf je’, mag hij het smeken om ontferming niet opgeven. Er staat immers: ‘Want bij veel dromen, nietigheden en vele woorden: vrees God’ (Prediker 5:6). Meteen ‘wendde Hizkia zijn gezicht naar de muur en bad tot de HEER’ (Jesaja 38:2). Wat betekent ‘de muur’? Rabbi Sjimon ben Lakisj zei: vanuit de wanden van zijn hart, zoals er staat: ‘Mijn binnenste, mijn binnenste! Ik krimp ineen, de wanden van mijn hart...’ (Jeremia 4:19). Rabbi Levi zei: hij bad over de muur. Hij zei voor Hem: ‘Heer van de wereld, de Sunamitische maakte maar één klein ommuurd vertrek, en U bracht haar zoon weer tot leven. Hoeveel te meer mijn voorvader, die de hele tempelzaal met zilver en goud bekleedde!’ ‘Gedenk toch hoe ik voor Uw aangezicht in waarheid en met een onverdeeld hart heb gewandeld en heb gedaan wat goed was in Uw ogen’ (Jesaja 38:3). Wat is ‘ik heb gedaan wat goed was in Uw ogen’? Rav Jehoeda zei namens Rav: hij liet het gebed direct op de verlossingszegening aansluiten. Rabbi Levi zei: hij borg het boek met geneesmiddelen weg. Onze meesters leerden: koning Hizkia deed zes dingen. Met drie stemden zij in en met drie stemden zij niet in. Met deze drie stemden zij in: hij borg het boek met geneesmiddelen weg; hij verbrijzelde de koperen slang; en hij sleepte het gebeente van zijn vader op een bed van touwen. Met deze drie stemden zij niet in: hij sloot het water van de Gichon af; hij hakte de deuren van de tempelzaal af en stuurde ze naar de koning van Assyrië; en hij laste in Nisan een extra Nisan in. Kende Hizkia dan niet: ‘Deze maand zal voor jullie het begin van de maanden zijn’ (Exodus 12:2): dit is Nisan en geen andere maand is Nisan? Hij vergiste zich echter in wat Sjemoeël zei. Sjemoeël zei: men last op de dertigste dag van Adar geen extra maand in het jaar in, omdat die dag al tot Nisan kan worden verklaard. Hizkia meende dat wij geen rekening houden met ‘omdat die dag ervoor in aanmerking komt’.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Een extra maand werd in de kalender ingevoegd vóór Nisan. De discussie betreft de dertigste dag van Adar, die ook al als eerste dag van Nisan kan gelden."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:10b:g2",
+      "locator": "Berakhot 10b · Gemara · g2",
+      "layer": "gemara",
+      "original": "א\"ר יוחנן משום ר' יוסי בן זמרא כל התולה בזכות עצמו תולין לו בזכות אחרים וכל התולה בזכות אחרים תולין לו בזכות עצמו משה תלה בזכות אחרים שנא' (שמות לב, יג) זכור לאברהם ליצחק ולישראל עבדיך תלו לו בזכות עצמו שנאמר (תהלים קו, כג) ויאמר להשמידם לולי משה בחירו עמד בפרץ לפניו להשיב חמתו מהשחית חזקיהו תלה בזכות עצמו דכתיב זכר נא את אשר התהלכתי לפניך תלו לו בזכות אחרים שנא' (מלכים ב יט, לד) וגנותי אל העיר הזאת להושיעה למעני ולמען דוד עבדי והיינו דריב\"ל דאמר ריב\"ל מאי דכתיב (ישעיהו לח, יז) הנה לשלום מר לי מר אפי' בשעה ששיגר לו הקב\"ה שלום מר הוא לו:",
+      "nl": "Rabbi Jochanan zei namens rabbi Jose ben Zimra: wie zich op zijn eigen verdienste beroept, wordt geholpen op grond van de verdienste van anderen; wie zich op de verdienste van anderen beroept, wordt geholpen op grond van zijn eigen verdienste. Mozes beriep zich op de verdienste van anderen: ‘Gedenk Abraham, Isaak en Israël, Uw dienaren’ (Exodus 32:13). Maar men schreef de redding aan zijn eigen verdienste toe: ‘Hij zei dat Hij hen zou vernietigen, als Mozes, Zijn uitverkorene, niet voor Hem in de bres had gestaan, om Zijn woede van de vernietiging af te wenden’ (Psalm 106:23). Hizkia beriep zich op zijn eigen verdienste: ‘Gedenk toch hoe ik voor Uw aangezicht heb gewandeld.’ Maar men schreef zijn redding aan de verdienste van anderen toe: ‘Ik zal deze stad beschermen om haar te redden, omwille van Mij en omwille van Mijn dienaar David’ (2 Koningen 19:34). Dit is wat rabbi Jehosjoea ben Levi zei: wat betekent ‘Zie, tot vrede was het mij bitter, bitter’ (Jesaja 38:17)? Zelfs toen de Heilige, gezegend is Hij, hem vrede liet aanzeggen, was het voor hem bitter.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:10b:g3",
+      "locator": "Berakhot 10b · Gemara · g3",
+      "layer": "gemara",
+      "original": "(מלכים ב ד, י) נעשה נא עליית קיר קטנה רב ושמואל חד אמר עלייה פרועה היתה וקירוה וחד אמר אכסדרה גדולה היתה וחלקוה לשנים בשלמא למ\"ד אכסדרה היינו דכתיב קיר אלא למ\"ד עלייה מאי קיר שקירוה בשלמא למ\"ד עלייה היינו דכתיב עליית אלא למ\"ד אכסדרה מאי עליית מעולה שבבתים. ונשים לו שם מטה ושולחן וכסא ומנורה אמר אביי ואיתימא ר' יצחק הרוצה להנות יהנה כאלישע ושאינו רוצה להנות אל יהנה כשמואל הרמתי שנאמר (שמואל א ז, יז) ותשובתו הרמתה כי שם ביתו וא\"ר יוחנן שכל מקום שהלך שם ביתו עמו. (מלכים ב ד, ט) ותאמר אל אישה הנה נא ידעתי כי איש אלהים קדוש הוא א\"ר יוסי בר' חנינא מכאן שהאשה מכרת באורחין יותר מן האיש קדוש הוא מנא ידעה רב ושמואל חד אמר שלא ראתה זבוב עובר על שולחנו וחד אמר סדין של פשתן הציעה על מטתו ולא ראתה קרי עליו קדוש הוא א\"ר יוסי בר' חנינא הוא קדוש ומשרתו אינו קדוש (שנא') (מלכים ב ד, כז) ויגש גיחזי להדפה א\"ר יוסי בר' חנינא שאחזה בהוד יפיה. עובר עלינו תמיד א\"ר יוסי בר' חנינא משום רבי אליעזר בן יעקב כל המארח תלמיד חכם בתוך ביתו ומהנהו מנכסיו מעלה עליו הכתוב כאילו מקריב תמידין. וא\"ר יוסי בר' חנינא משום ראב\"י אל יעמוד אדם במקום גבוה ויתפלל אלא במקום נמוך ויתפלל שנא' (תהלים קל, א) ממעמקים קראתיך ה' תניא נמי הכי לא יעמוד אדם לא על גבי כסא ולא ע\"ג שרפרף ולא במקום גבוה ויתפלל אלא במקום נמוך ויתפלל לפי שאין גבהות לפני המקום שנאמר ממעמקים קראתיך ה' וכתיב (תהלים קב, א) תפלה לעני כי יעטוף. וא\"ר יוסי בר' חנינא משום ראב\"י המתפלל צריך שיכוין את רגליו שנא' (יחזקאל א, ז) ורגליהם רגל ישרה (א\"ר יצחק א\"ר יוחנן) וא\"ר יוסי בר' חנינא משום ראב\"י מאי דכתיב (ויקרא יט, כו) לא תאכלו על הדם לא תאכלו קודם שתתפללו על דמכם (א\"ד) א\"ר יצחק א\"ר יוחנן א\"ר יוסי בר' חנינא משום ראב\"י כל האוכל ושותה ואח\"כ מתפלל עליו הכתוב אומר (מלכים א יד, ט) ואותי השלכת אחרי גויך אל תקרי גויך אלא גאיך אמר הקב\"ה לאחר שנתגאה זה קבל עליו מלכות שמים:",
+      "nl": "‘Laten wij toch een klein ommuurd bovenvertrek maken’ (2 Koningen 4:10). Rav en Sjemoeël verschilden hierover. De een zei: er was een onoverdekt bovenvertrek en zij voorzagen het van een dak. De ander zei: er was een grote zuilengalerij en zij verdeelden die in tweeën. Voor wie zegt ‘een zuilengalerij’ is duidelijk waarom er ‘muur’ staat; maar wat betekent ‘muur’ voor wie ‘bovenvertrek’ zegt? Dat zij het overdekten. Voor wie ‘bovenvertrek’ zegt is duidelijk waarom er ‘bovenvertrek’ staat; maar wat betekent dit voor wie ‘zuilengalerij’ zegt? Het voortreffelijkste vertrek van het huis. ‘En laten wij daar voor hem een bed, een tafel, een stoel en een lamp neerzetten.’ Abbaje zei, of volgens anderen rabbi Jitschak: wie van de hulp van anderen wil genieten, mag dat doen zoals Elisa; en wie dat niet wil, mag daarvan afzien zoals Samuël uit Rama. Er staat immers: ‘Hij keerde terug naar Rama, want daar was zijn huis’ (1 Samuël 7:17). Rabbi Jochanan zei: overal waar hij heenging, had hij zijn huis bij zich. ‘Zij zei tegen haar man: zie toch, ik weet dat hij een heilig man van God is’ (2 Koningen 4:9). Rabbi Jose, zoon van rabbi Chanina, zei: hieruit blijkt dat een vrouw gasten beter doorziet dan een man. Waaraan wist zij dat hij heilig was? Rav en Sjemoeël verschilden hierover. De een zei: zij zag nooit een vlieg over zijn tafel gaan. De ander zei: zij spreidde een linnen laken over zijn bed en zag daarop nooit een zaadlozing. ‘Hij is heilig.’ Rabbi Jose, zoon van rabbi Chanina, zei: hij is heilig, maar zijn dienaar is niet heilig, (want er staat:) ‘Gechazi kwam naderbij om haar weg te duwen’ (2 Koningen 4:27). Rabbi Jose, zoon van rabbi Chanina, zei: hij greep haar bij de luister van haar schoonheid. ‘Die voortdurend bij ons langskomt.’ Rabbi Jose, zoon van rabbi Chanina, zei namens rabbi Eliëzer ben Jaäkov: wie een Toraleraar in zijn huis ontvangt en hem van zijn bezit laat genieten, wordt door de Schrift beschouwd alsof hij de dagelijkse offers brengt. Rabbi Jose, zoon van rabbi Chanina, zei verder namens rabbi Eliëzer ben Jaäkov: men moet niet op een hoge plaats staan bidden, maar op een lage plaats, zoals er staat: ‘Uit de diepten roep ik tot U, HEER’ (Psalm 130:1). Zo is ook geleerd: men moet niet op een stoel, een bankje of een hoge plaats staan bidden, maar op een lage plaats, want tegenover de Alomtegenwoordige past geen hoogmoed. Er staat: ‘Uit de diepten roep ik tot U, HEER’, en er staat: ‘Een gebed van een ellendige wanneer hij bezwijkt’ (Psalm 102:1). Rabbi Jose, zoon van rabbi Chanina, zei verder namens rabbi Eliëzer ben Jaäkov: wie bidt, moet zijn voeten naast elkaar richten, zoals er staat: ‘Hun voeten waren een rechte voet’ (Ezechiël 1:7). (Rabbi Jitschak zei namens rabbi Jochanan.) Rabbi Jose, zoon van rabbi Chanina, zei verder namens rabbi Eliëzer ben Jaäkov: wat betekent ‘Eet niet over het bloed’ (Leviticus 19:26)? Eet niet voordat jullie voor jullie bloed, jullie leven, hebben gebeden. (Anderen zeggen:) rabbi Jitschak zei namens rabbi Jochanan, en rabbi Jose, zoon van rabbi Chanina, namens rabbi Eliëzer ben Jaäkov: over wie eerst eet en drinkt en daarna bidt, zegt de Schrift: ‘Mij heb je achter je rug geworpen’ (1 Koningen 14:9). Lees niet ‘je rug’, maar ‘je hoogmoed’. De Heilige, gezegend is Hij, zegt: ‘Pas nadat deze zich heeft verheven, neemt hij het koningschap van de hemel op zich!’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "“De luister van haar schoonheid” is een verhullende uitdrukking voor een intieme lichaamsplek; traditioneel verstaat men hieronder haar borsten. De parenthetische namen en alternatieve inleiding zijn behouden zoals in de bron."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De uitleg verbindt qir (muur) met qeroehoe (zij overdekten het), en ʿaliyyat (bovenvertrek) met meʿoelleh (voortreffelijk). De laatste uitleg speelt met de klinkers van gawekha (je rug/lichaam) en ge’ekha (je hoogmoed)."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:10b:g4",
+      "locator": "Berakhot 10b · Gemara · g4",
+      "layer": "gemara",
+      "original": "ר' יהושע אומר עד ג' שעות:",
+      "nl": "Rabbi Jehosjoea zegt: tot het derde uur.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:10b:g5",
+      "locator": "Berakhot 10b · Gemara · g5",
+      "layer": "gemara",
+      "original": "אמר רב יהודה אמר שמואל הלכה כרבי יהושע:",
+      "nl": "Rav Jehoeda zei namens Sjemoeël: de halacha volgt rabbi Jehosjoea.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:10b:g6",
+      "locator": "Berakhot 10b · Gemara · g6",
+      "layer": "gemara",
+      "original": "הקורא מכאן ואילך לא הפסיד:",
+      "nl": "Wie vanaf dat moment reciteert, heeft niets verloren.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:10b:g7",
+      "locator": "Berakhot 10b · Gemara · g7",
+      "layer": "gemara",
+      "original": "אמר רב חסדא אמר מר עוקבא ובלבד שלא יאמר יוצר אור מיתיבי הקורא מכאן ואילך לא הפסיד כאדם שהוא קורא בתורה אבל מברך הוא שתים לפניה ואחת לאחריה תיובתא דרב חסדא תיובתא איכא דאמרי אמר רב חסדא אמר מר עוקבא מאי לא הפסיד שלא הפסיד ברכות תניא נמי הכי הקורא מכאן ואילך לא הפסיד כאדם שקורא בתורה אבל מברך הוא שתים לפניה ואחת לאחריה א\"ר מני גדול הקורא ק\"ש בעונתה יותר מהעוסק בתורה מדקתני הקורא מכאן ואילך לא הפסיד כאדם הקורא בתורה מכלל דקורא בעונתה עדיף:",
+      "nl": "Rav Chisda zei namens Mar Oekva: mits hij niet ‘Die het licht vormt’ zegt. Men werpt tegen: wie vanaf dat moment reciteert, heeft niets verloren; hij is als iemand die in de Tora leest. Hij spreekt echter wel twee zegeningen ervoor en één erna uit. Dit weerlegt Rav Chisda; inderdaad, een weerlegging. Volgens anderen zei Rav Chisda namens Mar Oekva: wat betekent ‘hij heeft niets verloren’? Dat hij de zegeningen niet heeft verloren. Zo is ook geleerd: wie vanaf dat moment reciteert, heeft niets verloren; hij is als iemand die in de Tora leest. Hij spreekt echter wel twee zegeningen ervoor en één erna uit. Rabbi Mani zei: het Sjema op het juiste tijdstip reciteren is groter dan zich met de Tora bezighouden. Er wordt immers geleerd: wie daarna reciteert, heeft niets verloren en is als iemand die in de Tora leest. Daaruit volgt dat reciteren op het juiste tijdstip meer waard is.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:10b:m1",
+      "locator": "Berakhot 10b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' בית שמאי אומרים בערב כל אדם יטה ויקרא ובבקר יעמוד שנאמר (דברים ו, ז) ובשכבך ובקומך ובית הלל אומרים כל אדם קורא כדרכו שנאמר ובלכתך בדרך אם כן למה נאמר ובשכבך ובקומך בשעה שבני אדם שוכבים ובשעה שבני אדם עומדים א\"ר טרפון אני הייתי בא בדרך והטתי לקרות כדברי ב\"ש וסכנתי בעצמי מפני הלסטים אמרו לו כדי היית לחוב בעצמך שעברת על דברי ב\"ה:",
+      "nl": "Misjna. Het huis van Sjammai zegt: ’s avonds moet iedereen zich neerleggen en reciteren, en ’s morgens moet men gaan staan, zoals er staat: ‘Wanneer je neerligt en wanneer je opstaat’ (Deuteronomium 6:7). Het huis van Hillel zegt: ieder reciteert in zijn gewone houding, zoals er staat: ‘Wanneer je onderweg bent.’ Waarom staat er dan ‘wanneer je neerligt en wanneer je opstaat’? Op de tijd waarop mensen zich neerleggen en op de tijd waarop mensen opstaan. Rabbi Tarfon zei: ik was eens onderweg en legde mij neer om volgens de woorden van het huis van Sjammai te reciteren. Daardoor bracht ik mijzelf in gevaar vanwege rovers. Zij zeiden tegen hem: je had het aan jezelf te wijten als je schade had opgelopen, omdat je de woorden van het huis van Hillel had overtreden.",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-10b-r2916015",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": []
+    }
+  ]
+}

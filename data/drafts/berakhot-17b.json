@@ -1,0 +1,130 @@
+{
+  "id": "17b",
+  "title": "17b · Oprechte vroomheid en de zorg voor een overledene",
+  "scope": "Volledige hoofdtekst van amud 17b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 17b — ongevocaliseerde Wikisource-editie, revisie 3024338; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%96_%D7%91&oldid=3024338",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:17b:g1",
+      "locator": "Berakhot 17b · Gemara · 1",
+      "layer": "gemara",
+      "original": "אין פרץ שלא תהא סיעתנו כסיעתו של דוד שיצא ממנו אחיתופל ואין יוצאת שלא תהא סיעתנו כסיעתו של שאול שיצא ממנו דואג האדומי ואין צוחה שלא תהא סיעתנו כסיעתו של אלישע שיצא ממנו גחזי ברחובותינו שלא יהא לנו בן או תלמיד שמקדיח תבשילו ברבים כגון ישו הנוצרי:",
+      "nl": "“Geen breuk”: moge onze kring niet zijn als de kring van David, uit wie Achitofel voortkwam. “En niemand die weggaat”: moge onze kring niet zijn als de kring van Saul, uit wie Doëg de Edomiet voortkwam. “En geen geschreeuw”: moge onze kring niet zijn als de kring van Elisja, uit wie Gechazi voortkwam. “Op onze pleinen”: mogen wij geen zoon of leerling hebben die in het openbaar zijn gerecht laat aanbranden, zoals Jezus de Nazarener.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de uitleg van Psalm 144:14 op 17a."
+        },
+        {
+          "type": "begrip",
+          "text": "“Zijn gerecht laten aanbranden” is hier een beeld voor publiek wangedrag of afwijking van de leer. De vermelding van Jezus de Nazarener staat in deze gekozen brontekst en wordt als historische tekstpassage vertaald; zij is geen uitspraak van de redactie."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:17b:g2",
+      "locator": "Berakhot 17b · Gemara · 2",
+      "layer": "gemara",
+      "original": "(ישעיהו מו, יב) שמעו אלי אבירי לב הרחוקים מצדקה רב ושמואל ואמרי לה רבי יוחנן ורבי אלעזר חד אמר כל העולם כולו נזונין בצדקה והם נזונין בזרוע וחד אמר כל העולם כולו נזונין בזכותם והם אפילו בזכות עצמן אין נזונין כדרב יהודה אמר רב דאמר רב יהודה אמר רב בכל יום ויום בת קול יוצאת מהר חורב ואומרת כל העולם כולו נזונין בשביל חנינא בני וחנינא בני די לו בקב חרובין מערב שבת לערב שבת ופליגא דרב יהודה דאמר רב יהודה מאן אבירי לב גובאי טפשאי אמר רב יוסף תדע דהא לא איגייר גיורא מינייהו אמר רב אשי בני מתא מחסיא אבירי לב נינהו דקא חזו יקרא דאורייתא תרי זמני בשתא ולא קמגייר גיורא מינייהו:",
+      "nl": "“Luister naar Mij, harden van hart, die ver van gerechtigheid zijn” (Jesaja 46:12). Rav en Sjmoeël — volgens een andere overlevering rabbi Jochanan en rabbi Elazar — verschilden hierover van mening. De een zei: de hele wereld wordt uit genade onderhouden, maar zij worden door eigen kracht onderhouden. De ander zei: de hele wereld wordt dankzij hun verdienste onderhouden, maar zijzelf worden zelfs dankzij hun eigen verdienste niet onderhouden. Dit sluit aan bij wat Rav Jehoeda in naam van Rav zei. Rav Jehoeda zei namelijk in naam van Rav: iedere dag klinkt vanaf de berg Chorev een hemelse stem: “De hele wereld wordt onderhouden dankzij Chanina, mijn zoon; maar voor Chanina, mijn zoon, volstaat een kav johannesbroodvruchten van de ene sjabbatavond tot de volgende.” Dit wijkt af van Rav Jehoeda, want Rav Jehoeda zei: wie zijn de harden van hart? De dwaze Govaieten. Rav Josef zei: je kunt het hieraan zien: geen enkele bekeerling is uit hun midden voortgekomen. Rav Asji zei: de inwoners van Mata Mechasja zijn harden van hart. Zij zien tweemaal per jaar de eer die aan de Tora wordt bewezen, en toch komt geen enkele bekeerling uit hun midden voort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Tsédaka kan gerechtigheid en weldadigheid aanduiden. De twee verklaringen leggen het verschil tussen genade, eigen verdienste en de verdienste ten bate van anderen uiteen. Kav is een inhoudsmaat; Govaieten is een groepsnaam waarvan de precieze identificatie hier openblijft."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:17b:g3",
+      "locator": "Berakhot 17b · Gemara · 3",
+      "layer": "gemara",
+      "original": "חתן אם רוצה לקרות וכו':",
+      "nl": "“Als een bruidegom wil reciteren”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "verwijzing",
+          "text": "De Gemara herneemt de eerdere Misjna over een bruidegom die ondanks zijn vrijstelling het Sjema wil reciteren."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:17b:g4",
+      "locator": "Berakhot 17b · Gemara · 4",
+      "layer": "gemara",
+      "original": "למימרא דרבן שמעון בן גמליאל חייש ליוהרא ורבנן לא חיישי ליוהרא והא איפכא שמעינן להו דתנן מקום שנהגו לעשות מלאכה בתשעה באב עושין מקום שנהגו שלא לעשות אין עושין וכל מקום תלמידי חכמים בטלים רבן שמעון בן גמליאל אומר לעולם יעשה כל אדם את עצמו כתלמיד חכם קשיא דרבנן אדרבנן קשיא דרבן שמעון בן גמליאל אדרבן שמעון בן גמליאל אמר רבי יוחנן מוחלפת השיטה רב שישא בריה דרב אידי אמר לעולם לא תחליף דרבנן אדרבנן לא קשיא ק\"ש כיון דכ\"ע קא קרו ואיהו נמי קרי לא מיחזי כיוהרא הכא כיון דכולי עלמא עבדי מלאכה ואיהו לא קא עביד מיחזי כיוהרא דרבן שמעון בן גמליאל אדרבן שמעון בן גמליאל לא קשיא התם בכונה תליא מילתא ואנן סהדי דלא מצי לכווני דעתיה אבל הכא הרואה אומר מלאכה הוא דאין לו פוק חזי כמה בטלני איכא בשוקא:",
+      "nl": "Betekent dit dat Rabban Sjimon ben Gamaliël beducht is voor aanmatiging, terwijl de wijzen daar niet beducht voor zijn? Wij hebben toch juist het omgekeerde van hen gehoord! Er is immers geleerd: waar het gebruik is om op de negende av te werken, werkt men; waar het gebruik is om niet te werken, werkt men niet. Torageleerden werken nergens. Rabban Sjimon ben Gamaliël zegt: ieder mens mag zich altijd als een Torageleerde gedragen. De wijzen spreken dus de wijzen tegen, en Rabban Sjimon ben Gamaliël spreekt Rabban Sjimon ben Gamaliël tegen! Rabbi Jochanan zei: de toeschrijving van de opvattingen moet worden omgewisseld. Rav Sjisja, de zoon van Rav Idi, zei: nee, wissel ze niet om. De wijzen spreken zichzelf niet tegen. Bij het Sjema reciteert iedereen; als ook hij reciteert, lijkt dat dus niet op aanmatiging. Hier werkt iedereen, en als hij niet werkt, lijkt dat wel op aanmatiging. Ook Rabban Sjimon ben Gamaliël spreekt zichzelf niet tegen. Daar hangt het van concentratie af, en wij kunnen ervan getuigen dat hij zich niet kan concentreren. Hier kan iemand die het ziet zeggen: hij heeft gewoon geen werk. Ga maar kijken hoeveel mensen op de markt niets omhanden hebben!",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De negende av is de vastendag van de tempelverwoesting. Aanmatiging betekent hier dat iemand publiek een bijzondere vroomheid voorwendt. De verschillende oplossingen van de schijnbare tegenspraak blijven afzonderlijk staan."
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "ref": "bavli:berakhot:17b:m5",
+      "locator": "Berakhot 17b · Misjna · 5",
+      "layer": "mishnah",
+      "original": "מתניתין מי שמתו מוטל לפניו פטור מק\"ש ומן התפלה ומן התפילין ומכל מצות האמורות בתורה נושאי המטה וחלופיהן וחלופי חלופיהן את שלפני המטה ואת שלאחר המטה את שלפני המטה צורך בהם פטורים ואת שלאחר המטה צורך בהם חייבין ואלו ואלו פטורים מן התפלה קברו את המת וחזרו אם יכולין להתחיל ולגמור עד שלא יגיעו לשורה יתחילו ואם לאו לא יתחילו העומדים בשורה הפנימיים פטורים והחיצונים חייבים (נשים ועבדים וקטנים פטורים מק\"ש ומן התפילין וחייבין בתפלה ובמזוזה ובברכת המזון):",
+      "nl": "Misjna. Wie een overledene voor zich heeft liggen voor wie hij verantwoordelijk is, is vrijgesteld van het Sjema, het gebed, de tefillien en alle in de Tora genoemde geboden. De dragers van de baar, hun vervangers en de vervangers van hun vervangers, zowel vóór als achter de baar: degenen vóór de baar die nodig zijn, zijn vrijgesteld; degenen achter de baar die nodig zijn, zijn verplicht. Beide groepen zijn vrijgesteld van het gebed. Als zij de overledene hebben begraven en terugkeren, moeten zij beginnen wanneer zij kunnen beginnen en eindigen voordat zij bij de rij komen. Anders moeten zij niet beginnen. Van degenen die in de rij staan, zijn de binnensten vrijgesteld en de buitensten verplicht. (Vrouwen, slaven en minderjarigen zijn vrijgesteld van het Sjema en de tefillien, maar verplicht tot het gebed, de mezoeza en het dankgebed na de maaltijd.)",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Tefillien zijn gebedsriemen; een mezoeza is het aan de deurpost bevestigde tekstrolletje. De rij is de opstelling voor het troosten van nabestaanden na de begrafenis."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "De slotzin over vrouwen, slaven en minderjarigen staat in de bron tussen haakjes en is ook hier tussen haakjes behouden."
+        },
+        {
+          "type": "onzeker",
+          "text": "De compacte formulering over degenen achter de baar en hun noodzakelijkheid is letterlijk behouden. De precieze afbakening van de vrijstelling vraagt inhoudelijke eindcontrole."
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:17b:g6",
+      "locator": "Berakhot 17b · Gemara · 6",
+      "layer": "gemara",
+      "original": "גמרא מוטל לפניו אין ושאינו מוטל לפניו לא ורמינהי מי שמתו מוטל לפניו אוכל בבית אחר ואם אין לו בית אחר אוכל בבית חבירו ואם אין לו בית חבירו עושה מחיצה ואוכל ואם אין לו דבר לעשות מחיצה מחזיר פניו ואוכל ואינו מיסב ואוכל ואינו אוכל בשר ואינו שותה יין ואינו מברך ואינו מזמן",
+      "nl": "Gemara. Dus wanneer hij vóór hem ligt wel, maar wanneer hij niet vóór hem ligt niet? Daartegenover stelt men deze overlevering: wie een overledene vóór zich heeft liggen, eet in een ander huis. Heeft hij geen ander huis, dan eet hij in het huis van een ander. Kan hij daar niet terecht, dan maakt hij een afscheiding en eet. Heeft hij niets waarmee hij een afscheiding kan maken, dan wendt hij zijn gezicht af en eet. Hij ligt niet aan bij het eten, eet geen vlees en drinkt geen wijn. Hij spreekt geen zegen uit en leidt geen gezamenlijke oproep tot het dankgebed.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-17b-r3024338",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Deze aangehaalde overlevering loopt door op 18a. Zimmoen is de gezamenlijke oproep die voorafgaat aan het dankgebed na de maaltijd."
+        }
+      ]
+    }
+  ]
+}

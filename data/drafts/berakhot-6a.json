@@ -1,0 +1,90 @@
+{
+  "id": "6a",
+  "title": "6a · Goddelijke aanwezigheid bij gebed en studie",
+  "scope": "Volledige hoofdtekst van amud 6a in de gekozen editie; Gemara. De bespreking van tefillien gaat verder op 6b.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in het bronbestand.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%95_%D7%90&oldid=2851558",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:6a:g1",
+      "locator": "Berakhot 6a · Gemara · g1",
+      "layer": "gemara",
+      "original": "אמר ר' יוסי ברבי חנינא זוכה לברכות הללו שנאמר (ישעיהו מח, יח) לוא הקשבת למצותי ויהי כנהר שלומך וצדקתך כגלי הים ויהי כחול זרעך וצאצאי מעיך וגו':",
+      "nl": "Rabbi Jose, de zoon van rabbi Chanina, zei: hij ontvangt deze zegeningen, want er staat (Jesaja 48:18): “Had je maar naar mijn geboden geluisterd! Dan was je vrede als een rivier en je gerechtigheid als de golven van de zee; je nageslacht was als het zand en de nakomelingen uit je lichaam”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6a-r2851558",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Antwoord op de vraag aan het slot van 5b over wachten op een medebidder."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:6a:g2",
+      "locator": "Berakhot 6a · Gemara · g2",
+      "layer": "gemara",
+      "original": "תניא אבא בנימין אומר אלמלי נתנה רשות לעין לראות אין כל בריה יכולה לעמוד מפני המזיקין אמר אביי אינהו נפישי מינן וקיימי עלן כי כסלא לאוגיא אמר רב הונא כל חד וחד מינן אלפא משמאליה ורבבתא מימיניה אמר רבא האי דוחקא דהוי בכלה מנייהו הוי הני ברכי דשלהי מנייהו הני מאני דרבנן דבלו מחופיא דידהו הני כרעי דמנקפן מנייהו האי מאן דבעי למידע להו לייתי קיטמא נהילא ונהדר אפורייה ובצפרא חזי כי כרעי דתרנגולא האי מאן דבעי למחזינהו ליתי שלייתא דשונרתא אוכמתא בת אוכמתא בוכרתא בת בוכרתא ולקליה בנורא ולשחקיה ולימלי עיניה מניה וחזי להו ולשדייה בגובתא דפרזלא ולחתמי' בגושפנקא דפרזלא דילמא גנבי מניה ולחתום פומיה כי היכי דלא ליתזק רב ביבי בר אביי עבד הכי חזא ואתזק בעו רבנן רחמי עליה ואתסי:",
+      "nl": "Er is geleerd: Abba Binjamin zegt: als het oog toestemming kreeg te zien, zou geen schepsel stand kunnen houden tegenover de schadelijke geesten. Abaje zei: zij zijn talrijker dan wij en omringen ons als de aarden rand een tuinbed. Rav Hoena zei: ieder van ons heeft er duizend aan zijn linkerzijde en tienduizend aan zijn rechterzijde. Rava zei: de drukte bij de openbare leerbijeenkomst komt door hen. Dat de knieën vermoeid raken, komt door hen. Dat de kleren van de rabbijnen slijten, komt door hun gewrijf. Dat voeten gestoten worden, komt door hen. Wie hun aanwezigheid wil vaststellen, moet gezeefde as nemen en rondom zijn bed strooien. ’s Ochtends ziet hij dan iets als hanenpoten. Wie hen wil zien, moet de nageboorte nemen van een zwarte kat, dochter van een zwarte kat, eerstgeborene van een eerstgeborene; die in vuur verbranden, fijnmalen en zijn ogen ermee vullen. Dan ziet hij hen. Hij moet het in een ijzeren buis bewaren en met een ijzeren zegel afsluiten, opdat zij het niet van hem stelen. Ook moet hij de opening afsluiten, zodat hij geen schade lijdt. Rav Bivi bar Abaje deed dit, zag hen en werd getroffen. De rabbijnen smeekten om ontferming voor hem en hij genas.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6a-r2851558",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Schadelijke geesten zijn de mazzikien uit de wereldvoorstelling van de passage."
+        },
+        {
+          "type": "onzeker",
+          "text": "“De opening” vertaalt פומיה. Het bezittelijk verband kan op de buis of op de mond van de betrokkene worden betrokken; de beknopte grondtekst specificeert dit niet nader."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:6a:g3",
+      "locator": "Berakhot 6a · Gemara · g3",
+      "layer": "gemara",
+      "original": "תניא אבא בנימין אומר אין תפלה של אדם נשמעת אלא בבית הכנסת שנאמר (מלכים א ח, כח) לשמוע אל הרנה ואל התפלה במקום רנה שם תהא תפלה אמר רבין בר רב אדא א\"ר יצחק מנין שהקב\"ה מצוי בבית הכנסת שנאמר (תהלים פב, א) אלהים נצב בעדת אל ומנין לעשרה שמתפללין ששכינה עמהם שנאמר אלהים נצב בעדת אל ומנין לשלשה שיושבין בדין ששכינה עמהם שנאמר (תהלים פב, א) בקרב אלהים ישפוט ומנין לשנים שיושבים ועוסקין בתורה ששכינה עמהם שנאמר (מלאכי ג, טז) אז נדברו יראי ה' איש אל רעהו ויקשב ה' וגו' מאי (מלאכי ג, טז) ולחושבי שמו אמר רב אשי חשב אדם לעשות מצוה ונאנס ולא עשאה מעלה עליו הכתוב כאילו עשאה ומנין שאפילו אחד שיושב ועוסק בתורה ששכינה עמו שנאמר (שמות כ, כ) בכל המקום אשר אזכיר את שמי אבוא אליך וברכתיך וכי מאחר דאפילו חד תרי מבעיא תרי מכתבן מלייהו בספר הזכרונות חד לא מכתבן מליה בספר הזכרונות וכי מאחר דאפי' תרי תלתא מבעיא מהו דתימא דינא שלמא בעלמא הוא ולא אתיא שכינה קמ\"ל דדינא נמי היינו תורה וכי מאחר דאפי' תלתא עשרה מבעיא עשרה קדמה שכינה ואתיא תלתא עד דיתבי:",
+      "nl": "Er is geleerd: Abba Binjamin zegt: iemands gebed wordt alleen in de synagoge gehoord, want er staat (1 Koningen 8:28): “Om te luisteren naar de jubelzang en naar het gebed.” Op de plaats van de jubelzang behoort het gebed te zijn. Ravin bar Rav Adda zei namens rabbi Jitschak: waaruit blijkt dat de Heilige, gezegend zij Hij, in de synagoge aanwezig is? Er staat (Psalmen 82:1): “God staat in de gemeenschap van God.” Waaruit blijkt dat de Sjechina met tien mensen is die bidden? Er staat: “God staat in de gemeenschap van God.” Waaruit blijkt dat de Sjechina met drie mensen is die rechtspreken? Er staat (Psalmen 82:1): “Te midden van rechters spreekt Hij recht.” Waaruit blijkt dat de Sjechina met twee mensen is die samen de Tora bestuderen? Er staat (Maleachi 3:16): “Toen spraken degenen die de HEER vrezen met elkaar, en de HEER luisterde”, enzovoort. Wat betekent (Maleachi 3:16): “en aan zijn naam denken”? Rav Asji zei: als iemand van plan is een gebod te vervullen maar door overmacht verhinderd wordt, rekent de Schrift het hem toe alsof hij het heeft vervuld. Waaruit blijkt dat de Sjechina zelfs met één mens is die de Tora bestudeert? Er staat (Exodus 20:20): “Op elke plaats waar Ik mijn naam in herinnering laat brengen, zal Ik tot je komen en je zegenen.” Als dat zelfs voor één geldt, waarom moet het dan voor twee worden vermeld? Bij twee worden hun woorden in het gedenkboek opgeschreven; bij één worden zijn woorden daar niet opgeschreven. Als het zelfs voor twee geldt, waarom moet het dan voor drie worden vermeld? Je zou kunnen denken dat rechtspraak slechts het tot stand brengen van vrede is en dat de Sjechina daarvoor niet komt. Daarom wordt geleerd dat ook rechtspraak Tora is. Als het zelfs voor drie geldt, waarom moet het dan voor tien worden vermeld? Bij tien komt de Sjechina al vooraf; bij drie pas wanneer zij gaan zitten.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6a-r2851558",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Elohiem kan zowel God als rechters aanduiden; de uitleg gebruikt beide betekenissen van Psalm 82:1."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:6a:g4",
+      "locator": "Berakhot 6a · Gemara · g4",
+      "layer": "gemara",
+      "original": "א\"ר אבין בר רב אדא א\"ר יצחק מנין שהקב\"ה מניח תפילין שנאמר (ישעיהו סב, ח) נשבע ה' בימינו ובזרוע עוזו בימינו זו תורה שנאמר (דברים לג, ב) מימינו אש דת למו ובזרוע עוזו אלו תפילין שנאמר (תהלים כט, יא) ה' עוז לעמו יתן ומנין שהתפילין עוז הם לישראל דכתי' (דברים כח, י) וראו כל עמי הארץ כי שם ה' נקרא עליך ויראו ממך ותניא ר' אליעזר הגדול אומר אלו תפילין שבראש א\"ל רב נחמן בר יצחק לרב חייא בר אבין הני תפילין דמרי עלמא מה כתיב בהו א\"ל (דברי הימים א יז, כא) ומי כעמך ישראל גוי אחד בארץ ומי משתבח קוב\"ה בשבחייהו דישראל אין דכתיב (דברים כו, יז) את ה' האמרת היום (וכתיב) וה' האמירך היום אמר להם הקב\"ה לישראל אתם עשיתוני חטיבה אחת בעולם ואני אעשה אתכם חטיבה אחת בעולם אתם עשיתוני חטיבה אחת בעולם שנאמר (דברים ו, ד) שמע ישראל ה' אלהינו ה' אחד ואני אעשה אתכם חטיבה אחת בעולם שנאמר ומי כעמך ישראל גוי אחד בארץ אמר ליה רב אחא בריה דרבא לרב אשי תינח בחד ביתא בשאר בתי מאי א\"ל (דברים ד, ז) כי מי גוי גדול ומי גוי גדול (דברים לג, כט) אשריך ישראל (דברים ד, לד) או הנסה אלהים (דברים כו, יט) ולתתך עליון אי הכי נפישי להו טובי בתי אלא כי מי גוי גדול ומי גוי גדול דדמיין להדדי בחד ביתא אשריך ישראל ומי כעמך ישראל בחד ביתא או הנסה אלהים בחד ביתא ולתתך עליון בחד ביתא",
+      "nl": "Rabbi Avin bar Rav Adda zei namens rabbi Jitschak: waaruit blijkt dat de Heilige, gezegend zij Hij, tefillien draagt? Er staat (Jesaja 62:8): “De HEER heeft gezworen bij zijn rechterhand en bij zijn sterke arm.” “Bij zijn rechterhand”: dat is de Tora, want er staat (Deuteronomium 33:2): “Uit zijn rechterhand kwam een vurige wet voor hen.” “Bij zijn sterke arm”: dat zijn tefillien, want er staat (Psalmen 29:11): “De HEER geeft zijn volk kracht.” Waaruit blijkt dat tefillien kracht voor Israël zijn? Er staat (Deuteronomium 28:10): “Alle volken van de aarde zullen zien dat de naam van de HEER over jou is uitgeroepen en zij zullen je vrezen.” Er is geleerd: rabbi Eliëzer de Grote zegt: dit zijn de tefillien op het hoofd. Rav Nachman bar Jitschak vroeg rav Chijja bar Avin: “Wat staat er in de tefillien van de Heer van de wereld?” Hij antwoordde (1 Kronieken 17:21): “Wie is als uw volk Israël, één volk op aarde?” Beroemt de Heilige, gezegend zij Hij, zich dan op Israëls lof? Ja, want er staat (Deuteronomium 26:17): “Vandaag heb jij de HEER verheven”; (en er staat): “Vandaag heeft de HEER jou verheven.” De Heilige, gezegend zij Hij, zei tegen Israël: “Jullie hebben Mij tot de Ene in de wereld gemaakt, en Ik zal jullie tot één bijzonder volk in de wereld maken. Jullie hebben Mij tot de Ene in de wereld gemaakt, want er staat (Deuteronomium 6:4): ‘Hoor, Israël, de HEER is onze God, de HEER is één.’ Ik zal jullie tot één bijzonder volk in de wereld maken, want er staat: ‘Wie is als uw volk Israël, één volk op aarde?’” Rav Acha, de zoon van Rava, vroeg rav Asji: “Dat verklaart één vakje; wat staat er in de andere vakjes?” Hij antwoordde: (Deuteronomium 4:7): “Want welk groot volk” en “welk groot volk”; (Deuteronomium 33:29): “Gelukkig ben jij, Israël”; (Deuteronomium 4:34): “Of heeft een god geprobeerd”; (Deuteronomium 26:19): “En om jou hoog te verheffen.” Dan zijn er toch veel te veel vakjes? “Want welk groot volk” en “welk groot volk”, die op elkaar lijken, staan in één vakje. “Gelukkig ben jij, Israël” en “Wie is als uw volk Israël” staan in één vakje. “Of heeft een god geprobeerd” staat in één vakje, en “om jou hoog te verheffen” in één vakje.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-6a-r2851558",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Tefillien zijn gebedsriemen met tekstkokertjes. Het hoofddeel heeft vier vakjes. De passage stelt Gods tefillien beeldend tegenover die van Israël."
+        },
+        {
+          "type": "vervolg",
+          "text": "De overeenkomst met de tefillien aan de arm volgt op 6b."
+        }
+      ]
+    }
+  ]
+}

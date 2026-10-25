@@ -1,0 +1,71 @@
+{
+  "id": "19b",
+  "title": "19b · Menselijke waardigheid en geboden",
+  "scope": "Volledige hoofdtekst van amud 19b in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 19b — ongevocaliseerde Wikisource-editie, revisie 2851531; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%98_%D7%91&oldid=2851531",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:19b:g1",
+      "locator": "Berakhot 19b · Gemara · 1",
+      "layer": "gemara",
+      "original": "העומדים בשורה וכו':",
+      "nl": "“Degenen die in de rij staan”, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-19b-r2851531",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "verwijzing",
+          "text": "De Gemara herneemt de Misjna over de rijen van mensen bij de rouwenden."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:19b:g2",
+      "locator": "Berakhot 19b · Gemara · 2",
+      "layer": "gemara",
+      "original": "ת\"ר שורה הרואה פנימה פטורה ושאינה רואה פנימה חייבת רבי יהודה אומר הבאים מחמת האבל פטורין מחמת עצמן חייבין:",
+      "nl": "Onze leraren onderwezen: de rij die naar binnen kan kijken, is vrijgesteld; de rij die niet naar binnen kan kijken, is verplicht. Rabbi Jehoeda zegt: wie omwille van de nabestaande komt, is vrijgesteld; wie om eigen redenen komt, is verplicht.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-19b-r2851531",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:19b:g3",
+      "locator": "Berakhot 19b · Gemara · 3",
+      "layer": "gemara",
+      "original": "אמר רב יהודה אמר רב המוצא כלאים בבגדו פושטן אפי' בשוק מ\"ט (משלי כא, ל) אין חכמה ואין תבונה ואין עצה לנגד ה' כ\"מ שיש חלול השם אין חולקין כבוד לרב מתיבי קברו את המת וחזרו ולפניהם ב' דרכים אחת טהורה ואחת טמאה בא בטהורה באין עמו בטהורה בא בטמאה באין עמו בטמאה משום כבודו אמאי לימא אין חכמה ואין תבונה לנגד ה' תרגמה רבי אבא בבית הפרס דרבנן דאמר רב יהודה אמר שמואל מנפח אדם בית הפרס והולך ואמר רב יהודה בר אשי משמיה דרב בית הפרס שנדש טהור ת\"ש דאמר ר' אלעזר בר צדוק מדלגין היינו על גבי ארונות של מתים לקראת מלכי ישראל ולא לקראת מלכי ישראל בלבד אמרו אלא אפי' לקראת מלכי עכו\"ם שאם יזכה יבחין בין מלכי ישראל למלכי עכו\"ם אמאי לימא אין חכמה ואין תבונה ואין עצה לנגד ה' כדרבא דאמר רבא דבר תורה אהל כל שיש בו חלל טפח חוצץ בפני הטומאה ושאין בו חלל טפח אינו חוצץ בפני הטומאה ורוב ארונות יש בהן חלל טפח וגזרו על שיש בהן משום שאין בהן ומשום כבוד מלכים לא גזרו בהו רבנן ת\"ש גדול כבוד הבריות שדוחה [את] לא תעשה שבתורה ואמאי לימא אין חכמה ואין תבונה ואין עצה לנגד ה' תרגמה רב בר שבא קמיה דרב כהנא בלאו (דברים יז, יא) דלא תסור אחיכו עליה לאו דלא תסור דאורייתא היא אמר רב כהנא גברא רבה אמר מילתא לא תחיכו עליה כל מילי דרבנן אסמכינהו על לאו דלא תסור ומשום כבודו שרו רבנן ת\"ש (דברים כב, א) והתעלמת מהם פעמים שאתה מתעלם מהם ופעמים שאין אתה מתעלם מהם הא כיצד אם היה כהן והיא בבית הקברות או היה זקן ואינה לפי כבודו או שהיתה מלאכתו מרובה משל חברו לכך נאמר והתעלמת אמאי לימא אין חכמה ואין תבונה ואין עצה לנגד ה' שאני התם דכתיב והתעלמת מהם וליגמר מינה איסורא מממונא לא ילפינן ת\"ש (במדבר ו, ז) ולאחותו מה תלמוד לומר הרי שהיה הולך לשחוט את פסחו ולמול את בנו ושמע שמת לו מת יכול יחזור ויטמא אמרת לא יטמא יכול כשם שאינו מטמא להם כך אינו מטמא למת מצוה ת\"ל ולאחותו לאחותו הוא דאינו מטמא",
+      "nl": "Rav Jehoeda zei in naam van Rav: wie een verboden mengsel in zijn kleding aantreft, trekt die kleding uit, zelfs op de markt. Waarom? “Er is geen wijsheid, geen inzicht en geen raad tegenover de HEER” (Spreuken 21:30). Waar Gods naam wordt ontheiligd, bewijst men zelfs een leraar geen eer.\n\nMen werpt tegen: zij hebben de overledene begraven en keren terug. Er liggen twee wegen vóór hen, een reine en een onreine. Neemt hij de reine, dan gaan zij met hem over de reine. Neemt hij de onreine, dan gaan zij uit eerbied voor hem met hem over de onreine. Waarom? Laat men toch zeggen: “Er is geen wijsheid en geen inzicht tegenover de HEER”! Rabbi Abba verklaarde het als een beit peras, waarvan de onreinheid van rabbijnse oorsprong is. Rav Jehoeda zei immers in naam van Sjmoeël: men kan een beit peras al blazend doorkruisen. En Rav Jehoeda bar Asji zei in naam van Rav: een beit peras die is platgetreden, is rein.\n\nKom en hoor: rabbi Elazar bar Tsadok zei: wij sprongen over doodskisten heen om de koningen van Israël tegemoet te gaan. Dat geldt niet alleen voor de koningen van Israël, maar zelfs voor koningen van de volken, zodat iemand die het mag meemaken, het verschil tussen de koningen van Israël en die van de volken zal herkennen. Waarom? Laat men toch zeggen: “Er is geen wijsheid, geen inzicht en geen raad tegenover de HEER”! Het is zoals Rava zei: volgens de Tora houdt een overdekking met een vrije ruimte van een handbreedte de onreinheid tegen; zonder die ruimte houdt zij de onreinheid niet tegen. De meeste kisten hebben een vrije ruimte van een handbreedte. Men heeft ook voor de kisten die die ruimte wel hebben een verbod ingesteld, vanwege de kisten die haar niet hebben. Om koningen eer te bewijzen hebben de wijzen die bepaling niet ingesteld.\n\nKom en hoor: zo groot is de waardigheid van mensen dat zij [een] verbod van de Tora opzijzet. Waarom? Laat men toch zeggen: “Er is geen wijsheid, geen inzicht en geen raad tegenover de HEER”! Rav bar Sjava verklaarde vóór Rav Kahana: het gaat om het verbod “wijk niet af” (Deuteronomium 17:11). Zij lachten hem uit: het verbod “wijk niet af” staat toch zelf in de Tora! Rav Kahana zei: “Een groot man heeft iets gezegd; lach hem niet uit. Alle bepalingen van de wijzen zijn op het verbod ‘wijk niet af’ gebaseerd. Ter wille van zijn waardigheid hebben de wijzen het toegestaan.”\n\nKom en hoor: “En je je ervoor verbergt” (Deuteronomium 22:1). Soms mag je je ervoor verbergen en soms niet. Wanneer dan? Wanneer iemand priester is en het voorwerp op een begraafplaats ligt; wanneer hij een oudere is en het niet met zijn waardigheid strookt; of wanneer zijn eigen werk meer waard is dan dat van de ander. Daarvoor staat er: “En je je ervoor verbergt.” Waarom? Laat men toch zeggen: “Er is geen wijsheid, geen inzicht en geen raad tegenover de HEER”! Daar is het anders, want er staat uitdrukkelijk: “En je je ervoor verbergt.” Laten wij er dan een algemene regel uit afleiden! Regels over verboden leiden wij niet af uit geldzaken.\n\nKom en hoor: “En voor zijn zuster” (Numeri 6:7): wat leert dit? Stel dat iemand op weg is zijn pesachoffer te slachten of zijn zoon te besnijden en hoort dat een naaste is gestorven. Zou hij teruggaan en zich verontreinigen? Je zegt: hij mag zich niet verontreinigen. Zou je dan kunnen denken dat hij zich, zoals hij zich voor hen niet verontreinigt, ook niet verontreinigt voor een overledene voor wie niemand zorgt? Daarom staat er: “En voor zijn zuster.” Voor zijn zuster mag hij zich niet verontreinigen...",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-19b-r2851531",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "Het kledingmengsel is kilajim, hier het verboden mengsel van wol en linnen. Een beit peras is een veld met onzekerheid over verspreide menselijke beenderen; de hier besproken verontreiniging berust op een rabbijnse bepaling."
+        },
+        {
+          "type": "toelichting",
+          "text": "De reeks tegenwerpingen onderzoekt waar menselijke waardigheid een uitzondering kan dragen en onderscheidt uitdrukkelijke Schriftuitzonderingen, vermogenszaken en rabbijnse bepalingen."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "[Een] bewaart het tussen vierkante haken geplaatste woord in de gekozen brontekst."
+        },
+        {
+          "type": "vervolg",
+          "text": "De slotszin over de overledene voor wie niemand zorgt wordt op 20a voltooid."
+        }
+      ]
+    }
+  ]
+}

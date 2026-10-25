@@ -1,0 +1,107 @@
+{
+  "id": "18a",
+  "title": "18a · Eerbied voor overledenen",
+  "scope": "Volledige hoofdtekst van amud 18a in de gekozen editie. Conceptvertaling; geen onafhankelijke eindcontrole.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource, Berakhot 18a — ongevocaliseerde Wikisource-editie, revisie 2851534; Wikisource-bijdragers.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%99%D7%97_%D7%90&oldid=2851534",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:18a:g1",
+      "locator": "Berakhot 18a · Gemara · 1",
+      "layer": "gemara",
+      "original": "ואין מברכין עליו ואין מזמנין עליו ופטור מקריאת שמע ומן התפלה ומן התפילין ומכל מצות האמורות בתורה ובשבת מיסב ואוכל בשר ושותה יין ומברך ומזמן ומברכין עליו ומזמנין עליו וחייב בכל המצות האמורות בתורה. רשב\"ג אומר מתוך שנתחייב באלו נתחייב בכולן וא\"ר יוחנן מאי בינייהו תשמיש המטה איכא בינייהו קתני מיהת פטור מקריאת שמע ומן התפלה ומן התפילין ומכל מצות האמורות בתורה אמר רב פפא תרגמא אמחזיר פניו ואוכל רב אשי אמר כיון שמוטל עליו לקוברו כמוטל לפניו דמי שנאמר (בראשית כג, ג) ויקם אברהם מעל פני מתו ונאמר ואקברה מתי מלפני כל זמן שמוטל עליו לקוברו כמוטל לפניו דמי מתו אין אבל משמרו לא והתניא המשמר את המת אע\"פ שאינו מתו פטור מק\"ש ומן התפלה ומן התפילין ומכל מצות האמורות בתורה משמרו אע\"פ שאינו מתו מתו אע\"פ שאינו משמרו מתו ומשמרו אין אבל מהלך בבית הקברות לא והתניא לא יהלך אדם בבית הקברות ותפילין בראשו וספר תורה בזרועו וקורא ואם עושה כן עובר משום (משלי יז, ה) לועג לרש חרף עושהו התם תוך ארבע [אמות] הוא דאסור חוץ לארבע אמות חייב דאמר מר מת תופס ד' אמות לק\"ש הכא חוץ לד' אמות נמי פטור:",
+      "nl": "Ook anderen spreken niet voor hem de zegen uit of nodigen hem uit tot het gezamenlijke dankgebed. Hij is vrijgesteld van het Sjema, het gebed, de tefillien en alle in de Tora genoemde geboden. Op sjabbat ligt hij wel aan, eet vlees, drinkt wijn, spreekt de zegen uit en leidt de gezamenlijke oproep tot het dankgebed; anderen spreken voor hem de zegen uit en nodigen hem daarbij uit. Hij is dan verplicht tot alle in de Tora genoemde geboden. Rabban Sjimon ben Gamaliël zegt: doordat hij tot deze verplicht is geworden, is hij tot alle verplicht geworden. Rabbi Jochanan zei: waarin verschillen zij? Het verschil betreft de huwelijksgemeenschap. Er wordt in ieder geval geleerd dat hij vrijgesteld is van het Sjema, het gebed, de tefillien en alle in de Tora genoemde geboden. Rav Pappa zei: betrek dit op degene die zijn gezicht afwendt en eet. Rav Asji zei: omdat de begrafenis op hem rust, geldt het alsof de overledene vóór hem ligt. Er staat immers: “Abraham stond op van vóór zijn overledene” (Genesis 23:3), en er staat: “zodat ik mijn overledene van vóór mij kan begraven”. Zolang de begrafenis op hem rust, geldt het alsof de overledene vóór hem ligt. Dus wel bij zijn eigen overledene, maar niet als hij alleen de wacht houdt? Er is toch onderwezen: wie de wacht houdt bij een overledene, ook als het niet zijn eigen overledene is, is vrijgesteld van het Sjema, het gebed, de tefillien en alle in de Tora genoemde geboden. De wacht houden stelt hem vrij, ook als het niet zijn eigen overledene is; zijn eigen overledene stelt hem vrij, ook als hij niet de wacht houdt. Dus wel bij zijn eigen overledene of wanneer hij de wacht houdt, maar niet wanneer hij over de begraafplaats loopt? Er is toch onderwezen: men mag niet met tefillien op het hoofd en een Torarol in de arm over een begraafplaats lopen en daaruit reciteren. Wie dat doet, overtreedt: “Wie de arme bespot, smaadt diens Maker” (Spreuken 17:5). Daar is het alleen binnen vier [ellen] verboden; buiten vier ellen is men verplicht. De meester zei immers: voor het Sjema neemt een overledene vier ellen in beslag. Hier is hij ook buiten vier ellen vrijgesteld.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "vervolg",
+          "text": "Vervolg van de overlevering aan het einde van 17b. “Zijn eigen overledene” betekent iemand voor wiens begrafenis hij verantwoordelijk is. De verschillende weerleggingen gaan over de reikwijdte van die vrijstelling."
+        },
+        {
+          "type": "tekstvorm",
+          "text": "Het woord [ellen] staat in de gekozen bron tussen vierkante haken; deze tekstvorm is behouden."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:18a:g2",
+      "locator": "Berakhot 18a · Gemara · 2",
+      "layer": "gemara",
+      "original": "גופא המשמר את המת אע\"פ שאינו מתו פטור מקריאת שמע ומן התפלה ומן התפילין ומכל מצות האמורות בתורה היו שנים זה משמר וזה קורא וזה משמר וזה קורא בן עזאי אומר היו באים בספינה מניחו בזוית זו ומתפללין שניהם בזוית אחרת מאי בינייהו אמר רבינא חוששין לעכברים איכא בינייהו מר סבר חיישינן ומר סבר לא חיישינן:",
+      "nl": "Nu de overlevering zelf: wie de wacht houdt bij een overledene, ook als het niet zijn eigen overledene is, is vrijgesteld van het Sjema, het gebed, de tefillien en alle in de Tora genoemde geboden. Zijn er twee, dan houdt de een de wacht en reciteert de ander, en daarna houdt de ander de wacht en reciteert de eerste. Ben Azzai zegt: als zij per schip reizen, leggen zij hem in de ene hoek en bidden zij beiden in een andere hoek. Waarin verschillen zij? Ravina zei: het verschil is of men beducht is voor muizen. De een meent dat men daarvoor beducht moet zijn, de ander niet.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het verschil betreft gevaar voor het lichaam wanneer beide bewakers tegelijk bidden. De ene mening maakt op een schip een uitzondering."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:18a:g3",
+      "locator": "Berakhot 18a · Gemara · 3",
+      "layer": "gemara",
+      "original": "ת\"ר המוליך עצמות ממקום למקום הרי זה לא יתנם בדסקיא ויתנם על גבי חמור וירכב עליהם מפני שנוהג בהם מנהג בזיון ואם היה מתירא מפני נכרים ומפני לסטים מותר וכדרך שאמרו בעצמות כך אמרו בספר תורה אהייא אילימא ארישא פשיטא מי גרע ספר תורה מעצמות אלא אסיפא:",
+      "nl": "Onze leraren onderwezen: wie beenderen van de ene plaats naar de andere brengt, mag ze niet in een zadeltas doen, die op een ezel leggen en daarop rijden, want dan behandelt hij ze oneerbiedig. Vreest hij echter niet-Joden of rovers, dan mag het wel. Wat zij over beenderen hebben gezegd, hebben zij ook over een Torarol gezegd. Waarop slaat dat? Als het op het eerste geval slaat, is dat toch vanzelfsprekend: is een Torarol soms minder dan beenderen? Het slaat dus op het laatste geval.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "Het “laatste geval” is de uitzondering wegens gevaar. De tekst beschrijft een historische risicosituatie; de genoemde groepsaanduiding is onderdeel van de overlevering."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:18a:g4",
+      "locator": "Berakhot 18a · Gemara · 4",
+      "layer": "gemara",
+      "original": "אמר רחבה אמר רב יהודה כל הרואה המת ואינו מלוהו עובר משום לועג לרש חרף עושהו ואם הלוהו מה שכרו אמר רב אסי עליו הכתוב אומר (משלי יט, יז) מלוה ה' חונן דל (משלי יד, לא) ומכבדו חונן אביון:",
+      "nl": "Rachava zei in naam van Rav Jehoeda: wie een overledene ziet en hem niet begeleidt, overtreedt: “Wie de arme bespot, smaadt diens Maker.” En wat is zijn beloning als hij hem wel begeleidt? Rav Assi zei: op hem past de Schrift toe: “Wie zich over de geringe ontfermt, leent aan de HEER” (Spreuken 19:17), en: “Wie zich over de behoeftige ontfermt, eert Hem” (Spreuken 14:31).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:18a:g5",
+      "locator": "Berakhot 18a · Gemara · 5",
+      "layer": "gemara",
+      "original": "רבי חייא ורבי יונתן הוו שקלי ואזלי בבית הקברות הוה קשדיא תכלתא דרבי יונתן אמר ליה רבי חייא דלייה כדי שלא יאמרו למחר באין אצלנו ועכשיו מחרפין אותנו אמר ליה ומי ידעי כולי האי והא כתיב (קהלת ט, ה) והמתים אינם יודעים מאומה אמר ליה אם קרית לא שנית אם שנית לא שלשת אם שלשת לא פירשו לך (קהלת ט, ה) כי החיים יודעים שימותו אלו צדיקים שבמיתתן נקראו חיים שנאמר (שמואל ב כג, כ) ובניהו בן יהוידע בן איש חי רב פעלים מקבצאל הוא הכה את שני אריאל מואב והוא ירד והכה את הארי בתוך הבור ביום השלג",
+      "nl": "Rabbi Chijja en rabbi Jonatan liepen over een begraafplaats. De blauwe draad van rabbi Jonatan hing naar beneden. Rabbi Chijja zei tegen hem: “Til hem op, zodat zij niet zeggen: morgen komen zij bij ons, maar nu smaden zij ons.” Hij antwoordde: “Weten zij dan zoveel? Er staat toch: ‘De doden weten niets’” (Prediker 9:5). Hij zei: “Als je het gelezen hebt, heb je het niet herhaald; als je het herhaald hebt, heb je het niet een derde keer bestudeerd; en als je dat wel gedaan hebt, heeft men het je niet uitgelegd. ‘De levenden weten dat zij zullen sterven’ (Prediker 9:5): dat zijn de rechtvaardigen, die ook na hun dood levenden worden genoemd. Er staat immers: ‘Benaja, de zoon van Jehojada, zoon van een levende man, rijk aan daden, uit Kavtseël; hij versloeg de twee Ariëls van Moab, en hij daalde af en versloeg de leeuw midden in de kuil op een sneeuwdag’” (2 Samuel 23:20).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-18a-r2851534",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De blauwe draad behoort bij de tsietsiet, de kledingkwasten. De opmerking over de doden gaat over het zichtbaar tonen van een gebod dat zij niet meer kunnen vervullen."
+        },
+        {
+          "type": "onzeker",
+          "text": "Ariël is een beeldende benaming in het citaat. De daaropvolgende uitleg wordt op 18b behandeld; de naam blijft hier onvertaald."
+        },
+        {
+          "type": "vervolg",
+          "text": "Het Schriftcitaat en de uitleg over leven en dood gaan verder op 18b."
+        }
+      ]
+    }
+  ]
+}

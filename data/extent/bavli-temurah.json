@@ -1,0 +1,580 @@
+{
+  "corpus": "bavli",
+  "tractate": "temurah",
+  "title": "Temoera",
+  "gemara": "overgeleverd",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99%20%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+  "resolvedUrl": "https://he.wikisource.org/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+  "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&oldid=717767",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=history",
+  "retrievedAt": "2026-10-25T16:50:00.137478+00:00",
+  "htmlSha256": "f6d29d2a11f9bc82aeff0a77eb526749ab9314f291c958b93995a52b2373df85",
+  "links": [
+    {
+      "href": "#bodyContent",
+      "class": "mw-jump-link"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "ביקור בעמוד הראשי [z]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D",
+      "title": "מבוא לקוראים ולעורכים חדשים באתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%99%D7%9D",
+      "title": "רשימת השינויים האחרונים באתר [r]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%90%D7%A7%D7%A8%D7%90%D7%99",
+      "title": "טעינת דף אקראי [x]"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A9%D7%A2%D7%A8_%D7%94%D7%A7%D7%94%D7%99%D7%9C%D7%94",
+      "title": "אודות המיזם, איך אפשר לעזור, איפה למצוא דברים"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99",
+      "title": "המקום למצוא מידע"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%9E%D7%96%D7%A0%D7%95%D7%9F",
+      "title": "המזנון הוא המקום שבו מתקיימים דיונים הקשורים לאתר ויקיטקסט"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%92%D7%96_%D7%97%D7%95%D7%9C",
+      "title": "בארגז החול של ויקיטקסט אפשר להתנסות בעריכה"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%91%D7%A7%D7%A9%D7%95%D7%AA_%D7%9E%D7%91%D7%A2%D7%9C%D7%99_%D7%94%D7%A8%D7%A9%D7%90%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99",
+      "class": "mw-logo"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%97%D7%99%D7%A4%D7%95%D7%A9",
+      "title": "‏חיפוש בוויקיטקסט‏ [f]",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle"
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=he.wikisource.org&uselang=he",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%94%D7%A8%D7%A9%D7%9E%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "מומלץ ליצור חשבון ולהיכנס אליו, אך אין חובה לעשות זאת",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9B%D7%A0%D7%99%D7%A1%D7%94_%D7%9C%D7%97%D7%A9%D7%91%D7%95%D7%9F&returnto=%D7%91%D7%91%D7%9C%D7%99+%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "מומלץ להיכנס לחשבון, אך אין חובה לעשות זאת [o]",
+      "class": ""
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279232#sitelinks-wikisource",
+      "title": "הוספת קישורים בין־לשוניים",
+      "class": "wbc-editpage"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "צפייה בדף התוכן [c]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=edit&redlink=1",
+      "title": "שיחה על דף התוכן (הדף אינו קיים) [t]",
+      "class": "new"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=edit",
+      "title": "עריכת הדף הזה [e]",
+      "class": ""
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=history",
+      "title": "גרסאות קודמות של דף זה [h]",
+      "class": ""
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D_%D7%9C%D7%9B%D7%90%D7%9F/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "רשימה של כל דפי הוויקי שמקשרים לדף הזה [j]"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A9%D7%99%D7%A0%D7%95%D7%99%D7%99%D7%9D_%D7%91%D7%93%D7%A4%D7%99%D7%9D_%D7%94%D7%9E%D7%A7%D7%95%D7%A9%D7%A8%D7%99%D7%9D/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "השינויים האחרונים בדפים המקושרים מהדף הזה [k]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&oldid=717767",
+      "title": "קישור קבוע לגרסה הזאת של הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&action=info",
+      "title": "מידע נוסף על הדף הזה"
+    },
+    {
+      "href": "/wiki/%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%93%D7%A4%D7%99%D7%9D_%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%99%D7%9D",
+      "title": "רשימה של כל הדפים המיוחדים [q]"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A6%D7%99%D7%98%D7%95%D7%98_%D7%93%D7%A3_%D7%96%D7%94&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&id=717767&wpFormIdentifier=titleform",
+      "title": "מידע איך לצטט את הדף הזה"
+    },
+    {
+      "href": "/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%9E%D7%A7%D7%A6%D7%A8_%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA&url=https%3A%2F%2Fhe.wikisource.org%2Fwiki%2F%25D7%2591%25D7%2591%25D7%259C%25D7%2599_%25D7%25AA%25D7%259E%25D7%2595%25D7%25A8%25D7%2594"
+    },
+    {
+      "href": "javascript:print();",
+      "title": "גרסה להדפסה של הדף הזה [p]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=mobi&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "הורדת גרסת MOBI של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=pdf&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "הורדת גרסת PDF של היצירה הזאת"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?lang=he&title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "פתיחת טופס לבחירת תסדירים וגופנים אחרים וכו'"
+    },
+    {
+      "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q33279232",
+      "title": "קישור לפריט המשויך במאגר הנתונים [g]"
+    },
+    {
+      "href": "https://ws-export.wmcloud.org/?format=epub&lang=he&page=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "title": "הורדת גרסת EPUB של היצירה הזאת",
+      "class": "oo-ui-buttonElement-button"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "תלמוד בבלי"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%90",
+      "title": "בבלי תמורה פרק א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%91_%D7%90",
+      "title": "תמורה ב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%91_%D7%91",
+      "title": "תמורה ב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%92_%D7%90",
+      "title": "תמורה ג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%92_%D7%91",
+      "title": "תמורה ג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%93_%D7%90",
+      "title": "תמורה ד א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%93_%D7%91",
+      "title": "תמורה ד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%94_%D7%90",
+      "title": "תמורה ה א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%94_%D7%91",
+      "title": "תמורה ה ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%95_%D7%90",
+      "title": "תמורה ו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%95_%D7%91",
+      "title": "תמורה ו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%96_%D7%90",
+      "title": "תמורה ז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%96_%D7%91",
+      "title": "תמורה ז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%97_%D7%90",
+      "title": "תמורה ח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%97_%D7%91",
+      "title": "תמורה ח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98_%D7%90",
+      "title": "תמורה ט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98_%D7%91",
+      "title": "תמורה ט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99_%D7%90",
+      "title": "תמורה י א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99_%D7%91",
+      "title": "תמורה י ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%90_%D7%90",
+      "title": "תמורה יא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%90_%D7%91",
+      "title": "תמורה יא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%91_%D7%90",
+      "title": "תמורה יב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%91_%D7%91",
+      "title": "תמורה יב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%92_%D7%90",
+      "title": "תמורה יג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%92_%D7%91",
+      "title": "תמורה יג ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%91",
+      "title": "בבלי תמורה פרק ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%93_%D7%90",
+      "title": "תמורה יד א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%93_%D7%91",
+      "title": "תמורה יד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98%D7%95_%D7%90",
+      "title": "תמורה טו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98%D7%95_%D7%91",
+      "title": "תמורה טו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98%D7%96_%D7%90",
+      "title": "תמורה טז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%98%D7%96_%D7%91",
+      "title": "תמורה טז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%96_%D7%90",
+      "title": "תמורה יז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%96_%D7%91",
+      "title": "תמורה יז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%92",
+      "title": "בבלי תמורה פרק ג"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%96_%D7%91",
+      "title": "תמורה יז ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%97_%D7%90",
+      "title": "תמורה יח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%97_%D7%91",
+      "title": "תמורה יח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%98_%D7%90",
+      "title": "תמורה יט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%99%D7%98_%D7%91",
+      "title": "תמורה יט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B_%D7%90",
+      "title": "תמורה כ א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B_%D7%91",
+      "title": "תמורה כ ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%90_%D7%90",
+      "title": "תמורה כא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%90_%D7%91",
+      "title": "תמורה כא ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%93",
+      "title": "בבלי תמורה פרק ד"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%90_%D7%91",
+      "title": "תמורה כא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%91_%D7%90",
+      "title": "תמורה כב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%91_%D7%91",
+      "title": "תמורה כב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%92_%D7%90",
+      "title": "תמורה כג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%92_%D7%91",
+      "title": "תמורה כג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%93_%D7%90",
+      "title": "תמורה כד א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%94",
+      "title": "בבלי תמורה פרק ה"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%93_%D7%91",
+      "title": "תמורה כד ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%94_%D7%90",
+      "title": "תמורה כה א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%94_%D7%91",
+      "title": "תמורה כה ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%95_%D7%90",
+      "title": "תמורה כו א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%95_%D7%91",
+      "title": "תמורה כו ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%96_%D7%90",
+      "title": "תמורה כז א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%96_%D7%91",
+      "title": "תמורה כז ב"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%95",
+      "title": "בבלי תמורה פרק ו"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%97_%D7%90",
+      "title": "תמורה כח א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%97_%D7%91",
+      "title": "תמורה כח ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%98_%D7%90",
+      "title": "תמורה כט א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9B%D7%98_%D7%91",
+      "title": "תמורה כט ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C_%D7%90",
+      "title": "תמורה ל א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C_%D7%91",
+      "title": "תמורה ל ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%90_%D7%90",
+      "title": "תמורה לא א"
+    },
+    {
+      "href": "/wiki/%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%A4%D7%A8%D7%A7_%D7%96",
+      "title": "בבלי תמורה פרק ז"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%90_%D7%90",
+      "title": "תמורה לא א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%90_%D7%91",
+      "title": "תמורה לא ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%91_%D7%90",
+      "title": "תמורה לב א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%91_%D7%91",
+      "title": "תמורה לב ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%92_%D7%90",
+      "title": "תמורה לג א"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%92_%D7%91",
+      "title": "תמורה לג ב"
+    },
+    {
+      "href": "/wiki/%D7%AA%D7%9E%D7%95%D7%A8%D7%94_%D7%9C%D7%93_%D7%90",
+      "title": "תמורה לד א"
+    },
+    {
+      "href": "https://he.wikisource.org/w/index.php?title=בבלי_תמורה&oldid=717767"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "title": "ויקיטקסט:קטגוריות"
+    },
+    {
+      "href": "/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%AA%D7%9C%D7%9E%D7%95%D7%93_%D7%91%D7%91%D7%9C%D7%99",
+      "title": "קטגוריה:תלמוד בבלי"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+      "class": "external text"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%95%D7%93%D7%95%D7%AA"
+    },
+    {
+      "href": "/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%94%D7%91%D7%94%D7%A8%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%95%D7%AA"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct"
+    },
+    {
+      "href": "https://developer.wikimedia.org"
+    },
+    {
+      "href": "https://stats.wikimedia.org/#/he.wikisource.org"
+    },
+    {
+      "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement"
+    },
+    {
+      "href": "//he.wikisource.org/w/index.php?title=%D7%91%D7%91%D7%9C%D7%99_%D7%AA%D7%9E%D7%95%D7%A8%D7%94&mobileaction=toggle_view_mobile",
+      "class": "noprint stopMobileRedirectToggle"
+    },
+    {
+      "href": "https://www.wikimedia.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "class": "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+    },
+    {
+      "href": "#",
+      "class": "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+    }
+  ]
+}

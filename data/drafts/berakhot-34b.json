@@ -1,0 +1,139 @@
+{
+  "id": "34b",
+  "title": "34b · Buigen, gebedsverhoring en de komende wereld",
+  "scope": "Volledige hoofdtekst van amud 34b in de gekozen editie. De discussie kan over de bladgrens doorlopen.",
+  "status": "concept",
+  "source": "Hebreeuwse Wikisource; concrete revisie en naamsvermelding in de bronregistratie.",
+  "sourceUrl": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%9C%D7%93_%D7%91&oldid=2851501",
+  "passages": [
+    {
+      "id": "g1",
+      "ref": "bavli:berakhot:34b:g1",
+      "locator": "Berakhot 34b · Gemara · g1",
+      "layer": "gemara",
+      "original": "כהן גדול בסוף כל ברכה וברכה והמלך תחלת כל ברכה וברכה וסוף כל ברכה וברכה אמר רבי יצחק בר נחמני לדידי מפרשא לי מיניה דריב\"ל הדיוט כמו שאמרנו כהן גדול תחלת כל ברכה וברכה המלך כיון שכרע שוב אינו זוקף שנאמר (מלכים א ח, נד) ויהי ככלות שלמה להתפלל וגו' קם מלפני מזבח ה' מכרוע על ברכיו:",
+      "nl": "de hogepriester aan het einde van elke zegening; de koning aan het begin en einde van elke zegening. Rabbi Jitschak bar Nachmani zei: mij is het door rabbi Jehosjoea ben Levi zo uitgelegd: een gewoon persoon zoals wij zeiden; de hogepriester aan het begin van elke zegening; de koning richt zich, als hij eenmaal gebogen is, niet meer op. Er staat: ‘Toen Salomo had beëindigd te bidden... stond hij voor het altaar van de HEER op uit zijn geknielde houding’ (1 Koningen 8:54).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 1,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g2",
+      "ref": "bavli:berakhot:34b:g2",
+      "locator": "Berakhot 34b · Gemara · g2",
+      "layer": "gemara",
+      "original": "ת\"ר קידה על אפים שנאמר (מלכים א א, לא) ותקד בת שבע אפים ארץ כריעה על ברכים שנאמר מכרוע על ברכיו השתחואה זו פשוט ידים ורגלים שנאמר (בראשית לז, י) הבא נבא אני ואמך ואחיך להשתחות לך ארצה אמר רב חייא בריה דרב הונא חזינא להו לאביי ורבא דמצלו אצלויי תני חדא הכורע בהודאה הרי זה משובח ותניא אידך הרי זה מגונה לא קשיא הא בתחלה הא לבסוף רבא כרע בהודאה תחלה וסוף אמרי ליה רבנן אמאי קא עביד מר הכי אמר להו חזינא לרב נחמן דכרע וחזינא ליה לרב ששת דקא עבד הכי והתניא הכורע בהודאה הרי זה מגונה ההיא בהודאה שבהלל והתניא הכורע בהודאה ובהודאה של הלל הרי זה מגונה כי תניא ההיא בהודאה דברכת המזון:",
+      "nl": "Onze meesters leerden: kidda is op het gezicht, zoals er staat: ‘Batseba boog met het gezicht ter aarde’ (1 Koningen 1:31). Keria is op de knieën: ‘uit zijn geknielde houding’. Hisjtachava is het uitstrekken van handen en voeten, zoals er staat: ‘Zullen ik, je moeder en je broers werkelijk komen om ons voor jou ter aarde te werpen?’ (Genesis 37:10). Rav Chijja, zoon van Rav Hoena, zei: ik zag Abbaje en Rava zich opzij buigen. De ene overlevering zegt: wie bij de dankzegging buigt is prijzenswaardig; een andere zegt: hij is afkeurenswaardig. Geen moeilijkheid: het ene betreft het begin, het andere het einde. Rava boog bij de dankzegging aan het begin én het einde. De wijzen vroegen hem: ‘Waarom doet de meester dat?’ Hij antwoordde: ‘Ik zag Rav Nachman buigen en ik zag Rav Sjesjet zo handelen.’ Maar er is toch geleerd: wie bij de dankzegging buigt is afkeurenswaardig! Dat betreft de dankzegging in het Hallel. Maar er is toch geleerd dat wie bij de dankzegging en bij die van het Hallel buigt, afkeurenswaardig is! Die overlevering betreft de dankzegging na de maaltijd.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 2,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "De drie Hebreeuwse houdingswoorden worden met hun lichamelijke omschrijving weergegeven. Hallel is een reeks lofpsalmen."
+        }
+      ]
+    },
+    {
+      "id": "m1",
+      "ref": "bavli:berakhot:34b:m1",
+      "locator": "Berakhot 34b · Misjna · m1",
+      "layer": "mishnah",
+      "original": "מתני' המתפלל וטעה סימן רע לו ואם שליח צבור הוא סימן רע לשולחיו מפני ששלוחו של אדם כמותו אמרו עליו על ר' חנינא בן דוסא שהיה מתפלל על החולים ואומר זה חי וזה מת אמרו לו מנין אתה יודע אמר להם אם שגורה תפלתי בפי יודע אני שהוא מקובל ואם לאו יודע אני שהוא מטורף:",
+      "nl": "Misjna. Als iemand bidt en zich vergist, is dat voor hem een ongunstig teken; is hij voorganger, dan is het een ongunstig teken voor degenen die hem zonden, omdat iemands gezant is als hijzelf. Men vertelde dat rabbi Chanina ben Dosa voor zieken bad en zei: ‘Deze zal leven en deze zal sterven.’ Men vroeg hem: ‘Hoe weet u dat?’ Hij antwoordde: ‘Als mijn gebed vlot in mijn mond ligt, weet ik dat hij is aanvaard; anders weet ik dat hij is verworpen.’",
+      "lang": "he",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 3,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "onzeker",
+          "text": "“Hij is aanvaard/verworpen” kan de zieke of diens gebed betreffen; de grondtekst laat het antecedent onuitgesproken."
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "ref": "bavli:berakhot:34b:g3",
+      "locator": "Berakhot 34b · Gemara · g3",
+      "layer": "gemara",
+      "original": "גמ' אהייא א\"ר חייא אמר רב ספרא משום חד דבי רבי באבות איכא דמתני לה אברייתא המתפלל צריך שיכוין את לבו בכולן ואם אינו יכול לכוין בכולן יכוין את לבו באחת א\"ר חייא אמר רב ספרא משום חד דבי רבי באבות:",
+      "nl": "Gemara. Bij welke zegening? Rabbi Chijja zei namens Rav Safra, namens iemand uit Rabbi’s leerhuis: bij de vaderen. Sommigen geven het bij de volgende baraita over: wie bidt moet bij alle zegeningen zijn hart richten. Kan hij dat niet bij alle, dan bij één. Rabbi Chijja zei namens Rav Safra, namens iemand uit Rabbi’s leerhuis: bij de vaderen.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 4,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "begrip",
+          "text": "“De vaderen” is de eerste zegening van het staande gebed."
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "ref": "bavli:berakhot:34b:g4",
+      "locator": "Berakhot 34b · Gemara · g4",
+      "layer": "gemara",
+      "original": "אמרו עליו על רבי חנינא וכו':",
+      "nl": "Men vertelde over rabbi Chanina, enzovoort.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 5,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g5",
+      "ref": "bavli:berakhot:34b:g5",
+      "locator": "Berakhot 34b · Gemara · g5",
+      "layer": "gemara",
+      "original": "מנא הני מילי א\"ר יהושע בן לוי דאמר קרא (ישעיהו נז, יט) בורא ניב שפתים שלום שלום לרחוק ולקרוב אמר ה' ורפאתיו א\"ר חייא בר אבא א\"ר יוחנן כל הנביאים כולן לא נתנבאו אלא למשיא בתו לתלמיד חכם ולעושה פרקמטיא לת\"ח ולמהנה ת\"ח מנכסיו אבל תלמידי חכמים עצמן (ישעיהו סד, ג) עין לא ראתה אלהים זולתך יעשה למחכה לו ואמר רבי חייא בר אבא אמר רבי יוחנן כל הנביאים כולן לא נתנבאו אלא לימות המשיח אבל לעולם הבא עין לא ראתה אלהים זולתך ופליגא דשמואל דאמר שמואל אין בין העוה\"ז לימות המשיח אלא שעבוד מלכיות בלבד שנאמר (דברים טו, יא) כי לא יחדל אביון מקרב הארץ וא\"ר חייא בר אבא א\"ר יוחנן כל הנביאים כולן לא נתנבאו אלא לבעלי תשובה אבל צדיקים גמורים עין לא ראתה אלהים זולתך ופליגא דר' אבהו דא\"ר אבהו מקום שבעלי תשובה עומדין צדיקים גמורים אינם עומדין שנאמר (ישעיהו נז, יט) שלום שלום לרחוק ולקרוב לרחוק ברישא והדר לקרוב ורבי יוחנן אמר לך מאי רחוק שהיה רחוק מדבר עבירה מעיקרא ומאי קרוב שהיה קרוב לדבר עבירה ונתרחק ממנו השתא מאי עין לא ראתה אמר רבי יהושע בן לוי זה יין המשומר בענביו מששת ימי בראשית רבי שמואל בר נחמני אמר זה עדן שלא שלטה בו עין כל בריה שמא תאמר אדם הראשון היכן היה בגן ושמא תאמר הוא גן הוא עדן תלמוד לומר (בראשית ב, י) ונהר יוצא מעדן להשקות את הגן גן לחוד ועדן לחוד:",
+      "nl": "Waaruit blijkt dit? Rabbi Jehosjoea ben Levi zei: de Schrift zegt: ‘Die de vrucht van de lippen schept: vrede, vrede voor wie ver is en wie nabij is, zegt de HEER; Ik zal hem genezen’ (Jesaja 57:19). Rabbi Chijja bar Abba zei namens rabbi Jochanan: alle profeten profeteerden alleen voor wie zijn dochter aan een Toraleraar uithuwelijkt, handel voor hem drijft of hem van zijn bezit laat genieten. Maar voor Toraleraren zelf geldt: ‘Geen oog heeft gezien, God, behalve U, wat Hij zal doen voor wie op Hem wacht’ (Jesaja 64:3). Rabbi Chijja bar Abba zei verder namens rabbi Jochanan: alle profeten profeteerden alleen over de dagen van de messias; over de komende wereld geldt: ‘Geen oog heeft gezien, God, behalve U.’ Dat verschilt van Sjemoeël, die zei: tussen deze wereld en de dagen van de messias is alleen de onderwerping aan de koninkrijken het verschil. Er staat: ‘Armen zullen immers niet uit het land verdwijnen’ (Deuteronomium 15:11). Rabbi Chijja bar Abba zei verder namens rabbi Jochanan: alle profeten profeteerden alleen voor wie tot inkeer komen; over volkomen rechtvaardigen geldt: ‘Geen oog heeft gezien, God, behalve U.’ Dat verschilt van rabbi Abbahoe, die zei: waar zij die tot inkeer komen staan, staan volkomen rechtvaardigen niet. Er staat: ‘Vrede, vrede voor wie ver is en wie nabij is’: eerst de verre en daarna de nabije. Rabbi Jochanan antwoordt: wie is de verre? Wie vanaf het begin ver van overtreding was. Wie is de nabije? Wie dicht bij overtreding was en er nu afstand van neemt. Wat betekent ‘Geen oog heeft gezien’? Rabbi Jehosjoea ben Levi zei: de wijn die sinds de zes scheppingsdagen in zijn druiven bewaard is. Rabbi Sjemoeël bar Nachmani zei: Eden, dat geen oog van enig schepsel heeft aanschouwd. Misschien vraag je waar Adam, de eerste mens, dan was. In de tuin. En misschien zeg je dat de tuin en Eden hetzelfde zijn. De Schrift zegt: ‘Een rivier kwam uit Eden om de tuin te bevloeien’ (Genesis 2:10). De tuin is één ding, Eden een ander.",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 6,
+      "translationStatus": "concept",
+      "notes": []
+    },
+    {
+      "id": "g6",
+      "ref": "bavli:berakhot:34b:g6",
+      "locator": "Berakhot 34b · Gemara · g6",
+      "layer": "gemara",
+      "original": "ת\"ר מעשה שחלה בנו של ר\"ג שגר שני ת\"ח אצל רבי חנינא בן דוסא לבקש עליו רחמים כיון שראה אותם עלה לעלייה ובקש עליו רחמים בירידתו אמר להם לכו שחלצתו חמה אמרו לו וכי נביא אתה אמר להן לא נביא אנכי ולא בן נביא אנכי אלא כך מקובלני אם שגורה תפלתי בפי יודע אני שהוא מקובל ואם לאו יודע אני שהוא מטורף ישבו וכתבו וכוונו אותה שעה וכשבאו אצל ר\"ג אמר להן העבודה לא חסרתם ולא הותרתם אלא כך היה מעשה באותה שעה חלצתו חמה ושאל לנו מים לשתות ושוב מעשה ברבי חנינא בן דוסא שהלך ללמוד תורה אצל ר' יוחנן בן זכאי וחלה בנו של ריב\"ז אמר לו חנינא בני בקש עליו רחמים ויחיה הניח ראשו בין ברכיו ובקש עליו רחמים וחיה אמר רבי יוחנן בן זכאי אלמלי הטיח בן זכאי את ראשו בין ברכיו כל היום כולו לא היו משגיחים עליו אמרה לו אשתו וכי חנינא גדול ממך אמר לה לאו אלא הוא דומה כעבד לפני המלך ואני דומה כשר לפני המלך:",
+      "nl": "Onze meesters leerden: de zoon van Rabban Gamaliël werd eens ziek. Hij stuurde twee Toraleraren naar rabbi Chanina ben Dosa om voor hem om ontferming te vragen. Toen deze hen zag, ging hij naar het bovenvertrek en vroeg om ontferming. Toen hij afdaalde, zei hij: ‘Ga, de koorts heeft hem verlaten.’ Zij vroegen: ‘Bent u een profeet?’ Hij antwoordde: ‘Ik ben geen profeet en geen profetenzoon. Maar zo heb ik het ontvangen: als mijn gebed vlot in mijn mond ligt, weet ik dat hij is aanvaard; anders dat hij is verworpen.’ Zij gingen zitten, schreven het op en legden het tijdstip vast. Toen zij bij Rabban Gamaliël kwamen, zei hij: ‘Bij de tempeldienst! Jullie hebben niets afgedaan of toegevoegd; zo is het precies gebeurd. Op dat uur verliet de koorts hem en vroeg hij ons water om te drinken.’ Een andere keer ging rabbi Chanina ben Dosa Tora leren bij rabbi Jochanan ben Zakkai. Diens zoon werd ziek. Hij zei: ‘Mijn zoon Chanina, vraag voor hem om ontferming, opdat hij leeft.’ Hij legde zijn hoofd tussen zijn knieën, vroeg om ontferming en de zoon leefde. Rabbi Jochanan ben Zakkai zei: ‘Had de zoon van Zakkai zijn hoofd de hele dag tussen zijn knieën gestoten, men zou geen acht op hem hebben geslagen.’ Zijn vrouw vroeg: ‘Is Chanina dan groter dan u?’ Hij antwoordde: ‘Nee, maar hij is als een dienaar voor de koning en ik als een hoogwaardigheidsbekleder voor de koning.’",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 7,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "toelichting",
+          "text": "De dienaar heeft in het beeld rechtstreeks en dagelijks toegang tot de koning; de hogere rang van de hoogwaardigheidsbekleder garandeert die toegang niet."
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "ref": "bavli:berakhot:34b:g7",
+      "locator": "Berakhot 34b · Gemara · g7",
+      "layer": "gemara",
+      "original": "ואמר רבי חייא בר אבא אמר רבי יוחנן אל יתפלל אדם אלא בבית שיש שם חלונות שנאמר (דניאל ו, יא) וכוין פתיחן ליה בעליתיה (לקבל) [נגד] ירושלם אמר רב כהנא חציף עלי מאן דמצלי בבקתא ואמר רב כהנא חציף עלי מאן דמפרש חטאיה שנאמר (תהלים לב, א) אשרי נשוי פשע כסוי חטאה:",
+      "nl": "Rabbi Chijja bar Abba zei verder namens rabbi Jochanan: men bidt alleen in een huis met ramen. Er staat: ‘Zijn ramen stonden in zijn bovenvertrek open (tegenover) [naar] Jeruzalem’ (Daniël 6:11). Rav Kahana zei: ik vind wie in het open veld bidt vrijpostig. Rav Kahana zei verder: ik vind wie zijn zonden openlijk opsomt vrijpostig. Er staat: ‘Gelukkig wie zijn overtreding vergeven is, wiens zonde bedekt is’ (Psalm 32:1).",
+      "lang": "arc",
+      "sourceId": "wikisource-berakhot-34b-r2851501",
+      "sourceParagraph": 8,
+      "translationStatus": "concept",
+      "notes": [
+        {
+          "type": "tekstvorm",
+          "text": "De twee richtingswoorden bij Jeruzalem staan als variant tussen ronde en vierkante haken in de grondtekst."
+        }
+      ]
+    }
+  ]
+}
